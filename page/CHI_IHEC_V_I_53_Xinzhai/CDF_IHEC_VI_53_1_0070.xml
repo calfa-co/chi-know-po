@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:11+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0070.jpg" imageHeight="4227" imageWidth="5057">
+    <TextRegion id="121077" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4620,874 4778,852 4778,3692 4654,3703 4620,874"/>
+      <TextLine id="1139231" custom="structure {type:Title;}">
+        <Coords points="4662,857 4768,857 4768,1185 4662,1185 4662,857"/>
+        <Baseline points="4705,864 4728,1187"/>
+        <TextEquiv>
+          <Unicode>尸子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139232" custom="structure {type:Page_Number;}">
+        <Coords points="4631,2841 4777,2841 4777,3106 4631,3106 4631,2841"/>
+        <Baseline points="4725,3108 4728,2846"/>
+        <TextEquiv>
+          <Unicode>八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>尸子
+八
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121078" custom="structure {type:MainText_Right;}">
+      <Coords points="2549,891 4603,869 4626,3692 2611,3720 2549,891"/>
+      <TextLine id="1139233" custom="structure {type:Text;}">
+        <Coords points="4427,857 4610,857 4610,3733 4427,3733 4427,857"/>
+        <Baseline points="4520,861 4540,3734"/>
+        <TextEquiv>
+          <Unicode>鹿盈之冮漢炱鼇鼋元鼍爲天下饒宋所謂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139234" custom="structure {type:Text;}">
+        <Coords points="4192,857 4385,857 4385,3696 4192,3696 4192,857"/>
+        <Baseline points="4284,861 4308,3697"/>
+        <TextEquiv>
+          <Unicode>無雉兎鲥负者也此猶梁肉之与糟糠也荆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139235" custom="structure {type:Text;}">
+        <Coords points="3974,857 4155,857 4154,3712 3979,3722 3974,857"/>
+        <Baseline points="4055,861 4075,3680"/>
+        <TextEquiv>
+          <Unicode>有長菘文梓梗楠豫章宋無長木此猶錦繡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139236" custom="structure {type:Text;}">
+        <Coords points="3727,859 3936,859 3932,3722 3753,3725 3727,859"/>
+        <Baseline points="3830,864 3870,3690"/>
+        <TextEquiv>
+          <Unicode>之与短褐也臣官王之攻宋也詔与此同王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139237" custom="structure {type:Text;}">
+        <Coords points="3511,861 3697,861 3697,2080 3511,2080 3511,861"/>
+        <Baseline points="3615,864 3615,2082"/>
+        <TextEquiv>
+          <Unicode>曰蕭哉請無攻宋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139238" custom="structure {type:Title;}">
+        <Coords points="2611,885 2780,885 2780,1693 2611,1693 2611,885"/>
+        <Baseline points="2686,888 2703,1695"/>
+        <TextEquiv>
+          <Unicode>尸子卷弟二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>鹿盈之冮漢炱鼇鼋元鼍爲天下饒宋所謂
+無雉兎鲥负者也此猶梁肉之与糟糠也荆
+有長菘文梓梗楠豫章宋無長木此猶錦繡
+之与短褐也臣官王之攻宋也詔与此同王
+曰蕭哉請無攻宋
+尸子卷弟二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121079" custom="structure {type:MainText_Left;}">
+      <Coords points="331,897 2351,908 2385,3737 388,3720 331,897"/>
+      <TextLine id="1139239" custom="structure {type:Title;}">
+        <Coords points="2191,878 2360,878 2360,1758 2191,1758 2191,878"/>
+        <Baseline points="2265,1759 2279,881"/>
+        <TextEquiv>
+          <Unicode>尸子卷第三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139240" custom="structure {type:Title;}">
+        <Coords points="1973,1362 2142,1362 2142,1895 1973,1895 1973,1362"/>
+        <Baseline points="2043,1369 2064,1897"/>
+        <TextEquiv>
+          <Unicode>廣釋篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139241" custom="structure {type:Commentary;}">
+        <Coords points="2065,1906 2179,1922 2182,3742 2055,3742 2065,1906"/>
+        <Baseline points="2131,1931 2138,3740"/>
+        <TextEquiv>
+          <Unicode>二發按尒疋䟽引倫廣澤篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139242" custom="structure {type:Commentary;}">
+        <Coords points="1930,1899 2061,1902 2061,3725 1928,3726 1930,1899"/>
+        <Baseline points="2003,1887 2006,3727"/>
+        <TextEquiv>
+          <Unicode>麟桉徐廣日古釋字作澤也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139243" custom="structure {type:Text;}">
+        <Coords points="1740,901 1918,901 1918,3738 1740,3738 1740,901"/>
+        <Baseline points="1831,905 1852,3740"/>
+        <TextEquiv>
+          <Unicode>墨子賽兼孔子賽公皇子賢衷田子賢均列</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139244" custom="structure {type:Text;}">
+        <Coords points="1519,897 1695,897 1695,3738 1519,3738 1519,897"/>
+        <Baseline points="1606,898 1616,3740"/>
+        <TextEquiv>
+          <Unicode>子賽虛料子賽別囿其學之相非也數世矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139245" custom="structure {type:Text;}">
+        <Coords points="1289,897 1455,897 1450,3732 1296,3737 1289,897"/>
+        <Baseline points="1374,3723 1381,885"/>
+        <TextEquiv>
+          <Unicode>而巳皆弇于ム也天帝皇后辟公宏廓博介</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139246" custom="structure {type:Text;}">
+        <Coords points="1061,885 1237,885 1237,3752 1061,3752 1061,885"/>
+        <Baseline points="1148,888 1165,3754"/>
+        <TextEquiv>
+          <Unicode>純夏憮冢眰坂皆大也十有餘名而實一也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139247" custom="structure {type:Text;}">
+        <Coords points="819,880 1024,880 1024,3733 819,3733 819,880"/>
+        <Baseline points="913,885 950,3734"/>
+        <TextEquiv>
+          <Unicode>若使兼公虛均衷平易别囿一實也則無相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139248" custom="structure {type:Text;}">
+        <Coords points="613,880 775,880 775,1258 613,1258 613,880"/>
+        <Baseline points="701,881 701,1261"/>
+        <TextEquiv>
+          <Unicode>非也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139249" custom="structure {type:Text;}">
+        <Coords points="371,878 566,878 566,2914 371,2914 371,878"/>
+        <Baseline points="472,881 492,2916"/>
+        <TextEquiv>
+          <Unicode>上下四方日宇连古來今日宙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>尸子卷第三
+廣釋篇
+二發按尒疋䟽引倫廣澤篇
+麟桉徐廣日古釋字作澤也
+墨子賽兼孔子賽公皇子賢衷田子賢均列
+子賽虛料子賽別囿其學之相非也數世矣
+而巳皆弇于ム也天帝皇后辟公宏廓博介
+純夏憮冢眰坂皆大也十有餘名而實一也
+若使兼公虛均衷平易别囿一實也則無相
+非也
+上下四方日宇连古來今日宙
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121080" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="201,908 354,908 382,3703 252,3714 201,908"/>
+      <TextLine id="1139250" custom="structure {type:Title;}">
+        <Coords points="199,913 312,899 316,1246 204,1249 199,913"/>
+        <Baseline points="254,901 254,1218"/>
+        <TextEquiv>
+          <Unicode>尸子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139251" custom="structure {type:Section;}">
+        <Coords points="223,1895 354,1895 354,2212 223,2212 223,1895"/>
+        <Baseline points="284,1897 284,2213"/>
+        <TextEquiv>
+          <Unicode>卷三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139252" custom="structure {type:Page_Number;}">
+        <Coords points="240,2921 349,2923 349,3106 240,3099 240,2921"/>
+        <Baseline points="284,2926 284,3074"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>尸子
+卷三
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

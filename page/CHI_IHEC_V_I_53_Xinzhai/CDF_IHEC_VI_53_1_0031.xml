@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:02+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0031.jpg" imageHeight="4212" imageWidth="5004">
+    <TextRegion id="117830" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4676,915 4852,934 4866,3745 4733,3731 4676,915"/>
+      <TextLine id="1110831" custom="structure {type:Title;}">
+        <Coords points="4706,905 4833,908 4830,1420 4706,1418 4706,905"/>
+        <Baseline points="4771,1419 4776,906"/>
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110832" custom="structure {type:Page_Number;}">
+        <Coords points="4725,2730 4873,2728 4880,2943 4725,2953 4725,2730"/>
+        <Baseline points="4785,2742 4795,2951"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117831" custom="structure {type:MainText_Left;}">
+      <Coords points="324,944 2393,934 2393,3722 381,3712 324,944"/>
+      <TextLine id="1110833" custom="structure {type:Title;}">
+        <Coords points="2190,912 2366,912 2366,1921 2190,1921 2190,912"/>
+        <Baseline points="2274,915 2279,1923"/>
+        <TextEquiv>
+          <Unicode>夏小正卷第四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110834" custom="structure {type:Author_name;}">
+        <Coords points="1951,2045 2157,2045 2157,3439 1951,3439 1951,2045"/>
+        <Baseline points="2036,2052 2074,3441"/>
+        <TextEquiv>
+          <Unicode>震澤任兆麟文田註</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110835" custom="structure {type:Title;}">
+        <Coords points="1731,886 1898,886 1898,1170 1731,1170 1731,886"/>
+        <Baseline points="1803,896 1822,1172"/>
+        <TextEquiv>
+          <Unicode>冬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110836" custom="structure {type:Title;}">
+        <Coords points="1511,903 1682,903 1682,1272 1511,1272 1511,903"/>
+        <Baseline points="1599,910 1613,1272"/>
+        <TextEquiv>
+          <Unicode>十月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110837" custom="structure {type:Title;}">
+        <Coords points="1259,898 1467,898 1467,1462 1259,1462 1259,898"/>
+        <Baseline points="1352,906 1385,1462"/>
+        <TextEquiv>
+          <Unicode>豺祭獸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110838" custom="structure {type:Text;}">
+        <Coords points="1046,1036 1240,1036 1240,2468 1046,2468 1046,1036"/>
+        <Baseline points="1123,1043 1161,2471"/>
+        <TextEquiv>
+          <Unicode>善其祭而后食之也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110839" custom="structure {type:Title;}">
+        <Coords points="826,921 997,921 997,2145 826,2145 826,921"/>
+        <Baseline points="895,925 928,2147"/>
+        <TextEquiv>
+          <Unicode>初昏織女正北鄰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110840" custom="structure {type:Text;}">
+        <Coords points="573,1062 763,1062 763,1970 573,1970 573,1062"/>
+        <Baseline points="667,1067 686,1971"/>
+        <TextEquiv>
+          <Unicode>織女星名也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110841" custom="structure {type:Title;}">
+        <Coords points="353,919 528,919 528,1745 353,1745 353,919"/>
+        <Baseline points="429,925 458,1747"/>
+        <TextEquiv>
+          <Unicode>南門見則旦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110842" custom="structure {type:Commentary;}">
+        <Coords points="439,1744 566,1746 594,3739 471,3737 439,1744"/>
+        <Baseline points="486,1743 543,3741"/>
+        <TextEquiv>
+          <Unicode>盧召弓曰南門朝見東南隅舊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110843" custom="structure {type:Commentary;}">
+        <Coords points="347,1748 436,1744 468,3615 361,3611 347,1748"/>
+        <Baseline points="400,1728 419,3617"/>
+        <TextEquiv>
+          <Unicode>本互錯今從徐圃臣說正之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正卷第四
+震澤任兆麟文田註
+冬
+十月
+豺祭獸
+善其祭而后食之也
+初昏織女正北鄰
+織女星名也
+南門見則旦
+盧召弓曰南門朝見東南隅舊
+本互錯今從徐圃臣說正之
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117832" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="201,944 339,944 391,3722 244,3745 201,944"/>
+      <TextLine id="1110844" custom="structure {type:Title;}">
+        <Coords points="226,953 306,945 306,1443 209,1445 226,953"/>
+        <Baseline points="244,948 258,1443"/>
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110845" custom="structure {type:Section;}">
+        <Coords points="209,1722 341,1719 341,2077 226,2068 209,1722"/>
+        <Baseline points="248,1728 267,2076"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110846" custom="structure {type:Page_Number;}">
+        <Coords points="214,2978 360,2955 360,3762 226,3759 214,2978"/>
+        <Baseline points="286,2960 315,3764"/>
+        <TextEquiv>
+          <Unicode>一忠敏家塾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+卷四
+一忠敏家塾
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

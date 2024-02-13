@@ -1,0 +1,245 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:29+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-13_0118.jpg" imageHeight="3500" imageWidth="1912">
+    <TextRegion id="117222" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1691,1302 1748,1302 1733,2415 1702,2413 1691,1302"/>
+      <TextLine id="1104781" custom="structure {type:Section;}">
+        <Coords points="1695,1396 1742,1384 1736,1598 1693,1606 1695,1396"/>
+        <Baseline points="1722,1596 1728,1386"/>
+        <TextEquiv>
+          <Unicode>文三十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104782" custom="structure {type:Page_Number;}">
+        <Coords points="1705,2320 1738,2318 1736,2396 1707,2392 1705,2320"/>
+        <Baseline points="1720,2392 1722,2320"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文三十八
+五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117223" custom="structure {type:MainText;}">
+      <Coords points="168,888 1681,893 1686,3150 168,3172 168,888"/>
+      <TextLine id="1104783" custom="structure {type:Text;}">
+        <Coords points="1537,2018 1539,892 1688,894 1688,2018 1686,2590 1694,3156 1541,3156 1537,2018"/>
+        <Baseline points="1617,895 1624,3143"/>
+        <TextEquiv>
+          <Unicode>不容誅身既招殃國為之弊其故何邪直由婚媾之私</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104784" custom="structure {type:Text;}">
+        <Coords points="1394,894 1534,894 1534,3160 1397,3154 1394,894"/>
+        <Baseline points="1460,898 1462,3150"/>
+        <TextEquiv>
+          <Unicode>群情之所不能免故率其所嫌而嫌之於國是以疏附</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104785" custom="structure {type:Text;}">
+        <Coords points="1239,896 1384,890 1384,3151 1241,3152 1239,896"/>
+        <Baseline points="1315,893 1320,3153"/>
+        <TextEquiv>
+          <Unicode>則信姻進則疑疑積於百姓之心則禍成重闥之內矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104786" custom="structure {type:Text;}">
+        <Coords points="1089,896 1163,892 1236,896 1236,3156 1089,3162 1089,896"/>
+        <Baseline points="1160,888 1167,3155"/>
+        <TextEquiv>
+          <Unicode>此皆往代成鑒可為寒心者也夫萬物之所不通聖賢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104787" custom="structure {type:Text;}">
+        <Coords points="947,890 1080,890 1083,3034 937,3034 947,890"/>
+        <Baseline points="1008,3024 1013,891"/>
+        <TextEquiv>
+          <Unicode>因而不奪冒親以求一才之用未若防嫌以明公道</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104788" custom="structure {type:Commentary;}">
+        <Coords points="1011,3044 1096,3038 1096,3152 1009,3154 1011,3044"/>
+        <Baseline points="1048,3041 1056,3150"/>
+        <TextEquiv>
+          <Unicode>韓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104789" custom="structure {type:Commentary;}">
+        <Coords points="935,3042 1012,3042 1012,3154 931,3156 935,3042"/>
+        <Baseline points="972,3045 982,3150"/>
+        <TextEquiv>
+          <Unicode>詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104790" custom="structure {type:Commentary;}">
+        <Coords points="859,888 940,886 936,1524 853,1520 859,888"/>
+        <Baseline points="894,1526 899,888"/>
+        <TextEquiv>
+          <Unicode>外傳曰公道達</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104791" custom="structure {type:Commentary;}">
+        <Coords points="783,894 858,892 856,1316 781,1314 783,894"/>
+        <Baseline points="822,1309 825,895"/>
+        <TextEquiv>
+          <Unicode>而私門塞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104792" custom="structure {type:Text;}">
+        <Coords points="791,1514 939,1524 936,3152 791,3152 791,1514"/>
+        <Baseline points="851,1511 868,3150"/>
+        <TextEquiv>
+          <Unicode>今以臣之才兼如此之嫌而使內處心</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104793" custom="structure {type:Text;}">
+        <Coords points="632,886 776,886 776,1006 705,1024 632,1008 632,886"/>
+        <Baseline points="708,888 708,1031"/>
+        <TextEquiv>
+          <Unicode>膂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104794" custom="structure {type:Commentary;}">
+        <Coords points="703,1024 778,1008 779,1096 702,1096 703,1024"/>
+        <Baseline points="749,1097 751,1004"/>
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104796" custom="structure {type:Text;}">
+        <Coords points="642,1018 700,1022 704,1096 643,1096 642,1018"/>
+        <Baseline points="665,1014 668,1097"/>
+        <TextEquiv>
+          <Unicode>呂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104795" custom="structure {type:Text;}">
+        <Coords points="634,1103 779,1098 783,1540 634,1540 634,1103"/>
+        <Baseline points="699,1549 706,1102"/>
+        <TextEquiv>
+          <Unicode>外揔兵權</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104797" custom="structure {type:Commentary;}">
+        <Coords points="701,2506 704,2181 702,1544 782,1535 787,2811 702,2807 701,2506"/>
+        <Baseline points="739,1535 744,2812"/>
+        <TextEquiv>
+          <Unicode>尚書穆王曰今命汝作朕股肱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104798" custom="structure {type:Commentary;}">
+        <Coords points="627,1555 711,1553 706,2699 639,2697 627,1555"/>
+        <Baseline points="668,2701 675,1557"/>
+        <TextEquiv>
+          <Unicode>心膂賈逵國語注曰膂脊也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104799" custom="structure {type:Text;}">
+        <Coords points="637,2817 778,2812 778,3160 713,3163 647,3156 637,2817"/>
+        <Baseline points="708,2805 711,3169"/>
+        <TextEquiv>
+          <Unicode>以此求</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104800" custom="structure {type:Text;}">
+        <Coords points="486,896 630,888 630,2288 478,2288 486,896"/>
+        <Baseline points="556,891 561,2289"/>
+        <TextEquiv>
+          <Unicode>治未之聞也以此招禍可立待也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104801" custom="structure {type:Commentary;}">
+        <Coords points="551,2723 558,2294 641,2290 634,2724 642,3156 553,3160 551,2723"/>
+        <Baseline points="589,2294 601,3153"/>
+        <TextEquiv>
+          <Unicode>孫卿子曰亂則危辱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104802" custom="structure {type:Commentary;}">
+        <Coords points="475,2292 560,2290 554,3045 479,3050 475,2292"/>
+        <Baseline points="516,2294 523,3048"/>
+        <TextEquiv>
+          <Unicode>滅亡可立而待也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104803" custom="structure {type:Text;}">
+        <Coords points="336,888 476,888 476,1866 327,1872 336,888"/>
+        <Baseline points="401,1868 409,891"/>
+        <TextEquiv>
+          <Unicode>雖陛下二相明其愚欵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104804" custom="structure {type:Commentary;}">
+        <Coords points="400,2522 401,1877 484,1872 477,2519 484,3161 410,3165 400,2522"/>
+        <Baseline points="437,1875 449,3162"/>
+        <TextEquiv>
+          <Unicode>二相王敦王導也王隱晉書曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104805" custom="structure {type:Commentary;}">
+        <Coords points="324,2521 324,2196 331,1878 401,1875 401,2521 412,3163 331,3167 324,2521"/>
+        <Baseline points="361,1880 378,3164"/>
+        <TextEquiv>
+          <Unicode>王敦字處仲中宗時為大將軍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104806" custom="structure {type:Commentary;}">
+        <Coords points="248,2447 248,1932 253,891 332,893 328,2953 258,2951 248,2447"/>
+        <Baseline points="297,2955 299,895"/>
+        <TextEquiv>
+          <Unicode>謀逆肅祖以為丞相不受又曰王導字茂弘中宗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104807" custom="structure {type:Commentary;}">
+        <Coords points="168,1917 166,1404 166,889 252,889 252,1917 248,2428 257,2945 173,2943 168,1917"/>
+        <Baseline points="211,893 218,2938"/>
+        <TextEquiv>
+          <Unicode>時為侍中肅祖即位敦平進太保不拜後為丞相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104808" custom="structure {type:Commentary;}">
+        <Coords points="178,2953 235,2950 321,2955 322,3165 179,3165 178,2953"/>
+        <Baseline points="252,2948 259,3167"/>
+        <TextEquiv>
+          <Unicode>朝士</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>不容誅身既招殃國為之弊其故何邪直由婚媾之私
+群情之所不能免故率其所嫌而嫌之於國是以疏附
+則信姻進則疑疑積於百姓之心則禍成重闥之內矣
+此皆往代成鑒可為寒心者也夫萬物之所不通聖賢
+因而不奪冒親以求一才之用未若防嫌以明公道
+韓
+詩
+外傳曰公道達
+而私門塞
+今以臣之才兼如此之嫌而使內處心
+膂
+音
+呂
+外揔兵權
+尚書穆王曰今命汝作朕股肱
+心膂賈逵國語注曰膂脊也
+以此求
+治未之聞也以此招禍可立待也
+孫卿子曰亂則危辱
+滅亡可立而待也
+雖陛下二相明其愚欵
+二相王敦王導也王隱晉書曰
+王敦字處仲中宗時為大將軍
+謀逆肅祖以為丞相不受又曰王導字茂弘中宗
+時為侍中肅祖即位敦平進太保不拜後為丞相
+朝士
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,521 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:23+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_02_0007.jpg" imageHeight="4158" imageWidth="4624">
+    <TextRegion id="119572" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4352,704 4504,695 4485,3677 4409,3682 4352,704"/>
+      <TextLine id="1129153" custom="structure {type:Title;}">
+        <Coords points="4388,718 4476,725 4480,1299 4402,1296 4388,718"/>
+        <Baseline points="4419,710 4456,1298"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129154" custom="structure {type:Section;}">
+        <Coords points="4397,1705 4483,1679 4478,1979 4397,1988 4397,1705"/>
+        <Baseline points="4436,1685 4446,1975"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129155" custom="structure {type:Page_Number;}">
+        <Coords points="4414,2954 4483,2949 4485,3101 4416,3106 4414,2954"/>
+        <Baseline points="4460,2953 4460,3105"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷四
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119573" custom="structure {type:MainText_Right;}">
+      <Coords points="2517,747 4371,714 4400,3682 2550,3696 2517,747"/>
+      <TextLine id="1129156" custom="structure {type:Commentary;}">
+        <Coords points="4262,728 4383,728 4402,3677 4285,3679 4262,728"/>
+        <Baseline points="4312,733 4365,3680"/>
+        <TextEquiv>
+          <Unicode>曰樲棗樲棗者遵實小而員紫黑色俗呼羊矢棗孟子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129157" custom="structure {type:Commentary;}">
+        <Coords points="4169,716 4271,709 4290,3679 4190,3689 4169,716"/>
+        <Baseline points="4214,706 4244,3680"/>
+        <TextEquiv>
+          <Unicode>曰曾子嗜羊棗洗今河東猗氏縣出大棗子如雞卵蹶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129158" custom="structure {type:Commentary;}">
+        <Coords points="4057,711 4171,706 4193,3677 4086,3679 4057,711"/>
+        <Baseline points="4107,706 4147,3680"/>
+        <TextEquiv>
+          <Unicode>泄子味苦皙不著子者還味短味也楊徹煮填未詳廣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129159" custom="structure {type:Commentary;}">
+        <Coords points="3964,716 4064,714 4088,3675 3983,3675 3964,716"/>
+        <Baseline points="4002,706 4053,3677"/>
+        <TextEquiv>
+          <Unicode>志曰河東安邑棗東郡穀城紫棗長二寸西王母棗大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129160" custom="structure {type:Commentary;}">
+        <Coords points="3860,714 3969,709 3995,3675 3883,3675 3860,714"/>
+        <Baseline points="3932,690 3948,3677"/>
+        <TextEquiv>
+          <Unicode>如李核三月熟河內汲郡棗一名墟棗東海蒸棗洛陽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129161" custom="structure {type:Commentary;}">
+        <Coords points="3757,711 3864,709 3896,3682 3784,3682 3757,711"/>
+        <Baseline points="3817,703 3851,3683"/>
+        <TextEquiv>
+          <Unicode>夏曰棗安邑信都大棗梁國夫人棗大白棗名曰蹙咨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129162" custom="structure {type:Commentary;}">
+        <Coords points="3655,711 3762,709 3786,3675 3677,3682 3655,711"/>
+        <Baseline points="3706,706 3757,3677"/>
+        <TextEquiv>
+          <Unicode>小核多肌三星棗駢白棗灌棗又有狗牙雞心牛頭羊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129163" custom="structure {type:Commentary;}">
+        <Coords points="3553,718 3658,716 3686,3701 3577,3701 3553,718"/>
+        <Baseline points="3602,703 3649,3703"/>
+        <TextEquiv>
+          <Unicode>矢獮猴細腰之名又有氐棗木棗崎廉棗桂棗夕棗也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129164" custom="structure {type:Commentary;}">
+        <Coords points="3446,723 3555,711 3584,3706 3474,3706 3446,723"/>
+        <Baseline points="3505,706 3535,3707"/>
+        <TextEquiv>
+          <Unicode>鄴中記曰石虎苑中有西王母棗冬夏有葉九月生花</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129165" custom="structure {type:Commentary;}">
+        <Coords points="3346,709 3451,709 3480,3705 3382,3703 3346,709"/>
+        <Baseline points="3410,710 3434,3707"/>
+        <TextEquiv>
+          <Unicode>十一月乃熟三子一赤又有羊角棗亦三子一赤抱朴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129166" custom="structure {type:Commentary;}">
+        <Coords points="3246,735 3355,723 3382,3703 3272,3708 3246,735"/>
+        <Baseline points="3289,717 3340,3720"/>
+        <TextEquiv>
+          <Unicode>子曰堯山有歷棗吳氏本草曰大棗者名良棗西京雜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129167" custom="structure {type:Commentary;}">
+        <Coords points="3146,721 3253,714 3281,3689 3177,3687 3146,721"/>
+        <Baseline points="3185,717 3222,3690"/>
+        <TextEquiv>
+          <Unicode>記曰弱枝棗玉門棗西王母棗棠棗青華棗赤心棗潘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129168" custom="structure {type:Commentary;}">
+        <Coords points="3044,725 3149,723 3179,3691 3075,3691 3044,725"/>
+        <Baseline points="3084,727 3148,3693"/>
+        <TextEquiv>
+          <Unicode>岳閒居賦曰有周文弱枝之棗丹棗案青州有樂氏棗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129169" custom="structure {type:Commentary;}">
+        <Coords points="2937,740 3051,735 3075,3698 2965,3694 2937,740"/>
+        <Baseline points="2987,706 3014,3700"/>
+        <TextEquiv>
+          <Unicode>肌細核多膏肥美為天下第一父老相傳云樂毅破齊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129170" custom="structure {type:Commentary;}">
+        <Coords points="2839,733 2944,721 2965,2987 2856,2994 2839,733"/>
+        <Baseline points="2896,713 2919,2987"/>
+        <TextEquiv>
+          <Unicode>時從燕齎來所種也齊郡西安廣饒二縣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129171" custom="structure {type:Commentary;}">
+        <Coords points="2723,737 2844,730 2867,2993 2744,2987 2723,737"/>
+        <Baseline points="2785,737 2812,2994"/>
+        <TextEquiv>
+          <Unicode>所有名棗即是也今世有陵裘幪弄棗也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129172" custom="structure {type:Text;}">
+        <Coords points="2544,718 2736,718 2736,2979 2544,2979 2544,718"/>
+        <Baseline points="2637,723 2654,2980"/>
+        <TextEquiv>
+          <Unicode>常選好味者留栽之候棗葉始生而移之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129173" custom="structure {type:Commentary;}">
+        <Coords points="2656,2987 2773,2975 2777,3691 2661,3691 2656,2987"/>
+        <Baseline points="2714,2970 2721,3693"/>
+        <TextEquiv>
+          <Unicode>棗性硬故生</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129174" custom="structure {type:Commentary;}">
+        <Coords points="2562,2968 2673,2968 2673,3691 2562,3691 2562,2968"/>
+        <Baseline points="2610,2970 2610,3693"/>
+        <TextEquiv>
+          <Unicode>晚栽早者堅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>曰樲棗樲棗者遵實小而員紫黑色俗呼羊矢棗孟子
+曰曾子嗜羊棗洗今河東猗氏縣出大棗子如雞卵蹶
+泄子味苦皙不著子者還味短味也楊徹煮填未詳廣
+志曰河東安邑棗東郡穀城紫棗長二寸西王母棗大
+如李核三月熟河內汲郡棗一名墟棗東海蒸棗洛陽
+夏曰棗安邑信都大棗梁國夫人棗大白棗名曰蹙咨
+小核多肌三星棗駢白棗灌棗又有狗牙雞心牛頭羊
+矢獮猴細腰之名又有氐棗木棗崎廉棗桂棗夕棗也
+鄴中記曰石虎苑中有西王母棗冬夏有葉九月生花
+十一月乃熟三子一赤又有羊角棗亦三子一赤抱朴
+子曰堯山有歷棗吳氏本草曰大棗者名良棗西京雜
+記曰弱枝棗玉門棗西王母棗棠棗青華棗赤心棗潘
+岳閒居賦曰有周文弱枝之棗丹棗案青州有樂氏棗
+肌細核多膏肥美為天下第一父老相傳云樂毅破齊
+時從燕齎來所種也齊郡西安廣饒二縣
+所有名棗即是也今世有陵裘幪弄棗也
+常選好味者留栽之候棗葉始生而移之
+棗性硬故生
+晚栽早者堅
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119574" custom="structure {type:MainText_Left;}">
+      <Coords points="343,728 2227,728 2227,3658 339,3672 343,728"/>
+      <TextLine id="1129175" custom="structure {type:Commentary;}">
+        <Coords points="2102,725 2207,735 2211,1001 2100,1013 2102,725"/>
+        <Baseline points="2159,706 2173,1016"/>
+        <TextEquiv>
+          <Unicode>垎牛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129176" custom="structure {type:Commentary;}">
+        <Coords points="1982,720 2105,720 2105,1000 1982,1000 1982,720"/>
+        <Baseline points="2059,723 2059,1002"/>
+        <TextEquiv>
+          <Unicode>遲也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129177" custom="structure {type:Text;}">
+        <Coords points="2001,1000 2188,1000 2188,2132 2001,2132 2001,1000"/>
+        <Baseline points="2092,1002 2106,2133"/>
+        <TextEquiv>
+          <Unicode>三步一樹行欲相當</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129178" custom="structure {type:Commentary;}">
+        <Coords points="2097,2131 2214,2129 2207,3660 2100,3665 2097,2131"/>
+        <Baseline points="2149,2116 2153,3663"/>
+        <TextEquiv>
+          <Unicode>地不耕也如本年芽未出勿</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129179" custom="structure {type:Commentary;}">
+        <Coords points="1991,2102 2114,2102 2114,3675 1991,3675 1991,2102"/>
+        <Baseline points="2042,2106 2055,3677"/>
+        <TextEquiv>
+          <Unicode>遽刪除諺云三年不算死亦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129180" custom="structure {type:Commentary;}">
+        <Coords points="1883,688 2026,688 2026,1150 1883,1150 1883,688"/>
+        <Baseline points="1944,693 1971,1150"/>
+        <TextEquiv>
+          <Unicode>有久而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129181" custom="structure {type:Commentary;}">
+        <Coords points="1781,711 1908,711 1908,1148 1781,1148 1781,711"/>
+        <Baseline points="1843,717 1867,1147"/>
+        <TextEquiv>
+          <Unicode>復生者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129182" custom="structure {type:Text;}">
+        <Coords points="1809,1134 1975,1134 1975,2252 1809,2252 1809,1134"/>
+        <Baseline points="1894,1137 1897,2254"/>
+        <TextEquiv>
+          <Unicode>欲令牛馬履踐令淨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129183" custom="structure {type:Commentary;}">
+        <Coords points="1876,2233 2017,2233 2017,3661 1876,3661 1876,2233"/>
+        <Baseline points="1938,2237 1978,3663"/>
+        <TextEquiv>
+          <Unicode>棗性堅彊不宜苗稼是以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129184" custom="structure {type:Commentary;}">
+        <Coords points="1774,2240 1908,2240 1908,3654 1774,3654 1774,2240"/>
+        <Baseline points="1837,2244 1853,3656"/>
+        <TextEquiv>
+          <Unicode>耕荒穢則蟲生所以須淨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129185" custom="structure {type:Commentary;}">
+        <Coords points="1675,713 1814,713 1814,1309 1675,1309 1675,713"/>
+        <Baseline points="1736,717 1756,1312"/>
+        <TextEquiv>
+          <Unicode>地堅饒實</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129186" custom="structure {type:Commentary;}">
+        <Coords points="1573,699 1714,699 1714,1272 1573,1272 1573,699"/>
+        <Baseline points="1638,706 1655,1275"/>
+        <TextEquiv>
+          <Unicode>故宜踐也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129187" custom="structure {type:Text;}">
+        <Coords points="1585,1291 1774,1291 1774,3665 1585,3665 1585,1291"/>
+        <Baseline points="1682,1295 1695,3666"/>
+        <TextEquiv>
+          <Unicode>正月一日日出時反斧班駮椎之名曰嫁棗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129188" custom="structure {type:Commentary;}">
+        <Coords points="1469,713 1608,713 1608,1570 1469,1570 1469,713"/>
+        <Baseline points="1547,717 1558,1571"/>
+        <TextEquiv>
+          <Unicode>不椎則花而無實</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129189" custom="structure {type:Commentary;}">
+        <Coords points="1374,713 1502,713 1502,1429 1374,1429 1374,713"/>
+        <Baseline points="1440,717 1450,1430"/>
+        <TextEquiv>
+          <Unicode>子萎而落也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129190" custom="structure {type:Text;}">
+        <Coords points="1384,1538 1569,1538 1569,3668 1384,3668 1384,1538"/>
+        <Baseline points="1474,3670 1477,1541"/>
+        <TextEquiv>
+          <Unicode>斫則候大蠶入簇以杖擊其枝間振落</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129191" custom="structure {type:Text;}">
+        <Coords points="1197,709 1384,709 1384,1041 1197,1041 1197,709"/>
+        <Baseline points="1285,710 1285,1043"/>
+        <TextEquiv>
+          <Unicode>狂花</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129192" custom="structure {type:Commentary;}">
+        <Coords points="1268,1011 1400,1011 1400,1556 1268,1556 1268,1011"/>
+        <Baseline points="1332,1016 1346,1557"/>
+        <TextEquiv>
+          <Unicode>不打花繁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129193" custom="structure {type:Commentary;}">
+        <Coords points="1166,1002 1291,1002 1291,1552 1166,1552 1166,1002"/>
+        <Baseline points="1231,1006 1248,1554"/>
+        <TextEquiv>
+          <Unicode>不實不成</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129194" custom="structure {type:Text;}">
+        <Coords points="1176,1550 1365,1550 1365,3506 1176,3506 1176,1550"/>
+        <Baseline points="1278,1554 1292,3508"/>
+        <TextEquiv>
+          <Unicode>全赤即收收法日日撼而落之為上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129195" custom="structure {type:Commentary;}">
+        <Coords points="1310,3501 1404,3501 1404,3665 1310,3665 1310,3501"/>
+        <Baseline points="1339,3505 1342,3666"/>
+        <TextEquiv>
+          <Unicode>半</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129196" custom="structure {type:Commentary;}">
+        <Coords points="1169,3465 1289,3465 1289,3654 1169,3654 1169,3465"/>
+        <Baseline points="1231,3468 1235,3656"/>
+        <TextEquiv>
+          <Unicode>赤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129197" custom="structure {type:Commentary;}">
+        <Coords points="1062,713 1199,713 1199,3116 1062,3116 1062,713"/>
+        <Baseline points="1137,3118 1141,717"/>
+        <TextEquiv>
+          <Unicode>而收者肉未充滿乾則黃色而皮皺將赤味</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129198" custom="structure {type:Commentary;}">
+        <Coords points="956,702 1086,702 1086,3116 956,3116 956,702"/>
+        <Baseline points="1020,706 1036,3118"/>
+        <TextEquiv>
+          <Unicode>亦不佳美久赤不收則皮破復有鳥啄之患</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129199" custom="structure {type:Text;}">
+        <Coords points="776,702 965,702 965,1838 776,1838 776,702"/>
+        <Baseline points="875,1840 885,706"/>
+        <TextEquiv>
+          <Unicode>曬棗法先治地令淨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129200" custom="structure {type:Commentary;}">
+        <Coords points="857,1843 986,1843 986,2270 857,2270 857,1843"/>
+        <Baseline points="915,1850 925,2271"/>
+        <TextEquiv>
+          <Unicode>有草萊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129201" custom="structure {type:Commentary;}">
+        <Coords points="755,1822 878,1822 878,2256 755,2256 755,1822"/>
+        <Baseline points="818,1827 831,2257"/>
+        <TextEquiv>
+          <Unicode>令棗臭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129202" custom="structure {type:Text;}">
+        <Coords points="771,2254 956,2254 956,3668 771,3668 771,2254"/>
+        <Baseline points="872,2257 888,3670"/>
+        <TextEquiv>
+          <Unicode>布椽於箔下置棗於箔上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129203" custom="structure {type:Text;}">
+        <Coords points="582,704 760,704 760,1014 582,1014 582,704"/>
+        <Baseline points="670,1016 680,710"/>
+        <TextEquiv>
+          <Unicode>以朳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129204" custom="structure {type:Commentary;}">
+        <Coords points="653,1009 774,1009 774,1429 653,1429 653,1009"/>
+        <Baseline points="720,1013 724,1430"/>
+        <TextEquiv>
+          <Unicode>兵拔反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129205" custom="structure {type:Commentary;}">
+        <Coords points="566,1004 672,997 672,1434 566,1432 566,1004"/>
+        <Baseline points="616,1002 629,1436"/>
+        <TextEquiv>
+          <Unicode>無齒杷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129206" custom="structure {type:Text;}">
+        <Coords points="563,1429 757,1429 757,3665 563,3665 563,1429"/>
+        <Baseline points="656,1433 670,3666"/>
+        <TextEquiv>
+          <Unicode>聚而復散之一日中二十度乃佳夜仍不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129207" custom="structure {type:Text;}">
+        <Coords points="362,729 559,729 558,880 361,880 362,729"/>
+        <Baseline points="468,730 468,865"/>
+        <TextEquiv>
+          <Unicode>聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129208" custom="structure {type:Commentary;}">
+        <Coords points="468,890 570,890 573,2005 461,2003 468,890"/>
+        <Baseline points="512,868 522,2008"/>
+        <TextEquiv>
+          <Unicode>得霜露氣乾速成陰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129209" custom="structure {type:Commentary;}">
+        <Coords points="347,887 470,887 466,1996 344,1996 347,887"/>
+        <Baseline points="397,1998 418,868"/>
+        <TextEquiv>
+          <Unicode>雨之時乃聚而蓋之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129210" custom="structure {type:Text;}">
+        <Coords points="337,1984 561,1984 561,3654 337,3654 337,1984"/>
+        <Baseline points="451,1988 470,3656"/>
+        <TextEquiv>
+          <Unicode>五六日後別擇取紅軟輭上高</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>垎牛
+遲也
+三步一樹行欲相當
+地不耕也如本年芽未出勿
+遽刪除諺云三年不算死亦
+有久而
+復生者
+欲令牛馬履踐令淨
+棗性堅彊不宜苗稼是以
+耕荒穢則蟲生所以須淨
+地堅饒實
+故宜踐也
+正月一日日出時反斧班駮椎之名曰嫁棗
+不椎則花而無實
+子萎而落也
+斫則候大蠶入簇以杖擊其枝間振落
+狂花
+不打花繁
+不實不成
+全赤即收收法日日撼而落之為上
+半
+赤
+而收者肉未充滿乾則黃色而皮皺將赤味
+亦不佳美久赤不收則皮破復有鳥啄之患
+曬棗法先治地令淨
+有草萊
+令棗臭
+布椽於箔下置棗於箔上
+以朳
+兵拔反
+無齒杷
+聚而復散之一日中二十度乃佳夜仍不
+聚
+得霜露氣乾速成陰
+雨之時乃聚而蓋之
+五六日後別擇取紅軟輭上高
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119575" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="215,747 343,747 339,3677 210,3677 215,747"/>
+      <TextLine id="1129211" custom="structure {type:Title;}">
+        <Coords points="254,744 340,744 348,1286 252,1284 254,744"/>
+        <Baseline points="276,1288 286,713"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129212" custom="structure {type:Section;}">
+        <Coords points="244,1677 342,1710 340,2003 252,1996 244,1677"/>
+        <Baseline points="276,1655 276,2001"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129213" custom="structure {type:Page_Number;}">
+        <Coords points="252,2928 346,2924 346,3141 247,3140 252,2928"/>
+        <Baseline points="266,2926 266,3142"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷四
+五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:43+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0044.jpg" imageHeight="4578" imageWidth="2602">
+    <TextRegion id="79239" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2400,3558 2400,1744 2515,1744 2515,3558 2400,3558"/>
+      <TextLine id="869047" custom="structure {type:Page_Number;}">
+        <Coords points="2380,1793 2543,1793 2543,2088 2380,2088 2380,1793"/>
+        <Baseline points="2487,2090 2491,1800"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869048" custom="structure {type:Page_Number;}">
+        <Coords points="2421,3130 2543,3130 2543,3316 2421,3316 2421,3130"/>
+        <Baseline points="2477,3131 2477,3317"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷四
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79207" custom="structure {type:MainText;}">
+      <Coords points="134,983 2406,991 2387,4078 123,4078 134,983"/>
+      <TextLine id="867313" custom="structure {type:Text;}">
+        <Coords points="2184,989 2413,989 2413,2924 2184,2924 2184,989"/>
+        <Baseline points="2315,2926 2323,994"/>
+        <TextEquiv>
+          <Unicode>燒丹朱成水銀則不類物同類異用者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867314" custom="structure {type:Title;}">
+        <Coords points="2006,1230 2212,1230 2212,2800 2006,2800 2006,1230"/>
+        <Baseline points="2119,1234 2131,2802"/>
+        <TextEquiv>
+          <Unicode>魏文帝所記諸物相似亂眞者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867315" custom="structure {type:Text;}">
+        <Coords points="1800,1111 2039,1111 2039,4061 1800,4061 1800,1111"/>
+        <Baseline points="1920,4062 1928,1114"/>
+        <TextEquiv>
+          <Unicode>武夫怪石似美玉 蛇床亂蘼蕪 薺苨亂人參 杜衡亂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867316" custom="structure {type:Text;}">
+        <Coords points="1617,1106 1831,1106 1831,4069 1617,4069 1617,1106"/>
+        <Baseline points="1728,4070 1732,1109"/>
+        <TextEquiv>
+          <Unicode>細辛 雄黃似石流黃 鯿魚相亂以有大小相異 敵休</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867317" custom="structure {type:Text;}">
+        <Coords points="1421,1101 1645,1101 1645,4054 1421,4054 1421,1101"/>
+        <Baseline points="1536,1105 1552,4055"/>
+        <TextEquiv>
+          <Unicode>亂門冬 百部似門冬 房葵似狼毒 鉤吻草與荇華相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867318" custom="structure {type:Text;}">
+        <Coords points="1223,1106 1452,1106 1452,2800 1223,2800 1223,1106"/>
+        <Baseline points="1348,1109 1352,2802"/>
+        <TextEquiv>
+          <Unicode>似 拔揳與萆薢相似一名狗脊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867319" custom="structure {type:Title;}">
+        <Coords points="1050,1230 1266,1230 1266,1523 1050,1523 1050,1230"/>
+        <Baseline points="1160,1237 1168,1525"/>
+        <TextEquiv>
+          <Unicode>藥物</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867320" custom="structure {type:Text;}">
+        <Coords points="849,981 1096,981 1096,3052 849,3052 849,981"/>
+        <Baseline points="976,985 988,3053"/>
+        <TextEquiv>
+          <Unicode>烏頭天雄附子一物春秋冬夏採各異也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867321" custom="structure {type:Text;}">
+        <Coords points="681,991 885,991 885,2291 681,2291 681,991"/>
+        <Baseline points="792,2292 800,996"/>
+        <TextEquiv>
+          <Unicode>遠志苗曰小草根曰遠志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867322" custom="structure {type:Text;}">
+        <Coords points="503,996 699,996 699,2286 503,2286 503,996"/>
+        <Baseline points="608,1000 616,2288"/>
+        <TextEquiv>
+          <Unicode>芎藭苗曰江蘺根曰芎藭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867323" custom="structure {type:Text;}">
+        <Coords points="302,989 516,989 516,3191 302,3191 302,989"/>
+        <Baseline points="409,3192 420,992"/>
+        <TextEquiv>
+          <Unicode>菊有二種苗花如一唯味小異苦者不中食</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867324" custom="structure {type:Text;}">
+        <Coords points="83,989 323,989 323,3682 83,3682 83,989"/>
+        <Baseline points="209,3684 229,992"/>
+        <TextEquiv>
+          <Unicode>野葛食之殺人家葛種之三年不收後旅生亦不可食</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>燒丹朱成水銀則不類物同類異用者
+魏文帝所記諸物相似亂眞者
+武夫怪石似美玉 蛇床亂蘼蕪 薺苨亂人參 杜衡亂
+細辛 雄黃似石流黃 鯿魚相亂以有大小相異 敵休
+亂門冬 百部似門冬 房葵似狼毒 鉤吻草與荇華相
+似 拔揳與萆薢相似一名狗脊
+藥物
+烏頭天雄附子一物春秋冬夏採各異也
+遠志苗曰小草根曰遠志
+芎藭苗曰江蘺根曰芎藭
+菊有二種苗花如一唯味小異苦者不中食
+野葛食之殺人家葛種之三年不收後旅生亦不可食
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79238" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2363,200 2363,84 2515,84 2515,200 2363,200"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

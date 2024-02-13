@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:38+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-15_0021.jpg" imageHeight="3500" imageWidth="1944">
+    <TextRegion id="117266" custom="structure {type:MainText;}">
+      <Coords points="208,859 1750,850 1786,3198 240,3182 208,859"/>
+      <TextLine id="1105142" custom="structure {type:Text;}">
+        <Coords points="1617,2616 1605,2032 1589,864 1736,864 1782,3185 1625,3190 1617,2616"/>
+        <Baseline points="1657,867 1695,3186"/>
+        <TextEquiv>
+          <Unicode>結昔年疾疫親故多離其災徐陳應劉一時俱逝痛可</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105143" custom="structure {type:Text;}">
+        <Coords points="1457,2026 1440,1442 1432,863 1570,862 1586,1438 1604,2016 1613,3177 1473,3180 1457,2026"/>
+        <Baseline points="1503,867 1538,3179"/>
+        <TextEquiv>
+          <Unicode>言邪昔日遊處行則連輿止則接席何曾須臾相失每</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105144" custom="structure {type:Text;}">
+        <Coords points="1299,1818 1283,870 1420,866 1459,2747 1386,2752 1311,2752 1299,1818"/>
+        <Baseline points="1339,874 1381,2748"/>
+        <TextEquiv>
+          <Unicode>至觴酌流行絲竹並奏酒酣耳熱仰而賦詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105145" custom="structure {type:Commentary;}">
+        <Coords points="1377,2752 1460,2748 1466,3172 1379,3174 1377,2752"/>
+        <Baseline points="1415,2751 1427,3172"/>
+        <TextEquiv>
+          <Unicode>楊惲報孫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105146" custom="structure {type:Commentary;}">
+        <Coords points="1306,2752 1374,2750 1382,3164 1315,3168 1306,2752"/>
+        <Baseline points="1343,2751 1353,3160"/>
+        <TextEquiv>
+          <Unicode>會宗書曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105147" custom="structure {type:Commentary;}">
+        <Coords points="1209,1190 1204,1093 1193,1009 1196,876 1276,880 1282,1306 1199,1305 1209,1190"/>
+        <Baseline points="1236,879 1243,1307"/>
+        <TextEquiv>
+          <Unicode>酒後耳熱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105148" custom="structure {type:Commentary;}">
+        <Coords points="1114,869 1193,863 1193,1012 1209,1117 1199,1296 1125,1302 1114,869"/>
+        <Baseline points="1155,867 1167,1297"/>
+        <TextEquiv>
+          <Unicode>仰天撫缶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105149" custom="structure {type:Text;}">
+        <Coords points="1152,2716 1151,2248 1137,1312 1207,1302 1277,1320 1307,3186 1165,3184 1152,2716"/>
+        <Baseline points="1203,1300 1234,3188"/>
+        <TextEquiv>
+          <Unicode>當此之時忽然不自知樂也謂百年己分可</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105150" custom="structure {type:Text;}">
+        <Coords points="988,2023 971,868 1104,869 1118,1449 1141,2026 1155,3181 1002,3186 988,2023"/>
+        <Baseline points="1039,867 1082,3183"/>
+        <TextEquiv>
+          <Unicode>長共相保何圖數年之間零落略盡言之傷心頃撰其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105151" custom="structure {type:Text;}">
+        <Coords points="821,1200 823,863 954,861 960,1196 971,1532 903,1542 835,1541 821,1200"/>
+        <Baseline points="891,860 906,1540"/>
+        <TextEquiv>
+          <Unicode>遺文都為一集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105152" custom="structure {type:Commentary;}">
+        <Coords points="905,1801 903,1541 974,1537 987,2063 914,2063 905,1801"/>
+        <Baseline points="939,1538 946,2064"/>
+        <TextEquiv>
+          <Unicode>廣雅曰撰定</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105153" custom="structure {type:Commentary;}">
+        <Coords points="831,1548 899,1544 914,1950 838,1950 831,1548"/>
+        <Baseline points="865,1550 877,1952"/>
+        <TextEquiv>
+          <Unicode>也都凡也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105154" custom="structure {type:Text;}">
+        <Coords points="858,2617 845,2061 900,2057 988,2064 997,3178 865,3183 858,2617"/>
+        <Baseline points="910,2059 934,3172"/>
+        <TextEquiv>
+          <Unicode>觀其姓名已為鬼錄追思</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105155" custom="structure {type:Text;}">
+        <Coords points="686,2021 683,1440 677,862 804,862 824,1438 834,2017 850,3179 782,3187 708,3184 686,2021"/>
+        <Baseline points="742,862 780,3181"/>
+        <TextEquiv>
+          <Unicode>昔遊猶在心目而此諸子化為糞壤可復道哉觀古今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105156" custom="structure {type:Text;}">
+        <Coords points="535,2027 528,1637 519,866 664,868 690,2405 540,2420 535,2027"/>
+        <Baseline points="592,869 611,2406"/>
+        <TextEquiv>
+          <Unicode>文人類不護細行鮮能以名節自立</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105157" custom="structure {type:Commentary;}">
+        <Coords points="622,2739 620,2415 691,2409 701,3055 623,3063 622,2739"/>
+        <Baseline points="654,2413 665,3057"/>
+        <TextEquiv>
+          <Unicode>尚書曰不矜細</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105158" custom="structure {type:Commentary;}">
+        <Coords points="531,2428 620,2415 626,2953 543,2952 531,2428"/>
+        <Baseline points="582,2420 587,2955"/>
+        <TextEquiv>
+          <Unicode>行終累大德</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105159" custom="structure {type:Text;}">
+        <Coords points="551,3072 684,3061 688,3173 551,3183 551,3072"/>
+        <Baseline points="623,3060 623,3174"/>
+        <TextEquiv>
+          <Unicode>而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105160" custom="structure {type:Text;}">
+        <Coords points="398,2607 388,2024 363,879 429,861 504,868 513,1436 528,2022 533,3190 400,3190 398,2607"/>
+        <Baseline points="442,857 456,3186"/>
+        <TextEquiv>
+          <Unicode>偉長獨懷文抱質恬惔寡欲有箕山之志可謂彬彬君</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105161" custom="structure {type:Text;}">
+        <Coords points="205,870 349,866 356,1234 295,1233 212,1247 205,870"/>
+        <Baseline points="280,872 292,1236"/>
+        <TextEquiv>
+          <Unicode>子者矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105162" custom="structure {type:Commentary;}">
+        <Coords points="308,2689 304,2205 295,1750 311,1722 295,1708 292,1684 288,1477 281,1234 364,1240 397,3181 316,3180 308,2689"/>
+        <Baseline points="328,1238 361,3176"/>
+        <TextEquiv>
+          <Unicode>論語子曰文質彬彬然後君子桓子新論雍門</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105163" custom="structure {type:Commentary;}">
+        <Coords points="229,2710 223,2214 220,1730 212,1245 281,1235 295,1723 302,2207 318,3178 236,3178 229,2710"/>
+        <Baseline points="247,1233 278,3181"/>
+        <TextEquiv>
+          <Unicode>周曰身財高妙懷質抱真老子曰少私寡欲呂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>結昔年疾疫親故多離其災徐陳應劉一時俱逝痛可
+言邪昔日遊處行則連輿止則接席何曾須臾相失每
+至觴酌流行絲竹並奏酒酣耳熱仰而賦詩
+楊惲報孫
+會宗書曰
+酒後耳熱
+仰天撫缶
+當此之時忽然不自知樂也謂百年己分可
+長共相保何圖數年之間零落略盡言之傷心頃撰其
+遺文都為一集
+廣雅曰撰定
+也都凡也
+觀其姓名已為鬼錄追思
+昔遊猶在心目而此諸子化為糞壤可復道哉觀古今
+文人類不護細行鮮能以名節自立
+尚書曰不矜細
+行終累大德
+而
+偉長獨懷文抱質恬惔寡欲有箕山之志可謂彬彬君
+子者矣
+論語子曰文質彬彬然後君子桓子新論雍門
+周曰身財高妙懷質抱真老子曰少私寡欲呂
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117267" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="161,1325 208,1320 213,2148 174,2151 161,1325"/>
+      <TextLine id="1105164" custom="structure {type:Section;}">
+        <Coords points="172,1385 209,1411 210,1619 175,1623 172,1385"/>
+        <Baseline points="183,1370 183,1622"/>
+        <TextEquiv>
+          <Unicode>文四十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105165" custom="structure {type:Page_Number;}">
+        <Coords points="173,2070 214,2073 217,2148 169,2146 173,2070"/>
+        <Baseline points="191,2074 195,2148"/>
+        <TextEquiv>
+          <Unicode>九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文四十二
+九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117268" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="205,56 275,56 277,120 209,124 205,56"/>
+      <TextLine id="1105166" custom="structure {type:Commentary;}">
+        <Coords points="219,56 266,56 266,124 219,124 219,56"/>
+        <Baseline points="221,106 268,106"/>
+        <TextEquiv>
+          <Unicode>17</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>17
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

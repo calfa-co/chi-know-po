@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:28:57+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI111_1_5_0064.jpg" imageHeight="4091" imageWidth="4908">
+    <TextRegion id="118016" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4465,685 4598,685 4565,3658 4441,3668 4465,685"/>
+      <TextLine id="1112712" custom="structure {type:Title;}">
+        <Coords points="4464,670 4564,667 4568,1251 4464,1245 4464,670"/>
+        <Baseline points="4541,676 4550,1246"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112713" custom="structure {type:Section;}">
+        <Coords points="4462,1575 4564,1583 4572,1911 4462,1906 4462,1575"/>
+        <Baseline points="4531,1903 4546,1579"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112714" custom="structure {type:Page_Number;}">
+        <Coords points="4446,2779 4564,2783 4564,3019 4446,3018 4446,2779"/>
+        <Baseline points="4531,2788 4550,3016"/>
+        <TextEquiv>
+          <Unicode>二十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注
+卷一
+二十三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118017" custom="structure {type:MainText_Right;}">
+      <Coords points="2495,666 4470,685 4427,3668 2476,3634 2495,666"/>
+      <TextLine id="1112718" custom="structure {type:Text;}">
+        <Coords points="4255,656 4437,656 4437,3665 4255,3665 4255,656"/>
+        <Baseline points="4341,3668 4360,661"/>
+        <TextEquiv>
+          <Unicode>之間曰淵淵宛睡言曲宛也揉紐聲相近說文米部粈雜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112719" custom="structure {type:Text;}">
+        <Coords points="4062,634 4244,634 4244,3452 4062,3452 4062,634"/>
+        <Baseline points="4151,3454 4165,638"/>
+        <TextEquiv>
+          <Unicode>飯也从米丑聲集韻四十四有邦或作粈是其例也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112720" custom="structure {type:Text;}">
+        <Coords points="3873,654 4053,654 4053,2045 3873,2045 3873,654"/>
+        <Baseline points="3970,2046 3984,657"/>
+        <TextEquiv>
+          <Unicode>賓升就席注今文席為筵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112721" custom="structure {type:Text;}">
+        <Coords points="3866,2122 4035,2122 4035,3681 3866,3681 3866,2122"/>
+        <Baseline points="3937,2126 3961,3682"/>
+        <TextEquiv>
+          <Unicode>案司几筵注筵亦席也鋪陳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112722" custom="structure {type:Text;}">
+        <Coords points="3680,656 3853,656 3853,2606 3680,2606 3680,656"/>
+        <Baseline points="3775,2607 3799,661"/>
+        <TextEquiv>
+          <Unicode>曰筵藉之曰席然其言之筵席通矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之間曰淵淵宛睡言曲宛也揉紐聲相近說文米部粈雜
+飯也从米丑聲集韻四十四有邦或作粈是其例也
+賓升就席注今文席為筵
+案司几筵注筵亦席也鋪陳
+曰筵藉之曰席然其言之筵席通矣
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118018" custom="structure {type:MainText_Left;}">
+      <Coords points="340,718 2262,709 2291,3644 374,3658 340,718"/>
+      <TextLine id="1112723" custom="structure {type:Title;}">
+        <Coords points="2075,684 2250,684 2250,1554 2075,1554 2075,684"/>
+        <Baseline points="2167,685 2167,1556"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112724" custom="structure {type:Author_name;}">
+        <Coords points="1889,2365 2052,2365 2052,3452 1889,3452 1889,2365"/>
+        <Baseline points="1967,2369 2001,3454"/>
+        <TextEquiv>
+          <Unicode>淮安山陽丁晏學</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112725" custom="structure {type:Title;}">
+        <Coords points="1684,679 1854,679 1854,1056 1684,1056 1684,679"/>
+        <Baseline points="1763,685 1782,1056"/>
+        <TextEquiv>
+          <Unicode>聘禮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112726" custom="structure {type:Text;}">
+        <Coords points="1498,677 1689,677 1689,3686 1498,3686 1498,677"/>
+        <Baseline points="1582,680 1620,3687"/>
+        <TextEquiv>
+          <Unicode>制元纁束注朝貢禮云純四只制丈八尺疏周禮趙商問</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112727" custom="structure {type:Text;}">
+        <Coords points="1309,663 1486,663 1486,3670 1309,3670 1309,663"/>
+        <Baseline points="1401,666 1439,3672"/>
+        <TextEquiv>
+          <Unicode>只長八寸四八三十二幅廣三尺二寸大廣非其度鄭君</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112728" custom="structure {type:Text;}">
+        <Coords points="1138,690 1302,690 1302,3234 1138,3234 1138,690"/>
+        <Baseline points="1216,695 1235,3235"/>
+        <TextEquiv>
+          <Unicode>答云古積畫誤為四當為三三咫則二尺四寸矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112729" custom="structure {type:Text;}">
+        <Coords points="1154,3315 1304,3315 1304,3665 1154,3665 1154,3315"/>
+        <Baseline points="1239,3320 1244,3668"/>
+        <TextEquiv>
+          <Unicode>案覲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112730" custom="structure {type:Text;}">
+        <Coords points="950,677 1109,677 1109,3670 950,3670 950,677"/>
+        <Baseline points="1044,3672 1049,680"/>
+        <TextEquiv>
+          <Unicode>禮注四當為三古書作三四或皆積畫此篇又多四字字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112731" custom="structure {type:Text;}">
+        <Coords points="761,677 922,677 922,3656 761,3656 761,677"/>
+        <Baseline points="849,680 854,3658"/>
+        <TextEquiv>
+          <Unicode>相似由此誤也周禮內宰注引天子巡守禮制幣丈八尺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112732" custom="structure {type:Text;}">
+        <Coords points="566,681 738,681 738,3656 566,3656 566,681"/>
+        <Baseline points="654,685 669,3658"/>
+        <TextEquiv>
+          <Unicode>純四咫疏云趙商問云天子巡守禮制丈八尺純四咫何</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112733" custom="structure {type:Text;}">
+        <Coords points="375,672 552,672 552,3675 375,3675 375,672"/>
+        <Baseline points="473,676 502,3677"/>
+        <TextEquiv>
+          <Unicode>答云巡守禮制丈八尺咫八寸四咫三尺二寸又大廣四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注卷二
+淮安山陽丁晏學
+聘禮
+制元纁束注朝貢禮云純四只制丈八尺疏周禮趙商問
+只長八寸四八三十二幅廣三尺二寸大廣非其度鄭君
+答云古積畫誤為四當為三三咫則二尺四寸矣
+案覲
+禮注四當為三古書作三四或皆積畫此篇又多四字字
+相似由此誤也周禮內宰注引天子巡守禮制幣丈八尺
+純四咫疏云趙商問云天子巡守禮制丈八尺純四咫何
+答云巡守禮制丈八尺咫八寸四咫三尺二寸又大廣四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118019" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="202,733 359,728 388,3663 264,3663 202,733"/>
+      <TextLine id="1112715" custom="structure {type:Title;}">
+        <Coords points="259,707 350,697 350,1288 259,1299 259,707"/>
+        <Baseline points="283,699 283,1289"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112716" custom="structure {type:Section;}">
+        <Coords points="259,1639 343,1631 343,1972 263,1971 259,1639"/>
+        <Baseline points="278,1632 278,1974"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112717" custom="structure {type:Page_Number;}">
+        <Coords points="251,2831 370,2831 370,3027 255,3015 251,2831"/>
+        <Baseline points="293,2845 331,2992"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注
+卷二
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

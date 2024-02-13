@@ -1,0 +1,385 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:40+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0548.jpg" imageHeight="4884" imageWidth="2838">
+    <TextRegion id="80236" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2670,2070 2732,2063 2723,3635 2647,3621 2670,2070"/>
+      <TextLine id="1017500" custom="structure {type:Section;}">
+        <Coords points="2631,2075 2737,2075 2737,2876 2631,2876 2631,2075"/>
+        <Baseline points="2693,2877 2703,2079"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第三十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1017501" custom="structure {type:Page_Number;}">
+        <Coords points="2642,3448 2742,3448 2742,3592 2642,3592 2642,3448"/>
+        <Baseline points="2686,3593 2689,3452"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷第三十八
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80235" custom="structure {type:MainText;}">
+      <Coords points="245,2825 258,1362 2660,1419 2623,4325 252,4302 245,2825"/>
+      <TextLine id="876130" custom="structure {type:Commentary;}">
+        <Coords points="2501,1421 2661,1421 2661,4314 2501,4314 2501,1421"/>
+        <Baseline points="2571,4315 2604,1427"/>
+        <TextEquiv>
+          <Unicode>叔敖將死屬其子曰我死王必封汝汝無多受利地越荊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876131" custom="structure {type:Commentary;}">
+        <Coords points="2398,1413 2555,1413 2555,4308 2398,4308 2398,1413"/>
+        <Baseline points="2460,4310 2500,1419"/>
+        <TextEquiv>
+          <Unicode>之問有寢之丘此其地不利而名甚惡荊人鬼越人徒可</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876132" custom="structure {type:Commentary;}">
+        <Coords points="2302,1413 2446,1413 2446,4314 2302,4314 2302,1413"/>
+        <Baseline points="2373,4315 2401,1419"/>
+        <TextEquiv>
+          <Unicode>長有也其子受之至今不失孫叔敖可謂以云云○今案</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876133" custom="structure {type:Commentary;}">
+        <Coords points="2205,1405 2354,1405 2354,4311 2205,4311 2205,1405"/>
+        <Baseline points="2276,4312 2310,1410"/>
+        <TextEquiv>
+          <Unicode>陳俞本同考近本呂氏春秋孟冬紀越荊作楚越丘下有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876134" custom="structure {type:Commentary;}">
+        <Coords points="2118,1405 2256,1405 2256,3136 2118,3136 2118,1405"/>
+        <Baseline points="2183,3139 2206,1410"/>
+        <TextEquiv>
+          <Unicode>者字荊人六字作荊人畏鬼而越</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876135" custom="structure {type:Commentary;}">
+        <Coords points="2025,1405 2153,1405 2153,3117 2025,3117 2025,1405"/>
+        <Baseline points="2087,3119 2101,1410"/>
+        <TextEquiv>
+          <Unicode>人信機收句作知不以利為利矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876136" custom="structure {type:Text;}">
+        <Coords points="2028,3117 2221,3117 2221,3657 2028,3657 2028,3117"/>
+        <Baseline points="2129,3659 2135,3122"/>
+        <TextEquiv>
+          <Unicode>在朝清廉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876137" custom="structure {type:Commentary;}">
+        <Coords points="2099,3652 2235,3652 2235,4314 2099,4314 2099,3652"/>
+        <Baseline points="2166,3656 2169,4315"/>
+        <TextEquiv>
+          <Unicode>東觀漢記郭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876138" custom="structure {type:Commentary;}">
+        <Coords points="2006,3663 2126,3663 2126,4308 2006,4308 2006,3663"/>
+        <Baseline points="2067,4310 2076,3668"/>
+        <TextEquiv>
+          <Unicode>丹傳云丹為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876151" custom="structure {type:Commentary;}">
+        <Coords points="1911,1405 2053,1405 2053,4178 1911,4178 1911,1405"/>
+        <Baseline points="1974,4180 2005,1410"/>
+        <TextEquiv>
+          <Unicode>司徒云云公正○今案御覽卷二百七引朝下有名字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876152" custom="structure {type:Commentary;}">
+        <Coords points="1816,1400 1955,1400 1955,4040 1816,4040 1816,1400"/>
+        <Baseline points="1880,4041 1912,1405"/>
+        <TextEquiv>
+          <Unicode>聚珍本姚輯本東觀記郭丹傳及陳俞本亦然餘同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876153" custom="structure {type:Text;}">
+        <Coords points="1825,4159 2015,4159 2015,4308 1825,4308 1825,4159"/>
+        <Baseline points="1914,4160 1914,4310"/>
+        <TextEquiv>
+          <Unicode>在</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876154" custom="structure {type:Text;}">
+        <Coords points="1653,1402 1846,1402 1846,1817 1653,1817 1653,1402"/>
+        <Baseline points="1759,1818 1762,1408"/>
+        <TextEquiv>
+          <Unicode>職公廉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876155" custom="structure {type:Commentary;}">
+        <Coords points="1708,1798 1854,1798 1854,4306 1708,4306 1708,1798"/>
+        <Baseline points="1776,4307 1807,1804"/>
+        <TextEquiv>
+          <Unicode>漢書馮奉世傳云馮立字聖卿通春秋為五原太</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876156" custom="structure {type:Commentary;}">
+        <Coords points="1607,1801 1751,1801 1751,4300 1607,4300 1607,1801"/>
+        <Baseline points="1674,4301 1708,1806"/>
+        <TextEquiv>
+          <Unicode>守在職公廉與野王相似吏民嘉美野王立相代</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876157" custom="structure {type:Commentary;}">
+        <Coords points="1504,1397 1659,1397 1659,4297 1504,4297 1504,1397"/>
+        <Baseline points="1572,4298 1609,1402"/>
+        <TextEquiv>
+          <Unicode>為太守歌之曰太馮君小馮君兄弟繼踵相因循政如魯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876158" custom="structure {type:Commentary;}">
+        <Coords points="1414,1394 1550,1394 1550,4297 1414,4297 1414,1394"/>
+        <Baseline points="1473,4298 1501,1399"/>
+        <TextEquiv>
+          <Unicode>衛德化鈞○孫氏校丘改立戊改代今案見漢書七十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876159" custom="structure {type:Commentary;}">
+        <Coords points="1330,1389 1450,1389 1450,2979 1330,2979 1330,1389"/>
+        <Baseline points="1388,2980 1394,1391"/>
+        <TextEquiv>
+          <Unicode>在作居本鈔已有節錄陳俞本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876160" custom="structure {type:Commentary;}">
+        <Coords points="1224,1391 1357,1391 1357,2973 1224,2973 1224,1391"/>
+        <Baseline points="1289,2975 1303,1396"/>
+        <TextEquiv>
+          <Unicode>則補引全文俞本聖卿作聖通</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876161" custom="structure {type:Text;}">
+        <Coords points="1235,2976 1433,2976 1433,3500 1235,3500 1235,2976"/>
+        <Baseline points="1343,2977 1343,3501"/>
+        <TextEquiv>
+          <Unicode>廉潔奉公</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876162" custom="structure {type:Commentary;}">
+        <Coords points="1317,3513 1431,3513 1431,4300 1317,4300 1317,3513"/>
+        <Baseline points="1383,3515 1385,4301"/>
+        <TextEquiv>
+          <Unicode>東觀漢記祭遵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876163" custom="structure {type:Commentary;}">
+        <Coords points="1205,3508 1328,3508 1328,4303 1205,4303 1205,3508"/>
+        <Baseline points="1275,4304 1286,3512"/>
+        <TextEquiv>
+          <Unicode>傳云祭遵為征</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876164" custom="structure {type:Commentary;}">
+        <Coords points="1105,1389 1254,1389 1254,4303 1105,4303 1105,1389"/>
+        <Baseline points="1176,4304 1213,1394"/>
+        <TextEquiv>
+          <Unicode>虜將軍雲雲光武嘆曰安得憂國奉公如祭遵秋○今案</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876165" custom="structure {type:Commentary;}">
+        <Coords points="1010,1389 1154,1389 1154,4292 1010,4292 1010,1389"/>
+        <Baseline points="1077,4295 1103,1394"/>
+        <TextEquiv>
+          <Unicode>御覽卷二百三十九引東觀記末句作如祭征虜者乎與</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876166" custom="structure {type:Commentary;}">
+        <Coords points="920,1383 1056,1383 1056,3505 920,3505 920,1383"/>
+        <Baseline points="981,3506 1004,1388"/>
+        <TextEquiv>
+          <Unicode>陳俞本同惟陳俞公下均有之臣二字聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876167" custom="structure {type:Commentary;}">
+        <Coords points="817,1381 958,1381 958,3505 817,3505 817,1381"/>
+        <Baseline points="885,3506 907,1385"/>
+        <TextEquiv>
+          <Unicode>珍本東觀記卷九祭遵傳亦然姚輯本脫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876168" custom="structure {type:Text;}">
+        <Coords points="844,3500 1026,3500 1026,4040 844,4040 844,3500"/>
+        <Baseline points="933,3501 933,4041"/>
+        <TextEquiv>
+          <Unicode>廉潔下士</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876169" custom="structure {type:Commentary;}">
+        <Coords points="923,4034 1042,4034 1046,4312 921,4308 923,4034"/>
+        <Baseline points="978,4038 987,4298"/>
+        <TextEquiv>
+          <Unicode>漢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876170" custom="structure {type:Commentary;}">
+        <Coords points="822,4045 931,4045 931,4306 822,4306 822,4045"/>
+        <Baseline points="888,4047 888,4307"/>
+        <TextEquiv>
+          <Unicode>趙廣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876171" custom="structure {type:Commentary;}">
+        <Coords points="719,1378 855,1378 855,4303 719,4303 719,1378"/>
+        <Baseline points="789,4304 806,1382"/>
+        <TextEquiv>
+          <Unicode>漢傳云云州舉茂才○今案漢書卷七十六本傳作以廉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876172" custom="structure {type:Commentary;}">
+        <Coords points="616,1375 760,1375 760,4303 616,4303 616,1375"/>
+        <Baseline points="687,4304 709,1379"/>
+        <TextEquiv>
+          <Unicode>潔下士為名舉茂才舉上無州字陳俞本土下作有名譽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876173" custom="structure {type:Commentary;}">
+        <Coords points="545,1375 654,1375 654,1641 545,1641 545,1375"/>
+        <Baseline points="610,1377 610,1642"/>
+        <TextEquiv>
+          <Unicode>仍有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876174" custom="structure {type:Commentary;}">
+        <Coords points="439,1367 559,1367 559,1652 439,1652 439,1367"/>
+        <Baseline points="494,1654 509,1374"/>
+        <TextEquiv>
+          <Unicode>州字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876175" custom="structure {type:Text;}">
+        <Coords points="456,1636 651,1636 651,2178 456,2178 456,1636"/>
+        <Baseline points="557,1637 557,2180"/>
+        <TextEquiv>
+          <Unicode>為人廉直</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876176" custom="structure {type:Commentary;}">
+        <Coords points="524,2173 630,2173 630,4297 524,4297 524,2173"/>
+        <Baseline points="585,4298 593,2177"/>
+        <TextEquiv>
+          <Unicode>漢書申屠嘉傳云文帝以申屠嘉為丞相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876177" custom="structure {type:Commentary;}">
+        <Coords points="423,2178 545,2178 545,4300 423,4300 423,2178"/>
+        <Baseline points="492,4301 497,2183"/>
+        <TextEquiv>
+          <Unicode>嘉云云門不受私謁○今案見漢書卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876178" custom="structure {type:Commentary;}">
+        <Coords points="342,1375 464,1375 464,2029 342,2029 342,1375"/>
+        <Baseline points="415,1379 418,2030"/>
+        <TextEquiv>
+          <Unicode>十二本傳及</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876179" custom="structure {type:Commentary;}">
+        <Coords points="258,1375 369,1375 369,1902 258,1902 258,1375"/>
+        <Baseline points="311,1903 319,1379"/>
+        <TextEquiv>
+          <Unicode>陳俞本同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876180" custom="structure {type:Text;}">
+        <Coords points="252,2029 439,2029 439,2572 252,2572 252,2029"/>
+        <Baseline points="353,2033 359,2573"/>
+        <TextEquiv>
+          <Unicode>儉約自居</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876181" custom="structure {type:Commentary;}">
+        <Coords points="328,2572 434,2572 434,4292 328,4292 328,2572"/>
+        <Baseline points="398,2576 401,4295"/>
+        <TextEquiv>
+          <Unicode>晉中興書庾冰傳云冰天性清慎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876182" custom="structure {type:Commentary;}">
+        <Coords points="241,2572 347,2572 347,4292 241,4292 241,2572"/>
+        <Baseline points="296,2576 299,4293"/>
+        <TextEquiv>
+          <Unicode>常以云云子襲嘗貸官絹十疋冰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>叔敖將死屬其子曰我死王必封汝汝無多受利地越荊
+之問有寢之丘此其地不利而名甚惡荊人鬼越人徒可
+長有也其子受之至今不失孫叔敖可謂以云云○今案
+陳俞本同考近本呂氏春秋孟冬紀越荊作楚越丘下有
+者字荊人六字作荊人畏鬼而越
+人信機收句作知不以利為利矣
+在朝清廉
+東觀漢記郭
+丹傳云丹為
+司徒云云公正○今案御覽卷二百七引朝下有名字
+聚珍本姚輯本東觀記郭丹傳及陳俞本亦然餘同
+在
+職公廉
+漢書馮奉世傳云馮立字聖卿通春秋為五原太
+守在職公廉與野王相似吏民嘉美野王立相代
+為太守歌之曰太馮君小馮君兄弟繼踵相因循政如魯
+衛德化鈞○孫氏校丘改立戊改代今案見漢書七十九
+在作居本鈔已有節錄陳俞本
+則補引全文俞本聖卿作聖通
+廉潔奉公
+東觀漢記祭遵
+傳云祭遵為征
+虜將軍雲雲光武嘆曰安得憂國奉公如祭遵秋○今案
+御覽卷二百三十九引東觀記末句作如祭征虜者乎與
+陳俞本同惟陳俞公下均有之臣二字聚
+珍本東觀記卷九祭遵傳亦然姚輯本脫
+廉潔下士
+漢書
+趙廣
+漢傳云云州舉茂才○今案漢書卷七十六本傳作以廉
+潔下士為名舉茂才舉上無州字陳俞本土下作有名譽
+仍有
+州字
+為人廉直
+漢書申屠嘉傳云文帝以申屠嘉為丞相
+嘉云云門不受私謁○今案見漢書卷四
+十二本傳及
+陳俞本同
+儉約自居
+晉中興書庾冰傳云冰天性清慎
+常以云云子襲嘗貸官絹十疋冰
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80237" custom="structure {type:Marginalia;}">
+      <Coords points="114,3492 209,3490 209,4194 116,4201 114,3492"/>
+      <TextLine id="876129" custom="structure {type:Title;}">
+        <Coords points="111,3497 206,3497 206,4186 111,4186 111,3497"/>
+        <Baseline points="154,3502 168,4189"/>
+        <TextEquiv>
+          <Unicode>孔氏三十三萬卷堂影鈔本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>孔氏三十三萬卷堂影鈔本
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80238" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2517,143 2644,141 2650,242 2497,242 2517,143"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

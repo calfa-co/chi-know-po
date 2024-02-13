@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:25+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_9_69_0006.jpg" imageHeight="3144" imageWidth="3601">
+    <TextRegion id="116667" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3336,1176 3419,1176 3426,1593 3318,1587 3336,1176"/>
+      <TextLine id="1099123" custom="structure {type:Section;}">
+        <Coords points="3333,1166 3435,1166 3435,1582 3333,1582 3333,1166"/>
+        <Baseline points="3376,1583 3379,1169"/>
+        <TextEquiv>
+          <Unicode>農書目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>農書目錄
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116668" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="1922,722 3342,736 3318,2686 1922,2660 1922,722"/>
+      <TextLine id="1099126" custom="structure {type:Title;}">
+        <Coords points="3185,808 3312,808 3312,1027 3185,1027 3185,808"/>
+        <Baseline points="3251,813 3268,1025"/>
+        <TextEquiv>
+          <Unicode>中卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099127" custom="structure {type:Title;}">
+        <Coords points="3026,883 3158,883 3158,1158 3026,1158 3026,883"/>
+        <Baseline points="3110,887 3117,1159"/>
+        <TextEquiv>
+          <Unicode>牛說</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099128" custom="structure {type:Title;}">
+        <Coords points="3015,1697 3162,1697 3162,2316 3015,2316 3015,1697"/>
+        <Baseline points="3076,2316 3096,1701"/>
+        <TextEquiv>
+          <Unicode>牧養役用之宜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099129" custom="structure {type:Title;}">
+        <Coords points="2874,871 3006,871 3006,1330 2874,1330 2874,871"/>
+        <Baseline points="2938,873 2938,1331"/>
+        <TextEquiv>
+          <Unicode>醫治之宜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099130" custom="structure {type:Title;}">
+        <Coords points="2720,791 2846,791 2846,1068 2720,1068 2720,791"/>
+        <Baseline points="2784,793 2787,1069"/>
+        <TextEquiv>
+          <Unicode>下卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099131" custom="structure {type:Title;}">
+        <Coords points="2557,875 2699,875 2699,1313 2557,1313 2557,875"/>
+        <Baseline points="2632,1314 2649,880"/>
+        <TextEquiv>
+          <Unicode>種桑之法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099132" custom="structure {type:Title;}">
+        <Coords points="2554,1704 2695,1704 2695,2247 2554,2247 2554,1704"/>
+        <Baseline points="2622,2249 2639,1708"/>
+        <TextEquiv>
+          <Unicode>收蠶種之法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099133" custom="structure {type:Title;}">
+        <Coords points="2405,887 2536,887 2536,1296 2405,1296 2405,887"/>
+        <Baseline points="2474,890 2484,1297"/>
+        <TextEquiv>
+          <Unicode>育蠶之法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099134" custom="structure {type:Title;}">
+        <Coords points="2400,1683 2536,1683 2536,2335 2400,2335 2400,1683"/>
+        <Baseline points="2477,1684 2477,2337"/>
+        <TextEquiv>
+          <Unicode>用火探桑之法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099135" custom="structure {type:Title;}">
+        <Coords points="2245,843 2384,843 2384,1531 2245,1531 2245,843"/>
+        <Baseline points="2313,1533 2326,847"/>
+        <TextEquiv>
+          <Unicode>簇箔藏繭之法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>中卷
+牛說
+牧養役用之宜
+醫治之宜
+下卷
+種桑之法
+收蠶種之法
+育蠶之法
+用火探桑之法
+簇箔藏繭之法
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116669" custom="structure {type:MainText_Left;}">
+      <Coords points="298,796 1727,769 1737,2673 348,2680 298,796"/>
+      <TextLine id="1099136" custom="structure {type:Title;}">
+        <Coords points="1567,735 1696,735 1696,1189 1567,1189 1567,735"/>
+        <Baseline points="1636,736 1636,1190"/>
+        <TextEquiv>
+          <Unicode>農書卷上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099137" custom="structure {type:Author_name;}">
+        <Coords points="1575,1477 1707,1477 1707,2494 1575,2494 1575,1477"/>
+        <Baseline points="1623,1482 1657,2495"/>
+        <TextEquiv>
+          <Unicode>仁和趙氏小山堂鈔本開雕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099138" custom="structure {type:Title;}">
+        <Coords points="1415,1006 1549,1006 1549,1692 1415,1692 1415,1006"/>
+        <Baseline points="1485,1008 1496,1694"/>
+        <TextEquiv>
+          <Unicode>財力之宜篇第一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099139" custom="structure {type:Text;}">
+        <Coords points="1257,773 1404,773 1409,2703 1268,2689 1257,773"/>
+        <Baseline points="1320,776 1340,2717"/>
+        <TextEquiv>
+          <Unicode>凡從事于務者皆當量力而爲之不可苟且貪多務得</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099140" custom="structure {type:Text;}">
+        <Coords points="1098,752 1251,752 1251,2698 1098,2698 1098,752"/>
+        <Baseline points="1169,756 1192,2700"/>
+        <TextEquiv>
+          <Unicode>以致終無成遂也傳日少則得多則惑況稼穑在艱難</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099141" custom="structure {type:Commentary;}">
+        <Coords points="943,759 1100,759 1100,2709 943,2709 943,759"/>
+        <Baseline points="1007,762 1041,2710"/>
+        <TextEquiv>
+          <Unicode>之无者詎可不先度其財足以瞻力足以給優游不迫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099142" custom="structure {type:Text;}">
+        <Coords points="793,759 936,759 936,2698 793,2698 793,759"/>
+        <Baseline points="859,762 876,2700"/>
+        <TextEquiv>
+          <Unicode>可以取必效然後爲之儻或財不贍力不給而貪多務</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099143" custom="structure {type:Text;}">
+        <Coords points="630,752 793,752 793,2696 630,2696 630,752"/>
+        <Baseline points="708,756 745,2697"/>
+        <TextEquiv>
+          <Unicode>得未免苟簡滅裂之患十不得一二幸其成功已不可</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099144" custom="structure {type:Text;}">
+        <Coords points="478,766 628,766 628,2702 478,2702 478,766"/>
+        <Baseline points="550,769 570,2703"/>
+        <TextEquiv>
+          <Unicode>必矣雖多其田畝是多其患害未見其利益也若深思</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099145" custom="structure {type:Text;}">
+        <Coords points="324,770 471,770 471,2684 324,2684 324,770"/>
+        <Baseline points="392,773 415,2686"/>
+        <TextEquiv>
+          <Unicode>熟計既善其始又善其中終必有成遂之常矣豈徒苟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>農書卷上
+仁和趙氏小山堂鈔本開雕
+財力之宜篇第一
+凡從事于務者皆當量力而爲之不可苟且貪多務得
+以致終無成遂也傳日少則得多則惑況稼穑在艱難
+之无者詎可不先度其財足以瞻力足以給優游不迫
+可以取必效然後爲之儻或財不贍力不給而貪多務
+得未免苟簡滅裂之患十不得一二幸其成功已不可
+必矣雖多其田畝是多其患害未見其利益也若深思
+熟計既善其始又善其中終必有成遂之常矣豈徒苟
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116670" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="214,1250 338,1247 358,2707 267,2703 214,1250"/>
+      <TextLine id="1099124" custom="structure {type:Section;}">
+        <Coords points="238,1260 311,1234 311,1620 232,1630 238,1260"/>
+        <Baseline points="254,1237 267,1620"/>
+        <TextEquiv>
+          <Unicode>農書卷上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234251" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="294,2111 294,2202"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099125" custom="structure {type:Title;}">
+        <Coords points="252,2131 356,2127 356,2712 259,2716 252,2131"/>
+        <Baseline points="292,2229 298,2713"/>
+        <TextEquiv>
+          <Unicode>知不足齋樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>農書卷上
+一
+知不足齋樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

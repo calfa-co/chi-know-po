@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:16:48+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1938_3_0040.jpg" imageHeight="5673" imageWidth="3858">
+    <TextRegion id="86880" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3647,2013 3787,2005 3783,4253 3647,4241 3647,2013"/>
+      <TextLine id="920083" custom="structure {type:Page_Number;}">
+        <Coords points="3744,2294 3684,2294 3665,2524 3684,2593 3668,2735 3687,2795 3668,2940 3750,2946 3794,2940 3794,2291 3744,2294"/>
+        <Baseline points="3747,2297 3751,2949"/>
+        <TextEquiv>
+          <Unicode>爾雅卷下後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="920084" custom="structure {type:Page_Number;}">
+        <Coords points="3750,3580 3681,3580 3659,3756 3817,3756 3807,3580 3750,3580"/>
+        <Baseline points="3751,3581 3751,3761"/>
+        <TextEquiv>
+          <Unicode>十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>爾雅卷下後
+十八
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86872" custom="structure {type:Image;}">
+      <Coords points="1895,625 3659,634 3615,2897 1883,2905 1895,625"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86873" custom="structure {type:Marginalia_Caption;}">
+      <Coords points="3427,681 3619,673 3627,1073 3431,1073 3427,681"/>
+      <TextLine id="920088" custom="structure {type:Title;}">
+        <Coords points="3439,687 3453,1063 3605,1058 3615,692 3439,687"/>
+        <Baseline points="3511,689 3523,1053"/>
+        <TextEquiv>
+          <Unicode>鷂雉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>鷂雉
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86874" custom="structure {type:Image;}">
+      <Coords points="132,629 1856,620 1835,2893 148,2901 132,629"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86875" custom="structure {type:Marginalia_Caption;}">
+      <Coords points="1639,661 1827,657 1831,989 1647,989 1639,661"/>
+      <TextLine id="920087" custom="structure {type:Title;}">
+        <Coords points="1669,664 1650,992 1836,1001 1821,664 1669,664"/>
+        <Baseline points="1731,673 1743,989"/>
+        <TextEquiv>
+          <Unicode>鳪雉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>鳪雉
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86876" custom="structure {type:Image;}">
+      <Coords points="1887,2937 3619,2918 3619,5213 1891,5209 1887,2937"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86877" custom="structure {type:Marginalia_Caption;}">
+      <Coords points="3451,2961 3619,2965 3611,3325 3459,3325 3451,2961"/>
+      <TextLine id="920086" custom="structure {type:Title;}">
+        <Coords points="3453,3313 3615,3313 3624,2961 3443,2980 3453,3313"/>
+        <Baseline points="3515,3309 3527,2977"/>
+        <TextEquiv>
+          <Unicode>鷮雉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>鷮雉
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86878" custom="structure {type:Image;}">
+      <Coords points="139,2933 1855,2928 1847,5225 167,5205 139,2933"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86879" custom="structure {type:Marginalia_Caption;}">
+      <Coords points="1659,2953 1827,2937 1823,3313 1659,3309 1659,2953"/>
+      <TextLine id="920085" custom="structure {type:Title;}">
+        <Coords points="1655,3299 1812,3318 1817,2966 1669,2975 1655,3299"/>
+        <Baseline points="1735,2973 1735,3289"/>
+        <TextEquiv>
+          <Unicode>鷩雉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>鷩雉
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86881" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="3495,145 3639,145 3639,273 3503,285 3495,145"/>
+      <TextLine id="920082" custom="structure {type:Page_Number;}">
+        <Coords points="3523,248 3527,280 3627,267 3608,141 3511,148 3523,248"/>
+        <Baseline points="3527,249 3627,237"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

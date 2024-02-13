@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:42+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-15_0070.jpg" imageHeight="3500" imageWidth="1864">
+    <TextRegion id="117272" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1721,1208 1757,1206 1757,2390 1721,2390 1721,1208"/>
+      <TextLine id="1105229" custom="structure {type:Section;}">
+        <Coords points="1722,1293 1762,1288 1762,1534 1722,1537 1722,1293"/>
+        <Baseline points="1738,1529 1744,1290"/>
+        <TextEquiv>
+          <Unicode>文四十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105230" custom="structure {type:Page_Number;}">
+        <Coords points="1728,2309 1756,2312 1759,2379 1730,2377 1728,2309"/>
+        <Baseline points="1740,2309 1745,2359"/>
+        <TextEquiv>
+          <Unicode>十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文四十三
+十
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117271" custom="structure {type:MainText;}">
+      <Coords points="164,698 1707,731 1709,3200 185,3192 164,698"/>
+      <TextLine id="1105205" custom="structure {type:Text;}">
+        <Coords points="1577,2580 1574,1964 1575,735 1648,730 1712,743 1710,1951 1717,2576 1713,3207 1575,3204 1577,2580"/>
+        <Baseline points="1645,734 1645,3198"/>
+        <TextEquiv>
+          <Unicode>共登王塗期於相致時為懽益一旦迫之必發其狂疾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105206" custom="structure {type:Text;}">
+        <Coords points="1417,1964 1421,1348 1422,730 1555,733 1564,1969 1567,3205 1422,3200 1417,1964"/>
+        <Baseline points="1488,731 1498,3195"/>
+        <TextEquiv>
+          <Unicode>自非重怨不至於此也野人有快炙背而美芹子者欲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105207" custom="structure {type:Text;}">
+        <Coords points="1263,725 1409,731 1407,1207 1335,1214 1264,1211 1263,725"/>
+        <Baseline points="1340,725 1346,1212"/>
+        <TextEquiv>
+          <Unicode>獻之至尊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105208" custom="structure {type:Commentary;}">
+        <Coords points="1333,2696 1335,2201 1333,1214 1407,1217 1414,2205 1411,2704 1412,3198 1335,3198 1333,2696"/>
+        <Baseline points="1374,1212 1383,3194"/>
+        <TextEquiv>
+          <Unicode>列子曰宋國有田父常衣濕黂至春自暴於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105209" custom="structure {type:Commentary;}">
+        <Coords points="1256,2699 1259,2196 1259,1698 1263,1216 1331,1211 1337,1700 1333,2198 1335,3195 1261,3195 1256,2699"/>
+        <Baseline points="1298,1203 1298,3197"/>
+        <TextEquiv>
+          <Unicode>日當爾時不知有廣夏隩室緜纊狐貉顧謂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105210" custom="structure {type:Commentary;}">
+        <Coords points="1178,2580 1180,1961 1178,721 1252,721 1257,1955 1256,2573 1246,3195 1183,3193 1178,2580"/>
+        <Baseline points="1216,3191 1221,719"/>
+        <TextEquiv>
+          <Unicode>其妻曰負日之暄人莫知之以獻吾君將有賞也其室</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105211" custom="structure {type:Commentary;}">
+        <Coords points="1098,1957 1104,1335 1104,721 1175,725 1180,1342 1175,1959 1183,3190 1099,3195 1098,1957"/>
+        <Baseline points="1137,725 1145,3191"/>
+        <TextEquiv>
+          <Unicode>告之曰昔人有美戎菽甘枲莖與芹子對鄉豪稱之鄉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105212" custom="structure {type:Commentary;}">
+        <Coords points="1020,721 1094,723 1098,1486 1015,1486 1020,721"/>
+        <Baseline points="1060,1477 1063,719"/>
+        <TextEquiv>
+          <Unicode>豪取嘗之苦於口</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105213" custom="structure {type:Commentary;}">
+        <Coords points="946,721 1019,719 1017,1391 945,1384 946,721"/>
+        <Baseline points="972,1373 987,717"/>
+        <TextEquiv>
+          <Unicode>躁於腹眾哂之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105214" custom="structure {type:Text;}">
+        <Coords points="955,2129 950,1496 1093,1502 1104,2766 951,2768 955,2129"/>
+        <Baseline points="1026,1503 1038,2764"/>
+        <TextEquiv>
+          <Unicode>雖有區區之意亦已疏矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105215" custom="structure {type:Commentary;}">
+        <Coords points="1029,2761 1099,2766 1096,3188 1029,3190 1029,2761"/>
+        <Baseline points="1063,2762 1069,3186"/>
+        <TextEquiv>
+          <Unicode>李陵書曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105216" custom="structure {type:Commentary;}">
+        <Coords points="941,2770 1020,2771 1032,3193 948,3190 941,2770"/>
+        <Baseline points="981,2762 995,3191"/>
+        <TextEquiv>
+          <Unicode>孤負陵區</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105217" custom="structure {type:Commentary;}">
+        <Coords points="861,716 937,715 937,908 859,906 861,716"/>
+        <Baseline points="905,717 905,909"/>
+        <TextEquiv>
+          <Unicode>區之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105218" custom="structure {type:Commentary;}">
+        <Coords points="795,714 862,714 862,822 795,822 795,714"/>
+        <Baseline points="831,711 831,824"/>
+        <TextEquiv>
+          <Unicode>意</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105219" custom="structure {type:Text;}">
+        <Coords points="802,2633 802,2060 795,916 933,911 938,2053 935,2625 936,3198 803,3198 802,2633"/>
+        <Baseline points="862,909 871,3197"/>
+        <TextEquiv>
+          <Unicode>願足下勿似之其意如此既以解足下幷以為別</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105220" custom="structure {type:Text;}">
+        <Coords points="639,714 783,716 787,1056 642,1059 639,714"/>
+        <Baseline points="712,1059 718,714"/>
+        <TextEquiv>
+          <Unicode>嵇康白</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105221" custom="structure {type:Title;}">
+        <Coords points="494,1544 489,1036 630,1036 634,2038 565,2053 499,2038 494,1544"/>
+        <Baseline points="562,2052 565,1039"/>
+        <TextEquiv>
+          <Unicode>為石仲容與孫皓書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105222" custom="structure {type:Commentary;}">
+        <Coords points="573,2630 560,2057 612,2048 640,2050 645,2620 652,3190 581,3193 573,2630"/>
+        <Baseline points="593,2052 616,3191"/>
+        <TextEquiv>
+          <Unicode>臧榮緒晉書曰石苞字仲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105223" custom="structure {type:Commentary;}">
+        <Coords points="497,2625 496,2051 561,2053 573,2622 580,3193 504,3197 497,2625"/>
+        <Baseline points="526,2052 537,3191"/>
+        <TextEquiv>
+          <Unicode>容太祖輔政都督楊州諸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105224" custom="structure {type:Commentary;}">
+        <Coords points="420,2714 413,2231 408,1274 481,1268 491,2228 505,3188 422,3193 420,2714"/>
+        <Baseline points="446,1268 463,3189"/>
+        <TextEquiv>
+          <Unicode>軍事進位征東大將軍又曰太祖遣徐劭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105225" custom="structure {type:Commentary;}">
+        <Coords points="334,2230 329,1750 332,1273 403,1274 410,1750 417,2226 418,3187 348,3190 334,2230"/>
+        <Baseline points="367,1277 384,3186"/>
+        <TextEquiv>
+          <Unicode>孫郁至吳將軍石苞令孫楚作書與孫皓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105226" custom="structure {type:Commentary;}">
+        <Coords points="253,1274 324,1271 322,1520 324,1759 250,1759 253,1274"/>
+        <Baseline points="274,1274 282,1760"/>
+        <TextEquiv>
+          <Unicode>劭至吳不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105227" custom="structure {type:Commentary;}">
+        <Coords points="173,1280 247,1271 247,1661 176,1655 173,1280"/>
+        <Baseline points="206,1650 209,1274"/>
+        <TextEquiv>
+          <Unicode>敢為通</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105228" custom="structure {type:Author_name;}">
+        <Coords points="184,1818 321,1821 322,2263 190,2263 184,1818"/>
+        <Baseline points="260,1814 263,2264"/>
+        <TextEquiv>
+          <Unicode>孫子荊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>共登王塗期於相致時為懽益一旦迫之必發其狂疾
+自非重怨不至於此也野人有快炙背而美芹子者欲
+獻之至尊
+列子曰宋國有田父常衣濕黂至春自暴於
+日當爾時不知有廣夏隩室緜纊狐貉顧謂
+其妻曰負日之暄人莫知之以獻吾君將有賞也其室
+告之曰昔人有美戎菽甘枲莖與芹子對鄉豪稱之鄉
+豪取嘗之苦於口
+躁於腹眾哂之
+雖有區區之意亦已疏矣
+李陵書曰
+孤負陵區
+區之
+意
+願足下勿似之其意如此既以解足下幷以為別
+嵇康白
+為石仲容與孫皓書
+臧榮緒晉書曰石苞字仲
+容太祖輔政都督楊州諸
+軍事進位征東大將軍又曰太祖遣徐劭
+孫郁至吳將軍石苞令孫楚作書與孫皓
+劭至吳不
+敢為通
+孫子荊
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

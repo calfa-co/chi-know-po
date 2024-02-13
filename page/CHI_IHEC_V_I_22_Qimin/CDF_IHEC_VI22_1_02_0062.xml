@@ -1,0 +1,385 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:35+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_02_0062.jpg" imageHeight="4178" imageWidth="4663">
+    <TextRegion id="119615" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4314,762 4457,743 4533,3664 4390,3688 4314,762"/>
+      <TextLine id="1129439" custom="structure {type:Title;}">
+        <Coords points="4341,766 4443,764 4460,1309 4347,1315 4341,766"/>
+        <Baseline points="4379,740 4426,1298"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129440" custom="structure {type:Section;}">
+        <Coords points="4352,1734 4463,1683 4463,1994 4355,2002 4352,1734"/>
+        <Baseline points="4423,1695 4446,1991"/>
+        <TextEquiv>
+          <Unicode>卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129441" custom="structure {type:Page_Number;}">
+        <Coords points="4361,2899 4468,2899 4474,3120 4361,3112 4361,2899"/>
+        <Baseline points="4446,3101 4480,2916"/>
+        <TextEquiv>
+          <Unicode>十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷六
+十九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119616" custom="structure {type:MainText_Right;}">
+      <Coords points="2455,772 4319,734 4376,3692 2498,3711 2455,772"/>
+      <TextLine id="1129442" custom="structure {type:Commentary;}">
+        <Coords points="4228,760 4338,750 4341,2019 4235,2018 4228,760"/>
+        <Baseline points="4278,737 4305,2025"/>
+        <TextEquiv>
+          <Unicode>二酪久停皆暍氣不如</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129443" custom="structure {type:Commentary;}">
+        <Coords points="4124,755 4228,755 4245,1875 4138,1880 4124,755"/>
+        <Baseline points="4177,747 4208,1877"/>
+        <TextEquiv>
+          <Unicode>年別新作歲管用盡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129444" custom="structure {type:Text;}">
+        <Coords points="3929,733 4101,733 4101,1448 3929,1448 3929,733"/>
+        <Baseline points="4019,737 4036,1450"/>
+        <TextEquiv>
+          <Unicode>作馬酪酵法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129445" custom="structure {type:Commentary;}">
+        <Coords points="4036,1454 4133,1454 4176,3661 4059,3659 4036,1454"/>
+        <Baseline points="4087,1446 4124,3653"/>
+        <TextEquiv>
+          <Unicode>用驢乳汁二三升和馬乳不限多少澄酪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129446" custom="structure {type:Commentary;}">
+        <Coords points="3931,1459 4040,1457 4064,3664 3962,3664 3931,1459"/>
+        <Baseline points="3976,1460 4019,3666"/>
+        <TextEquiv>
+          <Unicode>成取下澱團曝乾後歲作酪用此為酵也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129447" custom="structure {type:Text;}">
+        <Coords points="3727,745 3908,745 3908,1176 3727,1176 3727,745"/>
+        <Baseline points="3814,750 3834,1177"/>
+        <TextEquiv>
+          <Unicode>抨酥法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129448" custom="structure {type:Commentary;}">
+        <Coords points="3824,1174 3929,1174 3962,3664 3855,3664 3824,1174"/>
+        <Baseline points="3871,1177 3925,3666"/>
+        <TextEquiv>
+          <Unicode>以夾榆木椀為杷子作杷子法割卻椀半上剜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129449" custom="structure {type:Commentary;}">
+        <Coords points="3722,1190 3829,1181 3861,3685 3757,3688 3722,1190"/>
+        <Baseline points="3781,1170 3818,3686"/>
+        <TextEquiv>
+          <Unicode>四廂各作一團孔大小徑寸許正底施長柄如</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129450" custom="structure {type:Commentary;}">
+        <Coords points="3617,769 3717,757 3766,3709 3646,3709 3617,769"/>
+        <Baseline points="3673,760 3710,3710"/>
+        <TextEquiv>
+          <Unicode>酒杷形抨酥酥酪甜醋皆得所數目陳酪極大醋者亦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129451" custom="structure {type:Commentary;}">
+        <Coords points="3510,757 3617,757 3648,3695 3548,3695 3510,757"/>
+        <Baseline points="3579,763 3602,3697"/>
+        <TextEquiv>
+          <Unicode>無嫌酪多用大甕酪少用小甕置甕於日中旦起瀉酪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129452" custom="structure {type:Commentary;}">
+        <Coords points="3410,753 3512,750 3548,3718 3446,3723 3410,753"/>
+        <Baseline points="3478,740 3498,3720"/>
+        <TextEquiv>
+          <Unicode>著甕中炙直至日西南角起手抨之令杷子常至甕底</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129453" custom="structure {type:Commentary;}">
+        <Coords points="3308,769 3413,769 3443,3692 3348,3697 3308,769"/>
+        <Baseline points="3370,774 3397,3693"/>
+        <TextEquiv>
+          <Unicode>一食頃作熱湯水解令得下手寫著甕中湯多少令常</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129454" custom="structure {type:Commentary;}">
+        <Coords points="3198,762 3308,757 3350,3718 3244,3718 3198,762"/>
+        <Baseline points="3269,750 3306,3720"/>
+        <TextEquiv>
+          <Unicode>半酪乃抨之良久酥出下冷水多少亦於湯等更急抨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129455" custom="structure {type:Commentary;}">
+        <Coords points="3099,764 3201,757 3241,3706 3144,3702 3099,764"/>
+        <Baseline points="3155,760 3182,3707"/>
+        <TextEquiv>
+          <Unicode>之於此時杷子不須復達甕底酥已浮出故也酥既徧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129456" custom="structure {type:Commentary;}">
+        <Coords points="3001,767 3099,764 3160,3699 3044,3699 3001,767"/>
+        <Baseline points="3041,750 3101,3700"/>
+        <TextEquiv>
+          <Unicode>覆酪上更下冷水多少如前酥凝抨止水盆盛冷水著</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129457" custom="structure {type:Commentary;}">
+        <Coords points="2894,776 3001,772 3042,3695 2939,3697 2894,776"/>
+        <Baseline points="2960,747 3000,3697"/>
+        <TextEquiv>
+          <Unicode>盆邊以手接酥沈手盆水中酥自浮出更掠如初酥盡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129458" custom="structure {type:Commentary;}">
+        <Coords points="2794,767 2896,762 2942,3706 2835,3711 2794,767"/>
+        <Baseline points="2859,763 2893,3707"/>
+        <TextEquiv>
+          <Unicode>乃止抨酥酪漿中和飧粥盆中浮酥待冷悉凝以手接</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129459" custom="structure {type:Commentary;}">
+        <Coords points="2687,762 2797,764 2837,3709 2732,3714 2687,762"/>
+        <Baseline points="2755,763 2792,3710"/>
+        <TextEquiv>
+          <Unicode>取搦去水作團著銅器中或不津瓦器亦得十日許得</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129460" custom="structure {type:Commentary;}">
+        <Coords points="2592,786 2692,779 2737,3707 2630,3707 2592,786"/>
+        <Baseline points="2637,760 2678,3734"/>
+        <TextEquiv>
+          <Unicode>多少併內鐺中然牛羊矢緩火煎如香澤法當日內乳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129461" custom="structure {type:Commentary;}">
+        <Coords points="2475,777 2592,776 2638,3711 2475,3711 2475,777"/>
+        <Baseline points="2540,780 2580,3713"/>
+        <TextEquiv>
+          <Unicode>涌出如雨打水聲水乳既盡聲止沸定酥便成矣冬即</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>二酪久停皆暍氣不如
+年別新作歲管用盡
+作馬酪酵法
+用驢乳汁二三升和馬乳不限多少澄酪
+成取下澱團曝乾後歲作酪用此為酵也
+抨酥法
+以夾榆木椀為杷子作杷子法割卻椀半上剜
+四廂各作一團孔大小徑寸許正底施長柄如
+酒杷形抨酥酥酪甜醋皆得所數目陳酪極大醋者亦
+無嫌酪多用大甕酪少用小甕置甕於日中旦起瀉酪
+著甕中炙直至日西南角起手抨之令杷子常至甕底
+一食頃作熱湯水解令得下手寫著甕中湯多少令常
+半酪乃抨之良久酥出下冷水多少亦於湯等更急抨
+之於此時杷子不須復達甕底酥已浮出故也酥既徧
+覆酪上更下冷水多少如前酥凝抨止水盆盛冷水著
+盆邊以手接酥沈手盆水中酥自浮出更掠如初酥盡
+乃止抨酥酪漿中和飧粥盆中浮酥待冷悉凝以手接
+取搦去水作團著銅器中或不津瓦器亦得十日許得
+多少併內鐺中然牛羊矢緩火煎如香澤法當日內乳
+涌出如雨打水聲水乳既盡聲止沸定酥便成矣冬即
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119617" custom="structure {type:MainText_Left;}">
+      <Coords points="310,753 2193,753 2146,3707 291,3654 310,753"/>
+      <TextLine id="1129462" custom="structure {type:Commentary;}">
+        <Coords points="2071,753 2183,757 2145,3690 2031,3688 2071,753"/>
+        <Baseline points="2086,3680 2140,763"/>
+        <TextEquiv>
+          <Unicode>內著羊肚中夏盛不津器初煎乳時上有皮膜以手隨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129463" custom="structure {type:Commentary;}">
+        <Coords points="1971,750 2066,755 2028,3692 1928,3695 1971,750"/>
+        <Baseline points="1975,3713 2025,740"/>
+        <TextEquiv>
+          <Unicode>即掠取著別器中寫熱乳著盆中未濾之前乳皮凝厚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129464" custom="structure {type:Commentary;}">
+        <Coords points="1869,755 1974,757 1931,3680 1836,3685 1869,755"/>
+        <Baseline points="1881,3683 1924,747"/>
+        <TextEquiv>
+          <Unicode>亦悉掠取明日酪成若有黃皮亦悉掠取併著甕中以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129465" custom="structure {type:Commentary;}">
+        <Coords points="1769,753 1869,762 1836,3688 1719,3676 1769,753"/>
+        <Baseline points="1776,3700 1830,737"/>
+        <TextEquiv>
+          <Unicode>物痛熟研良久下湯又研亦下冷水純是好酪接取作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129466" custom="structure {type:Commentary;}">
+        <Coords points="1667,743 1764,748 1757,1347 1657,1359 1667,743"/>
+        <Baseline points="1709,1352 1729,737"/>
+        <TextEquiv>
+          <Unicode>團與大叚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129467" custom="structure {type:Commentary;}">
+        <Coords points="1525,735 1667,735 1667,1195 1525,1195 1525,735"/>
+        <Baseline points="1612,1197 1622,740"/>
+        <TextEquiv>
+          <Unicode>同煎矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129468" custom="structure {type:Text;}">
+        <Coords points="1323,735 1534,735 1534,3699 1323,3699 1323,735"/>
+        <Baseline points="1413,3700 1447,740"/>
+        <TextEquiv>
+          <Unicode>羊有疥者閒別之不別相染污或能合羣致死羊疥先</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129469" custom="structure {type:Text;}">
+        <Coords points="1149,742 1330,742 1330,1726 1149,1726 1149,742"/>
+        <Baseline points="1259,1729 1272,747"/>
+        <TextEquiv>
+          <Unicode>著口者難治多死</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129470" custom="structure {type:Text;}">
+        <Coords points="952,738 1133,738 1133,1313 952,1313 952,738"/>
+        <Baseline points="1047,740 1047,1315"/>
+        <TextEquiv>
+          <Unicode>治羊疥方</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129471" custom="structure {type:Commentary;}">
+        <Coords points="1036,1316 1151,1313 1132,3673 1008,3673 1036,1316"/>
+        <Baseline points="1064,3683 1090,1318"/>
+        <TextEquiv>
+          <Unicode>取黎盧根㕮咀令破以泔浸之以瓶盛塞口</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129472" custom="structure {type:Commentary;}">
+        <Coords points="934,1316 1039,1316 1015,3669 913,3669 934,1316"/>
+        <Baseline points="956,3686 1003,1302"/>
+        <TextEquiv>
+          <Unicode>放竈邊常令暖數日醋香便中用以磚瓦刮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129473" custom="structure {type:Commentary;}">
+        <Coords points="834,764 953,757 913,3657 803,3661 834,764"/>
+        <Baseline points="848,3666 909,753"/>
+        <TextEquiv>
+          <Unicode>疥令赤若強硬痂厚者亦可以湯洗之去痂拭燥以藥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129474" custom="structure {type:Commentary;}">
+        <Coords points="739,757 844,755 803,3661 701,3666 739,757"/>
+        <Baseline points="747,3660 808,747"/>
+        <TextEquiv>
+          <Unicode>汁塗之再上愈若多者日別漸漸塗之勿頓塗令徧羊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129475" custom="structure {type:Commentary;}">
+        <Coords points="635,750 737,760 738,1341 627,1342 635,750"/>
+        <Baseline points="694,1342 697,747"/>
+        <TextEquiv>
+          <Unicode>瘦不堪藥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129476" custom="structure {type:Commentary;}">
+        <Coords points="532,734 633,728 633,1323 527,1326 532,734"/>
+        <Baseline points="586,733 603,1325"/>
+        <TextEquiv>
+          <Unicode>勢便死矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129477" custom="structure {type:Text;}">
+        <Coords points="350,721 508,721 508,1035 350,1035 350,721"/>
+        <Baseline points="431,723 431,1036"/>
+        <TextEquiv>
+          <Unicode>又方</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129478" custom="structure {type:Commentary;}">
+        <Coords points="428,1038 530,1031 518,3426 401,3433 428,1038"/>
+        <Baseline points="458,3431 482,1036"/>
+        <TextEquiv>
+          <Unicode>去痂如前法燒葵根為灰煮醋澱熱塗之以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129479" custom="structure {type:Commentary;}">
+        <Coords points="316,1033 428,1036 404,3236 297,3240 316,1033"/>
+        <Baseline points="347,3236 364,1002"/>
+        <TextEquiv>
+          <Unicode>灰厚傅再上愈寒時勿翦毛去即凍死矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>內著羊肚中夏盛不津器初煎乳時上有皮膜以手隨
+即掠取著別器中寫熱乳著盆中未濾之前乳皮凝厚
+亦悉掠取明日酪成若有黃皮亦悉掠取併著甕中以
+物痛熟研良久下湯又研亦下冷水純是好酪接取作
+團與大叚
+同煎矣
+羊有疥者閒別之不別相染污或能合羣致死羊疥先
+著口者難治多死
+治羊疥方
+取黎盧根㕮咀令破以泔浸之以瓶盛塞口
+放竈邊常令暖數日醋香便中用以磚瓦刮
+疥令赤若強硬痂厚者亦可以湯洗之去痂拭燥以藥
+汁塗之再上愈若多者日別漸漸塗之勿頓塗令徧羊
+瘦不堪藥
+勢便死矣
+又方
+去痂如前法燒葵根為灰煮醋澱熱塗之以
+灰厚傅再上愈寒時勿翦毛去即凍死矣
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119618" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="153,724 301,724 286,3692 153,3688 153,724"/>
+      <TextLine id="1129480" custom="structure {type:Title;}">
+        <Coords points="216,734 311,736 306,1304 211,1300 216,734"/>
+        <Baseline points="233,1298 240,720"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129481" custom="structure {type:Section;}">
+        <Coords points="199,1680 292,1725 294,2003 199,1999 199,1680"/>
+        <Baseline points="206,1688 216,2005"/>
+        <TextEquiv>
+          <Unicode>卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129482" custom="structure {type:Page_Number;}">
+        <Coords points="187,2941 287,2938 287,3147 187,3150 187,2941"/>
+        <Baseline points="206,2940 206,3148"/>
+        <TextEquiv>
+          <Unicode>二十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷六
+二十
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

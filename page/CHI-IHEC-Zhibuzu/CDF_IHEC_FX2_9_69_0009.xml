@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:27+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_9_69_0009.jpg" imageHeight="3144" imageWidth="3601">
+    <TextRegion id="116678" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3320,1220 3386,1220 3377,1600 3313,1633 3320,1220"/>
+      <TextLine id="1099205" custom="structure {type:Section;}">
+        <Coords points="3310,1191 3408,1198 3391,1599 3310,1601 3310,1191"/>
+        <Baseline points="3349,1603 3355,1193"/>
+        <TextEquiv>
+          <Unicode>農書卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>農書卷一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116677" custom="structure {type:MainText_Right;}">
+      <Coords points="1913,770 3302,770 3302,2676 1913,2676 1913,770"/>
+      <TextLine id="1099156" custom="structure {type:Text;}">
+        <Coords points="3159,773 3286,763 3289,2680 3170,2680 3159,773"/>
+        <Baseline points="3221,2660 3225,766"/>
+        <TextEquiv>
+          <Unicode>大水巳過然後以黃綠縠種之於湖田則是有芒之種</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099157" custom="structure {type:Text;}">
+        <Coords points="3023,765 3132,759 3131,2663 3012,2665 3023,765"/>
+        <Baseline points="3066,2656 3069,763"/>
+        <TextEquiv>
+          <Unicode>與芒種節候二義可竝用也黄綠穀自下種以至收刈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099158" custom="structure {type:Text;}">
+        <Coords points="2851,776 2977,780 2981,2660 2918,2671 2851,2663 2851,776"/>
+        <Baseline points="2914,2649 2921,784"/>
+        <TextEquiv>
+          <Unicode>不過六七十日亦以避水溢之患也稻人掌稼下地以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099159" custom="structure {type:Text;}">
+        <Coords points="2689,759 2819,758 2819,2654 2692,2665 2689,759"/>
+        <Baseline points="2753,2656 2760,761"/>
+        <TextEquiv>
+          <Unicode>潴畜水使其聚也以坊止水使不溢也以遂均水使勢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099160" custom="structure {type:Text;}">
+        <Coords points="2537,753 2666,761 2666,2651 2534,2680 2537,753"/>
+        <Baseline points="2598,2653 2603,765"/>
+        <TextEquiv>
+          <Unicode>分也以列舍水使其去也以澮寫水溝之大者也其制</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099161" custom="structure {type:Text;}">
+        <Coords points="2381,765 2514,765 2511,2665 2381,2646 2381,765"/>
+        <Baseline points="2446,766 2446,2647"/>
+        <TextEquiv>
+          <Unicode>如此可謂備矣尙何水溢之患耶詩稱多黍多稌以言</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099162" custom="structure {type:Text;}">
+        <Coords points="2223,762 2358,756 2356,2651 2214,2660 2223,762"/>
+        <Baseline points="2290,2635 2295,759"/>
+        <TextEquiv>
+          <Unicode>高下咸得其宜今雖未能盡如古制亦可參酌依倣之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099207" custom="structure {type:Text;}">
+        <Coords points="2075,742 2191,742 2191,878 2075,878 2075,742"/>
+        <Baseline points="2141,880 2144,746"/>
+        <TextEquiv>
+          <Unicode>也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099163" custom="structure {type:Title;}">
+        <Coords points="1906,1009 2047,1005 2059,1647 1906,1647 1906,1009"/>
+        <Baseline points="1977,1013 1984,1648"/>
+        <TextEquiv>
+          <Unicode>耕耨之宜篇第三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>大水巳過然後以黃綠縠種之於湖田則是有芒之種
+與芒種節候二義可竝用也黄綠穀自下種以至收刈
+不過六七十日亦以避水溢之患也稻人掌稼下地以
+潴畜水使其聚也以坊止水使不溢也以遂均水使勢
+分也以列舍水使其去也以澮寫水溝之大者也其制
+如此可謂備矣尙何水溢之患耶詩稱多黍多稌以言
+高下咸得其宜今雖未能盡如古制亦可參酌依倣之
+也
+耕耨之宜篇第三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116676" custom="structure {type:MainText_Left;}">
+      <Coords points="366,756 1793,756 1793,2680 400,2693 366,756"/>
+      <TextLine id="1099147" custom="structure {type:Text;}">
+        <Coords points="1631,749 1773,748 1779,2657 1647,2660 1631,749"/>
+        <Baseline points="1696,752 1721,2642"/>
+        <TextEquiv>
+          <Unicode>未耕耨之先後遲速各有宜也早田穫刈纔畢隨即耕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099148" custom="structure {type:Text;}">
+        <Coords points="1474,761 1606,756 1629,2657 1510,2665 1474,761"/>
+        <Baseline points="1539,765 1572,2640"/>
+        <TextEquiv>
+          <Unicode>治曛暴加糞壅培而種豆麥蔬茹因以熟土壤而肥沃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099149" custom="structure {type:Text;}">
+        <Coords points="1324,759 1445,751 1493,2668 1340,2660 1324,759"/>
+        <Baseline points="1390,763 1413,2647"/>
+        <TextEquiv>
+          <Unicode>之以省來歲功役且其收足又以助歲計也晚田宜待</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099150" custom="structure {type:Text;}">
+        <Coords points="1161,754 1306,753 1337,2677 1179,2665 1161,754"/>
+        <Baseline points="1228,758 1240,1743 1263,2656"/>
+        <TextEquiv>
+          <Unicode>春乃耕爲其藁秸柔韌必待其朽腐易爲牛力山川原</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099151" custom="structure {type:Text;}">
+        <Coords points="1006,759 1142,762 1170,2668 1006,2658 1006,759"/>
+        <Baseline points="1072,763 1105,2660"/>
+        <TextEquiv>
+          <Unicode>隰多寒經冬深耕放水乾涸雪霜凍沍土壤蘇碎當始</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099152" custom="structure {type:Text;}">
+        <Coords points="847,756 984,759 1001,2691 879,2671 847,756"/>
+        <Baseline points="917,759 924,1379 952,2667"/>
+        <TextEquiv>
+          <Unicode>春又徧布朽薙腐草敗葉以燒治之則土暖而苗易發</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099153" custom="structure {type:Text;}">
+        <Coords points="690,761 825,762 854,2680 715,2680 690,761"/>
+        <Baseline points="758,765 798,2665"/>
+        <TextEquiv>
+          <Unicode>作寒泉雖冽不能害也若不能然則寒泉常浸土脈冷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099154" custom="structure {type:Text;}">
+        <Coords points="536,770 690,768 704,2688 560,2685 536,770"/>
+        <Baseline points="604,773 639,2668"/>
+        <TextEquiv>
+          <Unicode>而苗稼薄矣詩稱有冽氿泉無浸穫薪冽彼下泉浸彼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099155" custom="structure {type:Text;}">
+        <Coords points="377,758 511,756 560,2699 407,2688 377,758"/>
+        <Baseline points="445,761 480,2672"/>
+        <TextEquiv>
+          <Unicode>苞稂苞蕭苞蓍蓋謂是也平陂易野干耕而深浸即草</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>未耕耨之先後遲速各有宜也早田穫刈纔畢隨即耕
+治曛暴加糞壅培而種豆麥蔬茹因以熟土壤而肥沃
+之以省來歲功役且其收足又以助歲計也晚田宜待
+春乃耕爲其藁秸柔韌必待其朽腐易爲牛力山川原
+隰多寒經冬深耕放水乾涸雪霜凍沍土壤蘇碎當始
+春又徧布朽薙腐草敗葉以燒治之則土暖而苗易發
+作寒泉雖冽不能害也若不能然則寒泉常浸土脈冷
+而苗稼薄矣詩稱有冽氿泉無浸穫薪冽彼下泉浸彼
+苞稂苞蕭苞蓍蓋謂是也平陂易野干耕而深浸即草
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116675" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="295,1206 376,1206 393,2686 295,2680 295,1206"/>
+      <TextLine id="1099206" custom="structure {type:Section;}">
+        <Coords points="296,1220 365,1191 365,1608 296,1610 285,1622 296,1220"/>
+        <Baseline points="321,1193 328,1610"/>
+        <TextEquiv>
+          <Unicode>農書卷上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234252" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="358,2239 365,2114"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099146" custom="structure {type:Title;}">
+        <Coords points="316,2131 393,2134 393,2682 322,2674 316,2131"/>
+        <Baseline points="359,2222 366,2677"/>
+        <TextEquiv>
+          <Unicode>知不足斎樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>農書卷上
+四
+知不足斎樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

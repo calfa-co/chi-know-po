@@ -1,0 +1,681 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:01+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB3701_1_01_0060.jpg" imageHeight="4684" imageWidth="5751">
+    <TextRegion id="118087" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5343,844 5456,838 5436,4221 5343,4224 5343,844"/>
+      <TextLine id="1113673" custom="structure {type:Marginalia;}">
+        <Coords points="5342,837 5454,837 5454,1272 5342,1272 5342,837"/>
+        <Baseline points="5407,1274 5415,842"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113674" custom="structure {type:Section;}">
+        <Coords points="5342,1800 5639,1800 5639,2396 5342,2396 5342,1800"/>
+        <Baseline points="5407,1806 5411,2398"/>
+        <TextEquiv>
+          <Unicode>初学记卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113675" custom="structure {type:Page_Number;}">
+        <Coords points="5360,3109 5446,3109 5446,3257 5360,3257 5360,3109"/>
+        <Baseline points="5415,3110 5415,3258"/>
+        <TextEquiv>
+          <Unicode>九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初学记卷二
+九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118088" custom="structure {type:MainText_Right;}">
+      <Coords points="2850,932 5342,855 5348,4221 2935,4224 2850,932"/>
+      <TextLine id="1113676" custom="structure {type:Commentary;}">
+        <Coords points="5186,869 5355,869 5355,3401 5186,3401 5186,869"/>
+        <Baseline points="5271,874 5287,3402"/>
+        <TextEquiv>
+          <Unicode>三春之溢露溯九秋之鳴飆零雪寫其根霏霜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113677" custom="structure {type:Commentary;}">
+        <Coords points="5048,858 5222,858 5222,3229 5048,3229 5048,858"/>
+        <Baseline points="5127,862 5163,3230"/>
+        <TextEquiv>
+          <Unicode>封其條春秋元命苞曰霜以殺木露以潤草</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113678" custom="structure {type:Text;}">
+        <Coords points="5087,3325 5326,3325 5326,3752 5087,3752 5087,3325"/>
+        <Baseline points="5203,3330 5211,3754"/>
+        <TextEquiv>
+          <Unicode>仙藥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113679" custom="structure {type:Text;}">
+        <Coords points="5170,3827 5376,3827 5376,4220 5170,4220 5170,3827"/>
+        <Baseline points="5211,3834 5223,4222"/>
+        <TextEquiv>
+          <Unicode>神爐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113680" custom="structure {type:Commentary;}">
+        <Coords points="4920,858 5079,858 5079,3231 4920,3231 4920,858"/>
+        <Baseline points="4995,862 5011,3234"/>
+        <TextEquiv>
+          <Unicode>漢武內傳曰西王母云仙家上藥有玄霜絳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113681" custom="structure {type:Commentary;}">
+        <Coords points="4775,869 4959,869 4959,3229 4775,3229 4775,869"/>
+        <Baseline points="4851,874 4907,3230"/>
+        <TextEquiv>
+          <Unicode>雪抱朴子云凝霜雪於神爐採靈芝於嵩岳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113682" custom="structure {type:Text;}">
+        <Coords points="4824,3205 5058,3205 5058,3671 4824,3671 4824,3205"/>
+        <Baseline points="4943,3674 4951,3206"/>
+        <TextEquiv>
+          <Unicode>鷹擊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113683" custom="structure {type:Text;}">
+        <Coords points="4837,3710 5071,3710 5071,4088 4837,4088 4837,3710"/>
+        <Baseline points="4943,3714 4947,4090"/>
+        <TextEquiv>
+          <Unicode>豺祭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113684" custom="structure {type:Commentary;}">
+        <Coords points="4931,4049 5071,4049 5071,4236 4931,4236 4931,4049"/>
+        <Baseline points="5035,4050 5035,4238"/>
+        <TextEquiv>
+          <Unicode>鷹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113685" custom="structure {type:Commentary;}">
+        <Coords points="4811,4036 4954,4036 4954,4220 4811,4220 4811,4036"/>
+        <Baseline points="4891,4222 4895,4042"/>
+        <TextEquiv>
+          <Unicode>擊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113686" custom="structure {type:Commentary;}">
+        <Coords points="4629,874 4801,874 4801,1884 4629,1884 4629,874"/>
+        <Baseline points="4715,878 4747,1886"/>
+        <TextEquiv>
+          <Unicode>見敍事周書曰霜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113687" custom="structure {type:Commentary;}">
+        <Coords points="4509,853 4671,853 4671,1873 4509,1873 4509,853"/>
+        <Baseline points="4587,858 4611,1874"/>
+        <TextEquiv>
+          <Unicode>降之日豺乃祭獸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113688" custom="structure {type:Text;}">
+        <Coords points="4546,1850 4790,1850 4790,2451 4546,2451 4546,1850"/>
+        <Baseline points="4651,1858 4683,2450"/>
+        <TextEquiv>
+          <Unicode>白露爲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113689" custom="structure {type:Text;}">
+        <Coords points="4569,2539 4803,2539 4803,3075 4569,3075 4569,2539"/>
+        <Baseline points="4683,2546 4711,3078"/>
+        <TextEquiv>
+          <Unicode>堅冰至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113690" custom="structure {type:Commentary;}">
+        <Coords points="4681,3062 4824,3062 4824,4223 4681,4223 4681,3062"/>
+        <Baseline points="4771,3066 4775,4226"/>
+        <TextEquiv>
+          <Unicode>毛詩曰蒹葭蒼蒼白</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113691" custom="structure {type:Commentary;}">
+        <Coords points="4548,3062 4697,3062 4697,4236 4548,4236 4548,3062"/>
+        <Baseline points="4623,3066 4639,4238"/>
+        <TextEquiv>
+          <Unicode>露爲霜毛萇注曰蒹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113692" custom="structure {type:Commentary;}">
+        <Coords points="4371,876 4543,876 4543,2412 4371,2412 4371,876"/>
+        <Baseline points="4455,878 4479,2414"/>
+        <TextEquiv>
+          <Unicode>葭蘆也蒼蒼盛也白露降凝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113694" custom="structure {type:Commentary;}">
+        <Coords points="4395,2529 4569,2529 4569,3265 4395,3265 4395,2529"/>
+        <Baseline points="4487,2534 4519,3266"/>
+        <TextEquiv>
+          <Unicode>而爲霜易曰履</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113693" custom="structure {type:Commentary;}">
+        <Coords points="4236,879 4418,879 4418,3117 4236,3117 4236,879"/>
+        <Baseline points="4315,882 4355,3118"/>
+        <TextEquiv>
+          <Unicode>霜堅冰至王弼注曰始於履霜至于堅冰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113695" custom="structure {type:Text;}">
+        <Coords points="4283,3182 4530,3182 4530,3786 4283,3786 4283,3182"/>
+        <Baseline points="4419,3190 4447,3786"/>
+        <TextEquiv>
+          <Unicode>君子履</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113696" custom="structure {type:Text;}">
+        <Coords points="4377,3866 4527,3866 4527,4207 4377,4207 4377,3866"/>
+        <Baseline points="4423,3870 4427,4210"/>
+        <TextEquiv>
+          <Unicode>婦功</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113697" custom="structure {type:Text;}">
+        <Coords points="3981,861 4202,861 4202,1108 3981,1108 3981,861"/>
+        <Baseline points="4111,1110 4115,866"/>
+        <TextEquiv>
+          <Unicode>成</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113698" custom="structure {type:Commentary;}">
+        <Coords points="4088,1150 4291,1150 4291,4236 4088,4236 4088,1150"/>
+        <Baseline points="4163,1154 4227,4238"/>
+        <TextEquiv>
+          <Unicode>禮記曰霜露既降君子履之必有悽愴之心非其寒之謂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113699" custom="structure {type:Commentary;}">
+        <Coords points="3976,1150 4150,1150 4150,4241 3976,4241 3976,1150"/>
+        <Baseline points="4055,1154 4087,4242"/>
+        <TextEquiv>
+          <Unicode>也鄭注云以感時念親也家語曰霜降而婦功成嫁娶行</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113700" custom="structure {type:Commentary;}">
+        <Coords points="3796,882 3986,882 3986,2034 3796,2034 3796,882"/>
+        <Baseline points="3883,886 3935,2034"/>
+        <TextEquiv>
+          <Unicode>焉王肅注曰季秋霜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113701" custom="structure {type:Commentary;}">
+        <Coords points="3663,889 3830,889 3830,1889 3663,1889 3663,889"/>
+        <Baseline points="3735,894 3767,1890"/>
+        <TextEquiv>
+          <Unicode>降嫁娶者始此也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113702" custom="structure {type:Text;}">
+        <Coords points="3765,2014 3984,2014 3984,2594 3765,2594 3765,2014"/>
+        <Baseline points="3851,2022 3883,2594"/>
+        <TextEquiv>
+          <Unicode>鷓鴣畏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113703" custom="structure {type:Text;}">
+        <Coords points="3742,2677 3984,2677 3984,3268 3742,3268 3742,2677"/>
+        <Baseline points="3863,2682 3875,3270"/>
+        <TextEquiv>
+          <Unicode>鴻鴈飛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113704" custom="structure {type:Commentary;}">
+        <Coords points="3859,3213 4020,3213 4020,4212 3859,4212 3859,3213"/>
+        <Baseline points="3927,3218 3959,4214"/>
+        <TextEquiv>
+          <Unicode>崔豹古今注曰鷓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113705" custom="structure {type:Commentary;}">
+        <Coords points="3734,3211 3887,3211 3887,4212 3734,4212 3734,3211"/>
+        <Baseline points="3811,3214 3827,4214"/>
+        <TextEquiv>
+          <Unicode>鴣常向日而飛畏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113706" custom="structure {type:Commentary;}">
+        <Coords points="3526,889 3736,889 3736,2857 3526,2857 3526,889"/>
+        <Baseline points="3607,894 3675,2858"/>
+        <TextEquiv>
+          <Unicode>霜露夜飛則以樹葉覆其背上五經</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113707" custom="structure {type:Commentary;}">
+        <Coords points="3395,895 3601,895 3601,2740 3395,2740 3395,895"/>
+        <Baseline points="3483,898 3547,2738"/>
+        <TextEquiv>
+          <Unicode>鈎沉曰天霜樹落葉而鴻鴈南飛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113708" custom="structure {type:Text;}">
+        <Coords points="3474,2802 3721,2802 3721,3453 3474,3453 3474,2802"/>
+        <Baseline points="3603,2806 3611,3454"/>
+        <TextEquiv>
+          <Unicode>魏葛屨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113709" custom="structure {type:Text;}">
+        <Coords points="3484,3515 3729,3515 3729,4093 3484,4093 3484,3515"/>
+        <Baseline points="3611,3518 3611,4094"/>
+        <TextEquiv>
+          <Unicode>齊紈扇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113710" custom="structure {type:Commentary;}">
+        <Coords points="3619,4080 3747,4080 3747,4241 3619,4241 3619,4080"/>
+        <Baseline points="3699,4082 3699,4242"/>
+        <TextEquiv>
+          <Unicode>毛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113711" custom="structure {type:Commentary;}">
+        <Coords points="3520,4033 3611,4033 3611,4233 3520,4233 3520,4033"/>
+        <Baseline points="3543,4038 3547,4234"/>
+        <TextEquiv>
+          <Unicode>詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113712" custom="structure {type:Commentary;}">
+        <Coords points="3265,897 3466,897 3466,4241 3265,4241 3265,897"/>
+        <Baseline points="3331,902 3423,4242"/>
+        <TextEquiv>
+          <Unicode>曰糾糾葛屨可以履霜摻摻女手可以縫裳毛萇注曰夏葛屨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113713" custom="structure {type:Commentary;}">
+        <Coords points="3117,913 3351,913 3351,4241 3117,4241 3117,913"/>
+        <Baseline points="3195,918 3291,4242"/>
+        <TextEquiv>
+          <Unicode>冬皮屨葛屨履霜也鄭玄云魏俗至冬猶謂葛屨可用履霜利其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113714" custom="structure {type:Commentary;}">
+        <Coords points="2966,902 3156,902 3156,2323 2966,2323 2966,902"/>
+        <Baseline points="3055,906 3107,2326"/>
+        <TextEquiv>
+          <Unicode>賤也班婕妤怨歌行曰新</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113715" custom="structure {type:Commentary;}">
+        <Coords points="2865,910 3008,910 3008,2209 2865,2209 2865,910"/>
+        <Baseline points="2931,914 2955,2210"/>
+        <TextEquiv>
+          <Unicode>裂齊紈素皎潔如霜雪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113716" custom="structure {type:Text;}">
+        <Coords points="2961,2323 3146,2323 3146,2865 2961,2865 2961,2323"/>
+        <Baseline points="3027,2326 3027,2866"/>
+        <TextEquiv>
+          <Unicode>踐馬蹄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113717" custom="structure {type:Text;}">
+        <Coords points="2922,2956 3151,2956 3151,3575 2922,3575 2922,2956"/>
+        <Baseline points="3027,2962 3047,3578"/>
+        <TextEquiv>
+          <Unicode>覆蠶繭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113718" custom="structure {type:Commentary;}">
+        <Coords points="3052,3526 3187,3526 3187,4223 3052,4223 3052,3526"/>
+        <Baseline points="3111,3530 3119,4226"/>
+        <TextEquiv>
+          <Unicode>莊子曰馬蹄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113719" custom="structure {type:Commentary;}">
+        <Coords points="2927,3539 3060,3539 3060,4220 2927,4220 2927,3539"/>
+        <Baseline points="2983,3542 3011,4222"/>
+        <TextEquiv>
+          <Unicode>可踐霜雪毛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>三春之溢露溯九秋之鳴飆零雪寫其根霏霜
+封其條春秋元命苞曰霜以殺木露以潤草
+仙藥
+神爐
+漢武內傳曰西王母云仙家上藥有玄霜絳
+雪抱朴子云凝霜雪於神爐採靈芝於嵩岳
+鷹擊
+豺祭
+鷹
+擊
+見敍事周書曰霜
+降之日豺乃祭獸
+白露爲
+堅冰至
+毛詩曰蒹葭蒼蒼白
+露爲霜毛萇注曰蒹
+葭蘆也蒼蒼盛也白露降凝
+而爲霜易曰履
+霜堅冰至王弼注曰始於履霜至于堅冰
+君子履
+婦功
+成
+禮記曰霜露既降君子履之必有悽愴之心非其寒之謂
+也鄭注云以感時念親也家語曰霜降而婦功成嫁娶行
+焉王肅注曰季秋霜
+降嫁娶者始此也
+鷓鴣畏
+鴻鴈飛
+崔豹古今注曰鷓
+鴣常向日而飛畏
+霜露夜飛則以樹葉覆其背上五經
+鈎沉曰天霜樹落葉而鴻鴈南飛
+魏葛屨
+齊紈扇
+毛
+詩
+曰糾糾葛屨可以履霜摻摻女手可以縫裳毛萇注曰夏葛屨
+冬皮屨葛屨履霜也鄭玄云魏俗至冬猶謂葛屨可用履霜利其
+賤也班婕妤怨歌行曰新
+裂齊紈素皎潔如霜雪
+踐馬蹄
+覆蠶繭
+莊子曰馬蹄
+可踐霜雪毛
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118089" custom="structure {type:MainText_Left;}">
+      <Coords points="379,838 2543,818 2811,830 2823,4162 387,4206 379,838"/>
+      <TextLine id="1113720" custom="structure {type:Commentary;}">
+        <Coords points="2680,809 2841,809 2841,4189 2680,4189 2680,809"/>
+        <Baseline points="2751,814 2787,4190"/>
+        <TextEquiv>
+          <Unicode>可以禦風寒王子年拾遺記曰員嶠之山名環丘有冰蠶以霜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113721" custom="structure {type:Commentary;}">
+        <Coords points="2542,817 2706,817 2706,4173 2542,4173 2542,817"/>
+        <Baseline points="2635,4174 2639,822"/>
+        <TextEquiv>
+          <Unicode>雪覆之然後作繭其色五采織爲文錦入水不濡以之投火經</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113722" custom="structure {type:Commentary;}">
+        <Coords points="2396,798 2545,798 2545,1813 2396,1813 2396,798"/>
+        <Baseline points="2499,802 2515,1814"/>
+        <TextEquiv>
+          <Unicode>宿不燎唐堯之代</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113723" custom="structure {type:Commentary;}">
+        <Coords points="2279,783 2427,783 2427,1816 2279,1816 2279,783"/>
+        <Baseline points="2363,786 2367,1818"/>
+        <TextEquiv>
+          <Unicode>海人獻以爲黼黻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113724" custom="structure {type:Text;}">
+        <Coords points="2316,1782 2539,1782 2539,2547 2316,2547 2316,1782"/>
+        <Baseline points="2423,1786 2443,2550"/>
+        <TextEquiv>
+          <Unicode>尹逐伯奇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113725" custom="structure {type:Text;}">
+        <Coords points="2313,2630 2547,2630 2547,3440 2313,3440 2313,2630"/>
+        <Baseline points="2419,2638 2447,3442"/>
+        <TextEquiv>
+          <Unicode>燕繫鄒衍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113726" custom="structure {type:Commentary;}">
+        <Coords points="2425,3429 2568,3429 2568,4189 2425,4189 2425,3429"/>
+        <Baseline points="2503,3434 2519,4190"/>
+        <TextEquiv>
+          <Unicode>琴操履霜者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113727" custom="structure {type:Commentary;}">
+        <Coords points="2295,3450 2433,3450 2433,4184 2295,4184 2295,3450"/>
+        <Baseline points="2359,3454 2371,4186"/>
+        <TextEquiv>
+          <Unicode>伯奇之所作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113728" custom="structure {type:Commentary;}">
+        <Coords points="2136,801 2289,801 2289,4168 2136,4168 2136,801"/>
+        <Baseline points="2227,806 2239,4170"/>
+        <TextEquiv>
+          <Unicode>也伯奇音尹吉甫之子也甫聽其後妻之言疑其孝子伯奇遂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113729" custom="structure {type:Commentary;}">
+        <Coords points="2006,801 2157,801 2157,4173 2006,4173 2006,801"/>
+        <Baseline points="2079,806 2087,4174"/>
+        <TextEquiv>
+          <Unicode>逐之伯奇編水荷而衣之采蘋花而食之清朝履霜而自傷無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113730" custom="structure {type:Commentary;}">
+        <Coords points="1852,806 2016,806 2016,3736 1852,3736 1852,806"/>
+        <Baseline points="1951,810 1975,3738"/>
+        <TextEquiv>
+          <Unicode>罪見放逐乃援琴而鼓之淮南子曰鄒衍事燕惠王盡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113731" custom="structure {type:Commentary;}">
+        <Coords points="1717,809 1865,809 1865,3632 1717,3632 1717,809"/>
+        <Baseline points="1799,814 1811,3634"/>
+        <TextEquiv>
+          <Unicode>忠左右贊之王繫之仰天而哭夏五月天爲之下霜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113732" custom="structure {type:Title;}">
+        <Coords points="1733,3700 2027,3700 2027,3981 1733,3981 1733,3700"/>
+        <Baseline points="1895,3702 1895,3982"/>
+        <TextEquiv>
+          <Unicode>詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113733" custom="structure {type:Text;}">
+        <Coords points="1761,3981 2029,3981 2029,4199 1761,4199 1761,3981"/>
+        <Baseline points="1875,3986 1879,4202"/>
+        <TextEquiv>
+          <Unicode>梁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113734" custom="structure {type:Text;}">
+        <Coords points="1478,811 1712,811 1712,1805 1478,1805 1478,811"/>
+        <Baseline points="1607,814 1607,1806"/>
+        <TextEquiv>
+          <Unicode>張率詠霜詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113735" custom="structure {type:Commentary;}">
+        <Coords points="1587,1818 1743,1818 1743,4197 1587,4197 1587,1818"/>
+        <Baseline points="1667,1822 1683,4198"/>
+        <TextEquiv>
+          <Unicode>駟見視乾度鐘鳴測地機秋冬交代序朝霜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113736" custom="structure {type:Commentary;}">
+        <Coords points="1449,1790 1610,1790 1610,4192 1449,4192 1449,1790"/>
+        <Baseline points="1535,1794 1547,4194"/>
+        <TextEquiv>
+          <Unicode>白綏綏原野生暮靄堦墀散夕霏徘徊總嚴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113737" custom="structure {type:Commentary;}">
+        <Coords points="1314,806 1457,806 1457,3999 1314,3999 1314,806"/>
+        <Baseline points="1407,4002 1411,810"/>
+        <TextEquiv>
+          <Unicode>氣悵望淪清輝平臺寒月色池水愴風威凝陰同徂夜遞鴈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113738" custom="structure {type:Commentary;}">
+        <Coords points="1181,798 1332,798 1332,3984 1181,3984 1181,798"/>
+        <Baseline points="1271,802 1279,3986"/>
+        <TextEquiv>
+          <Unicode>獨歸飛縈叢亂蕪絕繁林紛已稀貞松非受冷芳草徒具腓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113739" custom="structure {type:Text;}">
+        <Coords points="1306,3947 1439,3947 1439,4207 1306,4207 1306,3947"/>
+        <Baseline points="1327,3954 1335,4210"/>
+        <TextEquiv>
+          <Unicode>蘇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113740" custom="structure {type:Text;}">
+        <Coords points="942,809 1168,809 1168,1764 942,1764 942,809"/>
+        <Baseline points="1059,1766 1075,814"/>
+        <TextEquiv>
+          <Unicode>味道詠霜詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113741" custom="structure {type:Commentary;}">
+        <Coords points="1043,1761 1215,1761 1215,4155 1043,4155 1043,1761"/>
+        <Baseline points="1127,1766 1135,4158"/>
+        <TextEquiv>
+          <Unicode>金祗暮律盡玉女暝氣歸孕冷隨鐘徹飄華逐劍飛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113742" custom="structure {type:Commentary;}">
+        <Coords points="915,1764 1066,1764 1066,4168 915,4168 915,1764"/>
+        <Baseline points="995,1766 995,4170"/>
+        <TextEquiv>
+          <Unicode>淵日浮寒景乘風進曉威自有貞筠質寧將庶草腓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113743" custom="structure {type:Title;}">
+        <Coords points="655,822 900,822 900,1423 655,1423 655,822"/>
+        <Baseline points="779,830 791,1426"/>
+        <TextEquiv>
+          <Unicode>雹第四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113744" custom="structure {type:Title;}">
+        <Coords points="775,1399 936,1399 936,1576 775,1576 775,1399"/>
+        <Baseline points="843,1410 851,1578"/>
+        <TextEquiv>
+          <Unicode>敍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113745" custom="structure {type:Title;}">
+        <Coords points="629,1399 780,1399 780,1556 629,1556 629,1399"/>
+        <Baseline points="727,1402 727,1558"/>
+        <TextEquiv>
+          <Unicode>事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113746" custom="structure {type:Text;}">
+        <Coords points="645,1553 902,1553 902,4215 645,4215 645,1553"/>
+        <Baseline points="783,4218 791,1558"/>
+        <TextEquiv>
+          <Unicode>說文云雹雨冰也從雨包聲左傳云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113747" custom="structure {type:Text;}">
+        <Coords points="377,832 624,832 624,2917 377,2917 377,832"/>
+        <Baseline points="491,834 507,2918"/>
+        <TextEquiv>
+          <Unicode>凡雹皆冬之愆陽夏之伏陰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113748" custom="structure {type:Commentary;}">
+        <Coords points="497,2906 655,2906 655,3523 497,3523 497,2906"/>
+        <Baseline points="567,2914 591,3526"/>
+        <TextEquiv>
+          <Unicode>愆陽冬沮也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113749" custom="structure {type:Commentary;}">
+        <Coords points="369,2885 517,2885 517,3507 369,3507 369,2885"/>
+        <Baseline points="439,2890 455,3510"/>
+        <TextEquiv>
+          <Unicode>伏陰夏寒也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113750" custom="structure {type:Text;}">
+        <Coords points="379,3460 632,3460 632,4218 379,4218 379,3460"/>
+        <Baseline points="515,3466 539,4218"/>
+        <TextEquiv>
+          <Unicode>聖人在上無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>可以禦風寒王子年拾遺記曰員嶠之山名環丘有冰蠶以霜
+雪覆之然後作繭其色五采織爲文錦入水不濡以之投火經
+宿不燎唐堯之代
+海人獻以爲黼黻
+尹逐伯奇
+燕繫鄒衍
+琴操履霜者
+伯奇之所作
+也伯奇音尹吉甫之子也甫聽其後妻之言疑其孝子伯奇遂
+逐之伯奇編水荷而衣之采蘋花而食之清朝履霜而自傷無
+罪見放逐乃援琴而鼓之淮南子曰鄒衍事燕惠王盡
+忠左右贊之王繫之仰天而哭夏五月天爲之下霜
+詩
+梁
+張率詠霜詩
+駟見視乾度鐘鳴測地機秋冬交代序朝霜
+白綏綏原野生暮靄堦墀散夕霏徘徊總嚴
+氣悵望淪清輝平臺寒月色池水愴風威凝陰同徂夜遞鴈
+獨歸飛縈叢亂蕪絕繁林紛已稀貞松非受冷芳草徒具腓
+蘇
+味道詠霜詩
+金祗暮律盡玉女暝氣歸孕冷隨鐘徹飄華逐劍飛
+淵日浮寒景乘風進曉威自有貞筠質寧將庶草腓
+雹第四
+敍
+事
+說文云雹雨冰也從雨包聲左傳云
+凡雹皆冬之愆陽夏之伏陰
+愆陽冬沮也
+伏陰夏寒也
+聖人在上無
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118090" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="271,842 391,838 399,4210 295,4210 271,842"/>
+      <TextLine id="1113751" custom="structure {type:Marginalia;}">
+        <Coords points="122,814 348,814 348,1256 122,1256 122,814"/>
+        <Baseline points="299,1258 303,822"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113752" custom="structure {type:Section;}">
+        <Coords points="127,1811 366,1811 366,2373 127,2373 127,1811"/>
+        <Baseline points="303,1814 311,2374"/>
+        <TextEquiv>
+          <Unicode>初學記卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113753" custom="structure {type:Page_Number;}">
+        <Coords points="296,3096 359,3096 359,3302 296,3302 296,3096"/>
+        <Baseline points="311,3098 311,3303"/>
+        <TextEquiv>
+          <Unicode>十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷二
+十
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

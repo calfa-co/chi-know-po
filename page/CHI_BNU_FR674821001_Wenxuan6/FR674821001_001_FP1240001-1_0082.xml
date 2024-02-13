@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:47+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-1_0082.jpg" imageHeight="3500" imageWidth="1867">
+    <TextRegion id="117339" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1701,1294 1749,1292 1765,2436 1715,2432 1701,1294"/>
+      <TextLine id="1105989" custom="structure {type:Section;}">
+        <Coords points="1702,1416 1757,1412 1759,1642 1704,1650 1702,1416"/>
+        <Baseline points="1731,1420 1731,1630"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105990" custom="structure {type:Page_Number;}">
+        <Coords points="1712,2234 1763,2220 1767,2424 1712,2430 1712,2234"/>
+        <Baseline points="1741,2230 1743,2416"/>
+        <TextEquiv>
+          <Unicode>三十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>目錄
+三十四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

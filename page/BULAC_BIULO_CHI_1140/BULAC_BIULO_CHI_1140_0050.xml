@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:43+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0050.jpg" imageHeight="4578" imageWidth="2588">
+    <TextRegion id="79543" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2387,1728 2520,1738 2506,3574 2387,3583 2387,1728"/>
+      <TextLine id="869009" custom="structure {type:Page_Number;}">
+        <Coords points="2325,1805 2526,1805 2526,2116 2325,2116 2325,1805"/>
+        <Baseline points="2468,2118 2472,1809"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869010" custom="structure {type:Page_Number;}">
+        <Coords points="2394,3135 2524,3135 2524,3367 2394,3367 2394,3135"/>
+        <Baseline points="2458,3136 2458,3369"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷四
+五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80279" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2302,263 2302,101 2487,101 2487,263 2302,263"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="138413" custom="structure {type:MainText;}">
+      <Coords points="133,983 2397,997 2387,4108 109,4108 133,983"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

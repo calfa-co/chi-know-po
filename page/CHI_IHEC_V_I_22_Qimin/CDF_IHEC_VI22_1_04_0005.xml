@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:45+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_04_0005.jpg" imageHeight="4178" imageWidth="4558">
+    <TextRegion id="119637" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4324,3683 4324,738 4414,738 4414,3683 4324,3683"/>
+      <TextLine id="1129656" custom="structure {type:Title;}">
+        <Coords points="4333,741 4419,731 4416,1347 4330,1350 4333,741"/>
+        <Baseline points="4381,1352 4386,724"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129657" custom="structure {type:Section;}">
+        <Coords points="4333,1752 4419,1704 4411,2032 4330,2033 4333,1752"/>
+        <Baseline points="4376,1704 4405,2032"/>
+        <TextEquiv>
+          <Unicode>卷九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129658" custom="structure {type:Page_Number;}">
+        <Coords points="4328,2915 4411,2917 4411,3148 4328,3149 4328,2915"/>
+        <Baseline points="4366,2926 4395,3150"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷九
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119638" custom="structure {type:MainText_Right;}">
+      <Coords points="2479,3688 2479,738 4338,738 4338,3688 2479,3688"/>
+      <TextLine id="1129659" custom="structure {type:Text;}">
+        <Coords points="4126,731 4304,731 4304,3681 4126,3681 4126,731"/>
+        <Baseline points="4214,734 4233,3683"/>
+        <TextEquiv>
+          <Unicode>牛羊麞鹿肉皆得方寸臠切蔥白研令碎和鹽豉汁僅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129660" custom="structure {type:Text;}">
+        <Coords points="3924,733 4098,733 4098,3634 3924,3634 3924,733"/>
+        <Baseline points="4015,3635 4034,738"/>
+        <TextEquiv>
+          <Unicode>令相淹少時便炙若汁多久漬則肕撥火間痛逼火迴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129661" custom="structure {type:Text;}">
+        <Coords points="3722,714 3896,714 3896,3648 3722,3648 3722,714"/>
+        <Baseline points="3824,715 3824,3649"/>
+        <TextEquiv>
+          <Unicode>轉急炙色白熱食含漿滑美若舉而復下下而復上膏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129662" custom="structure {type:Text;}">
+        <Coords points="3520,731 3696,731 3696,1863 3520,1863 3520,731"/>
+        <Baseline points="3620,1866 3639,734"/>
+        <TextEquiv>
+          <Unicode>盡肉乾不復中食</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129664" custom="structure {type:Title;}">
+        <Coords points="3322,1158 3494,1158 3494,1478 3322,1478 3322,1158"/>
+        <Baseline points="3392,1162 3396,1480"/>
+        <TextEquiv>
+          <Unicode>肝炙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129665" custom="structure {type:Text;}">
+        <Coords points="3106,733 3294,733 3294,3671 3106,3671 3106,733"/>
+        <Baseline points="3197,738 3216,3673"/>
+        <TextEquiv>
+          <Unicode>牛羊豬肝皆得臠長寸半廣五分亦以蔥鹽豉汁腩之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129666" custom="structure {type:Text;}">
+        <Coords points="2911,719 3088,719 3088,1464 2911,1464 2911,719"/>
+        <Baseline points="3006,724 3011,1466"/>
+        <TextEquiv>
+          <Unicode>以羊絡肚𦠐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129667" custom="structure {type:Commentary;}">
+        <Coords points="2981,1448 3127,1448 3127,1726 2981,1726 2981,1448"/>
+        <Baseline points="3054,1457 3082,1723"/>
+        <TextEquiv>
+          <Unicode>素干</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129668" custom="structure {type:Commentary;}">
+        <Coords points="2882,1461 3006,1468 3009,1647 2885,1652 2882,1461"/>
+        <Baseline points="2949,1419 2987,1633"/>
+        <TextEquiv>
+          <Unicode>反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129669" custom="structure {type:Text;}">
+        <Coords points="2907,1692 3085,1692 3085,2597 2907,2597 2907,1692"/>
+        <Baseline points="2997,1694 2997,2598"/>
+        <TextEquiv>
+          <Unicode>脂裹橫穿炙之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129670" custom="structure {type:Title;}">
+        <Coords points="2702,1107 2881,1107 2881,1622 2702,1622 2702,1107"/>
+        <Baseline points="2788,1114 2840,1614"/>
+        <TextEquiv>
+          <Unicode>牛胘炙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129671" custom="structure {type:Text;}">
+        <Coords points="2486,714 2688,714 2688,3662 2486,3662 2486,714"/>
+        <Baseline points="2588,719 2616,3664"/>
+        <TextEquiv>
+          <Unicode>老牛胘厚而肥剗穿痛蹙令聚逼火急炙令上劈裂然</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>牛羊麞鹿肉皆得方寸臠切蔥白研令碎和鹽豉汁僅
+令相淹少時便炙若汁多久漬則肕撥火間痛逼火迴
+轉急炙色白熱食含漿滑美若舉而復下下而復上膏
+盡肉乾不復中食
+肝炙
+牛羊豬肝皆得臠長寸半廣五分亦以蔥鹽豉汁腩之
+以羊絡肚𦠐
+素干
+反
+脂裹橫穿炙之
+牛胘炙
+老牛胘厚而肥剗穿痛蹙令聚逼火急炙令上劈裂然
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119639" custom="structure {type:MainText_Left;}">
+      <Coords points="291,3688 291,734 2136,734 2136,3688 291,3688"/>
+      <TextLine id="1129672" custom="structure {type:Text;}">
+        <Coords points="1922,700 2096,700 2096,3690 1922,3690 1922,700"/>
+        <Baseline points="2017,705 2022,3692"/>
+        <TextEquiv>
+          <Unicode>後割之則脆而甚美若挽令舒申微火遙炙則薄而且</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129673" custom="structure {type:Text;}">
+        <Coords points="1729,721 1876,721 1876,875 1729,875 1729,721"/>
+        <Baseline points="1813,724 1813,876"/>
+        <TextEquiv>
+          <Unicode>肕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129674" custom="structure {type:Title;}">
+        <Coords points="1518,1109 1688,1109 1688,1631 1518,1631 1518,1109"/>
+        <Baseline points="1608,1114 1618,1633"/>
+        <TextEquiv>
+          <Unicode>灌腸法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129675" custom="structure {type:Text;}">
+        <Coords points="1300,659 1493,659 1493,3685 1300,3685 1300,659"/>
+        <Baseline points="1390,662 1432,3688"/>
+        <TextEquiv>
+          <Unicode>取羊盤腸淨洗治細剉羊肉令如籠肉細切蔥白鹽豉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129676" custom="structure {type:Text;}">
+        <Coords points="1095,712 1277,712 1277,3671 1095,3671 1095,712"/>
+        <Baseline points="1204,3673 1209,715"/>
+        <TextEquiv>
+          <Unicode>汁薑椒末調和令鹹淡適口以灌腸兩條夾而炙之割</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129677" custom="structure {type:Text;}">
+        <Coords points="893,698 1065,698 1065,1364 893,1364 893,698"/>
+        <Baseline points="1000,700 1000,1366"/>
+        <TextEquiv>
+          <Unicode>食甚香美</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129678" custom="structure {type:Title;}">
+        <Coords points="689,1102 866,1102 866,2283 689,2283 689,1102"/>
+        <Baseline points="790,1105 800,2284"/>
+        <TextEquiv>
+          <Unicode>食經曰作豉丸炙法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129680" custom="structure {type:Text;}">
+        <Coords points="478,719 671,719 671,3685 478,3685 478,719"/>
+        <Baseline points="567,724 605,3688"/>
+        <TextEquiv>
+          <Unicode>羊肉十斤豬肉十斤縷切之生薑三升橘皮五葉藏瓜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129681" custom="structure {type:Text;}">
+        <Coords points="287,717 457,717 457,3706 287,3706 287,717"/>
+        <Baseline points="372,719 372,3707"/>
+        <TextEquiv>
+          <Unicode>二升蔥白五升合擣令如彈丸別以五斤羊肉作臛乃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>後割之則脆而甚美若挽令舒申微火遙炙則薄而且
+肕
+灌腸法
+取羊盤腸淨洗治細剉羊肉令如籠肉細切蔥白鹽豉
+汁薑椒末調和令鹹淡適口以灌腸兩條夾而炙之割
+食甚香美
+食經曰作豉丸炙法
+羊肉十斤豬肉十斤縷切之生薑三升橘皮五葉藏瓜
+二升蔥白五升合擣令如彈丸別以五斤羊肉作臛乃
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119640" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="144,3688 144,705 296,705 296,3688 144,3688"/>
+      <TextLine id="1129682" custom="structure {type:Title;}">
+        <Coords points="149,729 256,736 253,1327 145,1326 149,729"/>
+        <Baseline points="201,705 205,1328"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129683" custom="structure {type:Section;}">
+        <Coords points="159,1694 242,1735 248,2017 159,2020 159,1694"/>
+        <Baseline points="205,1690 210,2018"/>
+        <TextEquiv>
+          <Unicode>卷九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129684" custom="structure {type:Page_Number;}">
+        <Coords points="161,2960 243,2959 243,3168 161,3169 161,2960"/>
+        <Baseline points="191,2965 201,3169"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷九
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

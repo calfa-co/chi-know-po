@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:19+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_7_54_0010.jpg" imageHeight="3144" imageWidth="3581">
+    <TextRegion id="116641" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3329,1222 3410,1222 3407,1785 3319,1812 3329,1222"/>
+      <TextLine id="1098925" custom="structure {type:Section;}">
+        <Coords points="3317,1226 3410,1219 3417,1781 3325,1807 3317,1226"/>
+        <Baseline points="3366,1223 3374,1682"/>
+        <TextEquiv>
+          <Unicode>離騷草木疏卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>離騷草木疏卷一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116640" custom="structure {type:MainText_Right;}">
+      <Coords points="1888,775 3312,775 3312,2688 1888,2688 1888,775"/>
+      <TextLine id="1098916" custom="structure {type:Text;}">
+        <Coords points="3133,786 3284,786 3286,2687 3139,2689 3133,786"/>
+        <Baseline points="3201,789 3226,2665"/>
+        <TextEquiv>
+          <Unicode>五月採莖九月採花十一月採實潁川人呼白菊爲回</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098917" custom="structure {type:Text;}">
+        <Coords points="2976,780 3130,780 3129,2687 2984,2689 2976,780"/>
+        <Baseline points="3044,784 3067,2668"/>
+        <TextEquiv>
+          <Unicode>蜂菊汝南名荼苦蒿上黨及建安顺政郡竝名羊歡河</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098918" custom="structure {type:Text;}">
+        <Coords points="2824,780 2973,780 2975,2687 2830,2694 2824,780"/>
+        <Baseline points="2892,784 2910,2672"/>
+        <TextEquiv>
+          <Unicode>內名地薇高斎詩話載東坡跋王荆公詩云秋英不比</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098919" custom="structure {type:Text;}">
+        <Coords points="2670,773 2817,773 2816,2684 2678,2696 2670,773"/>
+        <Baseline points="2739,777 2758,2674"/>
+        <TextEquiv>
+          <Unicode>春英落而荆公自謂取離騷經落英之意按落英固有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098920" custom="structure {type:Text;}">
+        <Coords points="2513,772 2662,772 2661,2692 2518,2689 2513,772"/>
+        <Baseline points="2581,775 2601,2675"/>
+        <TextEquiv>
+          <Unicode>意義然以爲飄零滿地金則過矣東坡詩又有誤遶東</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098921" custom="structure {type:Text;}">
+        <Coords points="2359,775 2508,775 2518,2687 2371,2687 2359,775"/>
+        <Baseline points="2428,779 2445,2675"/>
+        <TextEquiv>
+          <Unicode>籬嗅落英之句亦用騷經語考落之義非隕落之落爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098922" custom="structure {type:Text;}">
+        <Coords points="2204,777 2349,777 2349,2687 2211,2687 2204,777"/>
+        <Baseline points="2274,780 2288,2675"/>
+        <TextEquiv>
+          <Unicode>雅釋話文俶落權輿始也郭璞引訪予落止爲證蓋成</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098923" custom="structure {type:Text;}">
+        <Coords points="2043,777 2197,777 2192,2692 2052,2694 2043,777"/>
+        <Baseline points="2111,780 2136,2681"/>
+        <TextEquiv>
+          <Unicode>王訪羣臣於廟中謀始即政之事邢昺乃云落者木葉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098924" custom="structure {type:Text;}">
+        <Coords points="1891,780 2042,780 2043,2696 1888,2692 1891,780"/>
+        <Baseline points="1956,784 1975,2679"/>
+        <TextEquiv>
+          <Unicode>隕墜之始失其義矣西谿叢語引宋書符瑞志沈約云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>五月採莖九月採花十一月採實潁川人呼白菊爲回
+蜂菊汝南名荼苦蒿上黨及建安顺政郡竝名羊歡河
+內名地薇高斎詩話載東坡跋王荆公詩云秋英不比
+春英落而荆公自謂取離騷經落英之意按落英固有
+意義然以爲飄零滿地金則過矣東坡詩又有誤遶東
+籬嗅落英之句亦用騷經語考落之義非隕落之落爾
+雅釋話文俶落權輿始也郭璞引訪予落止爲證蓋成
+王訪羣臣於廟中謀始即政之事邢昺乃云落者木葉
+隕墜之始失其義矣西谿叢語引宋書符瑞志沈約云
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116639" custom="structure {type:MainText_Left;}">
+      <Coords points="252,761 1661,761 1661,2702 252,2702 252,761"/>
+      <TextLine id="1098907" custom="structure {type:Text;}">
+        <Coords points="1495,775 1647,775 1638,2701 1491,2708 1495,775"/>
+        <Baseline points="1566,2674 1589,779"/>
+        <TextEquiv>
+          <Unicode>英葉也類篇云英草榮而無實者此言食秋菊之葉耳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098908" custom="structure {type:Text;}">
+        <Coords points="1341,759 1493,759 1479,2708 1343,2701 1341,759"/>
+        <Baseline points="1413,2681 1434,763"/>
+        <TextEquiv>
+          <Unicode>其說恐亦未然爾雅華苓榮也榮而不實者謂之英月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098909" custom="structure {type:Text;}">
+        <Coords points="1184,761 1338,761 1331,2708 1186,2706 1184,761"/>
+        <Baseline points="1261,2686 1261,2082 1280,765"/>
+        <TextEquiv>
+          <Unicode>今仲夏木堇榮謂於此時著花也菊葉固可食然按本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098910" custom="structure {type:Text;}">
+        <Coords points="1030,754 1182,754 1182,2705 1030,2705 1030,754"/>
+        <Baseline points="1113,2706 1123,756"/>
+        <TextEquiv>
+          <Unicode>草探葉在三月今云秋菊則非食葉之特矣著花在八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098911" custom="structure {type:Text;}">
+        <Coords points="875,759 1027,759 1022,2713 877,2699 875,759"/>
+        <Baseline points="950,2681 969,763"/>
+        <TextEquiv>
+          <Unicode>九月落英云者謂始華之時故沈存中云採藥用花者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098912" custom="structure {type:Text;}">
+        <Coords points="721,758 869,758 863,2701 720,2694 721,758"/>
+        <Baseline points="791,2677 808,761"/>
+        <TextEquiv>
+          <Unicode>取花初敷時採菊性喜寒唯寒則開早白樂天詩云禁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098913" custom="structure {type:Text;}">
+        <Coords points="565,752 714,752 708,2696 554,2689 565,752"/>
+        <Baseline points="639,2670 653,756"/>
+        <TextEquiv>
+          <Unicode>宇寒氣遲孟冬菊方拆東坡亦云菊黄中之色香味和</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098914" custom="structure {type:Text;}">
+        <Coords points="410,752 557,752 544,2689 404,2689 410,752"/>
+        <Baseline points="480,2674 492,756"/>
+        <TextEquiv>
+          <Unicode>正花葉根實皆長生藥也北方随秋之早晚大略至菊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098915" custom="structure {type:Text;}">
+        <Coords points="256,751 398,751 392,2682 264,2694 256,751"/>
+        <Baseline points="328,2668 337,754"/>
+        <TextEquiv>
+          <Unicode>有黄花乃開獨嶺南不然至冬至乃盛發嶺南地暖百</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>英葉也類篇云英草榮而無實者此言食秋菊之葉耳
+其說恐亦未然爾雅華苓榮也榮而不實者謂之英月
+今仲夏木堇榮謂於此時著花也菊葉固可食然按本
+草探葉在三月今云秋菊則非食葉之特矣著花在八
+九月落英云者謂始華之時故沈存中云採藥用花者
+取花初敷時採菊性喜寒唯寒則開早白樂天詩云禁
+宇寒氣遲孟冬菊方拆東坡亦云菊黄中之色香味和
+正花葉根實皆長生藥也北方随秋之早晚大略至菊
+有黄花乃開獨嶺南不然至冬至乃盛發嶺南地暖百
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116638" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="168,1189 248,1196 248,2684 168,2684 168,1189"/>
+      <TextLine id="1098906" custom="structure {type:Section;}">
+        <Coords points="171,1205 242,1207 242,1755 161,1755 171,1205"/>
+        <Baseline points="200,1683 206,1229"/>
+        <TextEquiv>
+          <Unicode>離騷草木疏卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234242" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="203,2111 220,2212"/>
+        <TextEquiv>
+          <Unicode>六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098905" custom="structure {type:Title;}">
+        <Coords points="168,2118 265,2123 265,2670 171,2682 168,2118"/>
+        <Baseline points="208,2225 216,2672"/>
+        <TextEquiv>
+          <Unicode>知不足斎樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>離騷草木疏卷一
+六
+知不足斎樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

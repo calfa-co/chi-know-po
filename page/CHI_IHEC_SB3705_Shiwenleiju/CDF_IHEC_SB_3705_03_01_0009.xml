@@ -1,0 +1,289 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:10+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB_3705_03_01_0009.jpg" imageHeight="4624" imageWidth="5628">
+    <TextRegion id="128494" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5137,821 5275,816 5294,4184 5147,4194 5137,821"/>
+      <TextLine id="1176255" custom="structure {type:Title;}">
+        <Coords points="5136,819 5286,816 5289,1679 5150,1688 5136,819"/>
+        <Baseline points="5212,794 5236,1666"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176256" custom="structure {type:Section;}">
+        <Coords points="5150,1931 5255,1871 5266,2423 5153,2434 5150,1931"/>
+        <Baseline points="5228,1854 5232,2418"/>
+        <TextEquiv>
+          <Unicode>卷之十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176257" custom="structure {type:Page_Number;}">
+        <Coords points="5178,2882 5249,2884 5258,3065 5178,3059 5178,2882"/>
+        <Baseline points="5228,2886 5232,3062"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176258" custom="structure {type:Marginalia;}">
+        <Coords points="5147,3424 5243,3424 5252,4041 5147,4033 5147,3424"/>
+        <Baseline points="5236,3426 5236,4034"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之十四
+三
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128495" custom="structure {type:MainText_Right;}">
+      <Coords points="2869,845 5123,821 5128,4170 2916,4189 2869,845"/>
+      <TextLine id="1176242" custom="structure {type:Text;}">
+        <Coords points="4941,783 5126,783 5126,1677 4941,1677 4941,783"/>
+        <Baseline points="5040,1678 5048,786"/>
+        <TextEquiv>
+          <Unicode>臨水久之而去</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176243" custom="structure {type:Title;}">
+        <Coords points="4738,1330 4934,1330 4934,1939 4738,1939 4738,1330"/>
+        <Baseline points="4828,1338 4844,1942"/>
+        <TextEquiv>
+          <Unicode>有濟勝具</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176244" custom="structure {type:Text;}">
+        <Coords points="4522,778 4761,778 4761,4040 4522,4040 4522,778"/>
+        <Baseline points="4604,782 4672,4042"/>
+        <TextEquiv>
+          <Unicode>許椽好逰山水體便登陟時云許非徒有勝情實有濟勝具</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176245" custom="structure {type:Commentary;}">
+        <Coords points="4632,4044 4802,4035 4803,4200 4623,4200 4632,4044"/>
+        <Baseline points="4728,4030 4744,4194"/>
+        <TextEquiv>
+          <Unicode>世</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176246" custom="structure {type:Text;}">
+        <Coords points="4381,798 4543,798 4543,1040 4381,1040 4381,798"/>
+        <Baseline points="4456,806 4468,1042"/>
+        <TextEquiv>
+          <Unicode>說</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176247" custom="structure {type:Title;}">
+        <Coords points="4109,1340 4307,1340 4307,1988 4109,1988 4109,1340"/>
+        <Baseline points="4192,1346 4212,1990"/>
+        <TextEquiv>
+          <Unicode>終南捷徑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176248" custom="structure {type:Text;}">
+        <Coords points="3890,786 4119,786 4119,4220 3890,4220 3890,786"/>
+        <Baseline points="3980,790 4032,4222"/>
+        <TextEquiv>
+          <Unicode>盧藏用始隠終南山晩乃狥權利司馬承禎嘗召至闕下藏用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176249" custom="structure {type:Text;}">
+        <Coords points="3682,801 3916,801 3916,4192 3682,4192 3682,801"/>
+        <Baseline points="3788,806 3844,4194"/>
+        <TextEquiv>
+          <Unicode>指終南山曰此中大有佳處禎徐曰以僕視之仕宦之捷徑耳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176250" custom="structure {type:Title;}">
+        <Coords points="3497,1340 3682,1340 3682,1985 3497,1985 3497,1340"/>
+        <Baseline points="3584,1346 3596,1986"/>
+        <TextEquiv>
+          <Unicode>求買山錢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176251" custom="structure {type:Text;}">
+        <Coords points="3284,798 3484,798 3484,3581 3284,3581 3284,798"/>
+        <Baseline points="3376,802 3400,3582"/>
+        <TextEquiv>
+          <Unicode>戴符山人問襄陽節度于頔求買山錢頔與百萬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176252" custom="structure {type:Title;}">
+        <Coords points="3094,1343 3263,1343 3263,2008 3094,2008 3094,1343"/>
+        <Baseline points="3176,1346 3176,2010"/>
+        <TextEquiv>
+          <Unicode>賜買山銀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176253" custom="structure {type:Text;}">
+        <Coords points="2862,822 3063,822 3063,1700 2862,1700 2862,822"/>
+        <Baseline points="2964,826 2988,1702"/>
+        <TextEquiv>
+          <Unicode>种放累章乞歸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176254" custom="structure {type:Text;}">
+        <Coords points="2883,1777 3070,1777 3070,3021 2883,3021 2883,1777"/>
+        <Baseline points="2980,1782 2984,3022"/>
+        <TextEquiv>
+          <Unicode>章聖賜買山銀百兩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>臨水久之而去
+有濟勝具
+許椽好逰山水體便登陟時云許非徒有勝情實有濟勝具
+世
+說
+終南捷徑
+盧藏用始隠終南山晩乃狥權利司馬承禎嘗召至闕下藏用
+指終南山曰此中大有佳處禎徐曰以僕視之仕宦之捷徑耳
+求買山錢
+戴符山人問襄陽節度于頔求買山錢頔與百萬
+賜買山銀
+种放累章乞歸
+章聖賜買山銀百兩
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128496" custom="structure {type:MainText_Left;}">
+      <Coords points="517,822 2772,806 2792,4170 2552,4174 494,4154 517,822"/>
+      <TextLine id="1176259" custom="structure {type:Title;}">
+        <Coords points="2582,1292 2775,1292 2775,1903 2582,1903 2582,1292"/>
+        <Baseline points="2672,1298 2704,1902"/>
+        <TextEquiv>
+          <Unicode>逰山題名</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176260" custom="structure {type:Text;}">
+        <Coords points="2382,762 2569,762 2569,4197 2382,4197 2382,762"/>
+        <Baseline points="2484,766 2500,4198"/>
+        <TextEquiv>
+          <Unicode>章子厚與蘇子瞻逰南山抵仙逰潭之上絶壁萬仭岸甚險子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176261" custom="structure {type:Text;}">
+        <Coords points="2174,773 2371,773 2371,4192 2174,4192 2174,773"/>
+        <Baseline points="2284,778 2300,4194"/>
+        <TextEquiv>
+          <Unicode>厚推子瞻下潭書壁子瞻不敢子厚履險而下以漆墨濡筆大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176262" custom="structure {type:Text;}">
+        <Coords points="1958,780 2156,780 2156,4164 1958,4164 1958,780"/>
+        <Baseline points="2068,4166 2072,786"/>
+        <TextEquiv>
+          <Unicode>書石壁上曰蘇軾章惇來子瞻撫子厚背曰子厚必能殺人子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176263" custom="structure {type:Text;}">
+        <Coords points="1750,773 1945,773 1945,3532 1750,3532 1750,773"/>
+        <Baseline points="1853,3534 1869,778"/>
+        <TextEquiv>
+          <Unicode>厚曰何也子瞻曰能自判命者能殺人子厚大笑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176264" custom="structure {type:Title;}">
+        <Coords points="1513,793 1791,793 1791,1407 1513,1407 1513,793"/>
+        <Baseline points="1665,798 1669,1410"/>
+        <TextEquiv>
+          <Unicode>古今文集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176265" custom="structure {type:Title;}">
+        <Coords points="1377,760 1541,760 1541,1140 1377,1140 1377,760"/>
+        <Baseline points="1453,766 1465,1142"/>
+        <TextEquiv>
+          <Unicode>雜著</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176266" custom="structure {type:Title;}">
+        <Coords points="1133,1333 1326,1333 1326,1960 1133,1960 1133,1333"/>
+        <Baseline points="1225,1962 1237,1338"/>
+        <TextEquiv>
+          <Unicode>記鴈蕩山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176267" custom="structure {type:Author_name;}">
+        <Coords points="1135,3265 1320,3265 1312,3839 1141,3820 1135,3265"/>
+        <Baseline points="1227,3801 1233,3270"/>
+        <TextEquiv>
+          <Unicode>沈 存</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176269" custom="structure {type:Text;}">
+        <Coords points="932,778 1115,778 1115,4164 932,4164 932,778"/>
+        <Baseline points="1045,4166 1049,782"/>
+        <TextEquiv>
+          <Unicode>溫州鴈蕩山天下竒秀然自古圖諜未嘗有言者祥符中修造</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176270" custom="structure {type:Text;}">
+        <Coords points="724,791 912,791 913,4171 729,4171 724,791"/>
+        <Baseline points="833,4166 845,794"/>
+        <TextEquiv>
+          <Unicode>玉清宫伐山取材方有人見之此時尚未有名謝靈運為温州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176271" custom="structure {type:Text;}">
+        <Coords points="503,786 714,786 714,4143 503,4143 503,786"/>
+        <Baseline points="609,790 633,4146"/>
+        <TextEquiv>
+          <Unicode>守凡佳山水處逰歴殆徧獨不言此山蓋當時未有鴈蕩山也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>逰山題名
+章子厚與蘇子瞻逰南山抵仙逰潭之上絶壁萬仭岸甚險子
+厚推子瞻下潭書壁子瞻不敢子厚履險而下以漆墨濡筆大
+書石壁上曰蘇軾章惇來子瞻撫子厚背曰子厚必能殺人子
+厚曰何也子瞻曰能自判命者能殺人子厚大笑
+古今文集
+雜著
+記鴈蕩山
+沈 存
+溫州鴈蕩山天下竒秀然自古圖諜未嘗有言者祥符中修造
+玉清宫伐山取材方有人見之此時尚未有名謝靈運為温州
+守凡佳山水處逰歴殆徧獨不言此山蓋當時未有鴈蕩山也
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128497" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="401,810 497,810 525,4162 437,4166 401,810"/>
+      <TextLine id="1176272" custom="structure {type:Title;}">
+        <Coords points="418,808 508,793 508,1685 412,1690 418,808"/>
+        <Baseline points="453,794 453,1686"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176273" custom="structure {type:Section;}">
+        <Coords points="412,1874 503,1872 503,2427 404,2443 412,1874"/>
+        <Baseline points="445,2430 465,1878"/>
+        <TextEquiv>
+          <Unicode>卷之十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176274" custom="structure {type:Page_Number;}">
+        <Coords points="412,2873 506,2864 509,3008 421,3011 412,2873"/>
+        <Baseline points="449,2894 453,2990"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之十四
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,281 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:33+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB_3705_16_02_0045.jpg" imageHeight="4620" imageWidth="6018">
+    <TextRegion id="128531" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5237,912 5370,893 5380,4199 5289,4214 5237,912"/>
+      <TextLine id="1176622" custom="structure {type:Title;}">
+        <Coords points="5258,1036 5373,1036 5373,1773 5258,1773 5258,1036"/>
+        <Baseline points="5312,1774 5324,1042"/>
+        <TextEquiv>
+          <Unicode>文類聚别集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176623" custom="structure {type:Section;}">
+        <Coords points="5264,2019 5371,1969 5383,2484 5255,2484 5264,2019"/>
+        <Baseline points="5312,1930 5328,2486"/>
+        <TextEquiv>
+          <Unicode>卷之十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176624" custom="structure {type:Page_Number;}">
+        <Coords points="5265,3003 5348,3008 5348,3190 5265,3200 5265,3003"/>
+        <Baseline points="5324,3202 5328,3006"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176625" custom="structure {type:Marginalia;}">
+        <Coords points="5255,3508 5361,3499 5375,4058 5255,4047 5255,3508"/>
+        <Baseline points="5324,3518 5336,4050"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文類聚别集
+卷之十二
+四
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128532" custom="structure {type:MainText_Right;}">
+      <Coords points="3092,884 5261,898 5246,4209 3463,4247 3092,4190 3092,884"/>
+      <TextLine id="1176626" custom="structure {type:Text;}">
+        <Coords points="5062,875 5268,875 5268,4229 5062,4229 5062,875"/>
+        <Baseline points="5160,878 5184,4230"/>
+        <TextEquiv>
+          <Unicode>于石湖藏焉石湖者具區東匯自為一壑號稱佳山水臣少長</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176627" custom="structure {type:Text;}">
+        <Coords points="4865,870 5052,870 5052,4229 4865,4229 4865,870"/>
+        <Baseline points="4964,4230 4984,874"/>
+        <TextEquiv>
+          <Unicode>釣遊其間結茅種木乆已成趣春秋時吳臺其陰越城其陽登</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176628" custom="structure {type:Text;}">
+        <Coords points="4670,890 4854,890 4854,4247 4670,4247 4670,890"/>
+        <Baseline points="4780,4250 4792,894"/>
+        <TextEquiv>
+          <Unicode>臨訪古往蹟具在汙萊露蔓千七百餘年莫有過而問者今猥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176629" custom="structure {type:Text;}">
+        <Coords points="4457,882 4659,882 4659,4245 4457,4245 4457,882"/>
+        <Baseline points="4572,4246 4596,886"/>
+        <TextEquiv>
+          <Unicode>以臣故徹聞高清天光博臨燕及荒野繇開闢來未覩斯盛裴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176630" custom="structure {type:Text;}">
+        <Coords points="4249,870 4464,870 4464,4217 4249,4217 4249,870"/>
+        <Baseline points="4372,4218 4416,874"/>
+        <TextEquiv>
+          <Unicode>度李徳裕皆唐宗臣緑野平原亦聲震當代揆今所蒙無傳焉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176631" custom="structure {type:Text;}">
+        <Coords points="4076,886 4256,882 4248,4226 4046,4226 4076,886"/>
+        <Baseline points="4132,4190 4184,886"/>
+        <TextEquiv>
+          <Unicode>何物么麽獨冒寵赫百身萬殞莫能負戴臣蒲栁蚤秋仕無補</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176632" custom="structure {type:Text;}">
+        <Coords points="3895,879 4086,876 4066,4260 3840,4260 3895,879"/>
+        <Baseline points="3944,4262 3996,846"/>
+        <TextEquiv>
+          <Unicode>益縣官儻晼晩行不休昧止足之戒則將上累隆知俯愧初服</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176633" custom="structure {type:Text;}">
+        <Coords points="3693,872 3888,886 3841,4209 3627,4211 3693,872"/>
+        <Baseline points="3732,4214 3824,870"/>
+        <TextEquiv>
+          <Unicode>臣用是懼冀幸少日遂賜骸骨歸老湖上宿衛奎壁與山川之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176634" custom="structure {type:Text;}">
+        <Coords points="3504,859 3703,862 3639,4236 3434,4233 3504,859"/>
+        <Baseline points="3540,4234 3612,846"/>
+        <TextEquiv>
+          <Unicode>神暨猿鶴松桂同在昭回中一介姓名亦因是不朽使後世之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176635" custom="structure {type:Text;}">
+        <Coords points="3323,869 3499,854 3430,4226 3232,4202 3323,869"/>
+        <Baseline points="3333,4206 3444,858"/>
+        <TextEquiv>
+          <Unicode>臣属厭榮禄得全於桑榆以無辱君賜則陛下丕顯休命不委</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176636" custom="structure {type:Text;}">
+        <Coords points="3097,879 3319,876 3229,4219 3057,4173 3097,879"/>
+        <Baseline points="3140,4174 3228,850"/>
+        <TextEquiv>
+          <Unicode>於草莽庻幾報恩之萬一既摹刻扁傍又被之琬琰以傳且附</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>于石湖藏焉石湖者具區東匯自為一壑號稱佳山水臣少長
+釣遊其間結茅種木乆已成趣春秋時吳臺其陰越城其陽登
+臨訪古往蹟具在汙萊露蔓千七百餘年莫有過而問者今猥
+以臣故徹聞高清天光博臨燕及荒野繇開闢來未覩斯盛裴
+度李徳裕皆唐宗臣緑野平原亦聲震當代揆今所蒙無傳焉
+何物么麽獨冒寵赫百身萬殞莫能負戴臣蒲栁蚤秋仕無補
+益縣官儻晼晩行不休昧止足之戒則將上累隆知俯愧初服
+臣用是懼冀幸少日遂賜骸骨歸老湖上宿衛奎壁與山川之
+神暨猿鶴松桂同在昭回中一介姓名亦因是不朽使後世之
+臣属厭榮禄得全於桑榆以無辱君賜則陛下丕顯休命不委
+於草莽庻幾報恩之萬一既摹刻扁傍又被之琬琰以傳且附
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128533" custom="structure {type:MainText_Left;}">
+      <Coords points="724,836 2926,836 2935,4157 2797,4190 748,4190 724,836"/>
+      <TextLine id="1176637" custom="structure {type:Text;}">
+        <Coords points="2770,790 2942,790 2942,1840 2770,1840 2770,790"/>
+        <Baseline points="2864,794 2904,1842"/>
+        <TextEquiv>
+          <Unicode>著臣之自叙云爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176638" custom="structure {type:Title;}">
+        <Coords points="2580,1329 2777,1329 2777,2576 2580,2576 2580,1329"/>
+        <Baseline points="2672,1334 2696,2578"/>
+        <TextEquiv>
+          <Unicode>跋御書誠齋二大字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176639" custom="structure {type:Author_name;}">
+        <Coords points="2611,3295 2783,3295 2783,3816 2611,3816 2611,3295"/>
+        <Baseline points="2688,3298 2688,3818"/>
+        <TextEquiv>
+          <Unicode>楊萬里</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176640" custom="structure {type:Text;}">
+        <Coords points="2387,803 2577,803 2577,4209 2387,4209 2387,803"/>
+        <Baseline points="2480,806 2504,4210"/>
+        <TextEquiv>
+          <Unicode>淳熈十三年三月十九日今上皇帝陛下於東宮榮觀堂召官</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176641" custom="structure {type:Text;}">
+        <Coords points="2169,805 2369,805 2369,4217 2169,4217 2169,805"/>
+        <Baseline points="2265,810 2297,4218"/>
+        <TextEquiv>
+          <Unicode>僚燕集酒半從至玉淵堂詹事臣邲臣端禮諭徳臣揆侍講臣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176642" custom="structure {type:Text;}">
+        <Coords points="1964,805 2146,805 2146,4211 1964,4211 1964,805"/>
+        <Baseline points="2061,4214 2073,810"/>
+        <TextEquiv>
+          <Unicode>袤各傳刻所賜御書齋名籖軸以進再拜稱謝惟侍讀臣萬里</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176643" custom="structure {type:Text;}">
+        <Coords points="1766,811 1940,811 1940,4201 1766,4201 1766,811"/>
+        <Baseline points="1877,814 1881,4202"/>
+        <TextEquiv>
+          <Unicode>於同列為末至蓋已嘗有請因再拜申言之皇帝陛下欣然索</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176644" custom="structure {type:Text;}">
+        <Coords points="1548,826 1743,826 1743,4193 1548,4193 1548,826"/>
+        <Baseline points="1645,830 1673,4194"/>
+        <TextEquiv>
+          <Unicode>一大研命磨潘衡墨染屠覺竹絲筆乗興一揮誠齋二大字贈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176645" custom="structure {type:Text;}">
+        <Coords points="1353,805 1543,805 1543,4204 1353,4204 1353,805"/>
+        <Baseline points="1445,810 1465,4206"/>
+        <TextEquiv>
+          <Unicode>侍讀楊檢詳六小字識以清賞堂印視諸齋字畫雅徤相若而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176646" custom="structure {type:Text;}">
+        <Coords points="1142,805 1340,805 1340,4217 1142,4217 1142,805"/>
+        <Baseline points="1241,810 1265,4218"/>
+        <TextEquiv>
+          <Unicode>精神飛動似覺更勝恭惟皇帝陛下心畫超詣雲章昭回龍跳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176647" custom="structure {type:Text;}">
+        <Coords points="949,811 1129,811 1129,4245 949,4245 949,811"/>
+        <Baseline points="1041,814 1045,4246"/>
+        <TextEquiv>
+          <Unicode>虎臥鸞飄鳯泊蓋天縱之能聖學之餘也臣既拜賜退而寶藏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176648" custom="structure {type:Text;}">
+        <Coords points="731,798 924,798 924,4219 731,4219 731,798"/>
+        <Baseline points="845,802 849,4222"/>
+        <TextEquiv>
+          <Unicode>於家今假守高安郡幸逢六龍御天之力敬刻之金石以侈寒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>著臣之自叙云爾
+跋御書誠齋二大字
+楊萬里
+淳熈十三年三月十九日今上皇帝陛下於東宮榮觀堂召官
+僚燕集酒半從至玉淵堂詹事臣邲臣端禮諭徳臣揆侍講臣
+袤各傳刻所賜御書齋名籖軸以進再拜稱謝惟侍讀臣萬里
+於同列為末至蓋已嘗有請因再拜申言之皇帝陛下欣然索
+一大研命磨潘衡墨染屠覺竹絲筆乗興一揮誠齋二大字贈
+侍讀楊檢詳六小字識以清賞堂印視諸齋字畫雅徤相若而
+精神飛動似覺更勝恭惟皇帝陛下心畫超詣雲章昭回龍跳
+虎臥鸞飄鳯泊蓋天縱之能聖學之餘也臣既拜賜退而寶藏
+於家今假守高安郡幸逢六龍御天之力敬刻之金石以侈寒
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128534" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="610,841 738,841 743,4199 629,4204 610,841"/>
+      <TextLine id="1176649" custom="structure {type:Title;}">
+        <Coords points="631,808 721,808 721,1704 631,1704 631,808"/>
+        <Baseline points="673,810 673,1706"/>
+        <TextEquiv>
+          <Unicode>事文類聚别集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176650" custom="structure {type:Section;}">
+        <Coords points="608,1937 708,1937 708,2443 608,2443 608,1937"/>
+        <Baseline points="665,2446 669,1942"/>
+        <TextEquiv>
+          <Unicode>卷之十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176651" custom="structure {type:Page_Number;}">
+        <Coords points="615,2931 706,2921 702,3190 618,3193 615,2931"/>
+        <Baseline points="657,3198 661,2926"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176652" custom="structure {type:Marginalia;}">
+        <Coords points="622,3432 718,3434 718,4060 628,4065 622,3432"/>
+        <Baseline points="669,4062 673,3438"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚别集
+卷之十二
+五
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

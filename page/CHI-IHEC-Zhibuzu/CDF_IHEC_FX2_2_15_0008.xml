@@ -1,0 +1,361 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:13+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_2_15_0008.jpg" imageHeight="3144" imageWidth="3621">
+    <TextRegion id="116566" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3406,1132 3510,1136 3517,1415 3416,1412 3406,1132"/>
+      <TextLine id="1098340" custom="structure {type:Section;}">
+        <Coords points="3408,1124 3503,1129 3508,1424 3401,1419 3408,1124"/>
+        <Baseline points="3460,1112 3460,1428"/>
+        <TextEquiv>
+          <Unicode>赤雅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>赤雅
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116567" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="2037,662 3416,678 3392,2690 2030,2663 2037,662"/>
+      <TextLine id="1098343" custom="structure {type:Title;}">
+        <Coords points="3261,847 3388,847 3388,1074 3261,1074 3261,847"/>
+        <Baseline points="3332,850 3335,1075"/>
+        <TextEquiv>
+          <Unicode>狪人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098344" custom="structure {type:Title;}">
+        <Coords points="3247,1703 3385,1703 3385,2188 3247,2188 3247,1703"/>
+        <Baseline points="3315,2189 3332,1708"/>
+        <TextEquiv>
+          <Unicode>斑衣山人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098345" custom="structure {type:Title;}">
+        <Coords points="3105,829 3241,829 3241,1285 3105,1285 3105,829"/>
+        <Baseline points="3187,833 3194,1287"/>
+        <TextEquiv>
+          <Unicode>斑衣種女</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098346" custom="structure {type:Title;}">
+        <Coords points="3105,1722 3226,1722 3226,2080 3105,2080 3105,1722"/>
+        <Baseline points="3174,2081 3177,1724"/>
+        <TextEquiv>
+          <Unicode>烏蠻國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098347" custom="structure {type:Title;}">
+        <Coords points="2958,840 3088,840 3088,1203 2958,1203 2958,840"/>
+        <Baseline points="3039,843 3056,1203"/>
+        <TextEquiv>
+          <Unicode>西原蠻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098348" custom="structure {type:Title;}">
+        <Coords points="2943,1706 3077,1706 3077,2096 2943,2096 2943,1706"/>
+        <Baseline points="3002,1711 3029,2094"/>
+        <TextEquiv>
+          <Unicode>廣源蠻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098349" custom="structure {type:Title;}">
+        <Coords points="2817,827 2932,827 2932,1014 2817,1014 2817,827"/>
+        <Baseline points="2878,833 2891,1015"/>
+        <TextEquiv>
+          <Unicode>苗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098350" custom="structure {type:Title;}">
+        <Coords points="2805,1737 2922,1737 2922,1978 2805,1978 2805,1737"/>
+        <Baseline points="2871,1741 2881,1980"/>
+        <TextEquiv>
+          <Unicode>巴人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098351" custom="structure {type:Title;}">
+        <Coords points="2653,815 2784,815 2784,1095 2653,1095 2653,815"/>
+        <Baseline points="2716,820 2740,1092"/>
+        <TextEquiv>
+          <Unicode>蜑人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098352" custom="structure {type:Title;}">
+        <Coords points="2648,1734 2768,1734 2768,1975 2648,1975 2648,1734"/>
+        <Baseline points="2716,1735 2716,1977"/>
+        <TextEquiv>
+          <Unicode>馬人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098353" custom="structure {type:Title;}">
+        <Coords points="2504,822 2634,822 2634,1110 2504,1110 2504,822"/>
+        <Baseline points="2582,1112 2585,826"/>
+        <TextEquiv>
+          <Unicode>印孃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098354" custom="structure {type:Title;}">
+        <Coords points="2490,1701 2625,1701 2625,1996 2490,1996 2490,1701"/>
+        <Baseline points="2568,1704 2578,1997"/>
+        <TextEquiv>
+          <Unicode>木客</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098355" custom="structure {type:Title;}">
+        <Coords points="2358,707 2480,707 2480,990 2358,990 2358,707"/>
+        <Baseline points="2430,991 2440,712"/>
+        <TextEquiv>
+          <Unicode>卷中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098356" custom="structure {type:Title;}">
+        <Coords points="2200,822 2333,822 2333,1285 2200,1285 2200,822"/>
+        <Baseline points="2262,1287 2272,826"/>
+        <TextEquiv>
+          <Unicode>山川論畧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098357" custom="structure {type:Title;}">
+        <Coords points="2195,1694 2319,1694 2319,1985 2195,1985 2195,1694"/>
+        <Baseline points="2262,1987 2282,1701"/>
+        <TextEquiv>
+          <Unicode>崇山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098358" custom="structure {type:Title;}">
+        <Coords points="2052,833 2176,833 2176,1182 2052,1182 2052,833"/>
+        <Baseline points="2124,836 2131,1183"/>
+        <TextEquiv>
+          <Unicode>石人山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098359" custom="structure {type:Title;}">
+        <Coords points="2038,1687 2167,1687 2167,2087 2038,2087 2038,1687"/>
+        <Baseline points="2101,2088 2121,1691"/>
+        <TextEquiv>
+          <Unicode>鬼門關</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>狪人
+斑衣山人
+斑衣種女
+烏蠻國
+西原蠻
+廣源蠻
+苗
+巴人
+蜑人
+馬人
+印孃
+木客
+卷中
+山川論畧
+崇山
+石人山
+鬼門關
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116568" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="244,729 1633,692 1677,2663 304,2670 244,729"/>
+      <TextLine id="1098360" custom="structure {type:Title;}">
+        <Coords points="1475,840 1603,840 1603,1236 1475,1236 1475,840"/>
+        <Baseline points="1532,843 1549,1237"/>
+        <TextEquiv>
+          <Unicode>崑崙關</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098361" custom="structure {type:Title;}">
+        <Coords points="1493,1729 1626,1729 1626,2511 1493,2511 1493,1729"/>
+        <Baseline points="1556,1731 1562,2512"/>
+        <TextEquiv>
+          <Unicode>粵西入南三路</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098362" custom="structure {type:Title;}">
+        <Coords points="1315,831 1448,831 1448,1399 1315,1399 1315,831"/>
+        <Baseline points="1384,836 1408,1398"/>
+        <TextEquiv>
+          <Unicode>容州三洞天</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098363" custom="structure {type:Title;}">
+        <Coords points="1339,1732 1463,1732 1463,2013 1339,2013 1339,1732"/>
+        <Baseline points="1408,1735 1418,2014"/>
+        <TextEquiv>
+          <Unicode>七究</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098364" custom="structure {type:Title;}">
+        <Coords points="1170,862 1301,862 1301,1219 1170,1219 1170,862"/>
+        <Baseline points="1236,867 1250,1220"/>
+        <TextEquiv>
+          <Unicode>二壺城</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098365" custom="structure {type:Title;}">
+        <Coords points="1194,1730 1317,1730 1317,2104 1194,2104 1194,1730"/>
+        <Baseline points="1270,1731 1270,2105"/>
+        <TextEquiv>
+          <Unicode>蘭蔴道</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098366" custom="structure {type:Title;}">
+        <Coords points="1018,826 1147,826 1147,1231 1018,1231 1018,826"/>
+        <Baseline points="1065,830 1085,1233"/>
+        <TextEquiv>
+          <Unicode>勾漏洞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098367" custom="structure {type:Title;}">
+        <Coords points="1037,1737 1158,1737 1158,2123 1037,2123 1037,1737"/>
+        <Baseline points="1098,1741 1102,2125"/>
+        <TextEquiv>
+          <Unicode>立魚喦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098368" custom="structure {type:Title;}">
+        <Coords points="866,868 997,868 997,1269 866,1269 866,868"/>
+        <Baseline points="930,870 947,1270"/>
+        <TextEquiv>
+          <Unicode>李白巖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098369" custom="structure {type:Title;}">
+        <Coords points="883,1725 1011,1725 1011,2106 883,2106 883,1725"/>
+        <Baseline points="940,2108 950,1728"/>
+        <TextEquiv>
+          <Unicode>何侯山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098370" custom="structure {type:Title;}">
+        <Coords points="723,866 840,866 840,1116 723,1116 723,866"/>
+        <Baseline points="782,870 799,1116"/>
+        <TextEquiv>
+          <Unicode>火山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098371" custom="structure {type:Title;}">
+        <Coords points="740,1746 859,1746 859,2099 740,2099 740,1746"/>
+        <Baseline points="799,1748 799,2101"/>
+        <TextEquiv>
+          <Unicode>銀殿山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098372" custom="structure {type:Title;}">
+        <Coords points="562,868 702,868 702,1549 562,1549 562,868"/>
+        <Baseline points="644,870 658,1550"/>
+        <TextEquiv>
+          <Unicode>陽朔道上諸峰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098373" custom="structure {type:Title;}">
+        <Coords points="583,1755 716,1755 716,2523 583,2523 583,1755"/>
+        <Baseline points="648,1758 674,2525"/>
+        <TextEquiv>
+          <Unicode>七百里松陰古道</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098374" custom="structure {type:Title;}">
+        <Coords points="412,854 543,854 543,1229 412,1229 412,854"/>
+        <Baseline points="486,857 496,1230"/>
+        <TextEquiv>
+          <Unicode>獨秀山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098375" custom="structure {type:Title;}">
+        <Coords points="434,1736 558,1736 558,2090 434,2090 434,1736"/>
+        <Baseline points="503,2091 506,1738"/>
+        <TextEquiv>
+          <Unicode>曡彩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098376" custom="structure {type:Title;}">
+        <Coords points="492,2057 600,2057 600,2691 492,2691 492,2057"/>
+        <Baseline points="547,2061 550,2693"/>
+        <TextEquiv>
+          <Unicode>西清寶積山附</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098377" custom="structure {type:Title;}">
+        <Coords points="256,864 394,864 394,1231 256,1231 256,864"/>
+        <Baseline points="325,867 341,1233"/>
+        <TextEquiv>
+          <Unicode>榕樹門</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098378" custom="structure {type:Title;}">
+        <Coords points="274,1755 415,1755 415,2216 274,2216 274,1755"/>
+        <Baseline points="355,1758 382,2216"/>
+        <TextEquiv>
+          <Unicode>桂林三嶠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>崑崙關
+粵西入南三路
+容州三洞天
+七究
+二壺城
+蘭蔴道
+勾漏洞
+立魚喦
+李白巖
+何侯山
+火山
+銀殿山
+陽朔道上諸峰
+七百里松陰古道
+獨秀山
+曡彩
+西清寶積山附
+榕樹門
+桂林三嶠
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116569" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="160,1196 261,1196 294,2690 193,2690 160,1196"/>
+      <TextLine id="1098341" custom="structure {type:Section;}">
+        <Coords points="152,1193 259,1191 271,1621 171,1619 152,1193"/>
+        <Baseline points="211,1421 217,1173"/>
+        <TextEquiv>
+          <Unicode>赤雅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234230" custom="structure {type:Section;}">
+        <Coords points=""/>
+        <Baseline points="234,1603 237,1388"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234231" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="234,2047 237,2185"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098342" custom="structure {type:Title;}">
+        <Coords points="187,2066 275,2068 302,2684 204,2682 187,2066"/>
+        <Baseline points="238,2198 257,2686"/>
+        <TextEquiv>
+          <Unicode>知不足齋正本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>赤雅
+目錄
+三
+知不足齋正本
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

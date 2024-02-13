@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T16:51:58+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_C_III_5-7_02_01_0030.jpg" imageHeight="4627" imageWidth="6167">
+    <TextRegion id="118011" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5616,913 5689,913 5717,3717 5604,3717 5616,913"/>
+      <TextLine id="1112678" custom="structure {type:Title;}">
+        <Coords points="5619,923 5683,923 5697,1407 5612,1407 5619,923"/>
+        <Baseline points="5663,1415 5666,921"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112679" custom="structure {type:Section;}">
+        <Coords points="5626,1667 5683,1656 5707,2359 5609,2366 5626,1667"/>
+        <Baseline points="5663,1660 5670,2363"/>
+        <TextEquiv>
+          <Unicode>帝王部卷之十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112680" custom="structure {type:Page_Number;}">
+        <Coords points="5606,3197 5693,3190 5693,3443 5609,3446 5606,3197"/>
+        <Baseline points="5653,3449 5656,3207"/>
+        <TextEquiv>
+          <Unicode>二十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+帝王部卷之十一
+二十三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116895" custom="structure {type:MainText_Right;}">
+      <Coords points="3536,4103 3536,900 5601,900 5601,4103 3536,4103"/>
+      <TextLine id="1101142" custom="structure {type:Text;}">
+        <Coords points="5388,902 5606,902 5606,4112 5388,4112 5388,902"/>
+        <Baseline points="5488,4113 5511,907"/>
+        <TextEquiv>
+          <Unicode>甲赤文綠色甲似龜背五色有列星之分斗政之度</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101143" custom="structure {type:Text;}">
+        <Coords points="5192,894 5411,894 5411,2251 5192,2251 5192,894"/>
+        <Baseline points="5274,2253 5302,898"/>
+        <TextEquiv>
+          <Unicode>帝王錄紀興亡之數</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101144" custom="structure {type:Text;}">
+        <Coords points="4963,873 5195,873 5195,4115 4963,4115 4963,873"/>
+        <Baseline points="5069,4118 5112,879"/>
+        <TextEquiv>
+          <Unicode>大戴禮曰宰我曰請問帝堯孔子曰其仁如天其智</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101145" custom="structure {type:Text;}">
+        <Coords points="4778,866 4969,866 4969,3817 4778,3817 4778,866"/>
+        <Baseline points="4874,3818 4888,869"/>
+        <TextEquiv>
+          <Unicode>如神就之如日望之如雲富而不驕貴而不豫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101146" custom="structure {type:Text;}">
+        <Coords points="4568,873 4768,873 4768,4146 4568,4146 4568,873"/>
+        <Baseline points="4679,4147 4693,879"/>
+        <TextEquiv>
+          <Unicode>淮南子曰人之所以樂為天子者以其窮耳目之欲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101147" custom="structure {type:Text;}">
+        <Coords points="4367,881 4562,881 4562,4146 4367,4146 4367,881"/>
+        <Baseline points="4460,883 4460,4147"/>
+        <TextEquiv>
+          <Unicode>而適躬體之便也今高臺曾榭人之所麗也而堯采</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101148" custom="structure {type:Text;}">
+        <Coords points="4167,861 4357,861 4365,2050 4164,2053 4167,861"/>
+        <Baseline points="4255,864 4271,2053"/>
+        <TextEquiv>
+          <Unicode>椽不斵斥題不枅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101149" custom="structure {type:Commentary;}">
+        <Coords points="4268,2050 4362,2040 4362,2814 4265,2807 4268,2050"/>
+        <Baseline points="4315,2060 4317,2805"/>
+        <TextEquiv>
+          <Unicode>言梁柱相斥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101150" custom="structure {type:Commentary;}">
+        <Coords points="4160,2053 4265,2037 4274,2817 4151,2817 4160,2053"/>
+        <Baseline points="4217,2057 4222,2819"/>
+        <TextEquiv>
+          <Unicode>距不著枅櫨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101151" custom="structure {type:Text;}">
+        <Coords points="4159,2814 4346,2814 4349,4115 4157,4115 4159,2814"/>
+        <Baseline points="4251,2815 4251,4085"/>
+        <TextEquiv>
+          <Unicode>珍恠奇味人之所美</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101152" custom="structure {type:Text;}">
+        <Coords points="3938,866 4159,866 4159,4141 3938,4141 3938,866"/>
+        <Baseline points="4051,4142 4075,869"/>
+        <TextEquiv>
+          <Unicode>也而堯糲梁之飯藜藿之羹文錦狐白人之所好也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101153" custom="structure {type:Text;}">
+        <Coords points="3745,907 3943,907 3943,4102 3745,4102 3745,907"/>
+        <Baseline points="3851,4104 3856,912"/>
+        <TextEquiv>
+          <Unicode>而堯布衣掩形鹿裘禦寒養生之具厚不加以增之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101154" custom="structure {type:Text;}">
+        <Coords points="3532,889 3735,889 3735,3845 3532,3845 3532,889"/>
+        <Baseline points="3651,3847 3656,893"/>
+        <TextEquiv>
+          <Unicode>以大任重之憂故舉天下而傳之舜若釋負然</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>甲赤文綠色甲似龜背五色有列星之分斗政之度
+帝王錄紀興亡之數
+大戴禮曰宰我曰請問帝堯孔子曰其仁如天其智
+如神就之如日望之如雲富而不驕貴而不豫
+淮南子曰人之所以樂為天子者以其窮耳目之欲
+而適躬體之便也今高臺曾榭人之所麗也而堯采
+椽不斵斥題不枅
+言梁柱相斥
+距不著枅櫨
+珍恠奇味人之所美
+也而堯糲梁之飯藜藿之羹文錦狐白人之所好也
+而堯布衣掩形鹿裘禦寒養生之具厚不加以增之
+以大任重之憂故舉天下而傳之舜若釋負然
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116896" custom="structure {type:MainText_Left;}">
+      <Coords points="589,4103 589,900 2661,900 2661,4103 589,4103"/>
+      <TextLine id="1101155" custom="structure {type:Text;}">
+        <Coords points="2431,879 2642,879 2642,4136 2431,4136 2431,879"/>
+        <Baseline points="2543,883 2562,4137"/>
+        <TextEquiv>
+          <Unicode>帝王世紀曰帝堯陶唐氏祁姓也母慶都孕十四月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101156" custom="structure {type:Text;}">
+        <Coords points="2223,884 2431,884 2431,4112 2223,4112 2223,884"/>
+        <Baseline points="2338,888 2348,4113"/>
+        <TextEquiv>
+          <Unicode>而生堯於丹陵名曰放勛鳥庭河勝或從母姓伊氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101157" custom="structure {type:Text;}">
+        <Coords points="2025,871 2215,871 2215,4136 2025,4136 2025,871"/>
+        <Baseline points="2134,874 2138,4137"/>
+        <TextEquiv>
+          <Unicode>年十五而佐帝摯受封於唐為諸侯身長十尺嘗夢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101158" custom="structure {type:Text;}">
+        <Coords points="1814,889 2015,889 2015,4125 1814,4125 1814,889"/>
+        <Baseline points="1929,893 1934,4128"/>
+        <TextEquiv>
+          <Unicode>天而上之故二十而登帝位都平陽置敢諫之鼓命</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101159" custom="structure {type:Text;}">
+        <Coords points="1598,879 1807,879 1807,4125 1598,4125 1598,879"/>
+        <Baseline points="1715,883 1734,4128"/>
+        <TextEquiv>
+          <Unicode>羲和四子羲仲羲叔和仲和叔分掌四時方嶽之職</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101160" custom="structure {type:Text;}">
+        <Coords points="1398,871 1601,871 1601,4125 1398,4125 1398,871"/>
+        <Baseline points="1510,874 1520,4128"/>
+        <TextEquiv>
+          <Unicode>故名曰四嶽也諸侯有苗氏處南蠻而不服堯征而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101161" custom="structure {type:Text;}">
+        <Coords points="1187,871 1398,871 1398,4115 1187,4115 1187,871"/>
+        <Baseline points="1292,874 1325,4118"/>
+        <TextEquiv>
+          <Unicode>克之于丹水之浦乃以尹壽許由為師夔放山川谿</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101162" custom="structure {type:Text;}">
+        <Coords points="981,891 1185,891 1185,4130 981,4130 981,891"/>
+        <Baseline points="1087,4132 1092,893"/>
+        <TextEquiv>
+          <Unicode>谷之音作樂大章天下大和百姓無事有五十老人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101163" custom="structure {type:Text;}">
+        <Coords points="778,879 979,879 979,4115 778,4115 778,879"/>
+        <Baseline points="892,4118 897,883"/>
+        <TextEquiv>
+          <Unicode>擊壤於道觀者歎曰大哉帝之德也老人曰吾日出</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101164" custom="structure {type:Text;}">
+        <Coords points="570,884 786,884 786,4141 570,4141 570,884"/>
+        <Baseline points="673,888 706,4142"/>
+        <TextEquiv>
+          <Unicode>而作日入而息鑿井而飲耕田而食帝何力於我哉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>帝王世紀曰帝堯陶唐氏祁姓也母慶都孕十四月
+而生堯於丹陵名曰放勛鳥庭河勝或從母姓伊氏
+年十五而佐帝摯受封於唐為諸侯身長十尺嘗夢
+天而上之故二十而登帝位都平陽置敢諫之鼓命
+羲和四子羲仲羲叔和仲和叔分掌四時方嶽之職
+故名曰四嶽也諸侯有苗氏處南蠻而不服堯征而
+克之于丹水之浦乃以尹壽許由為師夔放山川谿
+谷之音作樂大章天下大和百姓無事有五十老人
+擊壤於道觀者歎曰大哉帝之德也老人曰吾日出
+而作日入而息鑿井而飲耕田而食帝何力於我哉
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116897" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="448,4123 448,894 582,894 582,4123 448,4123"/>
+      <TextLine id="1101165" custom="structure {type:Title;}">
+        <Coords points="467,893 560,884 560,1390 464,1404 467,893"/>
+        <Baseline points="507,1392 511,888"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101166" custom="structure {type:Section;}">
+        <Coords points="474,1630 568,1690 573,2400 477,2403 474,1630"/>
+        <Baseline points="497,1649 507,2401"/>
+        <TextEquiv>
+          <Unicode>帝王部卷之十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101167" custom="structure {type:Page_Number;}">
+        <Coords points="484,3200 557,3202 557,3426 484,3436 484,3200"/>
+        <Baseline points="526,3205 526,3428"/>
+        <TextEquiv>
+          <Unicode>二十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101168" custom="structure {type:Marginalia;}">
+        <Coords points="475,3452 596,3452 596,4115 475,4115 475,3452"/>
+        <Baseline points="545,4118 549,3457"/>
+        <TextEquiv>
+          <Unicode>宏達堂校梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+帝王部卷之十一
+二十四
+宏達堂校梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

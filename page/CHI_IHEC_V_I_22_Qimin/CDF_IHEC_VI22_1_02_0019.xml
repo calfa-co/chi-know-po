@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:24+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_02_0019.jpg" imageHeight="4158" imageWidth="4642">
+    <TextRegion id="119594" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4381,3691 4381,771 4514,771 4514,3691 4381,3691"/>
+      <TextLine id="1129290" custom="structure {type:Title;}">
+        <Coords points="4388,778 4502,775 4495,1330 4388,1341 4388,778"/>
+        <Baseline points="4433,723 4438,1332"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129291" custom="structure {type:Section;}">
+        <Coords points="4395,1753 4495,1684 4492,2067 4400,2064 4395,1753"/>
+        <Baseline points="4433,2060 4462,1693"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129292" custom="structure {type:Page_Number;}">
+        <Coords points="4401,2919 4485,2930 4495,3168 4401,3167 4401,2919"/>
+        <Baseline points="4438,2930 4457,3168"/>
+        <TextEquiv>
+          <Unicode>十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷四
+十六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119595" custom="structure {type:MainText_Right;}">
+      <Coords points="2540,3658 2540,761 4366,761 4366,3658 2540,3658"/>
+      <TextLine id="1129293" custom="structure {type:Text;}">
+        <Coords points="4182,757 4380,757 4380,3689 4182,3689 4182,757"/>
+        <Baseline points="4281,761 4309,3691"/>
+        <TextEquiv>
+          <Unicode>養生要論曰臘夜令持椒臥房牀傍無與人言內井中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129294" custom="structure {type:Text;}">
+        <Coords points="3985,723 4172,723 4172,1275 3985,1275 3985,723"/>
+        <Baseline points="4053,728 4095,1275"/>
+        <TextEquiv>
+          <Unicode>除溫病</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129295" custom="structure {type:Title;}">
+        <Coords points="3780,1004 3967,1004 3967,2102 3780,2102 3780,1004"/>
+        <Baseline points="3881,1008 3886,2103"/>
+        <TextEquiv>
+          <Unicode>種茱萸第四十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129296" custom="structure {type:Text;}">
+        <Coords points="3579,729 3775,729 3775,3696 3579,3696 3579,729"/>
+        <Baseline points="3682,733 3696,3696"/>
+        <TextEquiv>
+          <Unicode>食茱萸也山茱萸則不任食二月三月栽之宜故城隄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129297" custom="structure {type:Text;}">
+        <Coords points="3371,748 3551,748 3551,1335 3371,1335 3371,748"/>
+        <Baseline points="3472,752 3487,1337"/>
+        <TextEquiv>
+          <Unicode>冡高燥處</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129298" custom="structure {type:Commentary;}">
+        <Coords points="3465,1339 3586,1325 3591,3679 3484,3677 3465,1339"/>
+        <Baseline points="3528,1309 3555,3683"/>
+        <TextEquiv>
+          <Unicode>凡于城上種蒔者先宜隨長短掘壍停之經</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129299" custom="structure {type:Commentary;}">
+        <Coords points="3367,1330 3472,1325 3486,3684 3365,3682 3367,1330"/>
+        <Baseline points="3414,1322 3447,3690"/>
+        <TextEquiv>
+          <Unicode>年然後于壍中種蒔保澤沃壤與平地無差</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129301" custom="structure {type:Commentary;}">
+        <Coords points="3267,764 3378,757 3378,2141 3267,2141 3267,764"/>
+        <Baseline points="3323,760 3333,2143"/>
+        <TextEquiv>
+          <Unicode>不爾者土堅澤流長物不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129302" custom="structure {type:Commentary;}">
+        <Coords points="3142,753 3276,753 3276,2025 3142,2025 3142,753"/>
+        <Baseline points="3212,757 3229,2028"/>
+        <TextEquiv>
+          <Unicode>達經年倍多樹木尚小</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129303" custom="structure {type:Text;}">
+        <Coords points="3172,2122 3368,2122 3368,3689 3172,3689 3172,2122"/>
+        <Baseline points="3259,2126 3273,3690"/>
+        <TextEquiv>
+          <Unicode>候實開便收之挂著屋裏壁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129304" custom="structure {type:Text;}">
+        <Coords points="2957,750 3156,750 3156,1896 2957,1896 2957,750"/>
+        <Baseline points="3064,1897 3078,754"/>
+        <TextEquiv>
+          <Unicode>上令陰乾勿使煙熏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129305" custom="structure {type:Commentary;}">
+        <Coords points="3068,1881 3177,1872 3170,2428 3068,2426 3068,1881"/>
+        <Baseline points="3111,1880 3135,2435"/>
+        <TextEquiv>
+          <Unicode>煙熏則苦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129306" custom="structure {type:Commentary;}">
+        <Coords points="2944,1884 3072,1879 3065,2433 2946,2443 2944,1884"/>
+        <Baseline points="3024,1857 3024,2462"/>
+        <TextEquiv>
+          <Unicode>而不香也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129307" custom="structure {type:Text;}">
+        <Coords points="2971,2418 3156,2418 3156,3252 2971,3252 2971,2418"/>
+        <Baseline points="3064,2422 3071,3253"/>
+        <TextEquiv>
+          <Unicode>用時去中黑子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129308" custom="structure {type:Commentary;}">
+        <Coords points="3056,3236 3181,3236 3181,3661 3056,3661 3056,3236"/>
+        <Baseline points="3121,3239 3131,3663"/>
+        <TextEquiv>
+          <Unicode>肉醬魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129309" custom="structure {type:Commentary;}">
+        <Coords points="2951,3249 3075,3256 3077,3670 2951,3663 2951,3249"/>
+        <Baseline points="3017,3216 3030,3677"/>
+        <TextEquiv>
+          <Unicode>鮓偏宜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129310" custom="structure {type:Commentary;}">
+        <Coords points="2837,764 2966,764 2966,937 2837,937 2837,764"/>
+        <Baseline points="2903,939 2906,767"/>
+        <TextEquiv>
+          <Unicode>所</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129311" custom="structure {type:Commentary;}">
+        <Coords points="2747,769 2858,769 2858,937 2747,937 2747,769"/>
+        <Baseline points="2822,770 2822,939"/>
+        <TextEquiv>
+          <Unicode>用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129312" custom="structure {type:Text;}">
+        <Coords points="2564,762 2747,762 2747,3661 2564,3661 2564,762"/>
+        <Baseline points="2661,764 2661,3663"/>
+        <TextEquiv>
+          <Unicode>術曰井上宜種茱萸茱萸葉落井中飲此水者無瘟病</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>養生要論曰臘夜令持椒臥房牀傍無與人言內井中
+除溫病
+種茱萸第四十四
+食茱萸也山茱萸則不任食二月三月栽之宜故城隄
+冡高燥處
+凡于城上種蒔者先宜隨長短掘壍停之經
+年然後于壍中種蒔保澤沃壤與平地無差
+不爾者土堅澤流長物不
+達經年倍多樹木尚小
+候實開便收之挂著屋裏壁
+上令陰乾勿使煙熏
+煙熏則苦
+而不香也
+用時去中黑子
+肉醬魚
+鮓偏宜
+所
+用
+術曰井上宜種茱萸茱萸葉落井中飲此水者無瘟病
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119596" custom="structure {type:MainText_Left;}">
+      <Coords points="1580,3710 1580,780 2188,780 2188,3710 1580,3710"/>
+      <TextLine id="1129313" custom="structure {type:Text;}">
+        <Coords points="1982,759 2183,759 2183,3712 1982,3712 1982,759"/>
+        <Baseline points="2082,3714 2109,764"/>
+        <TextEquiv>
+          <Unicode>雜五行書曰舍東種白楊茱萸三根增年益壽除患害</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129314" custom="structure {type:Text;}">
+        <Coords points="1799,729 1973,729 1973,3035 1799,3035 1799,729"/>
+        <Baseline points="1907,730 1907,3037"/>
+        <TextEquiv>
+          <Unicode>也又術曰懸茱萸子於屋內鬼畏不入也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>雜五行書曰舍東種白楊茱萸三根增年益壽除患害
+也又術曰懸茱萸子於屋內鬼畏不入也
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119597" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="239,3639 239,747 367,747 367,3639 239,3639"/>
+      <TextLine id="1129315" custom="structure {type:Title;}">
+        <Coords points="254,749 354,754 351,1337 252,1330 254,749"/>
+        <Baseline points="290,730 297,1339"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129316" custom="structure {type:Section;}">
+        <Coords points="244,1729 344,1758 348,2035 242,2029 244,1729"/>
+        <Baseline points="270,2035 290,1739"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129317" custom="structure {type:Page_Number;}">
+        <Coords points="237,2956 339,2954 339,3134 244,3132 237,2956"/>
+        <Baseline points="263,2960 273,3128"/>
+        <TextEquiv>
+          <Unicode>十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷四
+十七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

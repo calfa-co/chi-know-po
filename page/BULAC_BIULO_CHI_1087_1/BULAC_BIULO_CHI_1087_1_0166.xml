@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:17+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0166.jpg" imageHeight="4927" imageWidth="2867">
+    <TextRegion id="79690" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2687,3670 2687,2109 2771,2109 2771,3670 2687,3670"/>
+      <TextLine id="1015925" custom="structure {type:Section;}">
+        <Coords points="2696,2127 2698,2751 2793,2745 2790,2124 2696,2127"/>
+        <Baseline points="2734,2127 2750,2755"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1015926" custom="structure {type:Page_Number;}">
+        <Coords points="2777,3649 2787,3489 2690,3509 2688,3647 2777,3649"/>
+        <Baseline points="2734,3639 2738,3491"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷五
+五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79689" custom="structure {type:Marginalia;}">
+      <Coords points="156,4228 156,3536 248,3536 248,4228 156,4228"/>
+      <TextLine id="870091" custom="structure {type:Title;}">
+        <Coords points="147,3536 154,4230 257,4235 255,3537 147,3536"/>
+        <Baseline points="199,3539 212,4215"/>
+        <TextEquiv>
+          <Unicode>孔氏三十三萬卷堂影鈔本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>孔氏三十三萬卷堂影鈔本
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79691" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2559,239 2559,118 2734,118 2734,239 2559,239"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

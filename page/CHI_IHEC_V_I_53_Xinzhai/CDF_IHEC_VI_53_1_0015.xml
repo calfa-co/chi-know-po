@@ -1,0 +1,353 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:55+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0015.jpg" imageHeight="4212" imageWidth="5004">
+    <TextRegion id="117818" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4623,915 4771,915 4757,3726 4652,3712 4623,915"/>
+      <TextLine id="1110713" custom="structure {type:Title;}">
+        <Coords points="4627,886 4779,892 4775,1440 4627,1422 4627,886"/>
+        <Baseline points="4690,1424 4695,891"/>
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110714" custom="structure {type:Page_Number;}">
+        <Coords points="4657,2705 4763,2699 4767,2940 4657,2939 4657,2705"/>
+        <Baseline points="4690,2713 4699,2941"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117819" custom="structure {type:MainText_Right;}">
+      <Coords points="2526,934 4600,915 4642,3707 2583,3760 2526,934"/>
+      <TextLine id="1110715" custom="structure {type:Text;}">
+        <Coords points="4395,1036 4580,1036 4580,1911 4395,1911 4395,1036"/>
+        <Baseline points="4462,1043 4490,1914"/>
+        <TextEquiv>
+          <Unicode>正以著名也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110716" custom="structure {type:Commentary;}">
+        <Coords points="4494,1904 4624,1909 4647,3715 4505,3725 4494,1904"/>
+        <Baseline points="4547,1904 4576,3726"/>
+        <TextEquiv>
+          <Unicode>爾雅薃侯莎其實媞說文缇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110717" custom="structure {type:Commentary;}">
+        <Coords points="4401,1901 4491,1901 4500,3745 4398,3745 4401,1901"/>
+        <Baseline points="4433,1876 4471,3745"/>
+        <TextEquiv>
+          <Unicode>丹黃色周官艸人注縓色爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110718" custom="structure {type:Commentary;}">
+        <Coords points="4259,1055 4378,1061 4392,3420 4270,3420 4259,1055"/>
+        <Baseline points="4314,1058 4348,3422"/>
+        <TextEquiv>
+          <Unicode>雅一染謂之縓注今之紅也說文䔺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110719" custom="structure {type:Commentary;}">
+        <Coords points="4152,1058 4268,1046 4276,3244 4160,3247 4152,1058"/>
+        <Baseline points="4224,1048 4224,3246"/>
+        <TextEquiv>
+          <Unicode>藍蓼秀爾雅不雩二實謂之秀也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110720" custom="structure {type:Title;}">
+        <Coords points="3936,891 4114,891 4114,1408 3936,1408 3936,891"/>
+        <Baseline points="4024,896 4034,1410"/>
+        <TextEquiv>
+          <Unicode>雞子粥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110721" custom="structure {type:Commentary;}">
+        <Coords points="4050,1411 4140,1403 4146,1748 4041,1745 4050,1411"/>
+        <Baseline points="4091,1405 4091,1747"/>
+        <TextEquiv>
+          <Unicode>粥音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110722" custom="structure {type:Commentary;}">
+        <Coords points="3937,1414 4036,1406 4042,1598 3931,1598 3937,1414"/>
+        <Baseline points="3986,1386 4005,1595"/>
+        <TextEquiv>
+          <Unicode>㚗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110723" custom="structure {type:Text;}">
+        <Coords points="3716,1057 3920,1057 3920,3758 3764,3745 3716,1057"/>
+        <Baseline points="3801,1062 3858,3760"/>
+        <TextEquiv>
+          <Unicode>粥也者相粥之時也或曰孚嫗伏也粥養</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110724" custom="structure {type:Text;}">
+        <Coords points="3506,1041 3651,1041 3651,1233 3506,1233 3506,1041"/>
+        <Baseline points="3596,1043 3596,1234"/>
+        <TextEquiv>
+          <Unicode>也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110725" custom="structure {type:Commentary;}">
+        <Coords points="3580,1230 3710,1233 3747,3739 3597,3753 3580,1230"/>
+        <Baseline points="3634,1229 3691,3741"/>
+        <TextEquiv>
+          <Unicode>雞本畜乳而成雛麗亏易而成形也孚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110726" custom="structure {type:Commentary;}">
+        <Coords points="3473,1225 3589,1225 3606,3736 3495,3739 3473,1225"/>
+        <Baseline points="3530,1229 3553,3741"/>
+        <TextEquiv>
+          <Unicode>說文卵孚也一曰信也徐楚金曰鳥之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110727" custom="structure {type:Commentary;}">
+        <Coords points="3360,1052 3464,1041 3501,3758 3377,3750 3360,1052"/>
+        <Baseline points="3396,1048 3434,3760"/>
+        <TextEquiv>
+          <Unicode>乳卵皆如其期不失信也桉雅雨堂棱本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110728" custom="structure {type:Commentary;}">
+        <Coords points="3244,1055 3357,1055 3372,3767 3266,3765 3244,1055"/>
+        <Baseline points="3306,3769 3311,1058"/>
+        <TextEquiv>
+          <Unicode>相粥之時也作相粥粥呼也云粥與祝喌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110729" custom="structure {type:Commentary;}">
+        <Coords points="3128,1049 3247,1049 3238,2124 3117,2131 3128,1049"/>
+        <Baseline points="3178,1048 3206,2133"/>
+        <TextEquiv>
+          <Unicode>相愚意既訓養</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110730" custom="structure {type:Commentary;}">
+        <Coords points="3006,1038 3131,1044 3125,1943 3006,1937 3006,1038"/>
+        <Baseline points="3059,1043 3078,1942"/>
+        <TextEquiv>
+          <Unicode>義何求異解</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110731" custom="structure {type:Title;}">
+        <Coords points="2829,893 2974,893 2974,1270 2829,1270 2829,893"/>
+        <Baseline points="2892,896 2892,1272"/>
+        <TextEquiv>
+          <Unicode>二月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110732" custom="structure {type:Title;}">
+        <Coords points="2583,903 2759,903 2759,1612 2583,1612 2583,903"/>
+        <Baseline points="2678,906 2683,1614"/>
+        <TextEquiv>
+          <Unicode>往耰黍禪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>正以著名也
+爾雅薃侯莎其實媞說文缇
+丹黃色周官艸人注縓色爾
+雅一染謂之縓注今之紅也說文䔺
+藍蓼秀爾雅不雩二實謂之秀也
+雞子粥
+粥音
+㚗
+粥也者相粥之時也或曰孚嫗伏也粥養
+也
+雞本畜乳而成雛麗亏易而成形也孚
+說文卵孚也一曰信也徐楚金曰鳥之
+乳卵皆如其期不失信也桉雅雨堂棱本
+相粥之時也作相粥粥呼也云粥與祝喌
+相愚意既訓養
+義何求異解
+二月
+往耰黍禪
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117820" custom="structure {type:MainText_Left;}">
+      <Coords points="320,929 2388,896 2412,3722 372,3707 320,929"/>
+      <TextLine id="1110733" custom="structure {type:Text;}">
+        <Coords points="2176,1017 2340,1017 2340,1551 2176,1551 2176,1017"/>
+        <Baseline points="2260,1020 2260,1552"/>
+        <TextEquiv>
+          <Unicode>禪單也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110734" custom="structure {type:Commentary;}">
+        <Coords points="2274,1536 2387,1536 2418,3250 2305,3264 2274,1536"/>
+        <Baseline points="2317,1538 2355,3246"/>
+        <TextEquiv>
+          <Unicode>禪單古字同用單之為言</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110735" custom="structure {type:Commentary;}">
+        <Coords points="2143,1553 2268,1556 2305,3063 2172,3066 2143,1553"/>
+        <Baseline points="2208,1543 2236,3065"/>
+        <TextEquiv>
+          <Unicode>盡也謂耰黍之事畢也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110736" custom="structure {type:Title;}">
+        <Coords points="1935,879 2136,879 2136,2056 1935,2056 1935,879"/>
+        <Baseline points="2027,886 2070,2057"/>
+        <TextEquiv>
+          <Unicode>初俊羔助厥母粥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110737" custom="structure {type:Commentary;}">
+        <Coords points="2059,2062 2152,2051 2167,2389 2061,2390 2059,2062"/>
+        <Baseline points="2108,2052 2127,2390"/>
+        <TextEquiv>
+          <Unicode>粥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110738" custom="structure {type:Commentary;}">
+        <Coords points="1948,2073 2047,2059 2047,2215 1940,2215 1948,2073"/>
+        <Baseline points="1998,2038 1998,2218"/>
+        <TextEquiv>
+          <Unicode>音育</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110739" custom="structure {type:Text;}">
+        <Coords points="1722,996 1937,996 1940,3731 1728,3727 1722,996"/>
+        <Baseline points="1789,1001 1846,3760"/>
+        <TextEquiv>
+          <Unicode>俊也者大也粥也者養也言大羔能食艸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110740" custom="structure {type:Text;}">
+        <Coords points="1486,1020 1706,1020 1706,3729 1486,3729 1486,1020"/>
+        <Baseline points="1580,1024 1646,3731"/>
+        <TextEquiv>
+          <Unicode>木而不食亏母也羊蓋非其子而後養之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110741" custom="structure {type:Text;}">
+        <Coords points="1270,1020 1481,1020 1481,3739 1270,3739 1270,1020"/>
+        <Baseline points="1347,1024 1418,3741"/>
+        <TextEquiv>
+          <Unicode>善養而記之也或曰夏有暑祭祭者用羔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110742" custom="structure {type:Text;}">
+        <Coords points="1034,1006 1252,1006 1252,3725 1034,3725 1034,1006"/>
+        <Baseline points="1133,1010 1190,3726"/>
+        <TextEquiv>
+          <Unicode>是時也喜羔？之為生也而記之謂羔芉腹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110743" custom="structure {type:Text;}">
+        <Coords points="814,1006 985,1006 985,1422 814,1422 814,1006"/>
+        <Baseline points="890,1010 909,1424"/>
+        <TextEquiv>
+          <Unicode>時也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110744" custom="structure {type:Commentary;}">
+        <Coords points="916,1417 1029,1411 1048,2920 936,2922 916,1417"/>
+        <Baseline points="966,1419 990,2922"/>
+        <TextEquiv>
+          <Unicode>月令仲春天子獻羔開</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110745" custom="structure {type:Commentary;}">
+        <Coords points="797,1423 922,1420 943,2943 817,2942 797,1423"/>
+        <Baseline points="847,1391 895,2946"/>
+        <TextEquiv>
+          <Unicode>冰以享司寒為暑憂也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110746" custom="structure {type:Title;}">
+        <Coords points="575,900 753,900 753,1609 575,1609 575,900"/>
+        <Baseline points="667,906 686,1610"/>
+        <TextEquiv>
+          <Unicode>綏多女士</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110747" custom="structure {type:Text;}">
+        <Coords points="344,1038 564,1038 564,2754 344,2754 344,1038"/>
+        <Baseline points="438,1043 472,2756"/>
+        <TextEquiv>
+          <Unicode>綏安也冠子取婦之時也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110748" custom="structure {type:Commentary;}">
+        <Coords points="478,2746 596,2746 617,3732 489,3736 478,2746"/>
+        <Baseline points="524,2713 562,3731"/>
+        <TextEquiv>
+          <Unicode>金仁山曰周禮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110749" custom="structure {type:Commentary;}">
+        <Coords points="356,2749 480,2758 496,3725 376,3725 356,2749"/>
+        <Baseline points="415,2694 429,3726"/>
+        <TextEquiv>
+          <Unicode>會合男女即此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>禪單也
+禪單古字同用單之為言
+盡也謂耰黍之事畢也
+初俊羔助厥母粥
+粥
+音育
+俊也者大也粥也者養也言大羔能食艸
+木而不食亏母也羊蓋非其子而後養之
+善養而記之也或曰夏有暑祭祭者用羔
+是時也喜羔？之為生也而記之謂羔芉腹
+時也
+月令仲春天子獻羔開
+冰以享司寒為暑憂也
+綏多女士
+綏安也冠子取婦之時也
+金仁山曰周禮
+會合男女即此
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117821" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="153,929 358,929 377,3741 205,3741 153,929"/>
+      <TextLine id="1110750" custom="structure {type:Title;}">
+        <Coords points="160,928 294,905 294,1427 168,1440 160,928"/>
+        <Baseline points="224,910 229,1429"/>
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110751" custom="structure {type:Section;}">
+        <Coords points="215,1745 337,1745 337,2063 215,2063 215,1745"/>
+        <Baseline points="263,1747 263,2066"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110752" custom="structure {type:Page_Number;}">
+        <Coords points="172,2755 306,2758 306,2910 176,2924 172,2755"/>
+        <Baseline points="244,2761 244,2913"/>
+        <TextEquiv>
+          <Unicode>六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+卷一
+六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

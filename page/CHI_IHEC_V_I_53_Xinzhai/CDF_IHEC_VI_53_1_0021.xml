@@ -1,0 +1,353 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:57+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0021.jpg" imageHeight="4212" imageWidth="5004">
+    <TextRegion id="117822" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4623,848 4771,853 4776,3722 4638,3731 4623,848"/>
+      <TextLine id="1110753" custom="structure {type:Title;}">
+        <Coords points="4676,826 4771,844 4780,1372 4676,1385 4676,826"/>
+        <Baseline points="4728,829 4737,1386"/>
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110754" custom="structure {type:Page_Number;}">
+        <Coords points="4650,2660 4788,2659 4780,2857 4650,2864 4650,2660"/>
+        <Baseline points="4661,2666 4690,2865"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117823" custom="structure {type:MainText_Right;}">
+      <Coords points="2559,877 4638,867 4623,3731 2569,3726 2559,877"/>
+      <TextLine id="1110755" custom="structure {type:Text;}">
+        <Coords points="4418,982 4603,982 4603,3758 4418,3758 4418,982"/>
+        <Baseline points="4504,3760 4509,986"/>
+        <TextEquiv>
+          <Unicode>蜚者虎懸也鳴而後知之故先鳴而後蛩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110756" custom="structure {type:Commentary;}">
+        <Coords points="4287,993 4409,1004 4403,1904 4270,1898 4287,993"/>
+        <Baseline points="4338,991 4348,1900"/>
+        <TextEquiv>
+          <Unicode>爾雅蜻蜻注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110757" custom="structure {type:Commentary;}">
+        <Coords points="4174,996 4287,987 4279,1756 4174,1776 4174,996"/>
+        <Baseline points="4219,986 4238,1743"/>
+        <TextEquiv>
+          <Unicode>佀蝉而小</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110758" custom="structure {type:Title;}">
+        <Coords points="3976,847 4147,847 4147,1537 3976,1537 3976,847"/>
+        <Baseline points="4053,853 4081,1538"/>
+        <TextEquiv>
+          <Unicode>囿有見杏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110759" custom="structure {type:Text;}">
+        <Coords points="3730,1013 3908,1013 3914,2370 3744,2379 3730,1013"/>
+        <Baseline points="3824,2390 3839,1020"/>
+        <TextEquiv>
+          <Unicode>杏也者山之燕者也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110760" custom="structure {type:Commentary;}">
+        <Coords points="3835,2376 3942,2367 3950,3748 3832,3748 3835,2376"/>
+        <Baseline points="3891,3750 3896,2352"/>
+        <TextEquiv>
+          <Unicode>杏内则鄭註謂君燕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110761" custom="structure {type:Commentary;}">
+        <Coords points="3719,2373 3826,2379 3845,3739 3716,3742 3719,2373"/>
+        <Baseline points="3767,2356 3796,3741"/>
+        <TextEquiv>
+          <Unicode>食所用之加豆蓋略</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110762" custom="structure {type:Commentary;}">
+        <Coords points="3600,1007 3713,1010 3710,2735 3600,2724 3600,1007"/>
+        <Baseline points="3644,1001 3667,2789"/>
+        <TextEquiv>
+          <Unicode>舉常食所用耳杏由果也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110763" custom="structure {type:Commentary;}">
+        <Coords points="3493,1030 3594,1032 3586,2585 3490,2585 3493,1030"/>
+        <Baseline points="3530,2585 3539,982"/>
+        <TextEquiv>
+          <Unicode>盧諶祭法曰夏祠用杏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110764" custom="structure {type:Title;}">
+        <Coords points="3286,851 3463,851 3463,1214 3286,1214 3286,851"/>
+        <Baseline points="3387,1215 3401,858"/>
+        <TextEquiv>
+          <Unicode>鳴蟈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110765" custom="structure {type:Text;}">
+        <Coords points="3056,996 3218,996 3218,2564 3056,2564 3056,996"/>
+        <Baseline points="3121,1001 3130,2566"/>
+        <TextEquiv>
+          <Unicode>蟈也者或曰屈造之屬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110766" custom="structure {type:Commentary;}">
+        <Coords points="3133,2579 3258,2565 3265,3758 3136,3750 3133,2579"/>
+        <Baseline points="3173,2551 3197,3760"/>
+        <TextEquiv>
+          <Unicode>鄭氏曰齊魯之間</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110767" custom="structure {type:Commentary;}">
+        <Coords points="3017,2574 3136,2565 3139,3736 3037,3742 3017,2574"/>
+        <Baseline points="3073,2532 3097,3741"/>
+        <TextEquiv>
+          <Unicode>謂鼃為蟈鳴聒人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110768" custom="structure {type:Commentary;}">
+        <Coords points="2921,1004 3034,1015 3040,2076 2927,2076 2921,1004"/>
+        <Baseline points="2959,1005 2983,2076"/>
+        <TextEquiv>
+          <Unicode>耳周官蟈氏注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110769" custom="structure {type:Commentary;}">
+        <Coords points="2789,982 2925,982 2925,1902 2789,1902 2789,982"/>
+        <Baseline points="2845,986 2864,1904"/>
+        <TextEquiv>
+          <Unicode>今御所食蛙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110770" custom="structure {type:Title;}">
+        <Coords points="2595,856 2759,856 2759,1385 2595,1385 2595,856"/>
+        <Baseline points="2693,858 2693,1386"/>
+        <TextEquiv>
+          <Unicode>王萯秀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110771" custom="structure {type:Commentary;}">
+        <Coords points="2687,1386 2796,1382 2788,2913 2681,2950 2687,1386"/>
+        <Baseline points="2735,2946 2740,1386"/>
+        <TextEquiv>
+          <Unicode>秀當作生月令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110772" custom="structure {type:Commentary;}">
+        <Coords points="2573,1394 2684,1392 2689,2910 2571,2908 2573,1394"/>
+        <Baseline points="2617,1353 2626,2913"/>
+        <TextEquiv>
+          <Unicode>本艸即土瓜四月生苗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>蜚者虎懸也鳴而後知之故先鳴而後蛩
+爾雅蜻蜻注
+佀蝉而小
+囿有見杏
+杏也者山之燕者也
+杏内则鄭註謂君燕
+食所用之加豆蓋略
+舉常食所用耳杏由果也
+盧諶祭法曰夏祠用杏
+鳴蟈
+蟈也者或曰屈造之屬
+鄭氏曰齊魯之間
+謂鼃為蟈鳴聒人
+耳周官蟈氏注
+今御所食蛙
+王萯秀
+秀當作生月令
+本艸即土瓜四月生苗
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117824" custom="structure {type:MainText_Left;}">
+      <Coords points="334,853 2388,867 2426,3703 396,3722 334,853"/>
+      <TextLine id="1110773" custom="structure {type:Title;}">
+        <Coords points="2164,819 2354,819 2354,1177 2164,1177 2164,819"/>
+        <Baseline points="2265,829 2298,1172"/>
+        <TextEquiv>
+          <Unicode>取荼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110774" custom="structure {type:Text;}">
+        <Coords points="1947,957 2153,957 2153,2550 1947,2550 1947,957"/>
+        <Baseline points="2032,963 2070,2551"/>
+        <TextEquiv>
+          <Unicode>荼也者以為君薦將也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110775" custom="structure {type:Commentary;}">
+        <Coords points="2081,2546 2211,2540 2217,3722 2087,3733 2081,2546"/>
+        <Baseline points="2112,2532 2169,3745"/>
+        <TextEquiv>
+          <Unicode>爾雅檟苦荼注業</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110776" custom="structure {type:Commentary;}">
+        <Coords points="1931,2568 2087,2557 2094,3739 1971,3725 1931,2568"/>
+        <Baseline points="2013,2523 2036,3741"/>
+        <TextEquiv>
+          <Unicode>可煮羹飲今呼早</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110777" custom="structure {type:Commentary;}">
+        <Coords points="1818,981 1937,973 1943,2031 1827,2045 1818,981"/>
+        <Baseline points="1875,982 1903,2052"/>
+        <TextEquiv>
+          <Unicode>取者為荼晚取</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110778" custom="structure {type:Commentary;}">
+        <Coords points="1705,959 1818,953 1824,2051 1711,2045 1705,959"/>
+        <Baseline points="1770,953 1780,2090"/>
+        <TextEquiv>
+          <Unicode>者為茗一名荈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110779" custom="structure {type:Title;}">
+        <Coords points="1510,832 1659,830 1674,1168 1504,1162 1510,832"/>
+        <Baseline points="1589,834 1594,1196"/>
+        <TextEquiv>
+          <Unicode>秀幽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110780" custom="structure {type:Commentary;}">
+        <Coords points="1598,1157 1708,1145 1708,1870 1598,1870 1598,1157"/>
+        <Baseline points="1651,1143 1656,1881"/>
+        <TextEquiv>
+          <Unicode>盧召弓曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110781" custom="structure {type:Commentary;}">
+        <Coords points="1484,1171 1595,1168 1603,1722 1490,1720 1484,1171"/>
+        <Baseline points="1523,1172 1542,1724"/>
+        <TextEquiv>
+          <Unicode>即秀要</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110782" custom="structure {type:Commentary;}">
+        <Coords points="1368,979 1479,990 1514,2887 1374,2885 1368,979"/>
+        <Baseline points="1409,982 1447,2889"/>
+        <TextEquiv>
+          <Unicode>毛詩四月秀要爾雅變繞注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110783" custom="structure {type:Commentary;}">
+        <Coords points="1236,984 1354,981 1380,2710 1267,2738 1236,984"/>
+        <Baseline points="1285,986 1342,2713"/>
+        <TextEquiv>
+          <Unicode>遠志也幽要音相近訛荼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110784" custom="structure {type:Title;}">
+        <Coords points="1041,826 1219,826 1219,1537 1041,1537 1041,826"/>
+        <Baseline points="1133,829 1138,1538"/>
+        <TextEquiv>
+          <Unicode>越有大旱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110785" custom="structure {type:Text;}">
+        <Coords points="805,968 983,968 983,1551 805,1551 805,968"/>
+        <Baseline points="895,1552 905,972"/>
+        <TextEquiv>
+          <Unicode>記時爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110786" custom="structure {type:Commentary;}">
+        <Coords points="896,1558 1015,1561 1039,2527 913,2548 896,1558"/>
+        <Baseline points="943,1557 962,2528"/>
+        <TextEquiv>
+          <Unicode>一再記之者閔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110787" custom="structure {type:Commentary;}">
+        <Coords points="794,1556 899,1547 905,2426 817,2427 794,1556"/>
+        <Baseline points="852,2428 857,1524"/>
+        <TextEquiv>
+          <Unicode>旱之心切矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110788" custom="structure {type:Title;}">
+        <Coords points="582,811 751,811 751,1593 582,1593 582,811"/>
+        <Baseline points="657,815 667,1595"/>
+        <TextEquiv>
+          <Unicode>執陟攻駒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110789" custom="structure {type:Text;}">
+        <Coords points="344,978 551,990 585,3748 390,3739 344,978"/>
+        <Baseline points="434,982 510,3750"/>
+        <TextEquiv>
+          <Unicode>執也者始釩駒釩駒者離之公母也陟升</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>取荼
+荼也者以為君薦將也
+爾雅檟苦荼注業
+可煮羹飲今呼早
+取者為荼晚取
+者為茗一名荈
+秀幽
+盧召弓曰
+即秀要
+毛詩四月秀要爾雅變繞注
+遠志也幽要音相近訛荼
+越有大旱
+記時爾
+一再記之者閔
+旱之心切矣
+執陟攻駒
+執也者始釩駒釩駒者離之公母也陟升
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117825" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="167,867 334,858 372,3731 224,3712 167,867"/>
+      <TextLine id="1110790" custom="structure {type:Title;}">
+        <Coords points="172,857 294,844 294,1418 180,1411 172,857"/>
+        <Baseline points="210,848 224,1419"/>
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110791" custom="structure {type:Section;}">
+        <Coords points="180,1663 365,1663 365,2031 180,2031 180,1663"/>
+        <Baseline points="263,1667 267,2033"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110792" custom="structure {type:Page_Number;}">
+        <Coords points="203,2732 304,2716 304,2978 203,2973 203,2732"/>
+        <Baseline points="258,2718 258,2979"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+卷二
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

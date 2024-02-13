@@ -1,0 +1,353 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:27+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_02_0031.jpg" imageHeight="4158" imageWidth="4651">
+    <TextRegion id="119601" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4362,3653 4362,742 4519,742 4519,3653 4362,3653"/>
+      <TextLine id="1129318" custom="structure {type:Title;}">
+        <Coords points="4378,746 4480,744 4471,1315 4378,1309 4378,746"/>
+        <Baseline points="4457,1312 4470,750"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129319" custom="structure {type:Section;}">
+        <Coords points="4388,1751 4480,1693 4483,2022 4385,2023 4388,1751"/>
+        <Baseline points="4453,1682 4457,2025"/>
+        <TextEquiv>
+          <Unicode>卷五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129320" custom="structure {type:Page_Number;}">
+        <Coords points="4397,2928 4480,2921 4485,3087 4392,3086 4397,2928"/>
+        <Baseline points="4470,2916 4470,3088"/>
+        <TextEquiv>
+          <Unicode>十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷五
+十一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119602" custom="structure {type:MainText_Right;}">
+      <Coords points="2521,3658 2521,728 4371,728 4371,3658 2521,3658"/>
+      <TextLine id="1129321" custom="structure {type:Text;}">
+        <Coords points="4177,750 4357,750 4357,1748 4177,1748 4177,750"/>
+        <Baseline points="4262,754 4278,1749"/>
+        <TextEquiv>
+          <Unicode>月中閒斸去惡根</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129322" custom="structure {type:Commentary;}">
+        <Coords points="4274,1746 4378,1734 4373,2521 4274,2521 4274,1746"/>
+        <Baseline points="4309,1722 4322,2523"/>
+        <TextEquiv>
+          <Unicode>斸者地熟楮科</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129323" custom="structure {type:Commentary;}">
+        <Coords points="4174,1739 4281,1736 4281,2543 4171,2538 4174,1739"/>
+        <Baseline points="4215,2556 4225,1729"/>
+        <TextEquiv>
+          <Unicode>亦以留潤澤也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129324" custom="structure {type:Text;}">
+        <Coords points="4186,2531 4369,2531 4369,3645 4186,3645 4186,2531"/>
+        <Baseline points="4282,2536 4295,3646"/>
+        <TextEquiv>
+          <Unicode>移栽者二月蒔之亦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129325" custom="structure {type:Text;}">
+        <Coords points="3974,746 4142,746 4142,1328 3974,1328 3974,746"/>
+        <Baseline points="4050,1329 4063,750"/>
+        <TextEquiv>
+          <Unicode>三年一斸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129326" custom="structure {type:Commentary;}">
+        <Coords points="4067,1325 4174,1318 4178,2136 4074,2133 4067,1325"/>
+        <Baseline points="4127,1315 4134,2146"/>
+        <TextEquiv>
+          <Unicode>三年不斸者徒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129327" custom="structure {type:Commentary;}">
+        <Coords points="3955,1322 4069,1318 4076,1988 3971,1988 3955,1322"/>
+        <Baseline points="4013,1312 4026,1991"/>
+        <TextEquiv>
+          <Unicode>失錢無益也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129328" custom="structure {type:Text;}">
+        <Coords points="3978,2122 4151,2122 4151,3668 3978,3668 3978,2122"/>
+        <Baseline points="4073,3670 4080,2126"/>
+        <TextEquiv>
+          <Unicode>指地賣者省功而利少煮剝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129329" custom="structure {type:Text;}">
+        <Coords points="3763,718 3943,718 3943,1868 3763,1868 3763,718"/>
+        <Baseline points="3875,1870 3878,723"/>
+        <TextEquiv>
+          <Unicode>賣皮者雖勞而利大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129330" custom="structure {type:Commentary;}">
+        <Coords points="3864,1869 3976,1862 3969,2274 3872,2283 3864,1869"/>
+        <Baseline points="3919,1857 3932,2274"/>
+        <TextEquiv>
+          <Unicode>其柴足</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129331" custom="structure {type:Commentary;}">
+        <Coords points="3762,1869 3862,1865 3879,2282 3762,2281 3762,1869"/>
+        <Baseline points="3811,1843 3821,2284"/>
+        <TextEquiv>
+          <Unicode>以供然</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129332" custom="structure {type:Text;}">
+        <Coords points="3777,2268 3953,2268 3953,3686 3777,3686 3777,2268"/>
+        <Baseline points="3865,2271 3875,3687"/>
+        <TextEquiv>
+          <Unicode>自能造紙其利又多種三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129333" custom="structure {type:Text;}">
+        <Coords points="3572,748 3745,748 3745,2986 3572,2986 3572,748"/>
+        <Baseline points="3663,750 3663,2987"/>
+        <TextEquiv>
+          <Unicode>十畝者歲斫十畝三年一徧歲收絹百疋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129334" custom="structure {type:Title;}">
+        <Coords points="3366,1011 3541,1011 3541,1956 3366,1956 3366,1011"/>
+        <Baseline points="3434,1016 3441,1958"/>
+        <TextEquiv>
+          <Unicode>種漆第四十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129335" custom="structure {type:Text;}">
+        <Coords points="3156,743 3347,743 3347,3665 3156,3665 3156,743"/>
+        <Baseline points="3243,747 3260,3666"/>
+        <TextEquiv>
+          <Unicode>凡漆器不問真偽送客之後皆須以水淨洗置牀箔上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129336" custom="structure {type:Text;}">
+        <Coords points="2952,746 3142,746 3142,3679 2952,3679 2952,746"/>
+        <Baseline points="3041,750 3071,3680"/>
+        <TextEquiv>
+          <Unicode>於日中半日許曝之使乾下晡乃收則堅牢耐久若不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129337" custom="structure {type:Text;}">
+        <Coords points="2744,764 2938,764 2938,3654 2744,3654 2744,764"/>
+        <Baseline points="2839,767 2863,3656"/>
+        <TextEquiv>
+          <Unicode>即洗者鹽醋浸潤氣徹則皺器便壞矣其朱裏者仰而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129338" custom="structure {type:Text;}">
+        <Coords points="2536,746 2733,746 2733,3698 2536,3698 2536,746"/>
+        <Baseline points="2637,750 2664,3700"/>
+        <TextEquiv>
+          <Unicode>曝之朱本和油性潤耐日故盛夏連雨土氣蒸熱什器</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>月中閒斸去惡根
+斸者地熟楮科
+亦以留潤澤也
+移栽者二月蒔之亦
+三年一斸
+三年不斸者徒
+失錢無益也
+指地賣者省功而利少煮剝
+賣皮者雖勞而利大
+其柴足
+以供然
+自能造紙其利又多種三
+十畝者歲斫十畝三年一徧歲收絹百疋
+種漆第四十九
+凡漆器不問真偽送客之後皆須以水淨洗置牀箔上
+於日中半日許曝之使乾下晡乃收則堅牢耐久若不
+即洗者鹽醋浸潤氣徹則皺器便壞矣其朱裏者仰而
+曝之朱本和油性潤耐日故盛夏連雨土氣蒸熱什器
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119603" custom="structure {type:MainText_Left;}">
+      <Coords points="348,3677 348,709 2179,709 2179,3677 348,3677"/>
+      <TextLine id="1129339" custom="structure {type:Text;}">
+        <Coords points="1961,757 2174,757 2174,3705 1961,3705 1961,757"/>
+        <Baseline points="2073,3707 2109,760"/>
+        <TextEquiv>
+          <Unicode>之屬雖不經夏用六七月中各須一曝使乾世人見漆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129340" custom="structure {type:Text;}">
+        <Coords points="1767,757 1956,757 1956,3665 1767,3665 1767,757"/>
+        <Baseline points="1881,3666 1888,760"/>
+        <TextEquiv>
+          <Unicode>器暫在日中恐其炙壞合著陰潤之地雖欲愛慎朽敗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129341" custom="structure {type:Text;}">
+        <Coords points="1580,723 1769,723 1769,1191 1580,1191 1580,723"/>
+        <Baseline points="1696,1194 1699,727"/>
+        <TextEquiv>
+          <Unicode>更速矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129342" custom="structure {type:Text;}">
+        <Coords points="1370,746 1554,746 1554,2025 1370,2025 1370,746"/>
+        <Baseline points="1471,2028 1484,750"/>
+        <TextEquiv>
+          <Unicode>凡木盡服翫箱椀之屬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129343" custom="structure {type:Commentary;}">
+        <Coords points="1467,2022 1579,2022 1587,3652 1457,3653 1467,2022"/>
+        <Baseline points="1518,2018 1524,3653"/>
+        <TextEquiv>
+          <Unicode>入五月盡七月九月中每經雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129344" custom="structure {type:Commentary;}">
+        <Coords points="1365,2019 1467,2017 1457,3668 1348,3665 1365,2019"/>
+        <Baseline points="1410,3687 1413,2012"/>
+        <TextEquiv>
+          <Unicode>以布纏指揩令熱徹膠不動作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129345" custom="structure {type:Commentary;}">
+        <Coords points="1274,759 1379,759 1353,2985 1248,2983 1274,759"/>
+        <Baseline points="1309,3021 1346,737"/>
+        <TextEquiv>
+          <Unicode>光淨耐久若不揩拭者地氣蒸熱徧上生</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129346" custom="structure {type:Commentary;}">
+        <Coords points="1165,761 1272,761 1251,2854 1146,2857 1165,761"/>
+        <Baseline points="1198,2859 1239,747"/>
+        <TextEquiv>
+          <Unicode>衣厚潤徹膠便皺動處起發颯然破矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129347" custom="structure {type:Title;}">
+        <Coords points="951,995 1143,995 1143,2430 951,2430 951,995"/>
+        <Baseline points="1064,2432 1091,1002"/>
+        <TextEquiv>
+          <Unicode>種槐柳楸梓梧柞第五十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129348" custom="structure {type:Commentary;}">
+        <Coords points="865,752 970,752 956,3111 841,3111 865,752"/>
+        <Baseline points="879,3128 926,747"/>
+        <TextEquiv>
+          <Unicode>爾雅曰守宮槐葉晝聶宵炕注曰槐葉晝日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129349" custom="structure {type:Commentary;}">
+        <Coords points="749,752 863,754 849,2983 723,2982 749,752"/>
+        <Baseline points="805,2984 812,740"/>
+        <TextEquiv>
+          <Unicode>聶合而夜炕布者名守宮孫炎曰炕張也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129350" custom="structure {type:Text;}">
+        <Coords points="547,736 730,736 730,3665 547,3665 547,736"/>
+        <Baseline points="650,740 657,3666"/>
+        <TextEquiv>
+          <Unicode>槐子熟時多收擘取數曝勿令蟲生五月夏至前十餘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129352" custom="structure {type:Text;}">
+        <Coords points="353,743 526,743 526,1425 353,1425 353,743"/>
+        <Baseline points="445,1426 448,747"/>
+        <TextEquiv>
+          <Unicode>日以水浸之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129353" custom="structure {type:Commentary;}">
+        <Coords points="440,1446 551,1446 556,1862 440,1858 440,1446"/>
+        <Baseline points="485,1450 499,1894"/>
+        <TextEquiv>
+          <Unicode>如浸麻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129354" custom="structure {type:Commentary;}">
+        <Coords points="337,1446 447,1446 444,1858 344,1855 337,1446"/>
+        <Baseline points="395,1420 405,1843"/>
+        <TextEquiv>
+          <Unicode>子法也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129355" custom="structure {type:Text;}">
+        <Coords points="335,1838 519,1838 519,3645 335,3645 335,1838"/>
+        <Baseline points="432,1843 445,3646"/>
+        <TextEquiv>
+          <Unicode>六七日當芽生好雨種麻時和麻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之屬雖不經夏用六七月中各須一曝使乾世人見漆
+器暫在日中恐其炙壞合著陰潤之地雖欲愛慎朽敗
+更速矣
+凡木盡服翫箱椀之屬
+入五月盡七月九月中每經雨
+以布纏指揩令熱徹膠不動作
+光淨耐久若不揩拭者地氣蒸熱徧上生
+衣厚潤徹膠便皺動處起發颯然破矣
+種槐柳楸梓梧柞第五十
+爾雅曰守宮槐葉晝聶宵炕注曰槐葉晝日
+聶合而夜炕布者名守宮孫炎曰炕張也
+槐子熟時多收擘取數曝勿令蟲生五月夏至前十餘
+日以水浸之
+如浸麻
+子法也
+六七日當芽生好雨種麻時和麻
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119604" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="201,3677 201,723 329,723 329,3677 201,3677"/>
+      <TextLine id="1129356" custom="structure {type:Title;}">
+        <Coords points="237,749 330,752 328,1294 235,1299 237,749"/>
+        <Baseline points="270,1288 273,733"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129357" custom="structure {type:Section;}">
+        <Coords points="230,1715 318,1716 318,2000 223,2003 230,1715"/>
+        <Baseline points="270,1719 273,2001"/>
+        <TextEquiv>
+          <Unicode>卷五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129358" custom="structure {type:Page_Number;}">
+        <Coords points="223,2925 309,2924 309,3134 218,3130 223,2925"/>
+        <Baseline points="260,2926 260,3135"/>
+        <TextEquiv>
+          <Unicode>十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷五
+十二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

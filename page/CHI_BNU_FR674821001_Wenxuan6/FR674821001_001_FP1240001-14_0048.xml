@@ -1,0 +1,285 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:32+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-14_0048.jpg" imageHeight="3500" imageWidth="1882">
+    <TextRegion id="117240" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1729,1222 1791,1220 1783,2414 1721,2414 1729,1222"/>
+      <TextLine id="1104930" custom="structure {type:Section;}">
+        <Coords points="1731,1304 1788,1294 1788,1568 1729,1574 1731,1304"/>
+        <Baseline points="1765,1300 1767,1568"/>
+        <TextEquiv>
+          <Unicode>文三十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104931" custom="structure {type:Page_Number;}">
+        <Coords points="1729,2270 1784,2264 1784,2412 1727,2418 1729,2270"/>
+        <Baseline points="1759,2268 1761,2404"/>
+        <TextEquiv>
+          <Unicode>二十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文三十九
+二十二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117239" custom="structure {type:MainText;}">
+      <Coords points="161,786 1714,793 1712,3174 190,3183 161,786"/>
+      <TextLine id="1104899" custom="structure {type:Commentary;}">
+        <Coords points="1640,1242 1637,796 1716,796 1714,1690 1635,1690 1640,1242"/>
+        <Baseline points="1673,1690 1675,796"/>
+        <TextEquiv>
+          <Unicode>行臣之計請必係單</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104900" custom="structure {type:Commentary;}">
+        <Coords points="1561,794 1638,794 1640,1570 1561,1576 1561,794"/>
+        <Baseline points="1599,1570 1601,796"/>
+        <TextEquiv>
+          <Unicode>于之頸而制其命</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104901" custom="structure {type:Text;}">
+        <Coords points="1565,1692 1710,1694 1716,2618 1563,2626 1565,1692"/>
+        <Baseline points="1629,1694 1635,2614"/>
+        <TextEquiv>
+          <Unicode>俱啟丹冊並圖青史</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104902" custom="structure {type:Commentary;}">
+        <Coords points="1647,2618 1716,2622 1718,3156 1635,3162 1647,2618"/>
+        <Baseline points="1675,3156 1677,2620"/>
+        <TextEquiv>
+          <Unicode>漢書曰高祖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104903" custom="structure {type:Commentary;}">
+        <Coords points="1573,2626 1644,2623 1636,3160 1573,3162 1573,2626"/>
+        <Baseline points="1603,2626 1609,3150"/>
+        <TextEquiv>
+          <Unicode>論功定封以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104904" custom="structure {type:Commentary;}">
+        <Coords points="1482,1782 1481,1456 1477,796 1564,798 1562,2116 1483,2118 1482,1782"/>
+        <Baseline points="1519,795 1524,2116"/>
+        <TextEquiv>
+          <Unicode>丹書之信重以白馬之盟又有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104905" custom="structure {type:Commentary;}">
+        <Coords points="1405,1418 1407,804 1476,792 1484,2030 1411,2030 1405,1418"/>
+        <Baseline points="1446,786 1448,2030"/>
+        <TextEquiv>
+          <Unicode>青史子音義曰古史官記事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104906" custom="structure {type:Text;}">
+        <Coords points="1416,2115 1560,2124 1562,3165 1412,3172 1416,2115"/>
+        <Baseline points="1484,2116 1484,3167"/>
+        <TextEquiv>
+          <Unicode>寕當爭分寸之末競錐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104907" custom="structure {type:Text;}">
+        <Coords points="1255,793 1405,793 1406,1238 1255,1230 1255,793"/>
+        <Baseline points="1334,795 1334,1231"/>
+        <TextEquiv>
+          <Unicode>刀之利哉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104908" custom="structure {type:Commentary;}">
+        <Coords points="1335,1802 1324,1248 1407,1236 1404,2374 1333,2362 1335,1802"/>
+        <Baseline points="1365,2363 1369,1240"/>
+        <TextEquiv>
+          <Unicode>左氏傳曰叔向詒子產書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104909" custom="structure {type:Commentary;}">
+        <Coords points="1251,1240 1328,1240 1330,1754 1338,2256 1255,2238 1251,1240"/>
+        <Baseline points="1293,2237 1296,1248"/>
+        <TextEquiv>
+          <Unicode>曰錐刀之末將盡爭之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104910" custom="structure {type:Text;}">
+        <Coords points="1263,2358 1326,2364 1413,2380 1412,3158 1271,3160 1263,2358"/>
+        <Baseline points="1334,2365 1339,3155"/>
+        <TextEquiv>
+          <Unicode>下官聞積毀銷金</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104911" custom="structure {type:Text;}">
+        <Coords points="1100,792 1242,792 1243,1269 1169,1274 1099,1269 1100,792"/>
+        <Baseline points="1172,1271 1177,791"/>
+        <TextEquiv>
+          <Unicode>積讒磨骨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104912" custom="structure {type:Commentary;}">
+        <Coords points="1181,1276 1254,1276 1250,1982 1179,1986 1181,1276"/>
+        <Baseline points="1208,1272 1215,1973"/>
+        <TextEquiv>
+          <Unicode>鄒陽上書曰衆口</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104913" custom="structure {type:Commentary;}">
+        <Coords points="1103,1270 1180,1278 1180,1924 1105,1916 1103,1270"/>
+        <Baseline points="1148,1916 1151,1277"/>
+        <TextEquiv>
+          <Unicode>鑠金積毀消骨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104914" custom="structure {type:Text;}">
+        <Coords points="1113,1988 1256,1992 1267,3166 1117,3160 1113,1988"/>
+        <Baseline points="1172,1985 1182,3155"/>
+        <TextEquiv>
+          <Unicode>遠則直生取疑於盜金近</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104915" custom="structure {type:Text;}">
+        <Coords points="957,798 1092,790 1093,1713 1029,1722 951,1713 957,798"/>
+        <Baseline points="1020,791 1032,1714"/>
+        <TextEquiv>
+          <Unicode>則伯魚被名於不義</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104916" custom="structure {type:Commentary;}">
+        <Coords points="1031,2450 1035,1720 1102,1718 1118,3164 1035,3156 1031,2450"/>
+        <Baseline points="1065,1718 1075,3150"/>
+        <TextEquiv>
+          <Unicode>漢書曰直不疑南陽人為郎事文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104917" custom="structure {type:Commentary;}">
+        <Coords points="955,1711 1036,1720 1032,2430 1036,3166 965,3170 955,1711"/>
+        <Baseline points="996,1714 998,3153"/>
+        <TextEquiv>
+          <Unicode>帝其同舍有告歸誤持其同舍郎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104918" custom="structure {type:Commentary;}">
+        <Coords points="879,2578 875,1990 867,794 959,791 954,1986 958,3170 879,3176 879,2578"/>
+        <Baseline points="903,795 922,3174"/>
+        <TextEquiv>
+          <Unicode>金已而同舍郎覺妄意不疑不疑謝有之買金償後告</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104919" custom="structure {type:Commentary;}">
+        <Coords points="803,1976 792,1390 791,796 868,796 870,1384 874,1970 880,3166 805,3168 803,1976"/>
+        <Baseline points="832,793 844,3167"/>
+        <TextEquiv>
+          <Unicode>歸者至而歸金亡金郎大慚范曄後漢書曰第五倫字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104920" custom="structure {type:Commentary;}">
+        <Coords points="729,2576 723,1984 715,796 790,800 794,1986 796,2578 800,3176 733,3178 729,2576"/>
+        <Baseline points="751,791 770,3172"/>
+        <TextEquiv>
+          <Unicode>伯魚京兆人舉孝廉補淮陽醫工長後從王朝京師得</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104921" custom="structure {type:Commentary;}">
+        <Coords points="651,1982 643,1384 633,788 716,798 718,1378 728,1980 734,3174 657,3176 651,1982"/>
+        <Baseline points="673,791 699,3174"/>
+        <TextEquiv>
+          <Unicode>會帝戲倫謂倫曰聞卿為吏篣婦公不過從兄飯寕有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104922" custom="structure {type:Commentary;}">
+        <Coords points="569,1522 559,798 634,798 640,1520 646,2250 573,2258 569,1522"/>
+        <Baseline points="599,800 608,2242"/>
+        <TextEquiv>
+          <Unicode>之耶倫對曰臣三娶妻皆無父少</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104923" custom="structure {type:Commentary;}">
+        <Coords points="487,1482 487,800 562,790 580,2162 497,2170 487,1482"/>
+        <Baseline points="525,795 537,2156"/>
+        <TextEquiv>
+          <Unicode>遭飢亂實不妄過人食帝大笑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104924" custom="structure {type:Text;}">
+        <Coords points="499,2260 644,2256 658,3174 515,3176 499,2260"/>
+        <Baseline points="570,2258 587,3171"/>
+        <TextEquiv>
+          <Unicode>彼之二子猶或如是</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104925" custom="structure {type:Text;}">
+        <Coords points="327,808 476,806 488,1982 504,3171 357,3176 327,808"/>
+        <Baseline points="406,795 440,3172"/>
+        <TextEquiv>
+          <Unicode>況在下官焉能自免昔上將之恥絳侯幽獄名臣之羞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104926" custom="structure {type:Text;}">
+        <Coords points="171,802 246,794 322,806 323,1258 170,1276 171,802"/>
+        <Baseline points="244,793 249,1257"/>
+        <TextEquiv>
+          <Unicode>史遷下室</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104927" custom="structure {type:Commentary;}">
+        <Coords points="247,2058 245,1280 322,1264 348,2842 273,2840 247,2058"/>
+        <Baseline points="280,1269 309,2836"/>
+        <TextEquiv>
+          <Unicode>司馬遷荅任少卿書曰絳侯誅諸呂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104928" custom="structure {type:Commentary;}">
+        <Coords points="175,2002 171,1286 244,1278 248,2010 269,2740 191,2756 175,2002"/>
+        <Baseline points="216,1281 233,2741"/>
+        <TextEquiv>
+          <Unicode>囚於請室又曰而僕又茸以蠶室</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104929" custom="structure {type:Text;}">
+        <Coords points="192,2846 338,2846 338,3177 192,3177 192,2846"/>
+        <Baseline points="268,3179 271,2850"/>
+        <TextEquiv>
+          <Unicode>至如下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>行臣之計請必係單
+于之頸而制其命
+俱啟丹冊並圖青史
+漢書曰高祖
+論功定封以
+丹書之信重以白馬之盟又有
+青史子音義曰古史官記事
+寕當爭分寸之末競錐
+刀之利哉
+左氏傳曰叔向詒子產書
+曰錐刀之末將盡爭之
+下官聞積毀銷金
+積讒磨骨
+鄒陽上書曰衆口
+鑠金積毀消骨
+遠則直生取疑於盜金近
+則伯魚被名於不義
+漢書曰直不疑南陽人為郎事文
+帝其同舍有告歸誤持其同舍郎
+金已而同舍郎覺妄意不疑不疑謝有之買金償後告
+歸者至而歸金亡金郎大慚范曄後漢書曰第五倫字
+伯魚京兆人舉孝廉補淮陽醫工長後從王朝京師得
+會帝戲倫謂倫曰聞卿為吏篣婦公不過從兄飯寕有
+之耶倫對曰臣三娶妻皆無父少
+遭飢亂實不妄過人食帝大笑
+彼之二子猶或如是
+況在下官焉能自免昔上將之恥絳侯幽獄名臣之羞
+史遷下室
+司馬遷荅任少卿書曰絳侯誅諸呂
+囚於請室又曰而僕又茸以蠶室
+至如下
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

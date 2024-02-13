@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:18+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_6_43_0016.jpg" imageHeight="3144" imageWidth="3605">
+    <TextRegion id="116629" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3352,1206 3447,1206 3461,1781 3336,1801 3352,1206"/>
+      <TextLine id="1098873" custom="structure {type:Section;}">
+        <Coords points="3348,1217 3394,1198 3402,1789 3346,1814 3348,1217"/>
+        <Baseline points="3377,1209 3382,1789"/>
+        <TextEquiv>
+          <Unicode>愧郯錄卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>愧郯錄卷一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116628" custom="structure {type:MainText_Right;}">
+      <Coords points="1915,755 3334,755 3334,2677 1915,2677 1915,755"/>
+      <TextLine id="1098848" custom="structure {type:Text;}">
+        <Coords points="3155,765 3302,765 3312,2671 3165,2677 3155,765"/>
+        <Baseline points="3229,768 3234,1783 3250,2647"/>
+        <TextEquiv>
+          <Unicode>本室而後行躬祼率以為常至于今不廢乃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098850" custom="structure {type:Text;}">
+        <Coords points="2998,749 3143,749 3143,2557 2998,2557 2998,749"/>
+        <Baseline points="3074,752 3094,2558"/>
+        <TextEquiv>
+          <Unicode>若 僖祖以 熙寧王安石之議正東嚮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098851" custom="structure {type:Text;}">
+        <Coords points="2843,766 2996,766 3006,2674 2853,2671 2843,766"/>
+        <Baseline points="2914,770 2937,2651"/>
+        <TextEquiv>
+          <Unicode>大觀之元遂有 立道肇基積徳起功懿文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098852" custom="structure {type:Text;}">
+        <Coords points="2689,766 2836,766 2848,2677 2692,2677 2689,766"/>
+        <Baseline points="2762,770 2780,2635"/>
+        <TextEquiv>
+          <Unicode>獻武睿和至孝之號嫓之 親廟増者十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098853" custom="structure {type:Text;}">
+        <Coords points="2537,763 2666,763 2666,1552 2537,1552 2537,763"/>
+        <Baseline points="2607,766 2612,1554"/>
+        <TextEquiv>
+          <Unicode>焉蓋一時之制也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098854" custom="structure {type:Title;}">
+        <Coords points="2385,1215 2514,1215 2514,1662 2385,1662 2385,1215"/>
+        <Baseline points="2451,1219 2458,1664"/>
+        <TextEquiv>
+          <Unicode>五字定制</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098855" custom="structure {type:Text;}">
+        <Coords points="2219,763 2369,763 2369,2661 2219,2661 2219,763"/>
+        <Baseline points="2296,766 2313,2663"/>
+        <TextEquiv>
+          <Unicode>漢制宗廟必冠以孝唐特表一字而出之諸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098856" custom="structure {type:Text;}">
+        <Coords points="2070,768 2212,768 2225,2668 2067,2674 2070,768"/>
+        <Baseline points="2142,772 2145,1718 2161,2649"/>
+        <TextEquiv>
+          <Unicode>帝類曰某宗某諡孝皇帝間有不盡然者不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098857" custom="structure {type:Text;}">
+        <Coords points="1913,770 2058,770 2064,2680 1912,2682 1913,770"/>
+        <Baseline points="1983,773 1986,1797 1999,2663"/>
+        <TextEquiv>
+          <Unicode>多見也 國朝初定 藝祖諡止曰英武聖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>本室而後行躬祼率以為常至于今不廢乃
+若 僖祖以 熙寧王安石之議正東嚮
+大觀之元遂有 立道肇基積徳起功懿文
+獻武睿和至孝之號嫓之 親廟増者十二
+焉蓋一時之制也
+五字定制
+漢制宗廟必冠以孝唐特表一字而出之諸
+帝類曰某宗某諡孝皇帝間有不盡然者不
+多見也 國朝初定 藝祖諡止曰英武聖
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116627" custom="structure {type:MainText_Left;}">
+      <Coords points="225,797 1637,797 1637,2695 225,2695 225,797"/>
+      <TextLine id="1098836" custom="structure {type:Text;}">
+        <Coords points="1474,799 1625,799 1625,2679 1474,2679 1474,799"/>
+        <Baseline points="1560,802 1569,2681"/>
+        <TextEquiv>
+          <Unicode>文神徳 太宗諡止曰神徳聖功文武皆未</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098838" custom="structure {type:Text;}">
+        <Coords points="1317,813 1467,813 1467,2677 1317,2677 1317,813"/>
+        <Baseline points="1397,817 1408,2679"/>
+        <TextEquiv>
+          <Unicode>以孝為號 祥符始増之自後 列聖稱天</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098839" custom="structure {type:Text;}">
+        <Coords points="1169,817 1314,817 1318,2697 1170,2694 1169,817"/>
+        <Baseline points="1242,820 1249,2672"/>
+        <TextEquiv>
+          <Unicode>之誄必以百行之首薦於 鴻名蓋嘗攷之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098840" custom="structure {type:Text;}">
+        <Coords points="1013,806 1156,806 1156,2705 1012,2691 1013,806"/>
+        <Baseline points="1086,810 1095,2679"/>
+        <TextEquiv>
+          <Unicode>徽號中所同稱者又有四字文武功徳與孝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098841" custom="structure {type:Text;}">
+        <Coords points="854,812 996,812 996,2569 854,2569 854,812"/>
+        <Baseline points="926,815 934,2571"/>
+        <TextEquiv>
+          <Unicode>而五自初諡中即備其三曰文曰武曰孝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098842" custom="structure {type:Text;}">
+        <Coords points="695,805 847,805 854,2685 704,2682 695,805"/>
+        <Baseline points="772,808 782,2668"/>
+        <TextEquiv>
+          <Unicode>治平而降未之或改也惟 徽 欽初諡曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098843" custom="structure {type:Text;}">
+        <Coords points="539,810 691,810 695,2685 548,2682 539,810"/>
+        <Baseline points="609,813 629,2670"/>
+        <TextEquiv>
+          <Unicode>聖文仁徳顯孝曰恭文順徳仁孝當時蓋張</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098845" custom="structure {type:Text;}">
+        <Coords points="384,812 529,812 529,2712 384,2712 384,812"/>
+        <Baseline points="459,815 480,2713"/>
+        <TextEquiv>
+          <Unicode>忠獻浚陳文正康伯當國 上議初非有他</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098847" custom="structure {type:Text;}">
+        <Coords points="225,817 379,817 379,2698 225,2698 225,817"/>
+        <Baseline points="298,820 319,2700"/>
+        <TextEquiv>
+          <Unicode>蓋用 太平 淳化 乾興故事先摭 聖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文神徳 太宗諡止曰神徳聖功文武皆未
+以孝為號 祥符始増之自後 列聖稱天
+之誄必以百行之首薦於 鴻名蓋嘗攷之
+徽號中所同稱者又有四字文武功徳與孝
+而五自初諡中即備其三曰文曰武曰孝
+治平而降未之或改也惟 徽 欽初諡曰
+聖文仁徳顯孝曰恭文順徳仁孝當時蓋張
+忠獻浚陳文正康伯當國 上議初非有他
+蓋用 太平 淳化 乾興故事先摭 聖
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116626" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="155,938 222,938 228,2689 144,2703 155,938"/>
+      <TextLine id="1098835" custom="structure {type:Section;}">
+        <Coords points="149,1248 212,1246 217,1806 152,1800 149,1248"/>
+        <Baseline points="172,1262 172,1720"/>
+        <TextEquiv>
+          <Unicode>愧郯錄卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234240" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="186,2239 190,2121"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098834" custom="structure {type:Title;}">
+        <Coords points="155,2131 249,2130 249,2681 155,2680 155,2131"/>
+        <Baseline points="191,2239 197,2682"/>
+        <TextEquiv>
+          <Unicode>知不足齋樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>愧郯錄卷一
+三
+知不足齋樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

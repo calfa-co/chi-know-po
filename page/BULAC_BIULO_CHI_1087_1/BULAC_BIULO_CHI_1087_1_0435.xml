@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:25+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0435.jpg" imageHeight="4933" imageWidth="2795">
+    <TextRegion id="79719" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="134,260 134,122 305,122 305,260 134,260"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79721" custom="structure {type:MainText;}">
+      <Coords points="2547,1402 2563,4305 176,4301 192,3571 188,1396 2547,1402"/>
+      <TextLine id="870547" custom="structure {type:Commentary;}">
+        <Coords points="2446,1405 2619,1405 2619,4299 2446,4299 2446,1405"/>
+        <Baseline points="2503,1410 2519,4300"/>
+        <TextEquiv>
+          <Unicode>不失也○今案近本淮南子脫御覽七十九引淮南子等</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870548" custom="structure {type:Commentary;}">
+        <Coords points="2353,1403 2479,1403 2479,4299 2353,4299 2353,1403"/>
+        <Baseline points="2415,1405 2415,4301"/>
+        <TextEquiv>
+          <Unicode>上脫五字保下有命字失作天餘同陳俞本脫貴賤句亦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870549" custom="structure {type:Commentary;}">
+        <Coords points="2260,1397 2367,1397 2367,1781 2260,1781 2260,1397"/>
+        <Baseline points="2319,1400 2319,1784"/>
+        <TextEquiv>
+          <Unicode>見交子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870550" custom="structure {type:Commentary;}">
+        <Coords points="2136,1400 2273,1400 2273,1795 2136,1795 2136,1400"/>
+        <Baseline points="2211,1404 2227,1796"/>
+        <TextEquiv>
+          <Unicode>精誠篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870551" custom="structure {type:Text;}">
+        <Coords points="2164,1795 2358,1795 2358,2600 2164,2600 2164,1795"/>
+        <Baseline points="2279,1800 2291,2602"/>
+        <TextEquiv>
+          <Unicode>不墮山不崇藪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870552" custom="structure {type:Commentary;}">
+        <Coords points="2260,2611 2389,2611 2389,4288 2260,4288 2260,2611"/>
+        <Baseline points="2323,2614 2323,4290"/>
+        <TextEquiv>
+          <Unicode>國語曰周靈王二十二年穀洛鬬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870553" custom="structure {type:Commentary;}">
+        <Coords points="2158,2598 2282,2598 2282,4288 2158,4288 2158,2598"/>
+        <Baseline points="2219,2602 2223,4290"/>
+        <TextEquiv>
+          <Unicode>將毀王宮室王欲雍之太子晉曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870554" custom="structure {type:Commentary;}">
+        <Coords points="2057,1400 2183,1400 2183,4288 2057,4288 2057,1400"/>
+        <Baseline points="2115,1404 2119,4290"/>
+        <TextEquiv>
+          <Unicode>不可晉弭古之長民者不墮山不崇藪不防□不竇澤夫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870555" custom="structure {type:Commentary;}">
+        <Coords points="1958,1394 2081,1394 2081,4291 1958,4291 1958,1394"/>
+        <Baseline points="2019,1397 2019,4294"/>
+        <TextEquiv>
+          <Unicode>山土之聚也藪物之歸也川氣之導也澤水之鐘也○王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870556" custom="structure {type:Commentary;}">
+        <Coords points="1856,1392 1988,1392 1988,3370 1856,3370 1856,1392"/>
+        <Baseline points="1919,1397 1927,3373"/>
+        <TextEquiv>
+          <Unicode>文簡校濕改澤尊改導今案國語周語</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870557" custom="structure {type:Commentary;}">
+        <Coords points="1760,1408 1887,1408 1887,3370 1760,3370 1760,1408"/>
+        <Baseline points="1831,1409 1831,3373"/>
+        <TextEquiv>
+          <Unicode>下及陳俞本宮下無室字雍作壅餘同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870558" custom="structure {type:Text;}">
+        <Coords points="1771,3390 1961,3390 1957,4172 1772,4169 1771,3390"/>
+        <Baseline points="1871,3394 1879,4162"/>
+        <TextEquiv>
+          <Unicode>民不遷農不移</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870559" custom="structure {type:Commentary;}">
+        <Coords points="1859,4173 1988,4173 1988,4305 1859,4305 1859,4173"/>
+        <Baseline points="1911,4306 1915,4178"/>
+        <TextEquiv>
+          <Unicode>春</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870560" custom="structure {type:Commentary;}">
+        <Coords points="1741,4179 1873,4179 1873,4299 1741,4299 1741,4179"/>
+        <Baseline points="1815,4302 1823,4190"/>
+        <TextEquiv>
+          <Unicode>秋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870561" custom="structure {type:Commentary;}">
+        <Coords points="1659,1403 1785,1403 1785,4291 1659,4291 1659,1403"/>
+        <Baseline points="1719,1406 1727,4293"/>
+        <TextEquiv>
+          <Unicode>雲晏子對於齊侯曰在禮家施不及國民不遷農不移工</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870562" custom="structure {type:Commentary;}">
+        <Coords points="1560,1394 1684,1394 1684,4299 1560,4299 1560,1394"/>
+        <Baseline points="1620,1400 1624,4301"/>
+        <TextEquiv>
+          <Unicode>賈不變也○今案此見左氏昭二十六年傳俞本改注晏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870563" custom="structure {type:Commentary;}">
+        <Coords points="1459,1400 1599,1400 1599,3250 1459,3250 1459,1400"/>
+        <Baseline points="1532,1405 1540,3253"/>
+        <TextEquiv>
+          <Unicode>子春秋陳本刪此條小注及下條標</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870564" custom="structure {type:Commentary;}">
+        <Coords points="1368,1405 1486,1405 1486,3116 1368,3116 1368,1405"/>
+        <Baseline points="1424,1409 1428,3117"/>
+        <TextEquiv>
+          <Unicode>目竟將下條小注移注此下誤甚矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870565" custom="structure {type:Text;}">
+        <Coords points="1374,3242 1566,3242 1572,4299 1470,4324 1385,4299 1374,3242"/>
+        <Baseline points="1468,3246 1472,4286"/>
+        <TextEquiv>
+          <Unicode>春無奪農夏無奪巧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870566" custom="structure {type:Commentary;}">
+        <Coords points="1256,1400 1396,1400 1396,4297 1256,4297 1256,1400"/>
+        <Baseline points="1320,1404 1336,4299"/>
+        <TextEquiv>
+          <Unicode>春秋雲太公曰民有三機知之者昌不知者亡春無奪農</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870567" custom="structure {type:Commentary;}">
+        <Coords points="1154,1403 1291,1403 1291,4283 1154,4283 1154,1403"/>
+        <Baseline points="1220,1407 1236,4285"/>
+        <TextEquiv>
+          <Unicode>夏無奪巧秋無佉斂冬無奪藏此民之三機也○孫氏校</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870568" custom="structure {type:Commentary;}">
+        <Coords points="1066,1408 1190,1408 1190,4299 1066,4299 1066,1408"/>
+        <Baseline points="1128,1409 1128,4300"/>
+        <TextEquiv>
+          <Unicode>屯改此今案陳俞本上三機作三械下三機作王機又陳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870569" custom="structure {type:Commentary;}">
+        <Coords points="962,1400 1091,1400 1091,4283 962,4283 962,1400"/>
+        <Baseline points="1024,1404 1032,4285"/>
+        <TextEquiv>
+          <Unicode>本以上條不遷二句為標目皆非也本鈔論改篇亦引知</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870570" custom="structure {type:Commentary;}">
+        <Coords points="880,1405 976,1405 976,1781 880,1781 880,1405"/>
+        <Baseline points="924,1411 932,1783"/>
+        <TextEquiv>
+          <Unicode>之者昌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870571" custom="structure {type:Commentary;}">
+        <Coords points="781,1422 885,1422 885,1652 781,1652 781,1422"/>
+        <Baseline points="828,1423 828,1655"/>
+        <TextEquiv>
+          <Unicode>二句</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870572" custom="structure {type:Text;}">
+        <Coords points="781,1789 976,1789 976,4036 781,4036 781,1789"/>
+        <Baseline points="876,1795 880,4037"/>
+        <TextEquiv>
+          <Unicode>獺祭魚然後人入澤梁豹祭獸然後田獵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870573" custom="structure {type:Commentary;}">
+        <Coords points="872,4056 965,4056 965,4294 872,4294 872,4056"/>
+        <Baseline points="924,4297 932,4061"/>
+        <TextEquiv>
+          <Unicode>王制</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870574" custom="structure {type:Commentary;}">
+        <Coords points="778,4064 894,4064 894,4310 776,4307 778,4064"/>
+        <Baseline points="832,4065 832,4285"/>
+        <TextEquiv>
+          <Unicode>云賴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870575" custom="structure {type:Commentary;}">
+        <Coords points="666,1397 795,1397 795,4283 666,4283 666,1397"/>
+        <Baseline points="728,1402 736,4284"/>
+        <TextEquiv>
+          <Unicode>祭魚然後虞人入澤梁豹祭獸然後田獵鵪化為鷹然後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870576" custom="structure {type:Commentary;}">
+        <Coords points="554,1397 696,1397 696,4291 554,4291 554,1397"/>
+        <Baseline points="628,1402 640,4293"/>
+        <TextEquiv>
+          <Unicode>設罻羅草木零落然後入山林鄭云梁絕水取魚也○今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870577" custom="structure {type:Commentary;}">
+        <Coords points="460,1394 581,1394 581,2592 460,2592 460,1394"/>
+        <Baseline points="524,1398 540,2594"/>
+        <TextEquiv>
+          <Unicode>案王制注同陳本只留</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870578" custom="structure {type:Commentary;}">
+        <Coords points="367,1403 493,1403 493,2584 367,2584 367,1403"/>
+        <Baseline points="428,1406 440,2586"/>
+        <TextEquiv>
+          <Unicode>標目俞本刪鄭云以下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870579" custom="structure {type:Text;}">
+        <Coords points="386,2600 578,2600 578,3631 386,3631 386,2600"/>
+        <Baseline points="480,2604 488,3633"/>
+        <TextEquiv>
+          <Unicode>昆蟲未蟄不以火田</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870580" custom="structure {type:Commentary;}">
+        <Coords points="477,3650 600,3650 600,4308 477,4308 477,3650"/>
+        <Baseline points="536,3653 536,4309"/>
+        <TextEquiv>
+          <Unicode>王制鄭云昆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870581" custom="structure {type:Commentary;}">
+        <Coords points="367,3644 490,3644 490,4294 367,4294 367,3644"/>
+        <Baseline points="432,4297 440,3649"/>
+        <TextEquiv>
+          <Unicode>明也明蟲者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870582" custom="structure {type:Commentary;}">
+        <Coords points="288,1400 400,1400 400,2570 288,2570 288,1400"/>
+        <Baseline points="328,1401 328,2572"/>
+        <TextEquiv>
+          <Unicode>得陽而生得陰而藏○</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870583" custom="structure {type:Text;}">
+        <Coords points="164,1400 293,1400 293,2578 164,2578 164,1400"/>
+        <Baseline points="232,1404 240,2580"/>
+        <TextEquiv>
+          <Unicode>今案俞本同陳本無注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870584" custom="structure {type:Commentary;}">
+        <Coords points="186,2603 386,2603 386,3373 186,3373 186,2603"/>
+        <Baseline points="280,2608 300,3374"/>
+        <TextEquiv>
+          <Unicode>不煞胎不殀夭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870585" custom="structure {type:Commentary;}">
+        <Coords points="282,3384 405,3384 405,4297 282,4297 282,3384"/>
+        <Baseline points="344,3390 348,4298"/>
+        <TextEquiv>
+          <Unicode>禮記不麛不卵不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870586" custom="structure {type:Commentary;}">
+        <Coords points="153,3381 293,3381 293,4297 153,4297 153,3381"/>
+        <Baseline points="240,4298 248,3386"/>
+        <TextEquiv>
+          <Unicode>煞胎不夭夭不覆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>不失也○今案近本淮南子脫御覽七十九引淮南子等
+上脫五字保下有命字失作天餘同陳俞本脫貴賤句亦
+見交子
+精誠篇
+不墮山不崇藪
+國語曰周靈王二十二年穀洛鬬
+將毀王宮室王欲雍之太子晉曰
+不可晉弭古之長民者不墮山不崇藪不防□不竇澤夫
+山土之聚也藪物之歸也川氣之導也澤水之鐘也○王
+文簡校濕改澤尊改導今案國語周語
+下及陳俞本宮下無室字雍作壅餘同
+民不遷農不移
+春
+秋
+雲晏子對於齊侯曰在禮家施不及國民不遷農不移工
+賈不變也○今案此見左氏昭二十六年傳俞本改注晏
+子春秋陳本刪此條小注及下條標
+目竟將下條小注移注此下誤甚矣
+春無奪農夏無奪巧
+春秋雲太公曰民有三機知之者昌不知者亡春無奪農
+夏無奪巧秋無佉斂冬無奪藏此民之三機也○孫氏校
+屯改此今案陳俞本上三機作三械下三機作王機又陳
+本以上條不遷二句為標目皆非也本鈔論改篇亦引知
+之者昌
+二句
+獺祭魚然後人入澤梁豹祭獸然後田獵
+王制
+云賴
+祭魚然後虞人入澤梁豹祭獸然後田獵鵪化為鷹然後
+設罻羅草木零落然後入山林鄭云梁絕水取魚也○今
+案王制注同陳本只留
+標目俞本刪鄭云以下
+昆蟲未蟄不以火田
+王制鄭云昆
+明也明蟲者
+得陽而生得陰而藏○
+今案俞本同陳本無注
+不煞胎不殀夭
+禮記不麛不卵不
+煞胎不夭夭不覆
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79720" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="116,3604 184,3604 172,2044 112,2044 116,3604"/>
+      <TextLine id="1017493" custom="structure {type:Section;}">
+        <Coords points="76,2071 183,2071 183,2844 76,2844 76,2071"/>
+        <Baseline points="129,2077 146,2847"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷三十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1017494" custom="structure {type:Page_Number;}">
+        <Coords points="87,3414 170,3414 170,3581 87,3581 87,3414"/>
+        <Baseline points="133,3419 143,3584"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷三十二
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

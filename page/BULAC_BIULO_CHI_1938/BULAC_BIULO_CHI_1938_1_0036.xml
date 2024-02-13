@@ -1,0 +1,907 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:38+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1938_1_0036.jpg" imageHeight="5745" imageWidth="3889">
+    <TextRegion id="86627" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3662,2077 3795,2073 3791,4302 3648,4302 3662,2077"/>
+      <TextLine id="918277" custom="structure {type:Commentary;}">
+        <Coords points="3751,2374 3684,2374 3684,2971 3815,2971 3812,2374 3751,2374"/>
+        <Baseline points="3753,2377 3753,2977"/>
+        <TextEquiv>
+          <Unicode>爾雅卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918278" custom="structure {type:Commentary;}">
+        <Coords points="3751,3654 3691,3654 3671,3708 3687,3830 3805,3823 3809,3651 3751,3654"/>
+        <Baseline points="3753,3657 3757,3833"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>爾雅卷一
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86626" custom="structure {type:MainText;}">
+      <Coords points="135,705 3631,682 3614,5304 135,5270 135,705"/>
+      <TextLine id="918279" custom="structure {type:Text;}">
+        <Coords points="3502,1330 3419,1330 3416,1401 3374,1464 3374,1576 3410,1618 3378,1656 3378,1723 3422,1847 3390,1899 3410,2004 3387,2052 3419,2093 3403,2122 3419,2170 3381,2234 3381,2298 3620,2288 3617,2218 3572,2144 3572,2036 3614,1975 3614,1959 3579,1902 3588,1847 3556,1819 3556,1646 3614,1560 3614,1404 3569,1327 3502,1330"/>
+        <Baseline points="3505,1331 3515,2301"/>
+        <TextEquiv>
+          <Unicode>釋訓第三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918280" custom="structure {type:Text;}">
+        <Coords points="3208,2033 3311,2033 3320,1918 3282,1883 3323,1790 3323,1723 3298,1685 3307,1627 3282,1586 3282,1525 3323,1484 3323,1468 3285,1417 3285,1302 3317,1263 3317,1247 3285,1206 3285,1171 3327,1126 3304,928 3327,874 3307,711 3122,708 3090,791 3122,928 3090,976 3090,1101 3129,1142 3129,1311 3093,1359 3093,1375 3129,1413 3129,1535 3084,1586 3084,1602 3106,1627 3084,1819 3106,1908 3084,1978 3119,2029 3208,2033"/>
+        <Baseline points="3210,2035 3220,712"/>
+        <TextEquiv>
+          <Unicode>明明斤斤察也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918281" custom="structure {type:Commentary;}">
+        <Coords points="3259,2071 3205,2071 3180,2160 3180,2173 3218,2205 3218,2272 3183,2323 3186,2444 3224,2476 3224,2521 3189,2556 3221,2712 3365,2703 3362,2534 3390,2502 3371,2441 3371,2068 3259,2071"/>
+        <Baseline points="3263,2073 3277,2715"/>
+        <TextEquiv>
+          <Unicode>皆聰明</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918282" custom="structure {type:Commentary;}">
+        <Coords points="3122,2071 3062,2071 3065,2483 3183,2479 3208,2377 3183,2345 3180,2272 3208,2183 3173,2068 3122,2071"/>
+        <Baseline points="3125,2073 3129,2487"/>
+        <TextEquiv>
+          <Unicode>鑒察</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918283" custom="structure {type:Text;}">
+        <Coords points="3180,2741 3129,2741 3065,2846 3145,3006 3145,3421 3071,3517 3074,3619 3119,3660 3074,3721 3077,3849 3119,3900 3077,3948 3084,4110 3113,4158 3081,4270 3135,4321 3317,4318 3339,4251 3285,4187 3311,4117 3288,4037 3327,3964 3311,3919 3362,3865 3358,3603 3263,3431 3263,3207 3352,3105 3352,3089 3275,2981 3349,2866 3282,2738 3180,2741"/>
+        <Baseline points="3182,2743 3201,4323"/>
+        <TextEquiv>
+          <Unicode>條條秩秩智也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918284" custom="structure {type:Commentary;}">
+        <Coords points="3275,4340 3208,4340 3183,4442 3218,4497 3218,4570 3186,4624 3186,4707 3221,4797 3192,4825 3192,4982 3384,4972 3381,4337 3275,4340"/>
+        <Baseline points="3277,4342 3286,4984"/>
+        <TextEquiv>
+          <Unicode>皆智思</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918285" custom="structure {type:Commentary;}">
+        <Coords points="3141,4372 3065,4366 3065,4771 3205,4777 3180,4615 3221,4497 3189,4452 3192,4372 3141,4372"/>
+        <Baseline points="3125,4779 3144,4375"/>
+        <TextEquiv>
+          <Unicode>深長</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918286" custom="structure {type:Text;}">
+        <Coords points="3205,5001 3100,5001 3074,5109 3074,5211 3100,5266 3311,5259 3333,5049 3311,4998 3205,5001"/>
+        <Baseline points="3206,5003 3210,5269"/>
+        <TextEquiv>
+          <Unicode>穆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918287" custom="structure {type:Text;}">
+        <Coords points="2908,721 2803,721 2774,791 2777,896 2812,928 2812,970 2777,1002 2777,1018 2816,1062 2816,1101 2784,1139 2784,1263 2812,1295 2793,1314 2809,1426 2787,1449 2790,1547 2825,1589 2825,1656 2793,1704 2809,1809 3036,1803 3039,1701 3004,1646 3036,1560 2998,1484 2998,1267 3030,1228 3030,1212 2998,1177 3023,998 2988,947 3020,858 3001,718 2908,721"/>
+        <Baseline points="2911,722 2934,1811"/>
+        <TextEquiv>
+          <Unicode>穆肅肅敬也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918288" custom="structure {type:Commentary;}">
+        <Coords points="2972,2511 3055,2511 3058,2422 3023,2294 3023,2259 3058,2215 3049,2109 3023,2077 3052,1902 3020,1838 2915,1835 2892,1937 2918,1966 2918,2077 2883,2141 2915,2291 2883,2323 2883,2428 2911,2508 2972,2511"/>
+        <Baseline points="2973,2515 2977,1840"/>
+        <TextEquiv>
+          <Unicode>皆容儀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918289" custom="structure {type:Commentary;}">
+        <Coords points="2841,2256 2902,2256 2921,2224 2905,2170 2921,1915 2902,1841 2784,1841 2761,1886 2784,2023 2761,2195 2781,2256 2841,2256"/>
+        <Baseline points="2844,1844 2844,2258"/>
+        <TextEquiv>
+          <Unicode>謹敬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918290" custom="structure {type:Text;}">
+        <Coords points="2908,2505 2806,2505 2790,2652 2832,2722 2793,2779 2797,2907 2864,2990 2851,3057 2867,3140 2851,3178 2870,3194 2870,3351 2844,3405 2870,3427 3046,3418 3042,3357 3010,3319 3026,3265 3010,3233 3042,3194 3042,3150 3004,3099 3017,3041 3001,2945 3033,2811 2998,2763 3026,2566 2994,2502 2908,2505"/>
+        <Baseline points="2911,2506 2930,3428"/>
+        <TextEquiv>
+          <Unicode>諸諸便便</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918291" custom="structure {type:Commentary;}">
+        <Coords points="2979,3431 2921,3431 2902,3539 2937,3644 3030,3635 3042,3488 3020,3424 2979,3431"/>
+        <Baseline points="2982,3433 2992,3642"/>
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918292" custom="structure {type:Commentary;}">
+        <Coords points="2918,3632 2934,3574 2905,3549 2899,3427 2720,3427 2729,3628 2918,3632"/>
+        <Baseline points="2835,3428 2835,3633"/>
+        <TextEquiv>
+          <Unicode>楩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918293" custom="structure {type:Text;}">
+        <Coords points="2911,3651 2793,3654 2768,3705 2784,3833 2771,3877 2793,3909 2777,4024 2809,4098 3049,4088 3046,3999 3001,3957 3001,3865 3039,3810 3039,3794 3017,3769 3017,3644 2911,3651"/>
+        <Baseline points="2915,3652 2925,4099"/>
+        <TextEquiv>
+          <Unicode>辯也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918294" custom="structure {type:Commentary;}">
+        <Coords points="2985,4120 2915,4120 2895,4184 2924,4241 2911,4276 2927,4353 2892,4398 2892,4414 2918,4439 2902,4474 2931,4560 2895,4596 2908,4781 3036,4774 3055,4592 3033,4548 3049,4471 3033,4417 3052,4378 3030,4327 3049,4200 3030,4117 2985,4120"/>
+        <Baseline points="2987,4123 2996,4784"/>
+        <TextEquiv>
+          <Unicode>皆言辭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918295" custom="structure {type:Commentary;}">
+        <Coords points="2841,4535 2892,4535 2927,4468 2895,4315 2931,4276 2931,4174 2895,4110 2774,4110 2768,4193 2739,4222 2739,4289 2774,4327 2771,4391 2739,4426 2739,4535 2841,4535"/>
+        <Baseline points="2844,4113 2844,4537"/>
+        <TextEquiv>
+          <Unicode>辯給</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918296" custom="structure {type:Text;}">
+        <Coords points="2905,4758 2806,4758 2787,4844 2806,4892 2787,4988 2803,5039 2800,5259 2998,5259 3020,5211 3001,5113 3020,5052 2998,5023 3017,4813 2994,4755 2905,4758"/>
+        <Baseline points="2906,4760 2915,5265"/>
+        <TextEquiv>
+          <Unicode>肅肅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918297" custom="structure {type:Text;}">
+        <Coords points="2605,692 2496,692 2516,855 2490,906 2522,995 2522,1069 2490,1104 2519,1187 2493,1251 2512,1292 2496,1385 2519,1429 2500,1557 2532,1605 2736,1595 2733,1487 2688,1426 2688,1270 2717,1209 2694,1161 2723,1104 2688,1005 2720,900 2685,823 2707,714 2691,689 2605,692"/>
+        <Baseline points="2606,693 2625,1607"/>
+        <TextEquiv>
+          <Unicode>翼翼恭也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918298" custom="structure {type:Commentary;}">
+        <Coords points="2678,1599 2615,1599 2583,1701 2621,1755 2624,1835 2573,1943 2583,2052 2774,2042 2771,1934 2729,1863 2752,1662 2720,1595 2678,1599"/>
+        <Baseline points="2682,1602 2697,2054"/>
+        <TextEquiv>
+          <Unicode>皆恭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918299" custom="structure {type:Commentary;}">
+        <Coords points="2541,1608 2484,1608 2458,1717 2493,1822 2608,1819 2634,1729 2605,1704 2618,1682 2595,1605 2541,1608"/>
+        <Baseline points="2544,1611 2549,1825"/>
+        <TextEquiv>
+          <Unicode>敬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918300" custom="structure {type:Text;}">
+        <Coords points="2605,2052 2503,2052 2477,2160 2493,2234 2471,2269 2506,2342 2477,2428 2477,2527 2717,2524 2742,2454 2707,2288 2736,2234 2698,2049 2605,2052"/>
+        <Baseline points="2606,2054 2621,2529"/>
+        <TextEquiv>
+          <Unicode>廱廱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918301" custom="structure {type:Commentary;}">
+        <Coords points="2691,2524 2634,2524 2611,2601 2637,2719 2742,2719 2755,2591 2736,2524 2691,2524"/>
+        <Baseline points="2692,2525 2692,2724"/>
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918302" custom="structure {type:Commentary;}">
+        <Coords points="2547,2738 2634,2735 2611,2530 2480,2530 2464,2572 2474,2738 2547,2738"/>
+        <Baseline points="2549,2534 2549,2739"/>
+        <TextEquiv>
+          <Unicode>雍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918303" custom="structure {type:Text;}">
+        <Coords points="2618,2751 2541,2751 2496,2818 2496,2901 2570,3022 2544,3185 2589,3226 2589,3383 2516,3475 2516,3625 2749,3619 2755,3536 2710,3462 2710,3370 2739,3300 2710,3252 2749,3175 2726,3121 2739,3064 2704,3028 2742,2977 2723,2898 2739,2843 2701,2805 2701,2748 2618,2751"/>
+        <Baseline points="2621,2753 2640,3628"/>
+        <TextEquiv>
+          <Unicode>優優和也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918304" custom="structure {type:Commentary;}">
+        <Coords points="2678,4069 2729,4069 2758,4021 2729,3861 2758,3711 2729,3660 2618,3660 2599,3679 2599,3759 2634,3804 2634,3887 2586,3948 2599,4069 2678,4069"/>
+        <Baseline points="2682,3662 2682,4071"/>
+        <TextEquiv>
+          <Unicode>皆和</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918305" custom="structure {type:Commentary;}">
+        <Coords points="2541,3641 2436,3644 2436,3871 2602,3865 2630,3769 2592,3638 2541,3641"/>
+        <Baseline points="2544,3642 2554,3871"/>
+        <TextEquiv>
+          <Unicode>樂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918306" custom="structure {type:Text;}">
+        <Coords points="2618,4091 2579,4091 2579,4305 2493,4398 2519,4458 2493,4509 2496,4592 2532,4637 2516,4755 2532,4793 2496,4918 2522,4950 2509,4998 2544,5033 2745,5026 2755,4931 2723,4844 2758,4771 2755,4707 2726,4669 2752,4506 2717,4439 2717,4359 2752,4273 2717,4238 2717,4088 2618,4091"/>
+        <Baseline points="2621,4094 2625,5036"/>
+        <TextEquiv>
+          <Unicode>兢兢憴憴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918307" custom="structure {type:Commentary;}">
+        <Coords points="2678,5014 2630,5014 2611,5116 2640,5234 2733,5227 2752,5106 2720,5010 2678,5014"/>
+        <Baseline points="2682,5017 2692,5236"/>
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918308" custom="structure {type:Commentary;}">
+        <Coords points="2541,5033 2429,5036 2439,5205 2640,5189 2611,5026 2541,5033"/>
+        <Baseline points="2544,5036 2554,5203"/>
+        <TextEquiv>
+          <Unicode>繩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918310" custom="structure {type:Commentary;}">
+        <Coords points="2308,702 2238,702 2196,839 2203,909 2241,947 2203,1081 2241,1142 2455,1136 2455,1059 2417,986 2452,935 2452,884 2413,833 2413,695 2308,702"/>
+        <Baseline points="2311,703 2321,1145"/>
+        <TextEquiv>
+          <Unicode>戒也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918311" custom="structure {type:Commentary;}">
+        <Coords points="2372,1152 2305,1155 2295,1276 2330,1321 2334,1413 2305,1490 2327,1583 2490,1570 2490,1391 2448,1343 2464,1222 2439,1203 2433,1145 2372,1152"/>
+        <Baseline points="2373,1155 2402,1583"/>
+        <TextEquiv>
+          <Unicode>皆戒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918312" custom="structure {type:Commentary;}">
+        <Coords points="2247,1152 2177,1155 2161,1257 2187,1366 2330,1350 2327,1200 2298,1145 2247,1152"/>
+        <Baseline points="2249,1155 2268,1364"/>
+        <TextEquiv>
+          <Unicode>慎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918313" custom="structure {type:Text;}">
+        <Coords points="2298,1599 2209,1599 2196,1634 2209,1707 2187,1739 2215,1825 2193,2013 2219,2052 2193,2199 2212,2304 2196,2467 2225,2524 2199,2559 2199,2716 2228,2741 2203,2907 2228,2952 2426,2949 2458,2904 2455,2831 2407,2786 2407,2690 2442,2588 2404,2553 2404,2454 2452,2400 2448,2342 2401,2294 2401,2246 2448,2179 2448,2128 2420,2093 2445,2042 2420,1959 2442,1812 2439,1749 2404,1704 2433,1669 2433,1653 2397,1595 2298,1599"/>
+        <Baseline points="2302,1602 2321,2953"/>
+        <TextEquiv>
+          <Unicode>戰戰蹌蹌動也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918314" custom="structure {type:Commentary;}">
+        <Coords points="2372,2990 2305,2990 2295,3076 2327,3229 2298,3268 2298,3357 2330,3408 2302,3469 2308,3616 2433,3612 2464,3504 2464,3491 2433,3459 2461,3277 2426,3185 2433,3095 2458,3073 2458,3060 2429,2987 2372,2990"/>
+        <Baseline points="2373,2991 2383,3619"/>
+        <TextEquiv>
+          <Unicode>皆恐動</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918315" custom="structure {type:Commentary;}">
+        <Coords points="2238,2974 2139,2977 2142,3124 2193,3198 2193,3261 2161,3293 2187,3411 2302,3405 2318,3274 2295,3242 2295,3194 2321,3166 2318,3028 2289,2971 2238,2974"/>
+        <Baseline points="2240,2977 2259,3414"/>
+        <TextEquiv>
+          <Unicode>趨步</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918316" custom="structure {type:Text;}">
+        <Coords points="2318,3654 2244,3654 2244,3715 2196,3769 2212,3858 2199,3890 2235,3938 2196,3989 2196,4072 2251,4142 2251,4216 2209,4257 2209,4273 2251,4340 2251,4436 2209,4525 2209,4538 2247,4573 2203,4678 2203,4755 2251,4816 2203,4889 2203,4969 2235,5007 2436,5001 2448,4921 2410,4864 2410,4790 2448,4707 2448,4497 2407,4391 2445,4232 2404,4187 2404,4085 2445,4037 2442,3989 2404,3948 2404,3871 2442,3775 2397,3651 2318,3654"/>
+        <Baseline points="2321,3657 2330,5008"/>
+        <TextEquiv>
+          <Unicode>晏晏溫溫柔也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918317" custom="structure {type:Commentary;}">
+        <Coords points="2381,5030 2314,5036 2311,5132 2337,5231 2452,5208 2448,5052 2426,5020 2381,5030"/>
+        <Baseline points="2383,5031 2416,5222"/>
+        <TextEquiv>
+          <Unicode>皆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918318" custom="structure {type:Commentary;}">
+        <Coords points="2244,5039 2142,5039 2142,5224 2305,5221 2334,5122 2302,5036 2244,5039"/>
+        <Baseline points="2245,5041 2254,5227"/>
+        <TextEquiv>
+          <Unicode>和</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918319" custom="structure {type:Commentary;}">
+        <Coords points="2091,695 2001,702 1998,855 2021,931 2190,916 2196,686 2091,695"/>
+        <Baseline points="2092,698 2112,926"/>
+        <TextEquiv>
+          <Unicode>柔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918320" custom="structure {type:Text;}">
+        <Coords points="2017,916 1925,916 1925,970 1893,998 1893,1014 1925,1050 1906,1097 1928,1117 1928,1184 1890,1225 1890,1241 1925,1276 1909,1305 1928,1391 1893,1442 1890,1630 1912,1666 1890,1726 1893,1832 1928,1867 1893,1921 1893,1937 1922,1975 1896,2026 1896,2096 1922,2122 1896,2211 1934,2278 2145,2269 2142,2173 2113,2144 2142,2001 2110,1915 2139,1768 2107,1650 2139,1595 2139,1519 2104,1417 2129,1200 2100,1174 2100,1024 2129,989 2129,973 2100,944 2100,912 2017,916"/>
+        <Baseline points="2021,917 2035,2282"/>
+        <TextEquiv>
+          <Unicode>業業翹翹危也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918321" custom="structure {type:Commentary;}">
+        <Coords points="2075,2291 2014,2291 1989,2365 2027,2476 1998,2591 2030,2728 2139,2725 2161,2700 2158,2562 2129,2521 2129,2448 2152,2365 2126,2288 2075,2291"/>
+        <Baseline points="2078,2292 2092,2729"/>
+        <TextEquiv>
+          <Unicode>皆縣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918322" custom="structure {type:Commentary;}">
+        <Coords points="1938,2294 1877,2298 1864,2374 1883,2387 1887,2492 2011,2479 1986,2288 1938,2294"/>
+        <Baseline points="1940,2296 1955,2491"/>
+        <TextEquiv>
+          <Unicode>危</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918323" custom="structure {type:Text;}">
+        <Coords points="2113,2996 2148,2872 2110,2754 1979,2757 1966,2961 1989,3003 2113,2996"/>
+        <Baseline points="2031,2758 2040,3005"/>
+        <TextEquiv>
+          <Unicode>惴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918324" custom="structure {type:Commentary;}">
+        <Coords points="1938,2984 1877,2984 1874,3166 2027,3159 2001,2977 1938,2984"/>
+        <Baseline points="1940,2986 1945,3172"/>
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918325" custom="structure {type:Commentary;}">
+        <Coords points="2084,2984 2027,2987 2001,3038 2030,3169 2136,3162 2152,3038 2129,2981 2084,2984"/>
+        <Baseline points="2088,2986 2097,3172"/>
+        <TextEquiv>
+          <Unicode>墜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918326" custom="structure {type:Text;}">
+        <Coords points="2005,3188 1957,3188 1960,3402 1896,3491 1922,3574 1906,3606 1928,3705 1906,3727 1906,3794 1928,3884 2158,3874 2161,3823 2126,3756 2155,3616 2116,3510 2145,3354 2107,3284 2100,3182 2005,3188"/>
+        <Baseline points="2007,3191 2031,3885"/>
+        <TextEquiv>
+          <Unicode>惴憢憢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918327" custom="structure {type:Commentary;}">
+        <Coords points="2081,3897 2030,3897 2005,4005 2040,4101 2155,4091 2136,3893 2081,3897"/>
+        <Baseline points="2083,3899 2092,4104"/>
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918328" custom="structure {type:Commentary;}">
+        <Coords points="1998,4110 2021,4085 2008,3893 1887,3887 1871,3951 1880,4104 1998,4110"/>
+        <Baseline points="1945,4113 1955,3895"/>
+        <TextEquiv>
+          <Unicode>囂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918329" custom="structure {type:Text;}">
+        <Coords points="2033,4110 1918,4110 1896,4193 1934,4375 1906,4474 1941,4564 2129,4557 2158,4528 2155,4455 2126,4426 2148,4286 2120,4235 2116,4104 2033,4110"/>
+        <Baseline points="2035,4113 2050,4565"/>
+        <TextEquiv>
+          <Unicode>懼也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918330" custom="structure {type:Commentary;}">
+        <Coords points="2091,4564 2027,4564 2005,4666 2033,4755 2011,4870 2021,5007 2148,5004 2161,4934 2136,4710 2155,4624 2132,4560 2091,4564"/>
+        <Baseline points="2092,4565 2102,5012"/>
+        <TextEquiv>
+          <Unicode>皆危</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918331" custom="structure {type:Commentary;}">
+        <Coords points="2017,4777 2024,4583 1893,4580 1871,4640 1893,4771 2017,4777"/>
+        <Baseline points="1964,4779 1969,4584"/>
+        <TextEquiv>
+          <Unicode>懼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918332" custom="structure {type:Text;}">
+        <Coords points="2024,4994 1957,4998 1957,5036 1902,5119 1909,5199 1973,5263 2097,5253 2142,5125 2084,5026 2084,4988 2024,4994"/>
+        <Baseline points="2026,4998 2045,5260"/>
+        <TextEquiv>
+          <Unicode>番</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918333" custom="structure {type:Commentary;}">
+        <Coords points="1791,721 1740,721 1714,810 1743,919 1848,912 1855,718 1791,721"/>
+        <Baseline points="1793,722 1798,922"/>
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918334" custom="structure {type:Commentary;}">
+        <Coords points="1644,909 1730,909 1698,711 1596,708 1570,791 1583,903 1644,909"/>
+        <Baseline points="1645,912 1655,712"/>
+        <TextEquiv>
+          <Unicode>波</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918335" custom="structure {type:Text;}">
+        <Coords points="1711,928 1628,928 1628,986 1586,1046 1586,1062 1599,1072 1590,1104 1631,1136 1631,1203 1590,1305 1615,1433 1593,1468 1596,1589 1634,1666 1599,1780 1634,1873 1602,2007 1641,2061 1845,2055 1848,1972 1794,1921 1794,1806 1816,1774 1791,1646 1845,1544 1842,1455 1797,1407 1842,1334 1839,1244 1794,1200 1791,1145 1835,1011 1781,957 1781,925 1711,928"/>
+        <Baseline points="1712,931 1731,2063"/>
+        <TextEquiv>
+          <Unicode>番矯矯勇也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918336" custom="structure {type:Commentary;}">
+        <Coords points="1772,2074 1720,2074 1698,2154 1727,2282 1701,2336 1727,2594 1705,2636 1708,2709 1829,2706 1861,2588 1826,2489 1861,2435 1861,2358 1823,2275 1855,2144 1832,2071 1772,2074"/>
+        <Baseline points="1774,2077 1783,2710"/>
+        <TextEquiv>
+          <Unicode>皆壯勇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918337" custom="structure {type:Commentary;}">
+        <Coords points="1637,2084 1596,2084 1567,2160 1567,2173 1612,2224 1612,2285 1570,2329 1590,2470 1714,2463 1724,2368 1695,2256 1720,2199 1685,2077 1637,2084"/>
+        <Baseline points="1641,2087 1660,2472"/>
+        <TextEquiv>
+          <Unicode>之貌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918338" custom="structure {type:Text;}">
+        <Coords points="1724,2741 1701,2741 1692,2936 1708,3064 1689,3143 1711,3226 1698,3357 1717,3472 1666,3600 1685,3657 1644,3699 1644,4085 1660,4107 1855,4098 1851,4005 1819,3967 1819,3932 1855,3893 1855,3814 1819,3769 1819,3654 1839,3625 1819,3574 1819,3437 1845,3379 1823,3354 1839,3303 1816,3223 1839,3198 1848,3025 1816,2990 1845,2945 1848,2786 1819,2738 1724,2741"/>
+        <Baseline points="1726,2743 1731,4109"/>
+        <TextEquiv>
+          <Unicode>桓桓烈烈威也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918339" custom="structure {type:Commentary;}">
+        <Coords points="1784,4120 1724,4120 1698,4200 1727,4248 1733,4331 1730,4465 1701,4516 1714,4749 1896,4739 1893,4522 1851,4477 1864,4426 1845,4235 1867,4177 1842,4117 1784,4120"/>
+        <Baseline points="1788,4123 1807,4751"/>
+        <TextEquiv>
+          <Unicode>皆嚴猛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918340" custom="structure {type:Commentary;}">
+        <Coords points="1637,4117 1602,4117 1570,4222 1609,4289 1577,4385 1580,4513 1602,4544 1711,4541 1736,4458 1695,4315 1730,4264 1685,4114 1637,4117"/>
+        <Baseline points="1641,4118 1655,4546"/>
+        <TextEquiv>
+          <Unicode>之貌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918341" custom="structure {type:Text;}">
+        <Coords points="1720,4787 1666,4787 1666,4880 1618,4937 1618,5017 1641,5042 1609,5090 1618,5243 1864,5237 1867,5170 1823,5097 1823,5052 1864,5014 1861,4921 1823,4860 1813,4781 1720,4787"/>
+        <Baseline points="1721,4789 1736,5246"/>
+        <TextEquiv>
+          <Unicode>洸洸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918342" custom="structure {type:Text;}">
+        <Coords points="1424,721 1337,721 1331,794 1299,826 1299,842 1321,864 1299,941 1328,995 1299,1027 1299,1158 1337,1193 1305,1238 1321,1283 1305,1337 1344,1372 1344,1413 1302,1532 1344,1570 1347,1614 1529,1608 1551,1509 1516,1464 1516,1426 1554,1385 1554,1295 1516,1254 1516,1187 1548,1110 1513,1075 1513,957 1551,919 1551,880 1510,823 1507,718 1424,721"/>
+        <Baseline points="1427,722 1431,1616"/>
+        <TextEquiv>
+          <Unicode>赳赳武也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918343" custom="structure {type:Commentary;}">
+        <Coords points="1478,1614 1427,1614 1398,1710 1440,1828 1414,1946 1443,2039 1404,2116 1411,2253 1580,2243 1548,2093 1570,1959 1542,1908 1561,1662 1535,1611 1478,1614"/>
+        <Baseline points="1479,1618 1498,2256"/>
+        <TextEquiv>
+          <Unicode>皆果毅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918344" custom="structure {type:Commentary;}">
+        <Coords points="1347,1627 1296,1624 1277,1666 1293,1844 1270,1889 1293,2010 1424,2017 1427,1889 1385,1838 1385,1796 1433,1736 1433,1720 1392,1682 1385,1627 1347,1627"/>
+        <Baseline points="1341,2018 1350,1628"/>
+        <TextEquiv>
+          <Unicode>之貌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918345" custom="structure {type:Text;}">
+        <Coords points="1411,2259 1392,2259 1395,2767 1321,2891 1325,3185 1366,3249 1328,3328 1328,3424 1363,3472 1331,3517 1331,3600 1356,3638 1551,3632 1561,3520 1516,3466 1516,3427 1558,3386 1558,3370 1513,3325 1513,3220 1558,3137 1558,3070 1510,2990 1551,2923 1513,2789 1548,2687 1510,2620 1516,2518 1545,2463 1510,2393 1494,2256 1411,2259"/>
+        <Baseline points="1412,2261 1436,3640"/>
+        <TextEquiv>
+          <Unicode>藹藹濟濟止也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918346" custom="structure {type:Commentary;}">
+        <Coords points="1503,3670 1433,3670 1420,3766 1449,3801 1452,3874 1427,3916 1424,4005 1446,4040 1424,4091 1455,4120 1455,4152 1420,4187 1420,4248 1455,4299 1455,4372 1424,4407 1420,4538 1606,4538 1596,4430 1567,4388 1567,4104 1609,4047 1612,3983 1596,3670 1503,3670"/>
+        <Baseline points="1507,3671 1507,4542"/>
+        <TextEquiv>
+          <Unicode>皆賢士盛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918347" custom="structure {type:Commentary;}">
+        <Coords points="1347,3660 1312,3660 1283,3849 1315,3897 1283,4027 1321,4082 1321,4123 1286,4155 1286,4283 1321,4318 1321,4359 1286,4414 1286,4497 1353,4500 1436,4487 1395,4394 1395,4334 1436,4280 1436,4232 1427,4158 1395,4130 1433,4056 1433,3989 1392,3916 1392,3810 1414,3762 1392,3657 1347,3660"/>
+        <Baseline points="1350,3662 1355,4503"/>
+        <TextEquiv>
+          <Unicode>多之容止</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918348" custom="structure {type:Text;}">
+        <Coords points="1523,5263 1551,5183 1538,5033 1554,4966 1529,4816 1558,4717 1529,4554 1341,4551 1309,4647 1309,4742 1341,4790 1341,4848 1305,4892 1337,5023 1302,5151 1321,5256 1523,5263"/>
+        <Baseline points="1431,5265 1441,4556"/>
+        <TextEquiv>
+          <Unicode>悠悠洋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918349" custom="structure {type:Text;}">
+        <Coords points="1139,702 1044,705 1053,737 1024,791 1040,839 1024,887 1063,947 1044,1027 1069,1174 1034,1216 1037,1337 1069,1366 1267,1353 1235,1206 1248,1072 1229,931 1254,877 1226,698 1139,702"/>
+        <Baseline points="1141,703 1160,1369"/>
+        <TextEquiv>
+          <Unicode>洋思也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918350" custom="structure {type:Commentary;}">
+        <Coords points="1187,1410 1120,1410 1101,1458 1136,1608 1117,1640 1117,1809 1299,1796 1293,1678 1251,1621 1248,1516 1270,1464 1251,1404 1187,1410"/>
+        <Baseline points="1189,1412 1208,1811"/>
+        <TextEquiv>
+          <Unicode>皆憂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918351" custom="structure {type:Commentary;}">
+        <Coords points="1050,1378 1002,1381 980,1506 1012,1567 1136,1547 1088,1372 1050,1378"/>
+        <Baseline points="1051,1381 1070,1566"/>
+        <TextEquiv>
+          <Unicode>思</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918352" custom="structure {type:Text;}">
+        <Coords points="1149,1844 1031,1838 1008,1985 1028,2096 1005,2132 1021,2374 999,2441 1018,2499 1002,2738 1222,2748 1229,2655 1261,2613 1232,2502 1273,2374 1238,2313 1283,2272 1289,2039 1245,1978 1245,1844 1149,1844"/>
+        <Baseline points="1132,2751 1151,1847"/>
+        <TextEquiv>
+          <Unicode>蹶蹶踖踖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918353" custom="structure {type:Commentary;}">
+        <Coords points="1200,2770 1139,2773 1123,2853 1155,2974 1258,2965 1267,2834 1242,2763 1200,2770"/>
+        <Baseline points="1203,2772 1217,2972"/>
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918354" custom="structure {type:Commentary;}">
+        <Coords points="1076,2936 1117,2859 1088,2776 1008,2773 993,2869 1012,2894 989,2923 1076,2936"/>
+        <Baseline points="1056,2938 1060,2777"/>
+        <TextEquiv>
+          <Unicode>夕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918355" custom="structure {type:Text;}">
+        <Coords points="1130,2990 1044,2990 1002,3095 1005,3156 1053,3214 1012,3364 1060,3437 1245,3431 1258,3309 1206,3255 1206,3175 1248,3067 1203,2987 1130,2990"/>
+        <Baseline points="1132,2991 1146,3438"/>
+        <TextEquiv>
+          <Unicode>敏也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918356" custom="structure {type:Commentary;}">
+        <Coords points="1190,3437 1139,3437 1114,3469 1155,3644 1117,3718 1127,3826 1162,3861 1123,3932 1127,4050 1143,4072 1305,4066 1305,3858 1261,3785 1270,3727 1251,3638 1277,3494 1245,3434 1190,3437"/>
+        <Baseline points="1193,3438 1212,4075"/>
+        <TextEquiv>
+          <Unicode>皆便速</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918357" custom="structure {type:Commentary;}">
+        <Coords points="1069,3858 1136,3858 1152,3833 1152,3820 1123,3791 1123,3673 1155,3638 1155,3577 1127,3542 1139,3491 1120,3440 1005,3440 983,3498 983,3590 1008,3625 1008,3667 983,3689 1002,3858 1069,3858"/>
+        <Baseline points="1070,3443 1070,3861"/>
+        <TextEquiv>
+          <Unicode>敏捷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918358" custom="structure {type:Text;}">
+        <Coords points="1123,4098 1037,4098 1012,4254 1044,4404 1008,4477 1028,4532 1018,4615 1037,4637 1015,4746 1053,4777 1021,4979 1063,5010 1063,5058 1028,5160 1028,5253 1277,5247 1273,5189 1235,5151 1235,4931 1261,4873 1226,4701 1258,4663 1226,4589 1248,4544 1232,4493 1254,4471 1226,4372 1251,4337 1229,4267 1251,4216 1210,4094 1123,4098"/>
+        <Baseline points="1127,4099 1155,5255"/>
+        <TextEquiv>
+          <Unicode>薨薨增增眾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918359" custom="structure {type:Text;}">
+        <Coords points="830,711 756,714 715,813 718,877 775,931 964,916 961,836 894,746 890,705 830,711"/>
+        <Baseline points="832,712 846,931"/>
+        <TextEquiv>
+          <Unicode>也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918360" custom="structure {type:Commentary;}">
+        <Coords points="890,954 842,954 814,1027 846,1085 849,1161 820,1302 842,1378 817,1445 833,1586 900,1589 945,1583 967,1433 941,1391 941,1302 964,1219 938,1120 961,995 938,951 890,954"/>
+        <Baseline points="894,955 903,1592"/>
+        <TextEquiv>
+          <Unicode>皆眾夥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918361" custom="structure {type:Commentary;}">
+        <Coords points="750,957 699,957 680,1043 715,1104 715,1174 683,1206 702,1356 842,1346 836,1222 804,1190 804,1152 842,1078 801,954 750,957"/>
+        <Baseline points="751,960 761,1359"/>
+        <TextEquiv>
+          <Unicode>之貌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918362" custom="structure {type:Text;}">
+        <Coords points="830,1608 759,1608 734,1646 740,1726 718,1761 763,1867 721,1997 756,2077 721,2122 721,2262 747,2304 724,2326 724,2483 779,2534 779,2776 727,2843 727,2907 766,2955 967,2949 964,2846 916,2792 916,2719 948,2658 913,2553 961,2473 913,2352 957,2227 909,2125 909,2087 961,2029 961,1950 906,1895 957,1793 957,1733 906,1669 906,1605 830,1608"/>
+        <Baseline points="832,1611 846,2958"/>
+        <TextEquiv>
+          <Unicode>烝烝遂遂作也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918363" custom="structure {type:Commentary;}">
+        <Coords points="948,3858 973,3836 977,3747 973,3689 945,3664 977,3632 980,3555 961,3523 977,3456 945,3411 980,3328 977,3265 948,3233 970,3124 957,3083 977,3067 977,3054 945,2984 846,2981 820,3032 820,3099 855,3143 855,3220 817,3290 849,3469 823,3555 846,3695 814,3753 811,3849 948,3858"/>
+        <Baseline points="903,3861 913,2986"/>
+        <TextEquiv>
+          <Unicode>皆物盛興</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918364" custom="structure {type:Commentary;}">
+        <Coords points="753,2990 705,2990 686,3127 727,3172 727,3223 689,3265 689,3335 731,3373 731,3447 692,3498 699,3632 763,3635 842,3628 842,3571 820,3542 836,3504 804,3415 836,3325 804,3293 801,3198 836,3127 836,3044 801,2987 753,2990"/>
+        <Baseline points="756,2991 765,3638"/>
+        <TextEquiv>
+          <Unicode>作之貌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918365" custom="structure {type:Text;}">
+        <Coords points="830,3897 750,3897 750,3989 712,4024 712,4072 727,4101 715,4130 747,4161 715,4315 750,4369 715,4487 753,4573 718,4733 753,4800 948,4793 954,4746 925,4710 964,4659 961,4605 929,4570 954,4513 922,4468 957,4417 957,4401 919,4359 957,4254 916,4203 916,4126 954,4005 916,3944 916,3893 830,3897"/>
+        <Baseline points="832,3899 841,4803"/>
+        <TextEquiv>
+          <Unicode>委委佗佗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918366" custom="structure {type:Commentary;}">
+        <Coords points="916,4800 862,4803 839,4864 878,5004 970,4994 980,4883 951,4793 916,4800"/>
+        <Baseline points="918,4803 937,5003"/>
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918367" custom="structure {type:Commentary;}">
+        <Coords points="763,4806 696,4809 702,4982 855,4972 823,4803 763,4806"/>
+        <Baseline points="765,4808 770,4984"/>
+        <TextEquiv>
+          <Unicode>佗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918368" custom="structure {type:Text;}">
+        <Coords points="839,5007 750,5010 724,5263 858,5259 961,5243 906,5109 897,5001 839,5007"/>
+        <Baseline points="841,5008 860,5260"/>
+        <TextEquiv>
+          <Unicode>美</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918369" custom="structure {type:Text;}">
+        <Coords points="530,711 469,714 421,839 478,938 676,919 667,823 613,746 609,705 530,711"/>
+        <Baseline points="532,712 547,936"/>
+        <TextEquiv>
+          <Unicode>也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918370" custom="structure {type:Commentary;}">
+        <Coords points="603,938 542,938 520,1027 549,1085 526,1299 555,1372 533,1461 549,1509 533,1595 558,1662 539,1682 536,1806 622,1809 715,1800 708,1506 657,1362 683,1324 654,1196 676,992 651,935 603,938"/>
+        <Baseline points="604,941 623,1811"/>
+        <TextEquiv>
+          <Unicode>皆佳麗美</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918371" custom="structure {type:Commentary;}">
+        <Coords points="539,1586 549,1509 510,1426 510,1366 549,1289 510,1171 552,1126 552,1024 507,938 411,935 389,989 389,1123 415,1149 389,1270 415,1321 399,1579 539,1586"/>
+        <Baseline points="470,1588 475,941"/>
+        <TextEquiv>
+          <Unicode>豔之貌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918372" custom="structure {type:Text;}">
+        <Coords points="545,1838 456,1838 440,2004 450,2061 494,2112 485,2262 501,2304 651,2301 683,2272 683,2221 629,2112 683,2052 683,1985 622,1892 619,1835 545,1838"/>
+        <Baseline points="547,1840 551,2306"/>
+        <TextEquiv>
+          <Unicode>忯忯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918373" custom="structure {type:Commentary;}">
+        <Coords points="609,2298 552,2301 536,2403 561,2502 667,2489 660,2412 676,2380 648,2291 609,2298"/>
+        <Baseline points="613,2301 632,2501"/>
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918374" custom="structure {type:Commentary;}">
+        <Coords points="478,2294 427,2294 408,2495 530,2495 561,2467 561,2384 520,2291 478,2294"/>
+        <Baseline points="480,2296 485,2501"/>
+        <TextEquiv>
+          <Unicode>底</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918375" custom="structure {type:Text;}">
+        <Coords points="539,2524 462,2524 443,2693 459,2748 434,2824 472,3038 440,3121 456,3156 443,3214 475,3245 447,3367 482,3431 657,3427 680,3332 648,3252 676,3185 641,3150 654,3073 635,2958 664,2929 670,2821 632,2786 632,2748 667,2681 664,2598 625,2521 539,2524"/>
+        <Baseline points="542,2525 561,3433"/>
+        <TextEquiv>
+          <Unicode>惕惕愛也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918376" custom="structure {type:Commentary;}">
+        <Coords points="609,3447 530,3447 542,3606 571,3635 565,3699 533,3727 533,3740 577,3890 577,4136 536,4216 536,4280 577,4334 539,4410 571,4535 539,4637 539,4723 574,4784 542,4822 542,4963 574,5001 542,5068 542,5176 571,5224 683,5218 692,5087 667,5010 696,4947 696,4851 664,4755 689,4643 664,4544 692,4509 692,4420 664,4356 686,4219 660,4066 686,4002 657,3976 657,3833 683,3747 683,3734 657,3711 657,3654 680,3625 683,3482 660,3443 609,3447"/>
+        <Baseline points="613,3447 623,5227"/>
+        <TextEquiv>
+          <Unicode>詩云心焉惕惕韓詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918377" custom="structure {type:Commentary;}">
+        <Coords points="482,5221 558,5221 558,5125 530,5077 530,5014 555,4988 533,4927 555,4873 530,4819 530,4733 555,4631 530,4573 555,4477 536,4442 552,4414 530,4302 555,4260 555,4244 530,4216 530,4130 555,4043 533,4005 530,3855 555,3788 555,3775 530,3750 530,3597 552,3514 533,3475 447,3475 447,3664 399,3734 399,3830 440,3871 402,3922 418,3989 405,4075 443,4114 402,4241 447,4295 447,4340 402,4455 443,4580 399,4627 427,4733 386,4784 386,5221 482,5221"/>
+        <Baseline points="485,3476 485,5222"/>
+        <TextEquiv>
+          <Unicode>以為悅人故言愛也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918378" custom="structure {type:Commentary;}">
+        <Coords points="415,1149 418,826 389,797 389,730 258,727 239,766 242,893 261,912 239,1050 261,1145 415,1149"/>
+        <Baseline points="328,1150 332,731"/>
+        <TextEquiv>
+          <Unicode>忯忯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918379" custom="structure {type:Commentary;}">
+        <Coords points="188,721 146,721 121,833 150,931 124,986 124,1142 140,1161 233,1155 255,967 233,919 252,852 229,823 229,718 188,721"/>
+        <Baseline points="190,722 195,1164"/>
+        <TextEquiv>
+          <Unicode>未詳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918380" custom="structure {type:Text;}">
+        <Coords points="255,2530 341,2530 379,2492 376,2422 328,2361 328,2246 373,2202 373,2186 344,2154 354,2106 335,2077 379,2029 379,1943 328,1867 379,1796 376,1726 335,1688 332,1643 379,1570 379,1525 341,1480 328,1388 376,1314 376,1299 344,1260 338,1171 169,1168 169,1225 137,1263 169,1394 137,1506 172,1618 172,1662 137,1707 137,1803 172,1835 172,1892 137,1959 137,2058 172,2106 172,2163 137,2195 137,2301 172,2345 172,2384 137,2441 166,2527 255,2530"/>
+        <Baseline points="256,2534 261,1174"/>
+        <TextEquiv>
+          <Unicode>偁偁格格舉也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918381" custom="structure {type:Commentary;}">
+        <Coords points="325,2511 271,2511 245,2553 287,2690 252,2882 255,2945 287,2977 418,2968 415,2866 373,2773 395,2588 370,2508 325,2511"/>
+        <Baseline points="328,2515 342,2981"/>
+        <TextEquiv>
+          <Unicode>皆舉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918382" custom="structure {type:Commentary;}">
+        <Coords points="249,2933 268,2815 242,2789 242,2716 268,2582 239,2527 143,2527 124,2588 124,2696 143,2716 127,2929 249,2933"/>
+        <Baseline points="195,2529 195,2934"/>
+        <TextEquiv>
+          <Unicode>持物</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918383" custom="structure {type:Text;}">
+        <Coords points="239,2952 166,2952 140,3175 166,3316 143,3415 175,3443 153,3628 175,3820 153,3861 159,4142 185,4171 162,4273 194,4340 373,4334 392,4228 363,4171 392,4091 351,4047 351,3893 376,3830 348,3794 348,3654 379,3603 341,3507 379,3411 376,3341 341,3293 363,3261 373,3124 332,3057 332,2949 239,2952"/>
+        <Baseline points="242,2953 271,4342"/>
+        <TextEquiv>
+          <Unicode>蓁蓁孽孽戴也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918384" custom="structure {type:Commentary;}">
+        <Coords points="322,4350 268,4350 252,4445 284,4548 258,4611 274,4749 399,4742 402,4596 376,4528 399,4404 373,4347 322,4350"/>
+        <Baseline points="323,4351 332,4751"/>
+        <TextEquiv>
+          <Unicode>皆頭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918385" custom="structure {type:Commentary;}">
+        <Coords points="197,4334 143,4334 143,4733 255,4736 277,4653 258,4570 280,4484 258,4449 274,4394 252,4331 197,4334"/>
+        <Baseline points="199,4337 204,4741"/>
+        <TextEquiv>
+          <Unicode>戴物</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918386" custom="structure {type:Text;}">
+        <Coords points="274,4793 188,4793 188,4844 153,4896 156,4972 194,5020 162,5129 188,5243 363,5240 392,5151 392,5138 357,5106 357,5001 386,4905 354,4870 344,4790 274,4793"/>
+        <Baseline points="275,4794 290,5246"/>
+        <TextEquiv>
+          <Unicode>懕懕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>釋訓第三
+明明斤斤察也
+皆聰明
+鑒察
+條條秩秩智也
+皆智思
+深長
+穆
+穆肅肅敬也
+皆容儀
+謹敬
+諸諸便便
+音
+楩
+辯也
+皆言辭
+辯給
+肅肅
+翼翼恭也
+皆恭
+敬
+廱廱
+音
+雍
+優優和也
+皆和
+樂
+兢兢憴憴
+音
+繩
+戒也
+皆戒
+慎
+戰戰蹌蹌動也
+皆恐動
+趨步
+晏晏溫溫柔也
+皆
+和
+柔
+業業翹翹危也
+皆縣
+危
+惴
+音
+墜
+惴憢憢
+音
+囂
+懼也
+皆危
+懼
+番
+音
+波
+番矯矯勇也
+皆壯勇
+之貌
+桓桓烈烈威也
+皆嚴猛
+之貌
+洸洸
+赳赳武也
+皆果毅
+之貌
+藹藹濟濟止也
+皆賢士盛
+多之容止
+悠悠洋
+洋思也
+皆憂
+思
+蹶蹶踖踖
+音
+夕
+敏也
+皆便速
+敏捷
+薨薨增增眾
+也
+皆眾夥
+之貌
+烝烝遂遂作也
+皆物盛興
+作之貌
+委委佗佗
+音
+佗
+美
+也
+皆佳麗美
+豔之貌
+忯忯
+音
+底
+惕惕愛也
+詩云心焉惕惕韓詩
+以為悅人故言愛也
+忯忯
+未詳
+偁偁格格舉也
+皆舉
+持物
+蓁蓁孽孽戴也
+皆頭
+戴物
+懕懕
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86628" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="3510,194 3657,189 3677,322 3520,327 3510,194"/>
+      <TextLine id="918674" custom="structure {type:Commentary;}">
+        <Coords points="3544,287 3544,319 3655,335 3646,204 3534,188 3544,287"/>
+        <Baseline points="3545,289 3659,279"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

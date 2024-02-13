@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:09+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_01_0023.jpg" imageHeight="4146" imageWidth="4645">
+    <TextRegion id="117735" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4347,3237 4347,730 4514,730 4514,3237 4347,3237"/>
+      <TextLine id="1109597" custom="structure {type:Title;}">
+        <Coords points="4352,754 4485,730 4476,1344 4354,1347 4352,754"/>
+        <Baseline points="4424,725 4424,1348"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109598" custom="structure {type:Section;}">
+        <Coords points="4361,1734 4447,1705 4461,2024 4361,2029 4361,1734"/>
+        <Baseline points="4409,1710 4419,2014"/>
+        <TextEquiv>
+          <Unicode>雜說</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109599" custom="structure {type:Page_Number;}">
+        <Coords points="4393,2909 4471,2913 4476,3142 4393,3141 4393,2909"/>
+        <Baseline points="4443,2913 4447,3142"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+雜說
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117736" custom="structure {type:MainText_Left;}">
+      <Coords points="348,3670 348,725 2184,725 2184,3670 348,3670"/>
+      <TextLine id="1109600" custom="structure {type:Title;}">
+        <Coords points="1988,718 2172,718 2172,1718 1988,1718 1988,718"/>
+        <Baseline points="2079,721 2098,1720"/>
+        <TextEquiv>
+          <Unicode>齊民要術卷第一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109601" custom="structure {type:Author_name;}">
+        <Coords points="1787,1248 1974,1248 1974,2740 1787,2740 1787,1248"/>
+        <Baseline points="1870,1253 1879,2742"/>
+        <TextEquiv>
+          <Unicode>後魏高陽太守賈思勰撰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109602" custom="structure {type:Title;}">
+        <Coords points="1585,1114 1771,1114 1771,1676 1585,1676 1585,1114"/>
+        <Baseline points="1665,1677 1684,1120"/>
+        <TextEquiv>
+          <Unicode>耕田第一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109603" custom="structure {type:Title;}">
+        <Coords points="1582,1819 1762,1819 1762,2418 1582,2418 1582,1819"/>
+        <Baseline points="1665,1824 1684,2419"/>
+        <TextEquiv>
+          <Unicode>收種第二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109604" custom="structure {type:Title;}">
+        <Coords points="1377,1107 1562,1107 1562,1752 1377,1752 1377,1107"/>
+        <Baseline points="1475,1111 1489,1753"/>
+        <TextEquiv>
+          <Unicode>種穀第三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109605" custom="structure {type:Title;}">
+        <Coords points="1186,976 1354,976 1354,1557 1186,1557 1186,976"/>
+        <Baseline points="1280,977 1280,1558"/>
+        <TextEquiv>
+          <Unicode>耕田第一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109606" custom="structure {type:Text;}">
+        <Coords points="972,720 1149,720 1149,3678 972,3678 972,720"/>
+        <Baseline points="1071,721 1071,3679"/>
+        <TextEquiv>
+          <Unicode>周書曰神農之時天雨粟神農遂耕而種之作陶冶斤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109607" custom="structure {type:Text;}">
+        <Coords points="758,679 963,679 963,3706 758,3706 758,679"/>
+        <Baseline points="862,683 885,3708"/>
+        <TextEquiv>
+          <Unicode>斧為耒耜鉏耨以墾草莽然後五穀興助百果藏實世</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109608" custom="structure {type:Text;}">
+        <Coords points="562,688 755,688 755,3678 562,3678 562,688"/>
+        <Baseline points="657,692 676,3679"/>
+        <TextEquiv>
+          <Unicode>本曰倕作耒耜倕神農之臣也呂氏春秋曰耜博六寸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109609" custom="structure {type:Text;}">
+        <Coords points="359,686 525,686 525,3712 359,3712 359,686"/>
+        <Baseline points="462,687 462,3713"/>
+        <TextEquiv>
+          <Unicode>爾雅曰斪斸謂之定犍為舍人曰斪斸鉏也一名定纂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術卷第一
+後魏高陽太守賈思勰撰
+耕田第一
+收種第二
+種穀第三
+耕田第一
+周書曰神農之時天雨粟神農遂耕而種之作陶冶斤
+斧為耒耜鉏耨以墾草莽然後五穀興助百果藏實世
+本曰倕作耒耜倕神農之臣也呂氏春秋曰耜博六寸
+爾雅曰斪斸謂之定犍為舍人曰斪斸鉏也一名定纂
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117742" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="220,730 334,730 353,3698 258,3694 220,730"/>
+      <TextLine id="1109610" custom="structure {type:Title;}">
+        <Coords points="240,726 319,737 322,1326 240,1328 240,726"/>
+        <Baseline points="272,702 272,1329"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109611" custom="structure {type:Section;}">
+        <Coords points="231,1713 319,1710 324,1948 240,1951 231,1713"/>
+        <Baseline points="262,1681 277,1943"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114541" custom="structure {type:Page_Number;}">
+        <Coords points="238,2967 328,2964 331,3068 227,3071 235,2984 238,2967"/>
+        <Baseline points="272,2967 275,3066"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109612" custom="structure {type:Marginalia;}">
+        <Coords points="243,3107 359,3107 359,3684 246,3684 243,3107"/>
+        <Baseline points="308,3684 311,3090"/>
+        <TextEquiv>
+          <Unicode>漸西村舍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷一
+一
+漸西村舍
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

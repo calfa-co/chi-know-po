@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:29:05+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI111_1_5_0083.jpg" imageHeight="4091" imageWidth="4826">
+    <TextRegion id="118045" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4498,704 4646,699 4612,3668 4479,3672 4498,704"/>
+      <TextLine id="1112988" custom="structure {type:Title;}">
+        <Coords points="4500,679 4609,685 4608,1285 4500,1268 4500,679"/>
+        <Baseline points="4570,680 4570,1270"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112990" custom="structure {type:Section;}">
+        <Coords points="4495,1665 4587,1619 4595,1950 4494,1947 4495,1665"/>
+        <Baseline points="4570,1603 4570,1950"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112991" custom="structure {type:Page_Number;}">
+        <Coords points="4498,2793 4587,2797 4595,3037 4498,3038 4498,2793"/>
+        <Baseline points="4560,2802 4570,3040"/>
+        <TextEquiv>
+          <Unicode>十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注
+卷二
+十九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118046" custom="structure {type:MainText_Right;}">
+      <Coords points="2519,718 4503,709 4479,3672 2548,3653 2519,718"/>
+      <TextLine id="1112992" custom="structure {type:Text;}">
+        <Coords points="4303,684 4473,684 4473,3290 4303,3290 4303,684"/>
+        <Baseline points="4379,685 4394,3292"/>
+        <TextEquiv>
+          <Unicode>屬藏之以依神說文肉部隋裂肉也以肉隓省聲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112993" custom="structure {type:Text;}">
+        <Coords points="4107,690 4273,690 4273,1802 4107,1802 4107,690"/>
+        <Baseline points="4175,695 4189,1803"/>
+        <TextEquiv>
+          <Unicode>乃餞注古文餞為踐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112994" custom="structure {type:Text;}">
+        <Coords points="4107,1900 4284,1900 4284,3681 4107,3681 4107,1900"/>
+        <Baseline points="4194,1903 4213,3682"/>
+        <TextEquiv>
+          <Unicode>案釋元應五分律音義餞送律文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112995" custom="structure {type:Text;}">
+        <Coords points="3914,672 4082,672 4082,1959 3914,1959 3914,672"/>
+        <Baseline points="3999,676 4008,1960"/>
+        <TextEquiv>
+          <Unicode>作踐履之踐古字通用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112996" custom="structure {type:Text;}">
+        <Coords points="3723,686 3893,686 3893,3390 3723,3390 3723,686"/>
+        <Baseline points="3799,690 3813,3392"/>
+        <TextEquiv>
+          <Unicode>有乾肉折俎注乾肉牲體之脯也如今涼州鳥翅矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112997" custom="structure {type:Text;}">
+        <Coords points="3728,3463 3875,3463 3875,3690 3728,3690 3728,3463"/>
+        <Baseline points="3808,3473 3832,3682"/>
+        <TextEquiv>
+          <Unicode>案</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112998" custom="structure {type:Text;}">
+        <Coords points="3523,686 3698,686 3698,3690 3523,3690 3523,686"/>
+        <Baseline points="3613,690 3623,3691"/>
+        <TextEquiv>
+          <Unicode>集釋通解俱作烏翅誤腊人掌乾肉注大物解肆乾之謂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112999" custom="structure {type:Text;}">
+        <Coords points="3332,700 3502,700 3502,3681 3332,3681 3332,700"/>
+        <Baseline points="3409,704 3423,3682"/>
+        <TextEquiv>
+          <Unicode>之乾肉若今涼州烏翅矣說文膴字引揚雄說鳥腊又腒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113000" custom="structure {type:Text;}">
+        <Coords points="3139,700 3318,700 3318,2929 3139,2929 3139,700"/>
+        <Baseline points="3214,704 3242,2930"/>
+        <TextEquiv>
+          <Unicode>北方謂烏腊腒疑烏翅即烏腊雉腒之類</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113001" custom="structure {type:Text;}">
+        <Coords points="2946,690 3121,690 3121,3538 2946,3538 2946,690"/>
+        <Baseline points="3028,695 3038,3539"/>
+        <TextEquiv>
+          <Unicode>主婦亦拜賓注拜之於闈門之內闈門如今東西掖門</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113002" custom="structure {type:Text;}">
+        <Coords points="2743,700 2934,700 2934,3690 2743,3690 2743,700"/>
+        <Baseline points="2828,704 2857,3691"/>
+        <TextEquiv>
+          <Unicode>案漢書成帝紀闌入尚方掖門注掖門在兩旁言如人臂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113003" custom="structure {type:Text;}">
+        <Coords points="2550,688 2709,688 2709,1050 2550,1050 2550,688"/>
+        <Baseline points="2638,690 2638,1051"/>
+        <TextEquiv>
+          <Unicode>掖也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>屬藏之以依神說文肉部隋裂肉也以肉隓省聲
+乃餞注古文餞為踐
+案釋元應五分律音義餞送律文
+作踐履之踐古字通用
+有乾肉折俎注乾肉牲體之脯也如今涼州鳥翅矣
+案
+集釋通解俱作烏翅誤腊人掌乾肉注大物解肆乾之謂
+之乾肉若今涼州烏翅矣說文膴字引揚雄說鳥腊又腒
+北方謂烏腊腒疑烏翅即烏腊雉腒之類
+主婦亦拜賓注拜之於闈門之內闈門如今東西掖門
+案漢書成帝紀闌入尚方掖門注掖門在兩旁言如人臂
+掖也
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118047" custom="structure {type:MainText_Left;}">
+      <Coords points="297,747 2248,728 2248,3672 336,3653 297,747"/>
+      <TextLine id="1113004" custom="structure {type:Text;}">
+        <Coords points="2039,700 2218,700 2218,2486 2039,2486 2039,700"/>
+        <Baseline points="2134,704 2148,2488"/>
+        <TextEquiv>
+          <Unicode>取諸脰膉注今文脰膉為頭嗌也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113005" custom="structure {type:Text;}">
+        <Coords points="2036,2584 2216,2584 2216,3715 2036,3715 2036,2584"/>
+        <Baseline points="2134,2588 2162,3715"/>
+        <TextEquiv>
+          <Unicode>案葛本作頭益士相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113006" custom="structure {type:Text;}">
+        <Coords points="1848,695 2020,695 2020,3670 1848,3670 1848,695"/>
+        <Baseline points="1934,699 1944,3672"/>
+        <TextEquiv>
+          <Unicode>見禮注今文頭為脰說文肉部無膉字口部嗌咽也从口</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113007" custom="structure {type:Text;}">
+        <Coords points="1650,700 1834,700 1834,3665 1650,3665 1650,700"/>
+        <Baseline points="1739,704 1763,3668"/>
+        <TextEquiv>
+          <Unicode>益聲嗌籀文嗌上象口下象頸脈理也漢書百官公卿表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113008" custom="structure {type:Text;}">
+        <Coords points="1473,706 1634,706 1634,3681 1473,3681 1473,706"/>
+        <Baseline points="1572,709 1572,3682"/>
+        <TextEquiv>
+          <Unicode>嗌作朕虞師古曰嗌古益字也穀梁昭十九年傳歠飦粥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113009" custom="structure {type:Text;}">
+        <Coords points="1282,713 1443,713 1443,3561 1282,3561 1282,713"/>
+        <Baseline points="1373,714 1373,3563"/>
+        <TextEquiv>
+          <Unicode>嗌不容粒注嗌喉也方言嗌噎也秦晉或曰嗌又曰噎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113010" custom="structure {type:Text;}">
+        <Coords points="1079,704 1247,704 1247,2215 1079,2215 1079,704"/>
+        <Baseline points="1168,2217 1173,709"/>
+        <TextEquiv>
+          <Unicode>朞而小祥注古文朞皆作基</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113011" custom="structure {type:Text;}">
+        <Coords points="1084,2309 1250,2309 1250,3690 1084,3690 1084,2309"/>
+        <Baseline points="1173,2312 1182,3691"/>
+        <TextEquiv>
+          <Unicode>案士喪禮注古文基作期</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113012" custom="structure {type:Text;}">
+        <Coords points="893,713 1068,713 1068,3681 893,3681 893,713"/>
+        <Baseline points="983,718 997,3682"/>
+        <TextEquiv>
+          <Unicode>周禮質人邦國朞釋文作基云本或作朞同後漢書郎顗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113013" custom="structure {type:Text;}">
+        <Coords points="702,711 872,711 872,3656 702,3656 702,711"/>
+        <Baseline points="787,3658 797,714"/>
+        <TextEquiv>
+          <Unicode>傳於詩三基注基當作期漢任伯嗣碑基月有成費鳳別</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113014" custom="structure {type:Text;}">
+        <Coords points="511,711 679,711 679,3665 511,3665 511,711"/>
+        <Baseline points="602,714 607,3668"/>
+        <TextEquiv>
+          <Unicode>碑基月而致道雲臺碑承祠基年柳敏碑傅於萬基張遷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113015" custom="structure {type:Text;}">
+        <Coords points="320,725 488,725 488,2129 320,2129 320,725"/>
+        <Baseline points="407,728 416,2131"/>
+        <TextEquiv>
+          <Unicode>碑流化八基皆以基為朞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>取諸脰膉注今文脰膉為頭嗌也
+案葛本作頭益士相
+見禮注今文頭為脰說文肉部無膉字口部嗌咽也从口
+益聲嗌籀文嗌上象口下象頸脈理也漢書百官公卿表
+嗌作朕虞師古曰嗌古益字也穀梁昭十九年傳歠飦粥
+嗌不容粒注嗌喉也方言嗌噎也秦晉或曰嗌又曰噎
+朞而小祥注古文朞皆作基
+案士喪禮注古文基作期
+周禮質人邦國朞釋文作基云本或作朞同後漢書郎顗
+傳於詩三基注基當作期漢任伯嗣碑基月有成費鳳別
+碑基月而致道雲臺碑承祠基年柳敏碑傅於萬基張遷
+碑流化八基皆以基為朞
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118048" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="169,742 317,737 350,3668 202,3663 169,742"/>
+      <TextLine id="1113016" custom="structure {type:Title;}">
+        <Coords points="214,742 302,742 297,1311 216,1315 214,742"/>
+        <Baseline points="231,1313 240,723"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113017" custom="structure {type:Section;}">
+        <Coords points="214,1653 287,1679 299,1976 218,1981 214,1653"/>
+        <Baseline points="236,1984 240,1627"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113018" custom="structure {type:Page_Number;}">
+        <Coords points="221,2832 309,2838 309,3045 221,3044 221,2832"/>
+        <Baseline points="245,2845 259,3045"/>
+        <TextEquiv>
+          <Unicode>二十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注
+卷二
+二十
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,281 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T16:51:41+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_C_III_5-7_01_01_0092.jpg" imageHeight="4532" imageWidth="6376">
+    <TextRegion id="116830" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5740,3766 5740,879 5830,879 5830,3766 5740,3766"/>
+      <TextLine id="1100676" custom="structure {type:Title;}">
+        <Coords points="5713,876 5839,876 5839,1430 5713,1430 5713,876"/>
+        <Baseline points="5783,879 5792,1431"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100677" custom="structure {type:Section;}">
+        <Coords points="5713,1699 5897,1699 5897,2328 5713,2328 5713,1699"/>
+        <Baseline points="5792,1702 5792,2330"/>
+        <TextEquiv>
+          <Unicode>天部卷之二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100678" custom="structure {type:Page_Number;}">
+        <Coords points="5668,3230 5879,3230 5879,3519 5668,3519 5668,3230"/>
+        <Baseline points="5778,3238 5792,3519"/>
+        <TextEquiv>
+          <Unicode>三五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+天部卷之二
+三五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116831" custom="structure {type:MainText_Right;}">
+      <Coords points="3632,4075 3632,865 5721,865 5721,4075 3632,4075"/>
+      <TextLine id="1100679" custom="structure {type:Text;}">
+        <Coords points="5509,888 5718,888 5718,2064 5509,2064 5509,888"/>
+        <Baseline points="5635,893 5673,2063"/>
+        <TextEquiv>
+          <Unicode>月令曰仲春始電</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100680" custom="structure {type:Text;}">
+        <Coords points="5275,881 5512,881 5512,3507 5275,3507 5275,881"/>
+        <Baseline points="5388,3509 5411,884"/>
+        <TextEquiv>
+          <Unicode>晉書曰王戎視日不財目爛爛若巖下電</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100681" custom="structure {type:Text;}">
+        <Coords points="5104,901 5318,901 5318,2210 5104,2210 5104,901"/>
+        <Baseline points="5216,903 5235,2211"/>
+        <TextEquiv>
+          <Unicode>山海經曰列缺電名</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100682" custom="structure {type:Text;}">
+        <Coords points="4895,873 5099,873 5099,4106 4895,4106 4895,873"/>
+        <Baseline points="5012,874 5012,4109"/>
+        <TextEquiv>
+          <Unicode>莊子曰陰氣伏於黃泉陽氣上通於天陰陽分爭故</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100683" custom="structure {type:Text;}">
+        <Coords points="4686,861 4895,861 4895,2860 4686,2860 4686,861"/>
+        <Baseline points="4793,865 4798,2862"/>
+        <TextEquiv>
+          <Unicode>為電玉女投壺天為之笑則電</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100684" custom="structure {type:Text;}">
+        <Coords points="4472,866 4683,866 4683,4116 4472,4116 4472,866"/>
+        <Baseline points="4574,4118 4584,869"/>
+        <TextEquiv>
+          <Unicode>河圖握拒起曰大電繞樞星炤郊野感符寶而生黃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100685" custom="structure {type:Text;}">
+        <Coords points="4285,866 4477,866 4477,1075 4285,1075 4285,866"/>
+        <Baseline points="4384,874 4408,1074"/>
+        <TextEquiv>
+          <Unicode>帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100686" custom="structure {type:Commentary;}">
+        <Coords points="4366,1039 4502,1039 4502,1571 4366,1571 4366,1039"/>
+        <Baseline points="4441,1041 4441,1573"/>
+        <TextEquiv>
+          <Unicode>事具符</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100687" custom="structure {type:Commentary;}">
+        <Coords points="4263,1042 4399,1042 4399,1377 4263,1377 4263,1042"/>
+        <Baseline points="4341,1045 4351,1378"/>
+        <TextEquiv>
+          <Unicode>命部</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100688" custom="structure {type:Text;}">
+        <Coords points="4066,851 4270,851 4270,2328 4066,2328 4066,851"/>
+        <Baseline points="4170,2330 4175,855"/>
+        <TextEquiv>
+          <Unicode>淮南子曰電以為鞭策</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100689" custom="structure {type:Commentary;}">
+        <Coords points="4124,2298 4273,2298 4273,2673 4124,2673 4124,2298"/>
+        <Baseline points="4208,2306 4236,2672"/>
+        <TextEquiv>
+          <Unicode>電激</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100690" custom="structure {type:Commentary;}">
+        <Coords points="4044,2313 4167,2313 4167,2681 4044,2681 4044,2313"/>
+        <Baseline points="4103,2315 4132,2677"/>
+        <TextEquiv>
+          <Unicode>氣也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100691" custom="structure {type:Text;}">
+        <Coords points="3865,856 4074,856 4074,2585 3865,2585 3865,856"/>
+        <Baseline points="3980,860 3984,2586"/>
+        <TextEquiv>
+          <Unicode>甘泉賦曰電倏閃於牆藩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100692" custom="structure {type:Text;}">
+        <Coords points="3575,861 3867,861 3867,4106 3575,4106 3575,861"/>
+        <Baseline points="3746,4109 3765,865"/>
+        <TextEquiv>
+          <Unicode>賦晉顧凱之雷電賦曰太極紛綸元氣澄練陰陽相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>月令曰仲春始電
+晉書曰王戎視日不財目爛爛若巖下電
+山海經曰列缺電名
+莊子曰陰氣伏於黃泉陽氣上通於天陰陽分爭故
+為電玉女投壺天為之笑則電
+河圖握拒起曰大電繞樞星炤郊野感符寶而生黃
+帝
+事具符
+命部
+淮南子曰電以為鞭策
+電激
+氣也
+甘泉賦曰電倏閃於牆藩
+賦晉顧凱之雷電賦曰太極紛綸元氣澄練陰陽相
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116832" custom="structure {type:MainText_Left;}">
+      <Coords points="816,4080 816,869 2862,869 2862,4080 816,4080"/>
+      <TextLine id="1100693" custom="structure {type:Text;}">
+        <Coords points="2636,845 2848,845 2848,4126 2636,4126 2636,845"/>
+        <Baseline points="2762,850 2771,4128"/>
+        <TextEquiv>
+          <Unicode>薄為雷為電是以宣尼敬威忽變夫其聲無定響光</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100694" custom="structure {type:Text;}">
+        <Coords points="2422,856 2646,856 2646,4126 2422,4126 2422,856"/>
+        <Baseline points="2538,860 2571,4128"/>
+        <TextEquiv>
+          <Unicode>不恆照砰訇輪轉儵閃羅曜若乃太陰下淪少陽初</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100695" custom="structure {type:Text;}">
+        <Coords points="2221,851 2430,851 2430,4103 2221,4103 2221,851"/>
+        <Baseline points="2329,855 2348,4104"/>
+        <TextEquiv>
+          <Unicode>升蟄蟲將啟動靈先應殷殷徐振不激不憑林鍾統</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100696" custom="structure {type:Text;}">
+        <Coords points="2019,856 2218,856 2218,4093 2019,4093 2019,856"/>
+        <Baseline points="2134,860 2138,4094"/>
+        <TextEquiv>
+          <Unicode>節溽暑焑熅星月不朗衣裳若焚爾乃清風前颯蕩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100697" custom="structure {type:Text;}">
+        <Coords points="1803,845 2014,845 2014,4106 1803,4106 1803,845"/>
+        <Baseline points="1924,850 1962,4109"/>
+        <TextEquiv>
+          <Unicode>濁流塵豐隆破響列缺開雲當時倦容廓焉精新豈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100698" custom="structure {type:Text;}">
+        <Coords points="1591,840 1810,840 1810,4116 1591,4116 1591,840"/>
+        <Baseline points="1701,845 1725,4118"/>
+        <TextEquiv>
+          <Unicode>直驚安竦寐乃以暢精悟神天怒將凌赤電先發窺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100699" custom="structure {type:Text;}">
+        <Coords points="1390,851 1609,851 1609,3970 1390,3970 1390,851"/>
+        <Baseline points="1510,855 1534,3971"/>
+        <TextEquiv>
+          <Unicode>巖四照映流雙絕雷電赫以驚衡山海磕其崩裂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100700" custom="structure {type:Title;}">
+        <Coords points="1198,1153 1397,1153 1397,1452 1198,1452 1198,1153"/>
+        <Baseline points="1296,1159 1306,1454"/>
+        <TextEquiv>
+          <Unicode>霧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100701" custom="structure {type:Text;}">
+        <Coords points="974,840 1201,840 1201,3346 974,3346 974,840"/>
+        <Baseline points="1092,845 1111,3348"/>
+        <TextEquiv>
+          <Unicode>爾雅曰地氣發天不應曰霧霧謂之晦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100702" custom="structure {type:Text;}">
+        <Coords points="783,858 984,858 984,4078 783,4078 783,858"/>
+        <Baseline points="892,860 892,4080"/>
+        <TextEquiv>
+          <Unicode>帝王世紀曰黃帝時天大霧三日帝遊洛川之上見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>薄為雷為電是以宣尼敬威忽變夫其聲無定響光
+不恆照砰訇輪轉儵閃羅曜若乃太陰下淪少陽初
+升蟄蟲將啟動靈先應殷殷徐振不激不憑林鍾統
+節溽暑焑熅星月不朗衣裳若焚爾乃清風前颯蕩
+濁流塵豐隆破響列缺開雲當時倦容廓焉精新豈
+直驚安竦寐乃以暢精悟神天怒將凌赤電先發窺
+巖四照映流雙絕雷電赫以驚衡山海磕其崩裂
+霧
+爾雅曰地氣發天不應曰霧霧謂之晦
+帝王世紀曰黃帝時天大霧三日帝遊洛川之上見
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116833" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="673,4075 673,874 811,874 811,4075 673,4075"/>
+      <TextLine id="1100703" custom="structure {type:Title;}">
+        <Coords points="654,858 798,858 798,1382 654,1382 654,858"/>
+        <Baseline points="730,860 730,1383"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100704" custom="structure {type:Section;}">
+        <Coords points="652,1717 775,1717 775,2323 652,2323 652,1717"/>
+        <Baseline points="716,2325 721,1721"/>
+        <TextEquiv>
+          <Unicode>天部卷之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112610" custom="structure {type:Page_Number;}">
+        <Coords points="671,3245 783,3249 771,3425 671,3425 671,3245"/>
+        <Baseline points="704,3209 708,3417"/>
+        <TextEquiv>
+          <Unicode>二六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100705" custom="structure {type:Marginalia;}">
+        <Coords points="679,3448 792,3436 780,4084 683,4096 679,3448"/>
+        <Baseline points="739,3440 749,4109"/>
+        <TextEquiv>
+          <Unicode>宏達堂校梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+天部卷之
+二六
+宏達堂校梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

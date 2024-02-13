@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:36+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0035.jpg" imageHeight="4479" imageWidth="2526">
+    <TextRegion id="79204" custom="structure {type:MainText;}">
+      <Coords points="221,3964 195,990 2387,968 2402,2476 2420,3962 221,3964"/>
+      <TextLine id="867289" custom="structure {type:Text;}">
+        <Coords points="2190,970 2406,970 2406,3931 2190,3931 2190,970"/>
+        <Baseline points="2297,975 2330,3932"/>
+        <TextEquiv>
+          <Unicode>取女也取去為室家其年少者終身不得還十年之後形皆類</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867290" custom="structure {type:Text;}">
+        <Coords points="2015,980 2227,980 2227,3934 2015,3934 2015,980"/>
+        <Baseline points="2111,985 2145,3936"/>
+        <TextEquiv>
+          <Unicode>之意亦迷惑不復思歸有子者輒俱送還其家產子皆如人有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867291" custom="structure {type:Text;}">
+        <Coords points="1831,980 2050,980 2050,3934 1831,3934 1831,980"/>
+        <Baseline points="1945,985 1974,3936"/>
+        <TextEquiv>
+          <Unicode>不食養者其母輒死故無不取養也及長與人無異皆以楊為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867292" custom="structure {type:Text;}">
+        <Coords points="1627,985 1866,985 1866,3944 1627,3944 1627,985"/>
+        <Baseline points="1755,988 1783,3946"/>
+        <TextEquiv>
+          <Unicode>姓故今蜀中西界多謂楊率皆猳玃化之子孫時時相有玃爪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867293" custom="structure {type:Text;}">
+        <Coords points="1483,985 1657,985 1657,1226 1483,1226 1483,985"/>
+        <Baseline points="1579,986 1579,1228"/>
+        <TextEquiv>
+          <Unicode>者也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867294" custom="structure {type:Text;}">
+        <Coords points="1249,987 1518,987 1518,3948 1249,3948 1249,987"/>
+        <Baseline points="1379,991 1417,3951"/>
+        <TextEquiv>
+          <Unicode>小山有獸其形如鼓一足如蠡澤有委蛇狀如轂長如轅見之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867295" custom="structure {type:Text;}">
+        <Coords points="1114,992 1309,992 1309,1239 1114,1239 1114,992"/>
+        <Baseline points="1208,994 1208,1241"/>
+        <TextEquiv>
+          <Unicode>者霸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867296" custom="structure {type:Text;}">
+        <Coords points="915,985 1132,985 1132,2100 915,2100 915,985"/>
+        <Baseline points="1018,989 1032,2102"/>
+        <TextEquiv>
+          <Unicode>猩猩若黃狗人面能言</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867297" custom="structure {type:Title;}">
+        <Coords points="744,1216 930,1216 930,1478 744,1478 744,1216"/>
+        <Baseline points="837,1222 847,1479"/>
+        <TextEquiv>
+          <Unicode>異鳥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867298" custom="structure {type:Text;}">
+        <Coords points="522,985 796,985 796,3941 522,3941 522,985"/>
+        <Baseline points="642,989 676,3944"/>
+        <TextEquiv>
+          <Unicode>崇丘山有鳥一足一翼一目相得而飛名曰虻見則吉良乘之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867299" custom="structure {type:Text;}">
+        <Coords points="370,987 569,987 569,1368 370,1368 370,987"/>
+        <Baseline points="462,991 471,1371"/>
+        <TextEquiv>
+          <Unicode>壽千歲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867300" custom="structure {type:Text;}">
+        <Coords points="181,995 405,995 405,2336 181,2336 181,995"/>
+        <Baseline points="276,1000 295,2337"/>
+        <TextEquiv>
+          <Unicode>比翼鳥一青一赤在參嵎山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>取女也取去為室家其年少者終身不得還十年之後形皆類
+之意亦迷惑不復思歸有子者輒俱送還其家產子皆如人有
+不食養者其母輒死故無不取養也及長與人無異皆以楊為
+姓故今蜀中西界多謂楊率皆猳玃化之子孫時時相有玃爪
+者也
+小山有獸其形如鼓一足如蠡澤有委蛇狀如轂長如轅見之
+者霸
+猩猩若黃狗人面能言
+異鳥
+崇丘山有鳥一足一翼一目相得而飛名曰虻見則吉良乘之
+壽千歲
+比翼鳥一青一赤在參嵎山
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79234" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="142,179 142,88 259,88 259,179 142,179"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79235" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="88,3461 88,1732 207,1732 207,3461 88,3461"/>
+      <TextLine id="869041" custom="structure {type:Page_Number;}">
+        <Coords points="62,1749 206,1749 206,2072 62,2072 62,1749"/>
+        <Baseline points="117,1758 136,2072"/>
+        <TextEquiv>
+          <Unicode>卷三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869042" custom="structure {type:Title;}">
+        <Coords points="57,2294 236,2294 236,2762 57,2762 57,2294"/>
+        <Baseline points="131,2300 159,2761"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869043" custom="structure {type:Page_Number;}">
+        <Coords points="49,3055 191,3055 191,3244 49,3244 49,3055"/>
+        <Baseline points="131,3056 131,3246"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷三
+博物志
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

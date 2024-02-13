@@ -1,0 +1,465 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:28:50+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI111_1_5_0006.jpg" imageHeight="4091" imageWidth="4908">
+    <TextRegion id="117837" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4509,670 4628,675 4609,3677 4533,3677 4509,670"/>
+      <TextLine id="1110916" custom="structure {type:Title;}">
+        <Coords points="4533,668 4686,662 4661,1420 4522,1435 4533,668"/>
+        <Baseline points="4557,1436 4576,632"/>
+        <TextEquiv>
+          <Unicode>毛詩陸疏校正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110917" custom="structure {type:Page_Number;}">
+        <Coords points="4521,2970 4592,2970 4592,3122 4521,3122 4521,2970"/>
+        <Baseline points="4557,2973 4566,3125"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>毛詩陸疏校正
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117838" custom="structure {type:MainText_Right;}">
+      <Coords points="2479,680 4519,675 4519,3662 2474,3667 2479,680"/>
+      <TextLine id="1110918" custom="structure {type:Text;}">
+        <Coords points="4364,665 4522,674 4511,1443 4367,1452 4364,665"/>
+        <Baseline points="4432,1431 4444,639"/>
+        <TextEquiv>
+          <Unicode>牛舌草可</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110919" custom="structure {type:Commentary;}">
+        <Coords points="4440,1463 4533,1423 4533,2753 4434,2755 4440,1463"/>
+        <Baseline points="4480,1415 4484,2755"/>
+        <TextEquiv>
+          <Unicode>與煮同毛晉陸疏廣要</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110920" custom="structure {type:Commentary;}">
+        <Coords points="4361,1418 4451,1404 4451,2654 4364,2651 4361,1418"/>
+        <Baseline points="4380,2655 4384,1407"/>
+        <TextEquiv>
+          <Unicode>作䰞王謨本作鬻誤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110921" custom="structure {type:Text;}">
+        <Coords points="4312,2734 4512,2734 4512,3677 4312,3677 4312,2734"/>
+        <Baseline points="4416,2735 4416,3679"/>
+        <TextEquiv>
+          <Unicode>作茹大滑其子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110922" custom="structure {type:Text;}">
+        <Coords points="4180,654 4364,654 4364,1438 4180,1438 4180,654"/>
+        <Baseline points="4268,659 4272,1439"/>
+        <TextEquiv>
+          <Unicode>治婦人難産</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110923" custom="structure {type:Commentary;}">
+        <Coords points="4285,1420 4369,1418 4355,2475 4259,2470 4285,1420"/>
+        <Baseline points="4304,2471 4320,1407"/>
+        <TextEquiv>
+          <Unicode>詩芣苢疏爾雅釋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110924" custom="structure {type:Commentary;}">
+        <Coords points="4188,1423 4279,1415 4270,2331 4174,2340 4188,1423"/>
+        <Baseline points="4212,2323 4220,1399"/>
+        <TextEquiv>
+          <Unicode>草疏證類本草</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110925" custom="structure {type:Title;}">
+        <Coords points="4000,922 4185,922 4185,1606 4000,1606 4000,922"/>
+        <Baseline points="4100,1607 4108,927"/>
+        <TextEquiv>
+          <Unicode>言采其蝱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110926" custom="structure {type:Text;}">
+        <Coords points="3823,654 4014,654 4014,3670 3823,3670 3823,654"/>
+        <Baseline points="3920,655 3920,3671"/>
+        <TextEquiv>
+          <Unicode>蝱今藥草貝母也其葉如栝楼而細小其子在根下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110927" custom="structure {type:Text;}">
+        <Coords points="3676,657 3835,654 3835,2925 3657,2920 3676,657"/>
+        <Baseline points="3740,2927 3748,659"/>
+        <TextEquiv>
+          <Unicode>如芋子正白四方連累相著有分解也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110928" custom="structure {type:Commentary;}">
+        <Coords points="3716,2895 3844,2895 3844,3670 3716,3670 3716,2895"/>
+        <Baseline points="3780,2899 3788,3671"/>
+        <TextEquiv>
+          <Unicode>詩載馳疏爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110929" custom="structure {type:Commentary;}">
+        <Coords points="3628,2902 3744,2902 3744,3686 3628,3686 3628,2902"/>
+        <Baseline points="3680,2903 3680,3687"/>
+        <TextEquiv>
+          <Unicode>雅釋草莔貝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110930" custom="structure {type:Commentary;}">
+        <Coords points="3569,659 3684,659 3684,1140 3569,1140 3569,659"/>
+        <Baseline points="3632,663 3636,1143"/>
+        <TextEquiv>
+          <Unicode>母疏證</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110931" custom="structure {type:Commentary;}">
+        <Coords points="3471,638 3594,638 3594,1125 3471,1125 3471,638"/>
+        <Baseline points="3536,643 3556,1123"/>
+        <TextEquiv>
+          <Unicode>類本草</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110932" custom="structure {type:Title;}">
+        <Coords points="3346,914 3487,915 3487,1606 3337,1601 3346,914"/>
+        <Baseline points="3408,919 3420,1607"/>
+        <TextEquiv>
+          <Unicode>中谷有蓷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110933" custom="structure {type:Text;}">
+        <Coords points="3121,638 3346,638 3346,3697 3121,3697 3121,638"/>
+        <Baseline points="3232,3699 3244,643"/>
+        <TextEquiv>
+          <Unicode>蓷似萑方莖白華華生節閒舊説及魏博士濟隂周</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110934" custom="structure {type:Text;}">
+        <Coords points="2950,643 3143,643 3143,3681 2950,3681 2950,643"/>
+        <Baseline points="3044,3683 3060,647"/>
+        <TextEquiv>
+          <Unicode>元明皆云菴䕡是也韓詩及三蒼説悉云蓷益母也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110935" custom="structure {type:Text;}">
+        <Coords points="2784,643 2973,643 2973,1886 2784,1886 2784,643"/>
+        <Baseline points="2880,1887 2896,647"/>
+        <TextEquiv>
+          <Unicode>故曾子見益母感恩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110936" custom="structure {type:Commentary;}">
+        <Coords points="2873,1867 2981,1862 2980,3222 2864,3222 2873,1867"/>
+        <Baseline points="2924,1843 2924,3223"/>
+        <TextEquiv>
+          <Unicode>詩爾雅疏作而感無恩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110937" custom="structure {type:Commentary;}">
+        <Coords points="2786,1867 2884,1876 2887,3061 2771,3061 2786,1867"/>
+        <Baseline points="2820,3063 2832,1843"/>
+        <TextEquiv>
+          <Unicode>字證類本草作感恩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110938" custom="structure {type:Commentary;}">
+        <Coords points="2789,3181 2959,3181 2959,3681 2789,3681 2789,3181"/>
+        <Baseline points="2868,3183 2868,3683"/>
+        <TextEquiv>
+          <Unicode>案本草</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110939" custom="structure {type:Text;}">
+        <Coords points="2640,656 2800,659 2800,3372 2616,3364 2640,656"/>
+        <Baseline points="2704,3375 2716,663"/>
+        <TextEquiv>
+          <Unicode>云茺蔚一名益母故劉歆云蓷臭穢即茺蔚也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110940" custom="structure {type:Commentary;}">
+        <Coords points="2693,3356 2805,3356 2805,3677 2693,3677 2693,3356"/>
+        <Baseline points="2736,3359 2736,3679"/>
+        <TextEquiv>
+          <Unicode>詩中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110941" custom="structure {type:Commentary;}">
+        <Coords points="2606,3374 2700,3357 2702,3670 2603,3670 2606,3374"/>
+        <Baseline points="2644,3343 2644,3671"/>
+        <TextEquiv>
+          <Unicode>谷有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110942" custom="structure {type:Commentary;}">
+        <Coords points="2536,654 2639,654 2639,2034 2536,2034 2536,654"/>
+        <Baseline points="2588,2035 2592,659"/>
+        <TextEquiv>
+          <Unicode>蓷疏引舊說以下文爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110943" custom="structure {type:Commentary;}">
+        <Coords points="2468,670 2559,668 2559,1886 2468,1887 2468,670"/>
+        <Baseline points="2512,1887 2524,671"/>
+        <TextEquiv>
+          <Unicode>雅釋草萑蓷疏引同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>牛舌草可
+與煮同毛晉陸疏廣要
+作䰞王謨本作鬻誤
+作茹大滑其子
+治婦人難産
+詩芣苢疏爾雅釋
+草疏證類本草
+言采其蝱
+蝱今藥草貝母也其葉如栝楼而細小其子在根下
+如芋子正白四方連累相著有分解也
+詩載馳疏爾
+雅釋草莔貝
+母疏證
+類本草
+中谷有蓷
+蓷似萑方莖白華華生節閒舊説及魏博士濟隂周
+元明皆云菴䕡是也韓詩及三蒼説悉云蓷益母也
+故曾子見益母感恩
+詩爾雅疏作而感無恩
+字證類本草作感恩
+案本草
+云茺蔚一名益母故劉歆云蓷臭穢即茺蔚也
+詩中
+谷有
+蓷疏引舊說以下文爾
+雅釋草萑蓷疏引同
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117839" custom="structure {type:MainText_Left;}">
+      <Coords points="438,713 2460,718 2455,3639 429,3629 438,713"/>
+      <TextLine id="1111017" custom="structure {type:Title;}">
+        <Coords points="2332,952 2459,952 2459,1625 2332,1625 2332,952"/>
+        <Baseline points="2400,955 2408,1627"/>
+        <TextEquiv>
+          <Unicode>集于苞杞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111018" custom="structure {type:Text;}">
+        <Coords points="2145,693 2334,693 2334,1461 2145,1461 2145,693"/>
+        <Baseline points="2240,695 2240,1463"/>
+        <TextEquiv>
+          <Unicode>杞其𣗳如樗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111019" custom="structure {type:Commentary;}">
+        <Coords points="2236,1457 2341,1453 2334,2045 2223,2045 2236,1457"/>
+        <Baseline points="2264,1447 2280,2047"/>
+        <TextEquiv>
+          <Unicode>爾雅疏無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111020" custom="structure {type:Commentary;}">
+        <Coords points="2143,1461 2241,1461 2241,1893 2143,1893 2143,1461"/>
+        <Baseline points="2196,1463 2196,1895"/>
+        <TextEquiv>
+          <Unicode>此四字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111021" custom="structure {type:Text;}">
+        <Coords points="2149,2052 2330,2056 2314,3653 2152,3653 2149,2052"/>
+        <Baseline points="2224,2055 2228,3655"/>
+        <TextEquiv>
+          <Unicode>一名苦杞一名地骨春生作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111022" custom="structure {type:Text;}">
+        <Coords points="1991,700 2156,697 2155,3661 1974,3660 1991,700"/>
+        <Baseline points="2068,3663 2072,679"/>
+        <TextEquiv>
+          <Unicode>𡙡茹微苦其莖似莓子秋熟正赤莖葉及子服之輕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111023" custom="structure {type:Text;}">
+        <Coords points="1784,684 1984,684 1984,1165 1784,1165 1784,684"/>
+        <Baseline points="1912,687 1920,1167"/>
+        <TextEquiv>
+          <Unicode>身益氣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111024" custom="structure {type:Commentary;}">
+        <Coords points="1900,1174 1987,1164 1993,3229 1880,3229 1900,1174"/>
+        <Baseline points="1936,3231 1944,1159"/>
+        <TextEquiv>
+          <Unicode>爾雅釋本杞枸檵疏證類本草詩南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111025" custom="structure {type:Commentary;}">
+        <Coords points="1813,1161 1905,1159 1905,3086 1792,3095 1813,1161"/>
+        <Baseline points="1840,3087 1848,1163"/>
+        <TextEquiv>
+          <Unicode>山釋文又引一名狗骨四字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111026" custom="structure {type:Title;}">
+        <Coords points="1629,950 1818,950 1818,1659 1629,1659 1629,950"/>
+        <Baseline points="1720,955 1748,1659"/>
+        <TextEquiv>
+          <Unicode>言采其藚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111027" custom="structure {type:Text;}">
+        <Coords points="1459,686 1654,686 1654,3672 1459,3672 1459,686"/>
+        <Baseline points="1560,687 1560,3675"/>
+        <TextEquiv>
+          <Unicode>藚今澤蕮也其葉如車前草大其味亦相似徐州廣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111028" custom="structure {type:Text;}">
+        <Coords points="1291,681 1468,681 1468,1318 1291,1318 1291,681"/>
+        <Baseline points="1380,1319 1396,687"/>
+        <TextEquiv>
+          <Unicode>陵人食之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111029" custom="structure {type:Commentary;}">
+        <Coords points="1382,1309 1479,1305 1479,1754 1379,1753 1382,1309"/>
+        <Baseline points="1424,1291 1428,1755"/>
+        <TextEquiv>
+          <Unicode>詩汾沮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111030" custom="structure {type:Commentary;}">
+        <Coords points="1284,1305 1382,1299 1384,1740 1294,1739 1284,1305"/>
+        <Baseline points="1344,1743 1348,1271"/>
+        <TextEquiv>
+          <Unicode>洳正義</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111031" custom="structure {type:Title;}">
+        <Coords points="1104,922 1304,922 1304,1656 1104,1656 1104,922"/>
+        <Baseline points="1209,927 1233,1659"/>
+        <TextEquiv>
+          <Unicode>蔦與女蘿</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111032" custom="structure {type:Text;}">
+        <Coords points="932,681 1141,681 1141,3670 932,3670 932,681"/>
+        <Baseline points="1033,683 1033,3671"/>
+        <TextEquiv>
+          <Unicode>蔦一名寄生葉似當盧子如覆盆子赤黒甜美女蘿</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111033" custom="structure {type:Text;}">
+        <Coords points="754,690 950,690 950,3645 754,3645 754,690"/>
+        <Baseline points="853,3647 865,695"/>
+        <TextEquiv>
+          <Unicode>今兔絲蔓連草上生黄赤如金今合藥菟絲子是也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111034" custom="structure {type:Commentary;}">
+        <Coords points="689,697 780,700 776,2025 679,2022 689,697"/>
+        <Baseline points="729,683 737,2031"/>
+        <TextEquiv>
+          <Unicode>詩頍弁疏引今兔絲至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111035" custom="structure {type:Commentary;}">
+        <Coords points="602,700 706,693 706,1909 598,1911 602,700"/>
+        <Baseline points="649,679 657,1911"/>
+        <TextEquiv>
+          <Unicode>此爾雅釋草疏引同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111036" custom="structure {type:Text;}">
+        <Coords points="602,2015 760,2022 766,3656 588,3657 602,2015"/>
+        <Baseline points="677,3659 689,1995"/>
+        <TextEquiv>
+          <Unicode>非松蘿松蘿自蔓松上生枝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111037" custom="structure {type:Text;}">
+        <Coords points="411,668 609,668 609,1738 411,1738 411,668"/>
+        <Baseline points="505,1739 521,671"/>
+        <TextEquiv>
+          <Unicode>正青與兔絲殊異</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111038" custom="structure {type:Commentary;}">
+        <Coords points="497,1749 602,1753 606,2356 501,2355 497,1749"/>
+        <Baseline points="545,1735 545,2359"/>
+        <TextEquiv>
+          <Unicode>羅願爾雅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111039" custom="structure {type:Commentary;}">
+        <Coords points="427,1753 524,1743 525,2329 423,2331 427,1753"/>
+        <Baseline points="457,2331 481,1719"/>
+        <TextEquiv>
+          <Unicode>異女蘿引</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>集于苞杞
+杞其𣗳如樗
+爾雅疏無
+此四字
+一名苦杞一名地骨春生作
+𡙡茹微苦其莖似莓子秋熟正赤莖葉及子服之輕
+身益氣
+爾雅釋本杞枸檵疏證類本草詩南
+山釋文又引一名狗骨四字
+言采其藚
+藚今澤蕮也其葉如車前草大其味亦相似徐州廣
+陵人食之
+詩汾沮
+洳正義
+蔦與女蘿
+蔦一名寄生葉似當盧子如覆盆子赤黒甜美女蘿
+今兔絲蔓連草上生黄赤如金今合藥菟絲子是也
+詩頍弁疏引今兔絲至
+此爾雅釋草疏引同
+非松蘿松蘿自蔓松上生枝
+正青與兔絲殊異
+羅願爾雅
+異女蘿引
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117840" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="334,699 448,708 419,3662 343,3658 334,699"/>
+      <TextLine id="1111040" custom="structure {type:Title;}">
+        <Coords points="281,686 438,686 438,1429 281,1429 281,686"/>
+        <Baseline points="389,687 393,1431"/>
+        <TextEquiv>
+          <Unicode>毛詩陸疏校正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111041" custom="structure {type:Section;}">
+        <Coords points="354,1559 438,1559 438,1877 354,1877 354,1559"/>
+        <Baseline points="389,1563 405,1879"/>
+        <TextEquiv>
+          <Unicode>卷上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111042" custom="structure {type:Page_Number;}">
+        <Coords points="270,2929 452,2929 452,3115 270,3115 270,2929"/>
+        <Baseline points="373,2939 389,3111"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>毛詩陸疏校正
+卷上
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

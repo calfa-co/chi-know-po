@@ -1,0 +1,315 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:44+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0581.jpg" imageHeight="4948" imageWidth="2818">
+    <TextRegion id="80242" custom="structure {type:MainText;}">
+      <Coords points="209,1449 2589,1412 2602,4365 237,4368 209,1449"/>
+      <TextLine id="876186" custom="structure {type:Commentary;}">
+        <Coords points="2482,1432 2655,1432 2655,4356 2482,4356 2482,1432"/>
+        <Baseline points="2537,1435 2559,4357"/>
+        <TextEquiv>
+          <Unicode>續漢書任延字長孫為九真太守教民牛耕鑄作田器民</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876187" custom="structure {type:Commentary;}">
+        <Coords points="2391,1434 2523,1434 2523,4356 2391,4356 2391,1434"/>
+        <Baseline points="2452,1438 2472,4359"/>
+        <TextEquiv>
+          <Unicode>以利之產子多名曰任○今案姚輯汪輯本續漢書任廷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876188" custom="structure {type:Commentary;}">
+        <Coords points="2290,1426 2411,1426 2411,2229 2290,2229 2290,1426"/>
+        <Baseline points="2353,1432 2356,2230"/>
+        <TextEquiv>
+          <Unicode>傳與陳俞本均</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876189" custom="structure {type:Commentary;}">
+        <Coords points="2177,1437 2306,1437 2306,2232 2177,2232 2177,1437"/>
+        <Baseline points="2242,1441 2257,2233"/>
+        <TextEquiv>
+          <Unicode>脫產子句餘同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876190" custom="structure {type:Text;}">
+        <Coords points="2207,2226 2408,2226 2408,3301 2207,3301 2207,2226"/>
+        <Baseline points="2299,2230 2316,3302"/>
+        <TextEquiv>
+          <Unicode>治作水耕教化大行</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876191" custom="structure {type:Commentary;}">
+        <Coords points="2309,3309 2416,3309 2416,4356 2309,4356 2309,3309"/>
+        <Baseline points="2364,3313 2373,4359"/>
+        <TextEquiv>
+          <Unicode>張璠漢記杜詩為南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876192" custom="structure {type:Commentary;}">
+        <Coords points="2207,3298 2331,3298 2331,4356 2207,4356 2207,3298"/>
+        <Baseline points="2268,3304 2276,4359"/>
+        <TextEquiv>
+          <Unicode>陽太守云云號曰杜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876193" custom="structure {type:Commentary;}">
+        <Coords points="2086,1443 2224,1443 2224,3694 2086,3694 2086,1443"/>
+        <Baseline points="2149,1446 2172,3695"/>
+        <TextEquiv>
+          <Unicode>母○今案御覽卷八百三十三引及陳俞本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876194" custom="structure {type:Commentary;}">
+        <Coords points="1984,1437 2122,1437 2124,3568 1987,3560 1984,1437"/>
+        <Baseline points="2050,1443 2073,3542"/>
+        <TextEquiv>
+          <Unicode>姚輯汪輯本耕皆作排惟御覽無號曰句</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876195" custom="structure {type:Text;}">
+        <Coords points="2020,3680 2215,3680 2215,4367 2020,4367 2020,3680"/>
+        <Baseline points="2118,3686 2126,4368"/>
+        <TextEquiv>
+          <Unicode>因流為排利</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876196" custom="structure {type:Text;}">
+        <Coords points="1806,1437 1990,1437 1990,1850 1806,1850 1806,1437"/>
+        <Baseline points="1897,1443 1900,1851"/>
+        <TextEquiv>
+          <Unicode>益三倍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876197" custom="structure {type:Commentary;}">
+        <Coords points="1894,1839 2017,1839 2017,4356 1894,4356 1894,1839"/>
+        <Baseline points="1960,1842 1968,4357"/>
+        <TextEquiv>
+          <Unicode>魏志韓暨為監治謁者舊冶作馬排每一熟石用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876198" custom="structure {type:Commentary;}">
+        <Coords points="1806,1844 1932,1844 1932,4359 1806,4359 1806,1844"/>
+        <Baseline points="1846,1848 1872,4362"/>
+        <TextEquiv>
+          <Unicode>為馬匹更作人排又費功力暨因長流故為水排</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876199" custom="structure {type:Commentary;}">
+        <Coords points="1685,1445 1839,1445 1839,4359 1685,4359 1685,1445"/>
+        <Baseline points="1739,1446 1773,4362"/>
+        <TextEquiv>
+          <Unicode>計其利益二倍於前○孫氏校補匹字甚改其今案本鈔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876200" custom="structure {type:Commentary;}">
+        <Coords points="1591,1434 1734,1434 1734,4356 1591,4356 1591,1434"/>
+        <Baseline points="1660,1438 1680,4359"/>
+        <TextEquiv>
+          <Unicode>設官部亦引考魏志卷二十四韓暨傳熟作孰無故字陳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876201" custom="structure {type:Commentary;}">
+        <Coords points="1495,1443 1613,1443 1613,1709 1495,1709 1495,1443"/>
+        <Baseline points="1555,1446 1566,1712"/>
+        <TextEquiv>
+          <Unicode>本巳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876202" custom="structure {type:Commentary;}">
+        <Coords points="1399,1443 1517,1443 1517,1709 1399,1709 1399,1443"/>
+        <Baseline points="1445,1446 1453,1712"/>
+        <TextEquiv>
+          <Unicode>照改</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876203" custom="structure {type:Text;}">
+        <Coords points="1404,1704 1611,1704 1611,3581 1404,3581 1404,1704"/>
+        <Baseline points="1499,1709 1513,3584"/>
+        <TextEquiv>
+          <Unicode>決反漳水灌鄴傍終古斥鹵生稻梁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876204" custom="structure {type:Commentary;}">
+        <Coords points="1514,3568 1635,3568 1635,4362 1514,4362 1514,3568"/>
+        <Baseline points="1566,3573 1578,4365"/>
+        <TextEquiv>
+          <Unicode>呂氏春秋云魏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876205" custom="structure {type:Commentary;}">
+        <Coords points="1413,3565 1528,3565 1528,4373 1413,4373 1413,3565"/>
+        <Baseline points="1467,3570 1473,4374"/>
+        <TextEquiv>
+          <Unicode>襄王時史起為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876206" custom="structure {type:Commentary;}">
+        <Coords points="1283,1437 1437,1437 1437,4356 1283,4356 1283,1437"/>
+        <Baseline points="1340,1443 1368,4359"/>
+        <TextEquiv>
+          <Unicode>鄴令決漳河灌田民大怨欲籍史起不敢出界而避之乃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876208" custom="structure {type:Commentary;}">
+        <Coords points="1187,1443 1327,1443 1327,4351 1187,4351 1187,1443"/>
+        <Baseline points="1250,1446 1269,4354"/>
+        <TextEquiv>
+          <Unicode>使他人水灌行民大得其利相與歌曰邦有聖令為史公</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876209" custom="structure {type:Commentary;}">
+        <Coords points="1085,1445 1228,1445 1228,4362 1085,4362 1085,1445"/>
+        <Baseline points="1142,1449 1176,4365"/>
+        <TextEquiv>
+          <Unicode>云云○今案見先識覽乃上有王字人下有遂為之三字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876210" custom="structure {type:Commentary;}">
+        <Coords points="989,1440 1118,1440 1118,4367 989,4367 989,1440"/>
+        <Baseline points="1059,1444 1079,4369"/>
+        <TextEquiv>
+          <Unicode>水灌作水已為史上有時字無反字生下有之字疏本無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876211" custom="structure {type:Commentary;}">
+        <Coords points="893,1443 1014,1443 1014,3301 893,3301 893,1443"/>
+        <Baseline points="958,1446 965,3303"/>
+        <TextEquiv>
+          <Unicode>之字餘同又見本鈔卷三十五德化</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876212" custom="structure {type:Commentary;}">
+        <Coords points="794,1443 923,1443 923,3301 794,3301 794,1443"/>
+        <Baseline points="861,1446 867,3303"/>
+        <TextEquiv>
+          <Unicode>篇引卷五十五豐稔篇引亦無反字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876213" custom="structure {type:Text;}">
+        <Coords points="822,3295 1014,3295 1014,4362 822,4362 822,3295"/>
+        <Baseline points="914,3300 931,4363"/>
+        <TextEquiv>
+          <Unicode>田於何所池陽谷口</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876214" custom="structure {type:Text;}">
+        <Coords points="615,1445 802,1445 802,2531 615,2531 615,1445"/>
+        <Baseline points="713,1446 716,2533"/>
+        <TextEquiv>
+          <Unicode>且溉且糞長我禾黍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876215" custom="structure {type:Commentary;}">
+        <Coords points="717,2512 830,2512 830,4362 717,4362 717,2512"/>
+        <Baseline points="766,2516 780,4363"/>
+        <TextEquiv>
+          <Unicode>漢書溝恤志木始二年趙中大夫白</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876216" custom="structure {type:Commentary;}">
+        <Coords points="602,2515 731,2515 731,4362 602,4362 602,2515"/>
+        <Baseline points="672,2519 682,4363"/>
+        <TextEquiv>
+          <Unicode>公奏穿渠引涇水首起谷口尾入櫟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876217" custom="structure {type:Commentary;}">
+        <Coords points="500,1443 629,1443 629,4362 500,4362 500,1443"/>
+        <Baseline points="561,1446 575,4363"/>
+        <TextEquiv>
+          <Unicode>陽注謂中溉田四千五百餘頃因名曰惠渠民歌曰田於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876218" custom="structure {type:Commentary;}">
+        <Coords points="395,1443 530,1443 530,4367 395,4367 395,1443"/>
+        <Baseline points="460,1446 477,4369"/>
+        <TextEquiv>
+          <Unicode>何所池陽谷口鄭國在前白渠在後舉鍤為云決渠為雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876219" custom="structure {type:Commentary;}">
+        <Coords points="291,1448 428,1448 428,4367 291,4367 291,1448"/>
+        <Baseline points="369,1453 393,4369"/>
+        <TextEquiv>
+          <Unicode>涇水一石其泥數鬥且糞且溉長我禾黍○今案本鈔頃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876220" custom="structure {type:Commentary;}">
+        <Coords points="184,1448 338,1448 338,4367 184,4367 184,1448"/>
+        <Baseline points="255,1453 282,4369"/>
+        <TextEquiv>
+          <Unicode>誤畝惠誤白鍤誤臿據漢書卷廿九溝洫志訂正陳本略</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>續漢書任延字長孫為九真太守教民牛耕鑄作田器民
+以利之產子多名曰任○今案姚輯汪輯本續漢書任廷
+傳與陳俞本均
+脫產子句餘同
+治作水耕教化大行
+張璠漢記杜詩為南
+陽太守云云號曰杜
+母○今案御覽卷八百三十三引及陳俞本
+姚輯汪輯本耕皆作排惟御覽無號曰句
+因流為排利
+益三倍
+魏志韓暨為監治謁者舊冶作馬排每一熟石用
+為馬匹更作人排又費功力暨因長流故為水排
+計其利益二倍於前○孫氏校補匹字甚改其今案本鈔
+設官部亦引考魏志卷二十四韓暨傳熟作孰無故字陳
+本巳
+照改
+決反漳水灌鄴傍終古斥鹵生稻梁
+呂氏春秋云魏
+襄王時史起為
+鄴令決漳河灌田民大怨欲籍史起不敢出界而避之乃
+使他人水灌行民大得其利相與歌曰邦有聖令為史公
+云云○今案見先識覽乃上有王字人下有遂為之三字
+水灌作水已為史上有時字無反字生下有之字疏本無
+之字餘同又見本鈔卷三十五德化
+篇引卷五十五豐稔篇引亦無反字
+田於何所池陽谷口
+且溉且糞長我禾黍
+漢書溝恤志木始二年趙中大夫白
+公奏穿渠引涇水首起谷口尾入櫟
+陽注謂中溉田四千五百餘頃因名曰惠渠民歌曰田於
+何所池陽谷口鄭國在前白渠在後舉鍤為云決渠為雨
+涇水一石其泥數鬥且糞且溉長我禾黍○今案本鈔頃
+誤畝惠誤白鍤誤臿據漢書卷廿九溝洫志訂正陳本略
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80243" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="110,2111 203,2108 206,3672 124,3672 110,2111"/>
+      <TextLine id="876139" custom="structure {type:Section;}">
+        <Coords points="96,2130 208,2130 208,2878 96,2878 96,2130"/>
+        <Baseline points="152,2134 161,2880"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第三十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876140" custom="structure {type:Page_Number;}">
+        <Coords points="93,3502 203,3502 203,3625 93,3625 93,3502"/>
+        <Baseline points="155,3508 164,3624"/>
+        <TextEquiv>
+          <Unicode>六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷第三十九
+六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80244" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="197,171 345,179 356,315 181,315 197,171"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

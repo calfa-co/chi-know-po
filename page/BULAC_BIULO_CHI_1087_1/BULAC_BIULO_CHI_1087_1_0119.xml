@@ -1,0 +1,399 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:15+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0119.jpg" imageHeight="4926" imageWidth="2783">
+    <TextRegion id="135367" custom="structure {type:Image_Seal;}">
+      <Coords points="1821,1296 1821,492 2635,492 2635,1296 1821,1296"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135366" custom="structure {type:Image_Seal;}">
+      <Coords points="1279,1185 1279,670 1787,670 1787,1185 1279,1185"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135368" custom="structure {type:Image_Seal;}">
+      <Coords points="1588,2555 1588,2199 1928,2199 1928,2555 1588,2555"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135369" custom="structure {type:Image_Seal;}">
+      <Coords points="1536,2938 1536,2566 1896,2566 1896,2938 1536,2938"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135370" custom="structure {type:Image_Seal;}">
+      <Coords points="1344,3546 1344,3318 1572,3318 1572,3546 1344,3546"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135371" custom="structure {type:Image_Seal;}">
+      <Coords points="2323,3991 2323,3483 2607,3483 2607,3991 2323,3991"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135372" custom="structure {type:Image_Seal;}">
+      <Coords points="1404,3794 1404,3618 1592,3618 1592,3794 1404,3794"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135373" custom="structure {type:Image_Seal;}">
+      <Coords points="2379,4310 2379,4014 2555,4014 2555,4310 2379,4310"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135374" custom="structure {type:Image_Seal;}">
+      <Coords points="2055,4362 2055,4074 2347,4074 2347,4362 2055,4362"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135375" custom="structure {type:Image_Seal;}">
+      <Coords points="1320,4330 1320,3834 1812,3834 1812,4330 1320,4330"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135376" custom="structure {type:Image_Seal;}">
+      <Coords points="88,3596 88,2040 168,2040 168,3596 88,3596"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135377" custom="structure {type:MainText;}">
+      <Coords points="2527,1393 2555,4314 160,4302 172,1389 2527,1393"/>
+      <TextLine id="1225485" custom="structure {type:Title;}">
+        <Coords points="2314,1398 2566,1398 2566,2265 2314,2265 2314,1398"/>
+        <Baseline points="2447,1402 2451,2266"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225486" custom="structure {type:Title;}">
+        <Coords points="2347,2947 2539,2947 2539,3461 2347,3461 2347,2947"/>
+        <Baseline points="2454,2951 2459,3464"/>
+        <TextEquiv>
+          <Unicode>帝王部一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225487" custom="structure {type:Author_name;}">
+        <Coords points="2139,2670 2344,2670 2344,4039 2139,4039 2139,2670"/>
+        <Baseline points="2239,2675 2259,4042"/>
+        <TextEquiv>
+          <Unicode>隋秘書郎虞世南撰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225488" custom="structure {type:Author_name;}">
+        <Coords points="1939,2670 2144,2670 2144,4047 1939,4047 1939,2670"/>
+        <Baseline points="2039,2674 2051,4050"/>
+        <TextEquiv>
+          <Unicode>南海孔廣陶校註</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225489" custom="structure {type:Title;}">
+        <Coords points="1747,1617 1966,1617 1966,2186 1747,2186 1747,1617"/>
+        <Baseline points="1840,1623 1860,2187"/>
+        <TextEquiv>
+          <Unicode>帝王摠載一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225490" custom="structure {type:Title;}">
+        <Coords points="1747,2961 1939,2961 1939,3379 1747,3379 1747,2961"/>
+        <Baseline points="1833,2969 1846,3380"/>
+        <TextEquiv>
+          <Unicode>帝系二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225491" custom="structure {type:Title;}">
+        <Coords points="1550,1644 1750,1644 1750,2060 1550,2060 1550,1644"/>
+        <Baseline points="1644,1651 1655,2061"/>
+        <TextEquiv>
+          <Unicode>誕載三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225492" custom="structure {type:Title;}">
+        <Coords points="1525,2952 1747,2952 1747,3374 1525,3374 1525,2952"/>
+        <Baseline points="1644,2959 1658,3373"/>
+        <TextEquiv>
+          <Unicode>奇表四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225493" custom="structure {type:Title;}">
+        <Coords points="1353,1751 1550,1751 1550,2375 1353,2375 1353,1751"/>
+        <Baseline points="1453,1755 1460,2377"/>
+        <TextEquiv>
+          <Unicode>帝王摠載一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225494" custom="structure {type:Text;}">
+        <Coords points="1144,1382 1377,1382 1377,2317 1144,2317 1144,1382"/>
+        <Baseline points="1250,1387 1275,2319"/>
+        <TextEquiv>
+          <Unicode>皇者天人之摠稱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225495" custom="structure {type:Commentary;}">
+        <Coords points="1240,2337 1380,2337 1380,4307 1240,4307 1240,2337"/>
+        <Baseline points="1295,2339 1295,4308"/>
+        <TextEquiv>
+          <Unicode>○今案見白虎通號篇近本天下脫人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225496" custom="structure {type:Commentary;}">
+        <Coords points="1134,2320 1262,2320 1262,4310 1134,4310 1134,2320"/>
+        <Baseline points="1201,2325 1207,4312"/>
+        <TextEquiv>
+          <Unicode>字惟太平御覽七十六引與本鈔合又</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225497" custom="structure {type:Commentary;}">
+        <Coords points="1035,1387 1172,1387 1172,2430 1035,2430 1035,1387"/>
+        <Baseline points="1100,1391 1117,2431"/>
+        <TextEquiv>
+          <Unicode>近本及御覽引稱上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225498" custom="structure {type:Commentary;}">
+        <Coords points="958,1384 1065,1384 1065,2298 958,2298 958,1384"/>
+        <Baseline points="1006,1388 1019,2300"/>
+        <TextEquiv>
+          <Unicode>皆有美大之三字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225499" custom="structure {type:Text;}">
+        <Coords points="955,2427 1150,2427 1150,2974 955,2974 955,2427"/>
+        <Baseline points="1049,2434 1060,2976"/>
+        <TextEquiv>
+          <Unicode>帝者天號</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225500" custom="structure {type:Commentary;}">
+        <Coords points="1035,2999 1175,2999 1175,4280 1035,4280 1035,2999"/>
+        <Baseline points="1093,3003 1107,4281"/>
+        <TextEquiv>
+          <Unicode>○今案見藝文類聚十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225501" custom="structure {type:Commentary;}">
+        <Coords points="958,2980 1062,2980 1062,4296 958,4296 958,2980"/>
+        <Baseline points="1009,2983 1012,4297"/>
+        <TextEquiv>
+          <Unicode>及文選西京賦注引尚書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225502" custom="structure {type:Commentary;}">
+        <Coords points="846,1382 975,1382 975,2421 846,2421 846,1382"/>
+        <Baseline points="905,1385 912,2424"/>
+        <TextEquiv>
+          <Unicode>刑德放又御覽七十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225503" custom="structure {type:Commentary;}">
+        <Coords points="745,1384 865,1384 865,2424 745,2424 745,1384"/>
+        <Baseline points="818,1385 818,2427"/>
+        <TextEquiv>
+          <Unicode>六引易緯尚書緯同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225504" custom="structure {type:Text;}">
+        <Coords points="756,2441 939,2441 939,2966 756,2966 756,2441"/>
+        <Baseline points="861,2446 865,2967"/>
+        <TextEquiv>
+          <Unicode>正氣為帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225505" custom="structure {type:Commentary;}">
+        <Coords points="843,2996 980,2996 980,4293 843,4293 843,2996"/>
+        <Baseline points="902,3001 912,4296"/>
+        <TextEquiv>
+          <Unicode>○今案見類聚十一及後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225506" custom="structure {type:Commentary;}">
+        <Coords points="742,2974 862,2974 862,4293 742,4293 742,2974"/>
+        <Baseline points="814,2978 818,4296"/>
+        <TextEquiv>
+          <Unicode>漢書郎顗傳注引春秋演</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225507" custom="structure {type:Commentary;}">
+        <Coords points="662,1384 758,1384 758,1496 662,1496 662,1384"/>
+        <Baseline points="703,1387 703,1498"/>
+        <TextEquiv>
+          <Unicode>孔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225508" custom="structure {type:Commentary;}">
+        <Coords points="556,1373 671,1373 671,1496 556,1496 556,1373"/>
+        <Baseline points="616,1377 619,1498"/>
+        <TextEquiv>
+          <Unicode>圖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225509" custom="structure {type:Text;}">
+        <Coords points="558,1510 761,1510 761,3502 558,3502 558,1510"/>
+        <Baseline points="664,1515 670,3503"/>
+        <TextEquiv>
+          <Unicode>帝者天下之所適王者天下之所往也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225510" custom="structure {type:Commentary;}">
+        <Coords points="649,3535 758,3535 758,4285 649,4285 649,3535"/>
+        <Baseline points="710,3537 710,4287"/>
+        <TextEquiv>
+          <Unicode>○今案見呂氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225511" custom="structure {type:Commentary;}">
+        <Coords points="547,3502 673,3502 673,4318 547,4318 547,3502"/>
+        <Baseline points="616,3507 617,4319"/>
+        <TextEquiv>
+          <Unicode>春秋慎大覽惠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225512" custom="structure {type:Commentary;}">
+        <Coords points="449,1365 556,1365 556,3089 449,3089 449,1365"/>
+        <Baseline points="510,1369 515,3090"/>
+        <TextEquiv>
+          <Unicode>半農校本脫兩所字惟御覽七十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225513" custom="structure {type:Commentary;}">
+        <Coords points="350,1365 473,1365 473,2969 350,2969 350,1365"/>
+        <Baseline points="410,1369 414,2972"/>
+        <TextEquiv>
+          <Unicode>七引與本鈔合陳本但注文子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225514" custom="structure {type:Text;}">
+        <Coords points="358,3095 556,3095 556,4156 358,4156 358,3095"/>
+        <Baseline points="461,3099 465,4159"/>
+        <TextEquiv>
+          <Unicode>尊無二上土無二王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225515" custom="structure {type:Commentary;}">
+        <Coords points="457,4178 547,4178 547,4293 457,4293 457,4178"/>
+        <Baseline points="508,4183 512,4294"/>
+        <TextEquiv>
+          <Unicode>○</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225516" custom="structure {type:Commentary;}">
+        <Coords points="361,4167 465,4167 465,4296 361,4296 361,4167"/>
+        <Baseline points="411,4173 414,4297"/>
+        <TextEquiv>
+          <Unicode>今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225517" custom="structure {type:Commentary;}">
+        <Coords points="246,1373 375,1373 375,2320 246,2320 246,1373"/>
+        <Baseline points="310,1378 318,2322"/>
+        <TextEquiv>
+          <Unicode>案見禮記坊記俞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225518" custom="structure {type:Commentary;}">
+        <Coords points="134,1382 273,1382 273,2178 134,2178 134,1382"/>
+        <Baseline points="219,1385 226,2179"/>
+        <TextEquiv>
+          <Unicode>本誤分作二條</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225519" custom="structure {type:Text;}">
+        <Coords points="131,2298 358,2298 358,2977 131,2977 131,2298"/>
+        <Baseline points="270,2303 276,2978"/>
+        <TextEquiv>
+          <Unicode>法五行相生</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225520" custom="structure {type:Commentary;}">
+        <Coords points="243,2980 391,2980 391,4293 243,4293 243,2980"/>
+        <Baseline points="309,2985 330,4294"/>
+        <TextEquiv>
+          <Unicode>○今案見家語五帝篇陳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225521" custom="structure {type:Commentary;}">
+        <Coords points="136,2966 276,2966 276,4299 136,4299 136,2966"/>
+        <Baseline points="212,2972 219,4301"/>
+        <TextEquiv>
+          <Unicode>本及本鈔皆誤連下句孫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷第一
+帝王部一
+隋秘書郎虞世南撰
+南海孔廣陶校註
+帝王摠載一
+帝系二
+誕載三
+奇表四
+帝王摠載一
+皇者天人之摠稱
+○今案見白虎通號篇近本天下脫人
+字惟太平御覽七十六引與本鈔合又
+近本及御覽引稱上
+皆有美大之三字
+帝者天號
+○今案見藝文類聚十一
+及文選西京賦注引尚書
+刑德放又御覽七十
+六引易緯尚書緯同
+正氣為帝
+○今案見類聚十一及後
+漢書郎顗傳注引春秋演
+孔
+圖
+帝者天下之所適王者天下之所往也
+○今案見呂氏
+春秋慎大覽惠
+半農校本脫兩所字惟御覽七十
+七引與本鈔合陳本但注文子
+尊無二上土無二王
+○
+今
+案見禮記坊記俞
+本誤分作二條
+法五行相生
+○今案見家語五帝篇陳
+本及本鈔皆誤連下句孫
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="135365" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="137,257 137,138 306,138 306,257 137,257"/>
+      <TextLine id="1225672" custom="structure {type:Section;}">
+        <Coords points="48,2635 48,2019 130,2019 130,2635 48,2635"/>
+        <Baseline points="103,2041 105,2612"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1225673" custom="structure {type:Page_Number;}">
+        <Coords points="62,3586 62,3396 144,3396 144,3586 62,3586"/>
+        <Baseline points="114,3441 119,3545"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷一
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

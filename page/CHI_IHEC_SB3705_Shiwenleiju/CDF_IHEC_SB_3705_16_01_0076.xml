@@ -1,0 +1,289 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:26+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB_3705_16_01_0076.jpg" imageHeight="4620" imageWidth="5947">
+    <TextRegion id="128527" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5264,798 5392,790 5431,4206 5336,4202 5264,798"/>
+      <TextLine id="1176590" custom="structure {type:Title;}">
+        <Coords points="5289,775 5415,775 5415,1676 5289,1676 5289,775"/>
+        <Baseline points="5344,778 5356,1678"/>
+        <TextEquiv>
+          <Unicode>事文類聚别集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176591" custom="structure {type:Section;}">
+        <Coords points="5290,1935 5408,1868 5422,2373 5287,2366 5290,1935"/>
+        <Baseline points="5356,1874 5372,2322"/>
+        <TextEquiv>
+          <Unicode>卷之九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176592" custom="structure {type:Page_Number;}">
+        <Coords points="5300,2969 5413,2969 5413,3141 5300,3141 5300,2969"/>
+        <Baseline points="5376,2970 5376,3142"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176593" custom="structure {type:Marginalia;}">
+        <Coords points="5307,3419 5425,3422 5438,4071 5314,4061 5307,3419"/>
+        <Baseline points="5364,3418 5388,4062"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚别集
+卷之九
+五
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128528" custom="structure {type:MainText_Right;}">
+      <Coords points="3044,822 3172,806 5272,802 5320,4198 3360,4210 3088,4182 3044,822"/>
+      <TextLine id="1176594" custom="structure {type:Title;}">
+        <Coords points="5092,1267 5277,1267 5277,1981 5092,1981 5092,1267"/>
+        <Baseline points="5180,1274 5204,1982"/>
+        <TextEquiv>
+          <Unicode>苦吟而瘦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176595" custom="structure {type:Text;}">
+        <Coords points="4881,785 5079,785 5079,4217 4881,4217 4881,785"/>
+        <Baseline points="4984,786 4984,4218"/>
+        <TextEquiv>
+          <Unicode>崔浩愛吟詠一日病起友人戲之曰非子病如此乃子苦吟詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176596" custom="structure {type:Text;}">
+        <Coords points="4679,785 4874,785 4874,1665 4679,1665 4679,785"/>
+        <Baseline points="4776,790 4792,1666"/>
+        <TextEquiv>
+          <Unicode>瘦後遂為口實</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176597" custom="structure {type:Title;}">
+        <Coords points="4466,1298 4668,1298 4668,1948 4466,1948 4466,1298"/>
+        <Baseline points="4572,1302 4588,1950"/>
+        <TextEquiv>
+          <Unicode>詩效反騷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176598" custom="structure {type:Text;}">
+        <Coords points="4245,775 4466,775 4466,4204 4245,4204 4245,775"/>
+        <Baseline points="4360,778 4400,4206"/>
+        <TextEquiv>
+          <Unicode>唐韋臯鎮蜀有陸暢者臯雅所愛厚始李白為蜀道難以斥嚴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176599" custom="structure {type:Text;}">
+        <Coords points="4055,767 4237,767 4237,2397 4055,2397 4055,767"/>
+        <Baseline points="4156,770 4168,2398"/>
+        <TextEquiv>
+          <Unicode>武暢便為蜀道易以美臯焉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176600" custom="structure {type:Title;}">
+        <Coords points="3852,1285 4029,1285 4029,2027 3852,2027 3852,1285"/>
+        <Baseline points="3928,1290 3932,2030"/>
+        <TextEquiv>
+          <Unicode>歇後作相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176601" custom="structure {type:Text;}">
+        <Coords points="3649,775 3842,775 3842,4219 3649,4219 3649,775"/>
+        <Baseline points="3728,778 3736,4222"/>
+        <TextEquiv>
+          <Unicode>後唐鄭綮為散騎常侍昭宗時王政微綮每以詩謡託諷帝意</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176602" custom="structure {type:Text;}">
+        <Coords points="3444,777 3631,777 3631,4217 3444,4217 3444,777"/>
+        <Baseline points="3536,4218 3540,782"/>
+        <TextEquiv>
+          <Unicode>其有所藴未盡因有司上班簿即署其側可禮部侍郎同平章</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176603" custom="structure {type:Text;}">
+        <Coords points="3239,782 3426,782 3426,4237 3239,4237 3239,782"/>
+        <Baseline points="3340,4238 3344,786"/>
+        <TextEquiv>
+          <Unicode>事綮本善詩其語多排語使落調世號歇後鄭五體至是省吏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176604" custom="structure {type:Text;}">
+        <Coords points="3062,767 3223,767 3223,4219 3062,4219 3062,767"/>
+        <Baseline points="3144,770 3152,4222"/>
+        <TextEquiv>
+          <Unicode>上謁綮笑曰萬一然笑殺天下人歇後鄭五為宰相事可知矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>苦吟而瘦
+崔浩愛吟詠一日病起友人戲之曰非子病如此乃子苦吟詩
+瘦後遂為口實
+詩效反騷
+唐韋臯鎮蜀有陸暢者臯雅所愛厚始李白為蜀道難以斥嚴
+武暢便為蜀道易以美臯焉
+歇後作相
+後唐鄭綮為散騎常侍昭宗時王政微綮每以詩謡託諷帝意
+其有所藴未盡因有司上班簿即署其側可禮部侍郎同平章
+事綮本善詩其語多排語使落調世號歇後鄭五體至是省吏
+上謁綮笑曰萬一然笑殺天下人歇後鄭五為宰相事可知矣
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128529" custom="structure {type:MainText_Left;}">
+      <Coords points="753,790 2624,774 2968,786 2980,4166 2796,4194 757,4186 753,790"/>
+      <TextLine id="1176605" custom="structure {type:Title;}">
+        <Coords points="2810,1293 2977,1293 2977,1937 2810,1937 2810,1293"/>
+        <Baseline points="2892,1298 2912,1938"/>
+        <TextEquiv>
+          <Unicode>詩戒怨刺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176606" custom="structure {type:Text;}">
+        <Coords points="2618,746 2805,746 2805,4204 2618,4204 2618,746"/>
+        <Baseline points="2720,750 2724,4206"/>
+        <TextEquiv>
+          <Unicode>蘇詩始學劉禹錫故多怨刺學不可不慎也晩學太白至其得</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176607" custom="structure {type:Text;}">
+        <Coords points="2404,757 2594,757 2594,2928 2404,2928 2404,757"/>
+        <Baseline points="2496,2930 2504,762"/>
+        <TextEquiv>
+          <Unicode>意則似之矣然失於粗以其得之易也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176608" custom="structure {type:Commentary;}">
+        <Coords points="2482,2918 2626,2897 2625,3477 2481,3477 2482,2918"/>
+        <Baseline points="2548,2878 2560,3478"/>
+        <TextEquiv>
+          <Unicode>后山叢談</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176609" custom="structure {type:Title;}">
+        <Coords points="2191,1193 2392,1193 2392,2112 2191,2112 2191,1193"/>
+        <Baseline points="2288,1198 2312,2114"/>
+        <TextEquiv>
+          <Unicode>賊詩不中和</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176610" custom="structure {type:Text;}">
+        <Coords points="1984,741 2179,741 2179,4219 1984,4219 1984,741"/>
+        <Baseline points="2084,746 2100,4222"/>
+        <TextEquiv>
+          <Unicode>劉貢父嘗坐和蘇子瞻詩罰金元祐中同為從官貢父曰前於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176611" custom="structure {type:Text;}">
+        <Coords points="1773,739 1963,739 1963,4224 1773,4224 1773,739"/>
+        <Baseline points="1885,4226 1889,742"/>
+        <TextEquiv>
+          <Unicode>曹州有盗夜入人家室無物但有書數卷耳盗忌空還取一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176612" custom="structure {type:Text;}">
+        <Coords points="1563,762 1768,762 1768,4209 1563,4209 1563,762"/>
+        <Baseline points="1665,4210 1693,766"/>
+        <TextEquiv>
+          <Unicode>而去乃舉子所著五七言也就庫家質之主人喜事好其詩不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176613" custom="structure {type:Text;}">
+        <Coords points="1375,754 1565,754 1565,4219 1375,4219 1375,754"/>
+        <Baseline points="1481,4222 1493,758"/>
+        <TextEquiv>
+          <Unicode>舎手明日盗敗吏取其書主人賂吏而私録之吏督之急且問</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176614" custom="structure {type:Text;}">
+        <Coords points="1170,757 1360,757 1360,3477 1170,3477 1170,757"/>
+        <Baseline points="1269,3478 1281,762"/>
+        <TextEquiv>
+          <Unicode>其故曰吾愛其語將和之也吏曰賊詩不中和也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176615" custom="structure {type:Commentary;}">
+        <Coords points="1217,3489 1375,3486 1365,4096 1221,4096 1217,3489"/>
+        <Baseline points="1309,4098 1313,3454"/>
+        <TextEquiv>
+          <Unicode>后山叢談</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176616" custom="structure {type:Title;}">
+        <Coords points="965,1314 1155,1314 1155,1940 965,1940 965,1314"/>
+        <Baseline points="1077,1942 1085,1318"/>
+        <TextEquiv>
+          <Unicode>不犯正位</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176617" custom="structure {type:Text;}">
+        <Coords points="744,767 947,767 947,4229 744,4229 744,767"/>
+        <Baseline points="849,770 853,4230"/>
+        <TextEquiv>
+          <Unicode>陳后山詩太似曹洞禪不犯正位切忌死語非㝠摉旁引莫窺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩戒怨刺
+蘇詩始學劉禹錫故多怨刺學不可不慎也晩學太白至其得
+意則似之矣然失於粗以其得之易也
+后山叢談
+賊詩不中和
+劉貢父嘗坐和蘇子瞻詩罰金元祐中同為從官貢父曰前於
+曹州有盗夜入人家室無物但有書數卷耳盗忌空還取一卷
+而去乃舉子所著五七言也就庫家質之主人喜事好其詩不
+舎手明日盗敗吏取其書主人賂吏而私録之吏督之急且問
+其故曰吾愛其語將和之也吏曰賊詩不中和也
+后山叢談
+不犯正位
+陳后山詩太似曹洞禪不犯正位切忌死語非㝠摉旁引莫窺
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128530" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="629,782 753,778 753,4182 657,4194 629,782"/>
+      <TextLine id="1176618" custom="structure {type:Title;}">
+        <Coords points="649,782 746,782 746,1652 655,1643 649,782"/>
+        <Baseline points="689,1654 705,758"/>
+        <TextEquiv>
+          <Unicode>事文類聚别集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176619" custom="structure {type:Section;}">
+        <Coords points="662,1871 736,1873 736,2345 669,2346 662,1871"/>
+        <Baseline points="697,1878 705,2346"/>
+        <TextEquiv>
+          <Unicode>卷之九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176620" custom="structure {type:Page_Number;}">
+        <Coords points="655,2934 723,2936 723,3151 649,3156 655,2934"/>
+        <Baseline points="689,3154 697,2942"/>
+        <TextEquiv>
+          <Unicode>六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176621" custom="structure {type:Marginalia;}">
+        <Coords points="655,3405 734,3400 734,4068 662,4081 655,3405"/>
+        <Baseline points="685,4070 689,3406"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚别集
+卷之九
+六
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

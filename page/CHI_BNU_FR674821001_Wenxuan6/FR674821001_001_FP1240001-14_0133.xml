@@ -1,0 +1,299 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:37+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-14_0133.jpg" imageHeight="3500" imageWidth="1944">
+    <TextRegion id="117250" custom="structure {type:MainText;}">
+      <Coords points="254,841 1736,833 1745,3158 246,3169 254,841"/>
+      <TextLine id="1105067" custom="structure {type:Commentary;}">
+        <Coords points="1657,842 1738,848 1728,1019 1663,1022 1657,842"/>
+        <Baseline points="1688,1021 1695,843"/>
+        <TextEquiv>
+          <Unicode>孤必</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105068" custom="structure {type:Commentary;}">
+        <Coords points="1589,837 1654,838 1664,1032 1589,1035 1589,837"/>
+        <Baseline points="1622,836 1629,1033"/>
+        <TextEquiv>
+          <Unicode>有鄰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105069" custom="structure {type:Text;}">
+        <Coords points="1595,1945 1596,1050 1665,1036 1725,1044 1733,1944 1745,2838 1599,2846 1595,1945"/>
+        <Baseline points="1660,1036 1679,2841"/>
+        <TextEquiv>
+          <Unicode>昔人有言雖忠不烈視死如歸陵誠能安</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105070" custom="structure {type:Commentary;}">
+        <Coords points="1678,2840 1746,2842 1746,3143 1677,3143 1678,2840"/>
+        <Baseline points="1710,3145 1712,2843"/>
+        <TextEquiv>
+          <Unicode>言陵忠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105071" custom="structure {type:Commentary;}">
+        <Coords points="1595,2845 1675,2843 1678,3147 1599,3146 1595,2845"/>
+        <Baseline points="1633,2846 1643,3150"/>
+        <TextEquiv>
+          <Unicode>誠能安</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105072" custom="structure {type:Commentary;}">
+        <Coords points="1504,838 1585,844 1590,1047 1499,1044 1504,838"/>
+        <Baseline points="1543,1036 1545,838"/>
+        <TextEquiv>
+          <Unicode>於死</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105073" custom="structure {type:Commentary;}">
+        <Coords points="1438,838 1501,839 1500,969 1443,971 1438,838"/>
+        <Baseline points="1472,834 1474,969"/>
+        <TextEquiv>
+          <Unicode>事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105074" custom="structure {type:Text;}">
+        <Coords points="1441,2628 1442,2105 1446,1056 1547,1040 1582,1050 1590,3147 1443,3159 1441,2628"/>
+        <Baseline points="1515,1038 1524,3155"/>
+        <TextEquiv>
+          <Unicode>而主豈復能眷眷乎男兒生以不成名死則葬蠻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105075" custom="structure {type:Text;}">
+        <Coords points="1290,1994 1295,1414 1294,837 1436,838 1435,1998 1438,3153 1295,3152 1290,1994"/>
+        <Baseline points="1365,838 1365,3153"/>
+        <TextEquiv>
+          <Unicode>夷中誰復能屈身稽顙還向北闕使刀筆之吏弄其文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105076" custom="structure {type:Text;}">
+        <Coords points="1142,841 1281,839 1282,1071 1207,1081 1134,1074 1142,841"/>
+        <Baseline points="1205,1079 1222,836"/>
+        <TextEquiv>
+          <Unicode>墨邪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105077" custom="structure {type:Commentary;}">
+        <Coords points="1204,2125 1204,1780 1200,1435 1206,1088 1289,1077 1288,1774 1289,2477 1203,2476 1204,2125"/>
+        <Baseline points="1241,2472 1248,1074"/>
+        <TextEquiv>
+          <Unicode>史記張釋之曰秦任刀筆之吏又</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105078" custom="structure {type:Commentary;}">
+        <Coords points="1124,1074 1206,1085 1202,2473 1131,2480 1124,1074"/>
+        <Baseline points="1172,2470 1177,1076"/>
+        <TextEquiv>
+          <Unicode>功臣曰蕭何徒持文墨顯居臣上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105079" custom="structure {type:Text;}">
+        <Coords points="1139,2483 1207,2487 1281,2481 1286,3156 1144,3160 1139,2483"/>
+        <Baseline points="1208,2482 1217,3157"/>
+        <TextEquiv>
+          <Unicode>願足下勿復望</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105080" custom="structure {type:Text;}">
+        <Coords points="978,1998 977,835 1125,835 1127,1996 1131,3159 997,3157 978,1998"/>
+        <Baseline points="1051,838 1058,3160"/>
+        <TextEquiv>
+          <Unicode>陵嗟乎子卿夫復何言相去萬里人絕路殊生為別世</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105081" custom="structure {type:Text;}">
+        <Coords points="832,834 967,837 982,3053 838,3055 832,834"/>
+        <Baseline points="899,836 899,3034"/>
+        <TextEquiv>
+          <Unicode>之人死為異域之鬼長與足下生死辭矣幸謝故人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105082" custom="structure {type:Commentary;}">
+        <Coords points="906,3061 987,3064 988,3156 909,3156 906,3061"/>
+        <Baseline points="941,3067 946,3148"/>
+        <TextEquiv>
+          <Unicode>故</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105083" custom="structure {type:Commentary;}">
+        <Coords points="838,3064 910,3064 910,3156 835,3157 838,3064"/>
+        <Baseline points="865,3069 875,3150"/>
+        <TextEquiv>
+          <Unicode>人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105084" custom="structure {type:Commentary;}">
+        <Coords points="748,1220 750,838 828,839 825,1607 743,1602 748,1220"/>
+        <Baseline points="784,1607 792,841"/>
+        <TextEquiv>
+          <Unicode>謂任立政大將軍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105085" custom="structure {type:Commentary;}">
+        <Coords points="683,839 751,834 748,1510 681,1513 683,839"/>
+        <Baseline points="711,1507 718,838"/>
+        <TextEquiv>
+          <Unicode>霍光上官桀等</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105086" custom="structure {type:Text;}">
+        <Coords points="681,2172 684,1595 823,1617 827,2753 681,2757 681,2172"/>
+        <Baseline points="749,1595 751,2749"/>
+        <TextEquiv>
+          <Unicode>勉事聖君足下胤子無恙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105087" custom="structure {type:Commentary;}">
+        <Coords points="755,2954 752,2754 832,2756 834,3156 756,3159 755,2954"/>
+        <Baseline points="799,2753 799,3153"/>
+        <TextEquiv>
+          <Unicode>漢書曰武</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105088" custom="structure {type:Commentary;}">
+        <Coords points="678,2751 752,2757 755,3161 677,3160 678,2751"/>
+        <Baseline points="713,2748 718,3162"/>
+        <TextEquiv>
+          <Unicode>在匈奴時</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105089" custom="structure {type:Commentary;}">
+        <Coords points="599,1500 605,1166 605,841 683,844 677,1496 674,2159 601,2167 599,1500"/>
+        <Baseline points="639,2163 649,836"/>
+        <TextEquiv>
+          <Unicode>胡婦生子名通國楚辭曰賴皇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105090" custom="structure {type:Commentary;}">
+        <Coords points="527,1443 531,841 602,842 601,1445 598,2049 521,2053 527,1443"/>
+        <Baseline points="566,2049 573,845"/>
+        <TextEquiv>
+          <Unicode>天之厚德兮還及君之無恙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105091" custom="structure {type:Text;}">
+        <Coords points="531,2159 579,2159 666,2172 670,3079 602,3075 526,3087 531,2159"/>
+        <Baseline points="604,2163 608,3081"/>
+        <TextEquiv>
+          <Unicode>勿以為念努力自愛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105092" custom="structure {type:Commentary;}">
+        <Coords points="602,3081 673,3081 673,3162 602,3162 602,3081"/>
+        <Baseline points="637,3076 644,3155"/>
+        <TextEquiv>
+          <Unicode>老</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105093" custom="structure {type:Commentary;}">
+        <Coords points="531,3085 547,3084 591,3075 595,3163 531,3164 531,3085"/>
+        <Baseline points="563,3164 566,3072"/>
+        <TextEquiv>
+          <Unicode>子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105094" custom="structure {type:Commentary;}">
+        <Coords points="456,844 527,839 528,1135 451,1129 456,844"/>
+        <Baseline points="487,1126 499,845"/>
+        <TextEquiv>
+          <Unicode>曰聖人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105095" custom="structure {type:Commentary;}">
+        <Coords points="393,839 451,841 453,1050 390,1053 393,839"/>
+        <Baseline points="420,843 420,1050"/>
+        <TextEquiv>
+          <Unicode>自愛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105096" custom="structure {type:Text;}">
+        <Coords points="379,2336 384,2204 386,1852 390,1146 520,1135 521,2551 380,2556 379,2336"/>
+        <Baseline points="456,2553 459,1145"/>
+        <TextEquiv>
+          <Unicode>時因北風復惠德音李陵頓首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105097" custom="structure {type:Title;}">
+        <Coords points="240,1129 381,1129 374,1958 241,1958 240,1129"/>
+        <Baseline points="306,1959 311,1133"/>
+        <TextEquiv>
+          <Unicode>報任少卿書一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>孤必
+有鄰
+昔人有言雖忠不烈視死如歸陵誠能安
+言陵忠
+誠能安
+於死
+事
+而主豈復能眷眷乎男兒生以不成名死則葬蠻
+夷中誰復能屈身稽顙還向北闕使刀筆之吏弄其文
+墨邪
+史記張釋之曰秦任刀筆之吏又
+功臣曰蕭何徒持文墨顯居臣上
+願足下勿復望
+陵嗟乎子卿夫復何言相去萬里人絕路殊生為別世
+之人死為異域之鬼長與足下生死辭矣幸謝故人
+故
+人
+謂任立政大將軍
+霍光上官桀等
+勉事聖君足下胤子無恙
+漢書曰武
+在匈奴時
+胡婦生子名通國楚辭曰賴皇
+天之厚德兮還及君之無恙
+勿以為念努力自愛
+老
+子
+曰聖人
+自愛
+時因北風復惠德音李陵頓首
+報任少卿書一首
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117251" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="190,1297 242,1297 230,2403 187,2403 190,1297"/>
+      <TextLine id="1105098" custom="structure {type:Section;}">
+        <Coords points="195,1368 237,1380 236,1501 197,1505 195,1368"/>
+        <Baseline points="206,1366 206,1495"/>
+        <TextEquiv>
+          <Unicode>四十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105099" custom="structure {type:Page_Number;}">
+        <Coords points="195,2314 223,2312 224,2385 189,2388 195,2314"/>
+        <Baseline points="204,2315 206,2384"/>
+        <TextEquiv>
+          <Unicode>十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>四十一
+十一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117252" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="218,53 342,49 340,127 216,127 218,53"/>
+      <TextLine id="1105100" custom="structure {type:Commentary;}">
+        <Coords points="229,54 326,54 326,130 229,130 229,54"/>
+        <Baseline points="230,101 328,101"/>
+        <TextEquiv>
+          <Unicode>129</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>129
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

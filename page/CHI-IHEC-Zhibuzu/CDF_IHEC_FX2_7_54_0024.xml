@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:20+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_7_54_0024.jpg" imageHeight="3144" imageWidth="3581">
+    <TextRegion id="116647" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3301,1194 3368,1194 3373,1748 3299,1721 3301,1194"/>
+      <TextLine id="1098994" custom="structure {type:Section;}">
+        <Coords points="3277,1168 3363,1184 3370,1707 3277,1704 3277,1168"/>
+        <Baseline points="3318,1180 3349,1704"/>
+        <TextEquiv>
+          <Unicode>離騷草木疏卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>離騷草木疏卷一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116646" custom="structure {type:MainText_Right;}">
+      <Coords points="1874,733 3312,733 3312,2674 1874,2674 1874,733"/>
+      <TextLine id="1098946" custom="structure {type:Text;}">
+        <Coords points="3121,738 3273,738 3272,2675 3127,2682 3121,738"/>
+        <Baseline points="3193,742 3212,2674"/>
+        <TextEquiv>
+          <Unicode>又絶似旋蒿根殆欲相亂葉小異爾唐本注云苗似亷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098947" custom="structure {type:Text;}">
+        <Coords points="2969,730 3119,730 3115,2677 2973,2689 2969,730"/>
+        <Baseline points="3032,733 3056,2672"/>
+        <TextEquiv>
+          <Unicode>薑生陰地根似高艮薑全少辛味陶所注旋蓄根即眞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098948" custom="structure {type:Text;}">
+        <Coords points="2810,731 2966,731 2963,2680 2813,2687 2810,731"/>
+        <Baseline points="2877,735 2901,2667"/>
+        <TextEquiv>
+          <Unicode>杜若也蜀本圖經云苗似山薑花黃赤子赤色大如棘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098949" custom="structure {type:Text;}">
+        <Coords points="2656,737 2803,737 2799,2677 2663,2680 2656,737"/>
+        <Baseline points="2721,740 2744,2670"/>
+        <TextEquiv>
+          <Unicode>子中似豆蔻嘉祐圖經云此草一名杜蘅而中品自有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098950" custom="structure {type:Text;}">
+        <Coords points="2496,735 2651,735 2649,2682 2504,2687 2496,735"/>
+        <Baseline points="2566,738 2588,2670"/>
+        <TextEquiv>
+          <Unicode>杜蘅條杜蘅爾雅所謂土鹵者也杜若廣雅所謂楚蘅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098951" custom="structure {type:Text;}">
+        <Coords points="2342,735 2496,735 2494,2675 2352,2670 2342,735"/>
+        <Baseline points="2415,738 2421,1629 2436,2661"/>
+        <TextEquiv>
+          <Unicode>者也其類自別然古人多相雜引用九歌云采芳洲兮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098952" custom="structure {type:Text;}">
+        <Coords points="2190,735 2340,735 2340,2675 2190,2677 2190,735"/>
+        <Baseline points="2258,738 2277,2663"/>
+        <TextEquiv>
+          <Unicode>杜若又離騒雜杜蘅與芳芷王逸輩皆不分別但云香</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098953" custom="structure {type:Text;}">
+        <Coords points="2031,733 2181,733 2181,2675 2038,2680 2031,733"/>
+        <Baseline points="2101,737 2122,2656"/>
+        <TextEquiv>
+          <Unicode>草也仁傑按華若香草名此言以華草之色爲衣而以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098954" custom="structure {type:Text;}">
+        <Coords points="1879,737 2026,737 2026,2660 1879,2660 1879,737"/>
+        <Baseline points="1947,740 1963,2661"/>
+        <TextEquiv>
+          <Unicode>杜若爲飾耳慶善以榮而不實爲釋亦非是詩二矛重</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>又絶似旋蒿根殆欲相亂葉小異爾唐本注云苗似亷
+薑生陰地根似高艮薑全少辛味陶所注旋蓄根即眞
+杜若也蜀本圖經云苗似山薑花黃赤子赤色大如棘
+子中似豆蔻嘉祐圖經云此草一名杜蘅而中品自有
+杜蘅條杜蘅爾雅所謂土鹵者也杜若廣雅所謂楚蘅
+者也其類自別然古人多相雜引用九歌云采芳洲兮
+杜若又離騒雜杜蘅與芳芷王逸輩皆不分別但云香
+草也仁傑按華若香草名此言以華草之色爲衣而以
+杜若爲飾耳慶善以榮而不實爲釋亦非是詩二矛重
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="120493" custom="structure {type:MainText_Left;}">
+      <Coords points="322,747 1717,747 1717,2684 322,2684 322,747"/>
+      <TextLine id="1134753" custom="structure {type:Text;}">
+        <Coords points="1573,754 1718,754 1710,2682 1574,2687 1573,754"/>
+        <Baseline points="1645,2670 1661,758"/>
+        <TextEquiv>
+          <Unicode>英毛注英飾也集韻以羽飾矛曰英又詩朱英綠縢言</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1134754" custom="structure {type:Text;}">
+        <Coords points="1418,768 1565,768 1562,2687 1417,2689 1418,768"/>
+        <Baseline points="1488,2668 1505,772"/>
+        <TextEquiv>
+          <Unicode>以朱爲英飾又詩羔裘晏兮三英粲兮此謂英爲裘飾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1134755" custom="structure {type:Text;}">
+        <Coords points="1261,765 1416,765 1415,2682 1265,2682 1261,765"/>
+        <Baseline points="1331,2668 1350,768"/>
+        <TextEquiv>
+          <Unicode>如上文羔裘豹飾耳毛公以三英爲三德其說恐誤歐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1134756" custom="structure {type:Text;}">
+        <Coords points="1109,758 1254,758 1255,2680 1105,2694 1109,758"/>
+        <Baseline points="1182,2665 1194,761"/>
+        <TextEquiv>
+          <Unicode>陽公日三英當是述羔裘之美程氏曰三英若五紽之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1134757" custom="structure {type:Text;}">
+        <Coords points="952,759 1100,759 1096,2687 953,2684 952,759"/>
+        <Baseline points="1027,2661 1039,763"/>
+        <TextEquiv>
+          <Unicode>類自是衣服禮儀制度鄭景望少卿謂英者出縫綫之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1134758" custom="structure {type:Text;}">
+        <Coords points="810,749 943,749 943,946 810,946 810,749"/>
+        <Baseline points="880,752 883,948"/>
+        <TextEquiv>
+          <Unicode>飾云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138626" custom="structure {type:Title;}">
+        <Coords points="649,1168 786,1168 786,1381 649,1381 649,1168"/>
+        <Baseline points="721,1173 731,1382"/>
+        <TextEquiv>
+          <Unicode>芰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1134759" custom="structure {type:Text;}">
+        <Coords points="489,745 630,745 627,2689 487,2687 489,745"/>
+        <Baseline points="558,2665 562,749"/>
+        <TextEquiv>
+          <Unicode>製芰荷以爲衣王逸注芰陵也秦人日薢若仁傑按爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1134760" custom="structure {type:Text;}">
+        <Coords points="331,751 469,751 459,2682 342,2680 331,751"/>
+        <Baseline points="405,2658 405,752"/>
+        <TextEquiv>
+          <Unicode>雅濩一名蕨攠字林楚人名蔆曰芰可食國語屈到所</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>英毛注英飾也集韻以羽飾矛曰英又詩朱英綠縢言
+以朱爲英飾又詩羔裘晏兮三英粲兮此謂英爲裘飾
+如上文羔裘豹飾耳毛公以三英爲三德其說恐誤歐
+陽公日三英當是述羔裘之美程氏曰三英若五紽之
+類自是衣服禮儀制度鄭景望少卿謂英者出縫綫之
+飾云
+芰
+製芰荷以爲衣王逸注芰陵也秦人日薢若仁傑按爾
+雅濩一名蕨攠字林楚人名蔆曰芰可食國語屈到所
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116649" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="234,1210 311,1206 335,2703 247,2690 234,1210"/>
+      <TextLine id="1098996" custom="structure {type:Section;}">
+        <Coords points="235,1200 317,1191 317,1760 230,1762 235,1200"/>
+        <Baseline points="274,1761 277,1193"/>
+        <TextEquiv>
+          <Unicode>離騷草木疏卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234243" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="281,2208 284,2087"/>
+        <TextEquiv>
+          <Unicode>二十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098997" custom="structure {type:Title;}">
+        <Coords points="242,2102 330,2095 330,2692 252,2711 242,2102"/>
+        <Baseline points="284,2700 292,2215"/>
+        <TextEquiv>
+          <Unicode>知不足齋樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>離騷草木疏卷一
+二十
+知不足齋樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

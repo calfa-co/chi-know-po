@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:50+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_12_89_0022.jpg" imageHeight="3095" imageWidth="3494">
+    <TextRegion id="115973" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3143,1133 3264,1137 3262,1594 3160,1592 3143,1133"/>
+      <TextLine id="1093958" custom="structure {type:Section;}">
+        <Coords points="3156,1110 3230,1113 3236,1581 3156,1595 3156,1110"/>
+        <Baseline points="3203,1116 3215,1596"/>
+        <TextEquiv>
+          <Unicode>詩義指南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩義指南
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115961" custom="structure {type:MainText_Right;}">
+      <Coords points="1747,660 3158,676 3158,2638 1747,2646 1747,660"/>
+      <TextLine id="1093818" custom="structure {type:Text;}">
+        <Coords points="3002,763 3144,763 3144,895 3002,895 3002,763"/>
+        <Baseline points="3076,768 3083,895"/>
+        <TextEquiv>
+          <Unicode>輕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093819" custom="structure {type:Title;}">
+        <Coords points="2847,675 2983,675 2983,2642 2847,2642 2847,675"/>
+        <Baseline points="2925,2643 2926,677"/>
+        <TextEquiv>
+          <Unicode>南有樛木甘瓠纍之君子有酒嘉賓式燕綏之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093820" custom="structure {type:Text;}">
+        <Coords points="2696,775 2833,775 2833,2314 2696,2314 2696,775"/>
+        <Baseline points="2771,2316 2771,777"/>
+        <TextEquiv>
+          <Unicode>因物類相依之固知賢者相與之深</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093821" custom="structure {type:Title;}">
+        <Coords points="2539,670 2680,670 2681,2643 2536,2643 2539,670"/>
+        <Baseline points="2613,672 2613,2629"/>
+        <TextEquiv>
+          <Unicode>翩翩者騅烝然來思君子有酒嘉賓式燕又思</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093822" custom="structure {type:Text;}">
+        <Coords points="2381,763 2520,763 2520,2417 2381,2417 2381,763"/>
+        <Baseline points="2451,766 2455,2419"/>
+        <TextEquiv>
+          <Unicode>觀物類之會集則賢者之相與無已也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093823" custom="structure {type:Title;}">
+        <Coords points="2228,667 2362,667 2363,2639 2224,2641 2228,667"/>
+        <Baseline points="2297,2627 2302,670"/>
+        <TextEquiv>
+          <Unicode>南山有臺北山有萊樂只君子邦家之基樂只</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093825" custom="structure {type:Title;}">
+        <Coords points="2071,661 2214,661 2214,1308 2071,1308 2071,661"/>
+        <Baseline points="2145,1310 2151,665"/>
+        <TextEquiv>
+          <Unicode>君子萬壽無期</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093824" custom="structure {type:Commentary;}">
+        <Coords points="2132,1330 2240,1330 2240,1757 2132,1757 2132,1330"/>
+        <Baseline points="2183,1334 2188,1758"/>
+        <TextEquiv>
+          <Unicode>南山有臺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093826" custom="structure {type:Text;}">
+        <Coords points="1915,766 2056,766 2057,2639 1912,2641 1915,766"/>
+        <Baseline points="1986,770 1991,2618"/>
+        <TextEquiv>
+          <Unicode>觀微物之得地各有以遂其生則知善人之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093827" custom="structure {type:Text;}">
+        <Coords points="1762,766 1894,766 1894,1650 1762,1650 1762,766"/>
+        <Baseline points="1831,770 1834,1652"/>
+        <TextEquiv>
+          <Unicode>立國當有以獲其福</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>輕
+南有樛木甘瓠纍之君子有酒嘉賓式燕綏之
+因物類相依之固知賢者相與之深
+翩翩者騅烝然來思君子有酒嘉賓式燕又思
+觀物類之會集則賢者之相與無已也
+南山有臺北山有萊樂只君子邦家之基樂只
+君子萬壽無期
+南山有臺
+觀微物之得地各有以遂其生則知善人之
+立國當有以獲其福
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115960" custom="structure {type:MainText_Left;}">
+      <Coords points="259,633 1669,633 1669,2660 259,2660 259,633"/>
+      <TextLine id="1093810" custom="structure {type:Title;}">
+        <Coords points="1506,641 1648,641 1657,2431 1517,2431 1506,641"/>
+        <Baseline points="1575,644 1590,2417"/>
+        <TextEquiv>
+          <Unicode>南山有臺北山有萊樂只君子邦家之基</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093811" custom="structure {type:Text;}">
+        <Coords points="1348,756 1507,756 1515,2641 1365,2653 1348,756"/>
+        <Baseline points="1416,759 1444,2630"/>
+        <TextEquiv>
+          <Unicode>地之生材足以重夫地國之生材足以重夫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093869" custom="structure {type:Text;}">
+        <Coords points="1198,732 1330,732 1330,887 1198,887 1198,732"/>
+        <Baseline points="1257,886 1263,736"/>
+        <TextEquiv>
+          <Unicode>國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093812" custom="structure {type:Title;}">
+        <Coords points="1036,641 1191,641 1203,2439 1051,2443 1036,641"/>
+        <Baseline points="1110,644 1115,1439 1133,2419"/>
+        <TextEquiv>
+          <Unicode>南山有桑北山有楊樂只君子邦家之光</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093813" custom="structure {type:Text;}">
+        <Coords points="885,759 1036,759 1043,2333 897,2333 885,759"/>
+        <Baseline points="954,763 973,2314"/>
+        <TextEquiv>
+          <Unicode>地利以生材為美國家以得人為美</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093814" custom="structure {type:Title;}">
+        <Coords points="727,653 882,653 893,2445 739,2445 727,653"/>
+        <Baseline points="799,656 818,2429"/>
+        <TextEquiv>
+          <Unicode>樂只君子邦家之光樂只君子萬壽洲疆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093815" custom="structure {type:Text;}">
+        <Coords points="577,772 727,772 743,2657 589,2661 577,772"/>
+        <Baseline points="644,775 668,2639"/>
+        <TextEquiv>
+          <Unicode>知君子有美德既足以榮其國則君子有美</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093816" custom="structure {type:Text;}">
+        <Coords points="416,751 558,751 567,1557 421,1555 416,751"/>
+        <Baseline points="486,754 495,1540"/>
+        <TextEquiv>
+          <Unicode>德宜足以福其身</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093817" custom="structure {type:Title;}">
+        <Coords points="263,656 417,656 425,2655 281,2659 263,656"/>
+        <Baseline points="331,660 357,2641"/>
+        <TextEquiv>
+          <Unicode>南山有杞北山有李樂只君子民之父母樂只</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>南山有臺北山有萊樂只君子邦家之基
+地之生材足以重夫地國之生材足以重夫
+國
+南山有桑北山有楊樂只君子邦家之光
+地利以生材為美國家以得人為美
+樂只君子邦家之光樂只君子萬壽洲疆
+知君子有美德既足以榮其國則君子有美
+德宜足以福其身
+南山有杞北山有李樂只君子民之父母樂只
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115959" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="177,1097 256,1097 274,2659 214,2653 177,1097"/>
+      <TextLine id="1093809" custom="structure {type:Section;}">
+        <Coords points="177,1145 249,1146 249,1569 183,1569 177,1145"/>
+        <Baseline points="202,1571 204,1150"/>
+        <TextEquiv>
+          <Unicode>詩義指南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093868" custom="structure {type:Page_Number;}">
+        <Coords points="197,2031 270,2031 280,2177 201,2181 197,2031"/>
+        <Baseline points="225,2040 230,2183"/>
+        <TextEquiv>
+          <Unicode>十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1131416" custom="structure {type:Title;}">
+        <Coords points="201,2181 269,2181 281,2653 213,2657 201,2181"/>
+        <Baseline points="235,2181 239,2653"/>
+        <TextEquiv>
+          <Unicode>知不足齋叢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩義指南
+十七
+知不足齋叢書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

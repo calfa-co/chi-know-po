@@ -1,0 +1,277 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:22+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-13_0050.jpg" imageHeight="3500" imageWidth="1874">
+    <TextRegion id="117210" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1719,1288 1764,1283 1762,2399 1717,2391 1719,1288"/>
+      <TextLine id="1104604" custom="structure {type:Section;}">
+        <Coords points="1712,1378 1760,1376 1758,1598 1712,1594 1712,1378"/>
+        <Baseline points="1738,1593 1748,1381"/>
+        <TextEquiv>
+          <Unicode>文三十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104605" custom="structure {type:Page_Number;}">
+        <Coords points="1726,2319 1760,2326 1762,2368 1726,2370 1726,2319"/>
+        <Baseline points="1745,2321 1745,2371"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文三十七
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117211" custom="structure {type:MainText;}">
+      <Coords points="185,848 1705,845 1705,3162 171,3172 185,848"/>
+      <TextLine id="1104606" custom="structure {type:Title;}">
+        <Coords points="1563,1152 1710,1151 1710,1995 1561,1996 1563,1152"/>
+        <Baseline points="1633,1155 1648,1995"/>
+        <TextEquiv>
+          <Unicode>羊叔子讓開府表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104607" custom="structure {type:Title;}">
+        <Coords points="1567,2250 1712,2249 1712,3101 1561,3104 1567,2250"/>
+        <Baseline points="1636,3103 1641,2252"/>
+        <TextEquiv>
+          <Unicode>李令伯陳情事表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104608" custom="structure {type:Title;}">
+        <Coords points="1409,1140 1558,1140 1552,2186 1409,2186 1409,1140"/>
+        <Baseline points="1474,1143 1491,2187"/>
+        <TextEquiv>
+          <Unicode>陸士衡謝平原内史表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104609" custom="structure {type:Title;}">
+        <Coords points="1413,2252 1554,2254 1558,2978 1407,2984 1413,2252"/>
+        <Baseline points="1474,2256 1493,2976"/>
+        <TextEquiv>
+          <Unicode>劉越石勸進表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104610" custom="structure {type:Title;}">
+        <Coords points="1263,1254 1398,1254 1401,1755 1261,1760 1263,1254"/>
+        <Baseline points="1329,1257 1334,1756"/>
+        <TextEquiv>
+          <Unicode>薦禰衡表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104611" custom="structure {type:Text;}">
+        <Coords points="1103,1372 1252,1372 1255,1734 1107,1738 1103,1372"/>
+        <Baseline points="1177,1376 1182,1735"/>
+        <TextEquiv>
+          <Unicode>孔文舉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104612" custom="structure {type:Commentary;}">
+        <Coords points="1177,2454 1171,1738 1254,1740 1260,3158 1177,3166 1177,2454"/>
+        <Baseline points="1205,1743 1215,3160"/>
+        <TextEquiv>
+          <Unicode>范曄後漢書曰孔融字文舉魯國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104613" custom="structure {type:Commentary;}">
+        <Coords points="1097,2822 1099,2448 1099,1738 1180,1744 1180,3156 1097,3164 1097,2822"/>
+        <Baseline points="1136,3155 1146,1747"/>
+        <TextEquiv>
+          <Unicode>人也幼有異才性好學舉高第拜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104614" custom="structure {type:Commentary;}">
+        <Coords points="1031,2206 1029,1858 1027,1506 1107,1505 1100,2908 1025,2912 1031,2206"/>
+        <Baseline points="1058,1507 1065,2910"/>
+        <TextEquiv>
+          <Unicode>御史歷官至將作大匠遷少府曹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104615" custom="structure {type:Commentary;}">
+        <Coords points="945,1530 1032,1532 1028,2830 951,2834 945,1530"/>
+        <Baseline points="987,2831 994,1533"/>
+        <TextEquiv>
+          <Unicode>操既積嫌忌奏誅之下獄弃市</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104616" custom="structure {type:Text;}">
+        <Coords points="797,856 941,853 942,1952 797,1954 797,856"/>
+        <Baseline points="872,1940 877,857"/>
+        <TextEquiv>
+          <Unicode>臣聞洪水橫流帝思俾乂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104617" custom="structure {type:Commentary;}">
+        <Coords points="875,2560 871,1954 952,1950 948,3162 871,3166 875,2560"/>
+        <Baseline points="901,1954 910,3162"/>
+        <TextEquiv>
+          <Unicode>孟子曰當堯之時天下猶未</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104618" custom="structure {type:Commentary;}">
+        <Coords points="790,1954 876,1954 872,3166 799,3168 790,1954"/>
+        <Baseline points="837,1956 837,3162"/>
+        <TextEquiv>
+          <Unicode>平洪水橫流泛濫於天下尚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104619" custom="structure {type:Commentary;}">
+        <Coords points="715,1394 715,852 790,852 798,1938 719,1936 715,1394"/>
+        <Baseline points="753,853 753,1937"/>
+        <TextEquiv>
+          <Unicode>書曰湯湯洪水方割有能</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104620" custom="structure {type:Commentary;}">
+        <Coords points="643,854 718,854 718,1956 639,1960 643,854"/>
+        <Baseline points="684,1959 689,857"/>
+        <TextEquiv>
+          <Unicode>俾乂孔安國傳曰俾使乂治也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104621" custom="structure {type:Text;}">
+        <Coords points="643,1970 792,1934 782,2398 792,2864 645,2864 643,1970"/>
+        <Baseline points="715,2865 725,1937"/>
+        <TextEquiv>
+          <Unicode>旁求四方以招賢俊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104622" custom="structure {type:Commentary;}">
+        <Coords points="717,2870 788,2872 792,3156 721,3156 717,2870"/>
+        <Baseline points="753,2872 758,3145"/>
+        <TextEquiv>
+          <Unicode>尚書曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104623" custom="structure {type:Commentary;}">
+        <Coords points="649,2864 714,2862 721,3159 648,3159 649,2864"/>
+        <Baseline points="682,2867 684,3160"/>
+        <TextEquiv>
+          <Unicode>旁求天</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104624" custom="structure {type:Commentary;}">
+        <Coords points="565,860 640,858 640,1346 567,1340 565,860"/>
+        <Baseline points="604,862 611,1335"/>
+        <TextEquiv>
+          <Unicode>下孔安國曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104625" custom="structure {type:Commentary;}">
+        <Coords points="495,860 570,859 570,1345 493,1346 495,860"/>
+        <Baseline points="535,1347 537,862"/>
+        <TextEquiv>
+          <Unicode>旁非一方也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104626" custom="structure {type:Text;}">
+        <Coords points="499,1912 499,1352 640,1351 640,2424 488,2414 499,1912"/>
+        <Baseline points="556,1354 568,2426"/>
+        <TextEquiv>
+          <Unicode>昔世宗繼統將弘祖業</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104627" custom="structure {type:Commentary;}">
+        <Coords points="567,2426 642,2424 642,3151 569,3160 567,2426"/>
+        <Baseline points="596,2427 613,3153"/>
+        <TextEquiv>
+          <Unicode>世宗孝武廟號也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104628" custom="structure {type:Commentary;}">
+        <Coords points="489,2416 570,2416 570,3151 491,3160 489,2416"/>
+        <Baseline points="530,3153 535,2420"/>
+        <TextEquiv>
+          <Unicode>李奇漢書注曰統</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104629" custom="structure {type:Commentary;}">
+        <Coords points="415,1328 417,854 490,846 488,1328 492,1798 413,1804 415,1328"/>
+        <Baseline points="451,1806 454,857"/>
+        <TextEquiv>
+          <Unicode>緒也班固漢書紀述曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104630" custom="structure {type:Commentary;}">
+        <Coords points="337,854 414,854 414,1286 420,1720 337,1736 337,854"/>
+        <Baseline points="378,1721 382,857"/>
+        <TextEquiv>
+          <Unicode>世宗嘩嘩思弘祖業</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104631" custom="structure {type:Text;}">
+        <Coords points="343,1810 486,1810 486,2766 337,2770 343,1810"/>
+        <Baseline points="411,1813 420,2772"/>
+        <TextEquiv>
+          <Unicode>疇咨熙載群士響臻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104632" custom="structure {type:Commentary;}">
+        <Coords points="415,2776 490,2765 490,3163 417,3164 415,2776"/>
+        <Baseline points="451,2767 454,3164"/>
+        <TextEquiv>
+          <Unicode>尚書云帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104633" custom="structure {type:Commentary;}">
+        <Coords points="339,2778 414,2776 420,3152 339,3154 339,2778"/>
+        <Baseline points="378,2781 390,3153"/>
+        <TextEquiv>
+          <Unicode>曰疇咨若</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104634" custom="structure {type:Commentary;}">
+        <Coords points="259,2006 257,848 330,847 337,2006 333,3166 257,3162 259,2006"/>
+        <Baseline points="294,850 302,3153"/>
+        <TextEquiv>
+          <Unicode>時登庸又曰有能熙帝之載班固漢書述曰疇咨熙載</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104635" custom="structure {type:Commentary;}">
+        <Coords points="177,850 266,847 261,2005 258,2592 256,3164 171,3163 177,850"/>
+        <Baseline points="214,3164 218,850"/>
+        <TextEquiv>
+          <Unicode>髦俊並作響臻如應而至也孫卿子曰下之和上譬響</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>羊叔子讓開府表
+李令伯陳情事表
+陸士衡謝平原内史表
+劉越石勸進表
+薦禰衡表
+孔文舉
+范曄後漢書曰孔融字文舉魯國
+人也幼有異才性好學舉高第拜
+御史歷官至將作大匠遷少府曹
+操既積嫌忌奏誅之下獄弃市
+臣聞洪水橫流帝思俾乂
+孟子曰當堯之時天下猶未
+平洪水橫流泛濫於天下尚
+書曰湯湯洪水方割有能
+俾乂孔安國傳曰俾使乂治也
+旁求四方以招賢俊
+尚書曰
+旁求天
+下孔安國曰
+旁非一方也
+昔世宗繼統將弘祖業
+世宗孝武廟號也
+李奇漢書注曰統
+緒也班固漢書紀述曰
+世宗嘩嘩思弘祖業
+疇咨熙載群士響臻
+尚書云帝
+曰疇咨若
+時登庸又曰有能熙帝之載班固漢書述曰疇咨熙載
+髦俊並作響臻如應而至也孫卿子曰下之和上譬響
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

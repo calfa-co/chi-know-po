@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:23+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0010.jpg" imageHeight="4570" imageWidth="2578">
+    <TextRegion id="79215" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2378,3556 2378,1758 2487,1758 2487,3556 2378,3556"/>
+      <TextLine id="869017" custom="structure {type:Page_Number;}">
+        <Coords points="2329,1812 2511,1812 2511,2152 2329,2152 2329,1812"/>
+        <Baseline points="2444,2153 2468,1825"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869018" custom="structure {type:Page_Number;}">
+        <Coords points="2387,3117 2519,3117 2519,3346 2387,3346 2387,3117"/>
+        <Baseline points="2439,3123 2449,3347"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>目錄
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79194" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="137,4051 115,1067 2421,1016 2359,4094 137,4051"/>
+      <TextLine id="867200" custom="structure {type:Title;}">
+        <Coords points="2163,1254 2374,1254 2374,1662 2163,1662 2163,1254"/>
+        <Baseline points="2291,1257 2303,1665"/>
+        <TextEquiv>
+          <Unicode>地理攷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867201" custom="structure {type:Title;}">
+        <Coords points="2001,1251 2181,1251 2181,1662 2001,1662 2001,1251"/>
+        <Baseline points="2103,1253 2103,1665"/>
+        <TextEquiv>
+          <Unicode>典攷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867202" custom="structure {type:Title;}">
+        <Coords points="1808,1246 1993,1246 1993,1530 1808,1530 1808,1246"/>
+        <Baseline points="1904,1249 1904,1533"/>
+        <TextEquiv>
+          <Unicode>樂攷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867203" custom="structure {type:Title;}">
+        <Coords points="1615,1251 1793,1252 1795,1670 1615,1662 1615,1251"/>
+        <Baseline points="1704,1665 1716,1257"/>
+        <TextEquiv>
+          <Unicode>服飾攷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867204" custom="structure {type:Title;}">
+        <Coords points="1429,1251 1620,1251 1620,1652 1429,1652 1429,1251"/>
+        <Baseline points="1520,1253 1520,1653"/>
+        <TextEquiv>
+          <Unicode>器名攷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867205" custom="structure {type:Title;}">
+        <Coords points="1216,1254 1417,1254 1417,1670 1216,1670 1216,1254"/>
+        <Baseline points="1320,1257 1324,1673"/>
+        <TextEquiv>
+          <Unicode>物名攷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867206" custom="structure {type:Title;}">
+        <Coords points="1038,1117 1231,1117 1231,1406 1038,1406 1038,1117"/>
+        <Baseline points="1160,1121 1168,1405"/>
+        <TextEquiv>
+          <Unicode>卷七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867207" custom="structure {type:Title;}">
+        <Coords points="858,1251 1046,1251 1046,1546 858,1546 858,1251"/>
+        <Baseline points="952,1257 964,1545"/>
+        <TextEquiv>
+          <Unicode>異聞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867208" custom="structure {type:Title;}">
+        <Coords points="652,1127 861,1127 861,1398 652,1398 652,1127"/>
+        <Baseline points="768,1129 768,1401"/>
+        <TextEquiv>
+          <Unicode>卷八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867209" custom="structure {type:Title;}">
+        <Coords points="487,1244 673,1244 673,1558 487,1558 487,1244"/>
+        <Baseline points="580,1245 580,1561"/>
+        <TextEquiv>
+          <Unicode>史補</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867210" custom="structure {type:Title;}">
+        <Coords points="307,1124 480,1124 480,1406 307,1406 307,1124"/>
+        <Baseline points="397,1409 401,1129"/>
+        <TextEquiv>
+          <Unicode>卷九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867211" custom="structure {type:Title;}">
+        <Coords points="116,1254 307,1254 307,1670 116,1670 116,1254"/>
+        <Baseline points="201,1257 205,1673"/>
+        <TextEquiv>
+          <Unicode>雜說上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>地理攷
+典攷
+樂攷
+服飾攷
+器名攷
+物名攷
+卷七
+異聞
+卷八
+史補
+卷九
+雜說上
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79544" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2334,74 2496,74 2472,222 2325,212 2334,74"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

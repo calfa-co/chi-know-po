@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:44+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-1_0026.jpg" imageHeight="3500" imageWidth="1815">
+    <TextRegion id="117338" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1698,1523 1767,1514 1774,2567 1719,2567 1698,1523"/>
+      <TextLine id="1105987" custom="structure {type:Section;}">
+        <Coords points="1696,1624 1795,1625 1796,1836 1692,1836 1696,1624"/>
+        <Baseline points="1736,1628 1738,1821"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105988" custom="structure {type:Page_Number;}">
+        <Coords points="1705,2432 1771,2420 1779,2529 1707,2539 1705,2432"/>
+        <Baseline points="1748,2420 1750,2529"/>
+        <TextEquiv>
+          <Unicode>六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>目錄
+六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117337" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="164,924 1679,895 1712,3170 214,3208 164,924"/>
+      <TextLine id="1105977" custom="structure {type:Title;}">
+        <Coords points="1548,1233 1686,1228 1700,2089 1562,2094 1548,1233"/>
+        <Baseline points="1626,1238 1648,2092"/>
+        <TextEquiv>
+          <Unicode>登徒子好色賦一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105978" custom="structure {type:Title;}">
+        <Coords points="1398,1240 1543,1230 1562,2094 1412,2094 1398,1240"/>
+        <Baseline points="1469,1231 1496,2087"/>
+        <TextEquiv>
+          <Unicode>曹子建洛神賦一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105979" custom="structure {type:Title;}">
+        <Coords points="1241,997 1392,997 1392,1333 1241,1333 1241,997"/>
+        <Baseline points="1320,1335 1322,1000"/>
+        <TextEquiv>
+          <Unicode>詩甲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105980" custom="structure {type:Title;}">
+        <Coords points="1081,1125 1243,1125 1243,1417 1081,1417 1081,1125"/>
+        <Baseline points="1148,1133 1167,1414"/>
+        <TextEquiv>
+          <Unicode>補亡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105981" custom="structure {type:Title;}">
+        <Coords points="925,1223 1084,1223 1103,2115 946,2115 925,1223"/>
+        <Baseline points="1010,1226 1034,2116"/>
+        <TextEquiv>
+          <Unicode>東廣微補亡詩六首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105982" custom="structure {type:Title;}">
+        <Coords points="777,1142 922,1147 929,1449 775,1449 777,1142"/>
+        <Baseline points="844,1147 849,1447"/>
+        <TextEquiv>
+          <Unicode>述德</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105983" custom="structure {type:Title;}">
+        <Coords points="620,1250 772,1247 801,2256 642,2258 620,1250"/>
+        <Baseline points="699,1252 723,2258"/>
+        <TextEquiv>
+          <Unicode>謝靈運述祖德詩二首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105984" custom="structure {type:Title;}">
+        <Coords points="461,1110 615,1107 620,1447 468,1447 461,1110"/>
+        <Baseline points="525,1114 530,1450"/>
+        <TextEquiv>
+          <Unicode>權勵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105985" custom="structure {type:Title;}">
+        <Coords points="321,1261 463,1252 489,2018 342,2027 321,1261"/>
+        <Baseline points="394,1247 416,2023"/>
+        <TextEquiv>
+          <Unicode>韋孟諷諫一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105986" custom="structure {type:Title;}">
+        <Coords points="173,1260 321,1259 342,2156 173,2156 173,1260"/>
+        <Baseline points="249,1264 273,2158"/>
+        <TextEquiv>
+          <Unicode>張茂先勵志詩一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>登徒子好色賦一首
+曹子建洛神賦一首
+詩甲
+補亡
+東廣微補亡詩六首
+述德
+謝靈運述祖德詩二首
+權勵
+韋孟諷諫一首
+張茂先勵志詩一首
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

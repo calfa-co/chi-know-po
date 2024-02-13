@@ -1,0 +1,555 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:25+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0409.jpg" imageHeight="4933" imageWidth="2831">
+    <TextRegion id="79716" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="153,303 153,165 305,165 305,303 153,303"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79718" custom="structure {type:MainText;}">
+      <Coords points="2575,4313 2575,2861 2563,1405 219,1413 216,4307 2575,4313"/>
+      <TextLine id="870481" custom="structure {type:Text;}">
+        <Coords points="2491,1414 2414,1414 2414,1515 2392,1534 2411,1584 2392,1627 2411,1679 2397,1732 2414,1751 2397,2082 2417,2102 2400,2178 2419,2206 2400,2258 2425,2338 2571,2352 2559,1411 2491,1414"/>
+        <Baseline points="2492,1415 2504,2327"/>
+        <TextEquiv>
+          <Unicode>見惡焉其終也已</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870482" custom="structure {type:Commentary;}">
+        <Coords points="2535,2356 2488,2356 2477,2395 2493,2507 2474,2545 2493,2595 2474,2732 2491,2822 2477,2852 2493,2998 2480,3025 2493,3132 2482,3250 2502,3266 2641,3258 2630,2354 2535,2356"/>
+        <Baseline points="2536,2359 2552,3267"/>
+        <TextEquiv>
+          <Unicode>○今案見論語陽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870483" custom="structure {type:Commentary;}">
+        <Coords points="2441,2345 2395,2345 2395,3255 2450,3261 2496,3253 2485,2343 2441,2345"/>
+        <Baseline points="2444,2347 2452,3263"/>
+        <TextEquiv>
+          <Unicode>貨陳俞本脫此條</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870484" custom="structure {type:Text;}">
+        <Coords points="2565,4064 2565,3269 2395,3269 2408,3296 2395,3318 2408,3357 2395,3422 2408,3540 2395,3631 2406,3705 2392,3721 2406,3751 2392,3776 2403,4061 2565,4064"/>
+        <Baseline points="2488,4065 2492,3271"/>
+        <TextEquiv>
+          <Unicode>吾斯之未能信</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870485" custom="structure {type:Commentary;}">
+        <Coords points="2529,4080 2491,4080 2477,4110 2493,4165 2474,4231 2482,4316 2565,4310 2559,4077 2529,4080"/>
+        <Baseline points="2532,4081 2536,4321"/>
+        <TextEquiv>
+          <Unicode>○今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870486" custom="structure {type:Commentary;}">
+        <Coords points="2433,4075 2389,4075 2392,4316 2496,4308 2491,4072 2433,4075"/>
+        <Baseline points="2436,4077 2444,4317"/>
+        <TextEquiv>
+          <Unicode>案見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870487" custom="structure {type:Commentary;}">
+        <Coords points="2337,1414 2285,1414 2296,1707 2280,1773 2299,1800 2299,1937 2280,2044 2296,2099 2280,2165 2299,2181 2299,2252 2282,2285 2299,2326 2282,2345 2282,2471 2299,2496 2285,2576 2299,2611 2282,2633 2299,2726 2285,3107 2302,3132 2285,3179 2302,3233 2285,3277 2302,3305 2285,3357 2285,3546 2302,3603 2285,3650 2345,3658 2400,3653 2419,3102 2406,3047 2422,3022 2406,2995 2417,2189 2397,2036 2414,1986 2414,1411 2337,1414"/>
+        <Baseline points="2340,1416 2348,3660"/>
+        <TextEquiv>
+          <Unicode>論語公冶陳俞本脫此條又案此句不應入</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870488" custom="structure {type:Commentary;}">
+        <Coords points="2292,3581 2304,1414 2203,1414 2192,1438 2206,1545 2192,1562 2192,1885 2206,1901 2192,1986 2206,2066 2192,2132 2206,2189 2192,2274 2206,2343 2192,2365 2206,2458 2192,2515 2206,2578 2192,2630 2192,2836 2206,2855 2192,2888 2192,3050 2206,3063 2192,3126 2192,3247 2206,3261 2192,3573 2292,3581"/>
+        <Baseline points="2252,1416 2252,3532"/>
+        <TextEquiv>
+          <Unicode>佞邪當有誤或是本卷戒慎篇文誤入此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870490" custom="structure {type:Text;}">
+        <Coords points="2293,3672 2252,3672 2215,3657 2203,3823 2199,3941 2187,3973 2203,3997 2200,3987 2228,4053 2200,4088 2219,4179 2206,4313 2373,4308 2362,3669 2293,3672"/>
+        <Baseline points="2296,3675 2304,4319"/>
+        <TextEquiv>
+          <Unicode>巧言令色足</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870491" custom="structure {type:Text;}">
+        <Coords points="2091,1414 2003,1414 1995,1531 2014,1551 2014,1614 1995,1660 2017,1677 2017,1759 1997,1808 2017,1937 2000,1956 2014,1997 2000,2055 2017,2132 2003,2192 2100,2223 2176,2192 2176,1411 2091,1414"/>
+        <Baseline points="2092,1416 2100,2200"/>
+        <TextEquiv>
+          <Unicode>恭左丘明恥之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870492" custom="structure {type:Commentary;}">
+        <Coords points="2143,2219 2102,2219 2102,2362 2077,2384 2099,2469 2077,2559 2093,2606 2082,2729 2096,2746 2082,2765 2096,2863 2080,2896 2093,2943 2082,3225 2102,3261 2208,3255 2211,2595 2184,2551 2181,2217 2143,2219"/>
+        <Baseline points="2144,2220 2152,3264"/>
+        <TextEquiv>
+          <Unicode>○今案見論語雍也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870493" custom="structure {type:Commentary;}">
+        <Coords points="2041,2219 1997,2219 1997,3124 2047,3129 2096,3121 2091,2217 2041,2219"/>
+        <Baseline points="2044,2220 2048,3132"/>
+        <TextEquiv>
+          <Unicode>以下三條陳本刪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870494" custom="structure {type:Text;}">
+        <Coords points="2093,4319 2165,4319 2181,4269 2167,4204 2184,4187 2167,3913 2186,3716 2167,3543 2184,3453 2167,3401 2181,3354 2170,3274 2011,3274 2011,3403 1992,3475 2008,3510 1989,3565 2006,3855 1989,3908 2011,3957 1989,4001 2011,4061 1989,4171 2011,4214 1989,4247 1989,4319 2093,4319"/>
+        <Baseline points="2096,3276 2096,4320"/>
+        <TextEquiv>
+          <Unicode>不有祝駝之佞難乎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870495" custom="structure {type:Text;}">
+        <Coords points="1893,1400 1822,1400 1822,1436 1803,1455 1822,1512 1803,1584 1816,1622 1800,1636 1822,1732 1803,1764 1830,1792 1814,1838 1825,1871 1806,1890 1811,2069 1984,2060 1964,1784 1986,1734 1962,1693 1962,1638 1984,1614 1962,1573 1981,1548 1964,1433 1973,1397 1893,1400"/>
+        <Baseline points="1896,1402 1912,2070"/>
+        <TextEquiv>
+          <Unicode>免於今之世</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870496" custom="structure {type:Commentary;}">
+        <Coords points="1937,2088 1899,2088 1885,2145 1901,2225 1882,2263 1904,2313 1885,2365 1890,2529 1904,2543 1893,2595 1951,2598 2008,2592 2011,2315 1984,2247 1981,2085 1937,2088"/>
+        <Baseline points="1940,2090 1952,2600"/>
+        <TextEquiv>
+          <Unicode>○今案見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870497" custom="structure {type:Commentary;}">
+        <Coords points="1847,2077 1797,2077 1806,2603 1901,2598 1907,2197 1890,2074 1847,2077"/>
+        <Baseline points="1848,2080 1860,2604"/>
+        <TextEquiv>
+          <Unicode>論語雍也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870498" custom="structure {type:Text;}">
+        <Coords points="1893,2614 1803,2614 1816,2737 1806,3116 1819,3129 1806,3165 1819,3291 1808,3527 1975,3524 1978,2614 1893,2614"/>
+        <Baseline points="1896,2616 1900,3530"/>
+        <TextEquiv>
+          <Unicode>罔之生也幸而免</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870499" custom="structure {type:Commentary;}">
+        <Coords points="1984,4045 1986,3839 1967,3801 1989,3743 1970,3683 1978,3559 1896,3557 1885,4036 1984,4045"/>
+        <Baseline points="1948,4046 1952,3562"/>
+        <TextEquiv>
+          <Unicode>○今案見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870500" custom="structure {type:Commentary;}">
+        <Coords points="1858,3529 1792,3524 1789,4031 1838,4039 1893,4036 1885,3927 1899,3913 1890,3790 1910,3598 1896,3529 1858,3529"/>
+        <Baseline points="1840,4042 1860,3530"/>
+        <TextEquiv>
+          <Unicode>論語雍也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870501" custom="structure {type:Text;}">
+        <Coords points="1945,4313 1973,4258 1954,4187 1978,4075 1964,4064 1800,4058 1789,4173 1814,4204 1795,4239 1814,4310 1945,4313"/>
+        <Baseline points="1888,4314 1896,4066"/>
+        <TextEquiv>
+          <Unicode>君子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870502" custom="structure {type:Text;}">
+        <Coords points="1690,1416 1603,1416 1616,1501 1595,1677 1619,1699 1605,1751 1619,1885 1597,1926 1625,1984 1625,2055 1605,2071 1600,2189 1625,2219 1603,2274 1622,2332 1605,2384 1625,2408 1605,2482 1605,2614 1625,2650 1605,2715 1630,2776 1608,2830 1622,2918 1612,3272 1707,3287 1783,3268 1773,2907 1786,2828 1773,2781 1786,2743 1770,2611 1789,2573 1770,2537 1789,2493 1767,2458 1767,2387 1789,2362 1789,2239 1764,1992 1784,1964 1784,1951 1764,1934 1775,1907 1762,1877 1781,1800 1767,1704 1778,1556 1762,1531 1773,1414 1690,1416"/>
+        <Baseline points="1692,1417 1712,3258"/>
+        <TextEquiv>
+          <Unicode>可逝也不可陷也可欺也不可罔也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870503" custom="structure {type:Commentary;}">
+        <Coords points="1745,3283 1704,3283 1690,3324 1710,3351 1710,3433 1685,3458 1707,3510 1685,3581 1701,3721 1688,3773 1690,4047 1751,4050 1808,4042 1803,3280 1745,3283"/>
+        <Baseline points="1748,3285 1752,4053"/>
+        <TextEquiv>
+          <Unicode>○今案見論語</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870504" custom="structure {type:Commentary;}">
+        <Coords points="1643,3277 1620,3277 1591,3273 1603,4039 1607,4061 1656,4073 1712,4031 1699,3820 1710,3694 1696,3675 1710,3642 1696,3532 1700,3281 1643,3277"/>
+        <Baseline points="1648,3293 1668,4041"/>
+        <TextEquiv>
+          <Unicode>雍也陳俞本脫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870505" custom="structure {type:Text;}">
+        <Coords points="1707,4302 1778,4302 1778,4058 1619,4058 1603,4094 1616,4302 1707,4302"/>
+        <Baseline points="1708,4061 1708,4305"/>
+        <TextEquiv>
+          <Unicode>無而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870506" custom="structure {type:Text;}">
+        <Coords points="1493,1414 1422,1414 1422,1499 1397,1521 1414,1559 1397,1647 1416,1685 1397,1721 1397,1825 1422,1880 1422,2028 1397,2071 1422,2107 1400,2156 1422,2217 1400,2274 1416,2373 1403,2537 1419,2556 1400,2581 1405,2715 1422,2729 1403,2778 1403,2888 1422,2907 1408,2943 1425,2992 1405,3011 1403,3102 1425,3129 1403,3157 1403,3233 1395,3257 1402,3395 1500,3412 1587,3399 1578,3063 1592,3022 1578,2957 1592,2924 1578,2863 1592,2759 1575,2715 1589,2672 1575,2598 1592,2573 1592,2441 1575,2321 1589,2110 1573,1951 1586,1915 1573,1841 1586,1800 1573,1767 1586,1737 1573,1652 1581,1411 1493,1414"/>
+        <Baseline points="1496,1416 1504,3381"/>
+        <TextEquiv>
+          <Unicode>為有虛而為盈約而為泰難乎有恒矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870507" custom="structure {type:Commentary;}">
+        <Coords points="1542,3411 1490,3411 1501,3559 1485,3612 1504,3664 1479,3691 1496,3836 1482,3962 1504,4053 1485,4072 1488,4176 1614,4171 1614,3982 1584,3935 1584,3409 1542,3411"/>
+        <Baseline points="1544,3413 1556,4177"/>
+        <TextEquiv>
+          <Unicode>○今案見論語</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870508" custom="structure {type:Commentary;}">
+        <Coords points="1447,3403 1392,3403 1392,4028 1448,4062 1493,4062 1504,3494 1488,3401 1447,3403"/>
+        <Baseline points="1448,3405 1452,4033"/>
+        <TextEquiv>
+          <Unicode>述而陳本刪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870509" custom="structure {type:Text;}">
+        <Coords points="1482,4179 1427,4179 1400,4234 1414,4269 1408,4314 1482,4299 1579,4307 1531,4225 1531,4179 1482,4179"/>
+        <Baseline points="1484,4181 1484,4301"/>
+        <TextEquiv>
+          <Unicode>久</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870510" custom="structure {type:Text;}">
+        <Coords points="1290,1411 1222,1411 1214,1449 1225,1463 1203,1493 1216,1688 1205,1773 1222,1811 1205,1896 1209,1981 1215,2221 1392,2217 1383,1408 1290,1411"/>
+        <Baseline points="1292,1412 1300,2196"/>
+        <TextEquiv>
+          <Unicode>矣哉由之行詐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870511" custom="structure {type:Commentary;}">
+        <Coords points="1342,2233 1309,2233 1309,2373 1288,2395 1309,2436 1288,2548 1293,2973 1345,2976 1411,2970 1416,2493 1392,2471 1389,2230 1342,2233"/>
+        <Baseline points="1344,2236 1348,2977"/>
+        <TextEquiv>
+          <Unicode>○今案見論語</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870512" custom="structure {type:Commentary;}">
+        <Coords points="1255,2222 1205,2222 1194,2978 1257,2984 1309,2976 1296,2872 1309,2830 1296,2630 1309,2573 1296,2480 1304,2219 1255,2222"/>
+        <Baseline points="1256,2225 1260,2985"/>
+        <TextEquiv>
+          <Unicode>子罕陳俞本脫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870513" custom="structure {type:Text;}">
+        <Coords points="1301,3787 1364,3787 1383,3718 1370,3688 1383,3655 1370,3398 1386,3384 1370,2995 1216,2992 1200,3066 1211,3088 1200,3107 1214,3190 1203,3253 1216,3266 1200,3346 1214,3428 1197,3455 1211,3491 1197,3532 1214,3546 1200,3598 1214,3633 1197,3743 1208,3784 1301,3787"/>
+        <Baseline points="1304,3788 1308,2997"/>
+        <TextEquiv>
+          <Unicode>是故惡夫佞者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870514" custom="structure {type:Commentary;}">
+        <Coords points="1337,3806 1299,3806 1307,3932 1288,3992 1307,4047 1290,4064 1304,4269 1290,4291 1342,4302 1389,4294 1381,3803 1337,3806"/>
+        <Baseline points="1340,3808 1344,4304"/>
+        <TextEquiv>
+          <Unicode>○今案見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870515" custom="structure {type:Commentary;}">
+        <Coords points="1238,3798 1194,3801 1200,4302 1309,4294 1301,3842 1285,3795 1238,3798"/>
+        <Baseline points="1240,3800 1264,4304"/>
+        <TextEquiv>
+          <Unicode>論語先進</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870516" custom="structure {type:Commentary;}">
+        <Coords points="1134,1416 1085,1419 1090,1671 1196,1675 1183,1551 1197,1526 1170,1411 1134,1416"/>
+        <Baseline points="1137,1418 1157,1670"/>
+        <TextEquiv>
+          <Unicode>陳本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870517" custom="structure {type:Commentary;}">
+        <Coords points="1046,1427 998,1427 998,1551 1110,1551 1101,1427 1046,1427"/>
+        <Baseline points="1049,1430 1049,1538"/>
+        <TextEquiv>
+          <Unicode>脫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870518" custom="structure {type:Text;}">
+        <Coords points="1082,1677 1008,1677 992,1740 1011,1786 992,1978 1011,2063 1000,2112 1016,2137 1016,2356 992,2381 992,2395 1014,2419 1003,2532 1016,2655 994,2809 1016,2880 994,2910 1008,2948 994,2992 1019,3050 997,3116 997,3381 1014,3398 997,3433 1016,3502 1003,3529 1016,3570 1000,3609 1003,3814 1022,3834 1003,3886 1003,4280 1024,4310 1170,4305 1183,3740 1170,3647 1186,3584 1170,3494 1186,3433 1170,3398 1186,3379 1189,3143 1172,3124 1183,3066 1164,2992 1178,2965 1164,2921 1167,2792 1186,2773 1164,2663 1186,2565 1183,2491 1161,2466 1183,2408 1167,2359 1183,2288 1161,2266 1161,2230 1183,2203 1167,1674 1082,1677"/>
+        <Baseline points="1085,1678 1101,4311"/>
+        <TextEquiv>
+          <Unicode>微生畝謂孔子曰丘何為是栖栖者與無乃為佞乎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870519" custom="structure {type:Commentary;}">
+        <Coords points="948,1427 896,1427 909,1567 890,1611 912,1663 893,1811 915,1888 896,1910 901,2195 1011,2189 1024,1841 1011,1803 1019,1625 994,1425 948,1427"/>
+        <Baseline points="949,1428 961,2196"/>
+        <TextEquiv>
+          <Unicode>○今案見論語憲問陳俞本脫君子之道焉可誣也○今案見論語子張陳本俞本脫非敢為佞○今案見論語</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870520" custom="structure {type:Commentary;}">
+        <Coords points="852,1414 808,1414 808,2206 912,2200 912,1411 852,1414"/>
+        <Baseline points="853,1416 865,2208"/>
+        <TextEquiv>
+          <Unicode>憲問陳俞本脫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870521" custom="structure {type:Text;}">
+        <Coords points="983,3255 983,2214 819,2214 813,3253 983,3255"/>
+        <Baseline points="905,2216 905,3257"/>
+        <TextEquiv>
+          <Unicode>君子之道焉可誣也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870522" custom="structure {type:Commentary;}">
+        <Coords points="940,4184 975,4184 1003,3979 1003,3814 981,3787 978,3718 992,3639 978,3499 994,3464 978,3425 992,3335 978,3288 887,3288 901,3414 882,3483 901,3532 882,3650 901,3738 882,3757 882,3913 896,3932 882,4036 901,4064 882,4127 901,4184 940,4184"/>
+        <Baseline points="941,3289 941,4185"/>
+        <TextEquiv>
+          <Unicode>○今案見論語子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870523" custom="structure {type:Commentary;}">
+        <Coords points="852,3266 800,3266 805,4039 860,4042 898,4036 898,3264 852,3266"/>
+        <Baseline points="853,3269 861,4045"/>
+        <TextEquiv>
+          <Unicode>張陳本俞本脫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870524" custom="structure {type:Text;}">
+        <Coords points="937,4171 810,4183 818,4316 981,4291 953,4171 937,4171"/>
+        <Baseline points="885,4177 893,4305"/>
+        <TextEquiv>
+          <Unicode>非</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870525" custom="structure {type:Text;}">
+        <Coords points="698,1414 613,1414 600,1496 624,1625 608,1745 630,1827 789,1819 775,1411 698,1414"/>
+        <Baseline points="701,1416 713,1828"/>
+        <TextEquiv>
+          <Unicode>敢為佞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870526" custom="structure {type:Commentary;}">
+        <Coords points="756,1841 718,1841 704,1863 720,1910 701,2003 720,2071 701,2115 704,2340 827,2334 827,1838 756,1841"/>
+        <Baseline points="757,1842 761,2342"/>
+        <TextEquiv>
+          <Unicode>○今案見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870527" custom="structure {type:Commentary;}">
+        <Coords points="654,1827 602,1827 602,2326 660,2329 712,2323 718,1860 704,1825 654,1827"/>
+        <Baseline points="657,1830 661,2330"/>
+        <TextEquiv>
+          <Unicode>論語憲問</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870528" custom="structure {type:Text;}">
+        <Coords points="704,2340 619,2343 633,2376 605,2422 619,2469 605,2556 638,2614 638,2672 611,2715 608,2825 641,2877 641,2951 611,2981 607,3133 792,3145 794,3080 775,3014 792,2973 772,2954 775,2844 794,2817 772,2746 792,2707 770,2685 792,2373 770,2337 704,2340"/>
+        <Baseline points="705,2342 713,3135"/>
+        <TextEquiv>
+          <Unicode>遠佞人佞人殆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870529" custom="structure {type:Commentary;}">
+        <Coords points="748,3148 701,3148 709,3310 687,3340 712,3409 685,3480 701,3535 701,3921 816,3913 789,3524 789,3348 802,3324 786,3214 800,3170 786,3146 748,3148"/>
+        <Baseline points="749,3151 765,3923"/>
+        <TextEquiv>
+          <Unicode>○今案見論語</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870530" custom="structure {type:Commentary;}">
+        <Coords points="654,3146 602,3146 602,3779 618,3815 646,3800 656,3824 704,3819 709,3143 654,3146"/>
+        <Baseline points="657,3147 661,3783"/>
+        <TextEquiv>
+          <Unicode>衞靈陳本脫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870531" custom="structure {type:Text;}">
+        <Coords points="682,3929 622,3929 600,3987 635,4072 641,4182 611,4214 616,4316 775,4333 786,4214 753,4157 753,4083 772,4064 781,3982 753,3924 682,3929"/>
+        <Baseline points="685,3931 701,4315"/>
+        <TextEquiv>
+          <Unicode>佞心剪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870532" custom="structure {type:Text;}">
+        <Coords points="504,1559 578,1556 597,1449 580,1414 430,1414 416,1444 424,1559 504,1559"/>
+        <Baseline points="505,1416 505,1560"/>
+        <TextEquiv>
+          <Unicode>剪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870533" custom="structure {type:Commentary;}">
+        <Coords points="556,2200 627,2200 627,1575 504,1575 515,1679 496,1778 515,1825 496,1866 509,1954 496,1986 515,2047 496,2066 496,2200 556,2200"/>
+        <Baseline points="557,1576 557,2202"/>
+        <TextEquiv>
+          <Unicode>○今案見莊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870534" custom="structure {type:Commentary;}">
+        <Coords points="463,1570 413,1570 419,2074 517,2066 501,1567 463,1570"/>
+        <Baseline points="465,1573 473,2077"/>
+        <TextEquiv>
+          <Unicode>子在宥篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870535" custom="structure {type:Text;}">
+        <Coords points="498,2214 419,2214 409,3277 589,3277 580,2992 600,2932 578,2817 597,2724 583,2600 597,2567 575,2548 575,2480 594,2439 575,2373 594,2315 591,2211 498,2214"/>
+        <Baseline points="501,2217 509,3257"/>
+        <TextEquiv>
+          <Unicode>謬悠之說荒唐之言</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870536" custom="structure {type:Commentary;}">
+        <Coords points="548,3283 507,3283 509,3428 490,3455 507,3527 490,3543 507,3677 493,3834 515,3913 496,3971 496,4039 509,4053 496,4072 504,4179 613,4183 616,4080 597,4050 616,4028 616,3962 591,3866 591,3795 608,3773 589,3527 602,3296 589,3280 548,3283"/>
+        <Baseline points="549,3285 557,4182"/>
+        <TextEquiv>
+          <Unicode>○今案見古佚叢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870537" custom="structure {type:Commentary;}">
+        <Coords points="460,3269 416,3269 405,3285 422,3395 408,3417 422,3532 405,3598 419,3688 405,3718 422,3779 405,3795 405,3954 424,3971 424,4047 405,4075 405,4173 463,4202 507,4171 509,3266 460,3269"/>
+        <Baseline points="461,3270 465,4178"/>
+        <TextEquiv>
+          <Unicode>書本莊子天下篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870538" custom="structure {type:Commentary;}">
+        <Coords points="507,4193 422,4195 425,4319 585,4316 575,4187 507,4193"/>
+        <Baseline points="509,4194 513,4302"/>
+        <TextEquiv>
+          <Unicode>恣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870539" custom="structure {type:Text;}">
+        <Coords points="295,1819 375,1819 400,1775 394,1696 364,1666 364,1592 397,1559 386,1504 400,1416 208,1419 221,1457 202,1479 202,1567 224,1586 224,1636 202,1655 202,1762 221,1819 295,1819"/>
+        <Baseline points="297,1418 297,1822"/>
+        <TextEquiv>
+          <Unicode>縱不黨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870540" custom="structure {type:Commentary;}">
+        <Coords points="350,1841 301,1841 295,2447 309,2474 400,2466 397,1838 350,1841"/>
+        <Baseline points="353,1842 357,2476"/>
+        <TextEquiv>
+          <Unicode>○今案陳俞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870542" custom="structure {type:Commentary;}">
+        <Coords points="254,1822 213,1822 213,2332 260,2334 317,2326 298,1819 254,1822"/>
+        <Baseline points="257,1824 261,2336"/>
+        <TextEquiv>
+          <Unicode>本黨作羈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870543" custom="structure {type:Text;}">
+        <Coords points="306,2482 224,2482 211,2710 230,2787 213,2822 230,3000 386,2995 402,2844 389,2817 389,2480 306,2482"/>
+        <Baseline points="309,2484 313,3002"/>
+        <TextEquiv>
+          <Unicode>無端之言</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870544" custom="structure {type:Commentary;}">
+        <Coords points="356,3020 312,3020 295,3055 317,3094 317,3176 298,3192 315,3264 293,3335 293,3491 309,3529 293,3620 312,3655 400,3650 405,3028 397,3017 356,3020"/>
+        <Baseline points="357,3022 361,3658"/>
+        <TextEquiv>
+          <Unicode>○今案陳俞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870545" custom="structure {type:Commentary;}">
+        <Coords points="254,3011 183,3011 164,3148 183,3524 315,3518 315,3091 295,3009 254,3011"/>
+        <Baseline points="257,3014 273,3526"/>
+        <TextEquiv>
+          <Unicode>本端作稽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870546" custom="structure {type:Text;}">
+        <Coords points="298,3661 224,3661 208,3729 227,3844 211,3924 230,3943 216,3995 230,4039 211,4058 227,4168 216,4325 404,4329 380,4157 391,4064 372,4031 372,3943 400,3899 380,3798 397,3710 367,3658 298,3661"/>
+        <Baseline points="301,3662 309,4317"/>
+        <TextEquiv>
+          <Unicode>各興心而嫉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>見惡焉其終也已
+○今案見論語陽
+貨陳俞本脫此條
+吾斯之未能信
+○今
+案見
+論語公冶陳俞本脫此條又案此句不應入
+佞邪當有誤或是本卷戒慎篇文誤入此
+巧言令色足
+恭左丘明恥之
+○今案見論語雍也
+以下三條陳本刪
+不有祝駝之佞難乎
+免於今之世
+○今案見
+論語雍也
+罔之生也幸而免
+○今案見
+論語雍也
+君子
+可逝也不可陷也可欺也不可罔也
+○今案見論語
+雍也陳俞本脫
+無而
+為有虛而為盈約而為泰難乎有恒矣
+○今案見論語
+述而陳本刪
+久
+矣哉由之行詐
+○今案見論語
+子罕陳俞本脫
+是故惡夫佞者
+○今案見
+論語先進
+陳本
+脫
+微生畝謂孔子曰丘何為是栖栖者與無乃為佞乎
+○今案見論語憲問陳俞本脫君子之道焉可誣也○今案見論語子張陳本俞本脫非敢為佞○今案見論語
+憲問陳俞本脫
+君子之道焉可誣也
+○今案見論語子
+張陳本俞本脫
+非
+敢為佞
+○今案見
+論語憲問
+遠佞人佞人殆
+○今案見論語
+衞靈陳本脫
+佞心剪
+剪
+○今案見莊
+子在宥篇
+謬悠之說荒唐之言
+○今案見古佚叢
+書本莊子天下篇
+恣
+縱不黨
+○今案陳俞
+本黨作羈
+無端之言
+○今案陳俞
+本端作稽
+各興心而嫉
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79717" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="124,3614 215,3614 200,2058 134,2058 124,3614"/>
+      <TextLine id="1017491" custom="structure {type:Section;}">
+        <Coords points="158,2759 194,2759 194,2069 106,2069 106,2759 158,2759"/>
+        <Baseline points="160,2070 160,2760"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷三十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1017492" custom="structure {type:Page_Number;}">
+        <Coords points="169,3455 95,3450 95,3612 183,3620 178,3455 169,3455"/>
+        <Baseline points="163,3624 170,3456"/>
+        <TextEquiv>
+          <Unicode>十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷三十
+十
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:26+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0013.jpg" imageHeight="4528" imageWidth="2605">
+    <TextRegion id="79197" custom="structure {type:MainText;}">
+      <Coords points="196,4035 209,2498 196,971 2420,971 2420,4035 196,4035"/>
+      <TextLine id="867215" custom="structure {type:Title;}">
+        <Coords points="2222,981 2408,981 2408,1552 2222,1552 2222,981"/>
+        <Baseline points="2330,982 2330,1553"/>
+        <TextEquiv>
+          <Unicode>博物志卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867216" custom="structure {type:Author_name;}">
+        <Coords points="2036,1089 2242,1089 2242,1735 2036,1735 2036,1089"/>
+        <Baseline points="2122,1096 2142,1738"/>
+        <TextEquiv>
+          <Unicode>晉 張華撰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867217" custom="structure {type:Text;}">
+        <Coords points="1857,1081 2058,1081 2058,4012 1857,4012 1857,1081"/>
+        <Baseline points="1954,1086 1964,4014"/>
+        <TextEquiv>
+          <Unicode>余視山海經及禹貢爾雅說文地志雖曰悉備各有所不載</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867218" custom="structure {type:Text;}">
+        <Coords points="1671,1089 1870,1089 1870,3999 1671,3999 1671,1089"/>
+        <Baseline points="1772,1093 1782,4000"/>
+        <TextEquiv>
+          <Unicode>者作略說出所不見粗言遠方陳山川位象吉凶有徵諸國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867219" custom="structure {type:Text;}">
+        <Coords points="1484,1084 1691,1084 1691,4002 1484,4002 1484,1084"/>
+        <Baseline points="1587,1089 1601,4004"/>
+        <TextEquiv>
+          <Unicode>境界犬牙相入春秋之後並相侵伐其土地不可具詳其山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867220" custom="structure {type:Text;}">
+        <Coords points="1298,1094 1512,1094 1512,3629 1298,3629 1298,1094"/>
+        <Baseline points="1392,1099 1416,3630"/>
+        <TextEquiv>
+          <Unicode>川地澤略而言之正國十二博物之士一覽而鑒焉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867221" custom="structure {type:Title;}">
+        <Coords points="1117,1222 1323,1222 1323,3375 1117,3375 1117,1222"/>
+        <Baseline points="1214,1227 1241,3378"/>
+        <TextEquiv>
+          <Unicode>地理略自魏氏日已前夏禹治四方而制之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867222" custom="structure {type:Text;}">
+        <Coords points="936,981 1140,981 1140,4009 936,4009 936,981"/>
+        <Baseline points="1029,984 1046,4010"/>
+        <TextEquiv>
+          <Unicode>河圖括地象曰地南北三億三萬五千五百里地部之位起形</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867223" custom="structure {type:Text;}">
+        <Coords points="750,978 956,978 956,4004 750,4004 750,978"/>
+        <Baseline points="845,982 865,4007"/>
+        <TextEquiv>
+          <Unicode>高大者有崑崙山廣萬里高萬一千里神物之所生聖人仙人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867224" custom="structure {type:Text;}">
+        <Coords points="566,981 767,981 767,4014 566,4014 566,981"/>
+        <Baseline points="666,985 683,4017"/>
+        <TextEquiv>
+          <Unicode>之所集也出五色雲氣五色流水其泉南流入中國名曰河也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867225" custom="structure {type:Text;}">
+        <Coords points="372,978 586,978 586,4012 372,4012 372,978"/>
+        <Baseline points="478,982 495,4014"/>
+        <TextEquiv>
+          <Unicode>其山中應於天最居中八十城布繞之中國東南隅居其一分</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867226" custom="structure {type:Text;}">
+        <Coords points="186,983 387,983 387,1501 186,1501 186,983"/>
+        <Baseline points="293,988 307,1502"/>
+        <TextEquiv>
+          <Unicode>是奸城也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>博物志卷一
+晉 張華撰
+余視山海經及禹貢爾雅說文地志雖曰悉備各有所不載
+者作略說出所不見粗言遠方陳山川位象吉凶有徵諸國
+境界犬牙相入春秋之後並相侵伐其土地不可具詳其山
+川地澤略而言之正國十二博物之士一覽而鑒焉
+地理略自魏氏日已前夏禹治四方而制之
+河圖括地象曰地南北三億三萬五千五百里地部之位起形
+高大者有崑崙山廣萬里高萬一千里神物之所生聖人仙人
+之所集也出五色雲氣五色流水其泉南流入中國名曰河也
+其山中應於天最居中八十城布繞之中國東南隅居其一分
+是奸城也
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79221" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="98,1744 196,1739 197,3499 101,3503 98,1744"/>
+      <TextLine id="869025" custom="structure {type:Page_Number;}">
+        <Coords points="65,1765 236,1765 236,2047 65,2047 65,1765"/>
+        <Baseline points="121,1769 126,2049"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869026" custom="structure {type:Title;}">
+        <Coords points="70,2321 218,2321 218,2764 70,2764 70,2321"/>
+        <Baseline points="136,2325 140,2767"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869027" custom="structure {type:Page_Number;}">
+        <Coords points="57,3109 181,3109 181,3265 57,3265 57,3109"/>
+        <Baseline points="131,3267 136,3115"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷一
+博物志
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79222" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="148,191 148,107 232,107 232,191 148,191"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

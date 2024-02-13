@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:11+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0074.jpg" imageHeight="4853" imageWidth="2811">
+    <TextRegion id="79732" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2535,216 2535,108 2675,108 2675,216 2535,216"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79733" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2632,3602 2632,2058 2716,2058 2716,3602 2632,3602"/>
+      <TextLine id="1009321" custom="structure {type:Section;}">
+        <Coords points="2711,2680 2714,2064 2647,2061 2633,2680 2711,2680"/>
+        <Baseline points="2682,2073 2682,2672"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1009323" custom="structure {type:Page_Number;}">
+        <Coords points="2727,3443 2633,3443 2630,3602 2721,3598 2727,3443"/>
+        <Baseline points="2668,3442 2685,3597"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔目錄
+五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79739" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="255,3839 255,1599 2618,1599 2618,3839 255,3839"/>
+      <TextLine id="870677" custom="structure {type:Title;}">
+        <Coords points="2597,2450 2605,2351 2589,2297 2611,2251 2589,2208 2611,2156 2589,2135 2589,2043 2616,2013 2603,1927 2616,1822 2587,1760 2481,1760 2481,1900 2436,1962 2449,2054 2436,2092 2457,2116 2436,2186 2460,2213 2436,2278 2468,2315 2438,2359 2454,2402 2438,2445 2597,2450"/>
+        <Baseline points="2534,1763 2534,2453"/>
+        <TextEquiv>
+          <Unicode>清淨二十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870678" custom="structure {type:Title;}">
+        <Coords points="2519,3790 2584,3790 2600,3774 2578,3607 2592,3593 2581,3526 2603,3504 2581,3442 2603,3402 2605,3124 2425,3122 2433,3254 2403,3348 2403,3486 2430,3526 2411,3572 2427,3607 2414,3769 2427,3788 2519,3790"/>
+        <Baseline points="2522,3793 2528,3126"/>
+        <TextEquiv>
+          <Unicode>明察二十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870679" custom="structure {type:Title;}">
+        <Coords points="2328,1744 2252,1744 2228,1916 2244,1995 2222,2024 2241,2102 2225,2259 2263,2307 2228,2353 2228,2450 2409,2442 2390,2283 2411,2248 2387,2194 2414,2162 2414,2148 2387,2105 2414,2059 2411,1801 2382,1741 2328,1744"/>
+        <Baseline points="2330,1746 2341,2453"/>
+        <TextEquiv>
+          <Unicode>威嚴二十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870680" custom="structure {type:Title;}">
+        <Coords points="2317,3097 2239,3097 2220,3162 2217,3370 2241,3442 2220,3469 2241,3682 2220,3742 2244,3790 2409,3779 2387,3720 2400,3688 2379,3666 2379,3612 2400,3591 2379,3553 2398,3486 2379,3421 2403,3375 2390,3286 2403,3140 2379,3095 2317,3097"/>
+        <Baseline points="2319,3098 2324,3793"/>
+        <TextEquiv>
+          <Unicode>疾惡二十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870681" custom="structure {type:Title;}">
+        <Coords points="2125,1749 2071,1747 2039,1822 2039,1976 2055,2003 2044,2040 2058,2057 2047,2065 2052,2127 2028,2173 2055,2205 2025,2229 2025,2240 2055,2294 2052,2407 2025,2437 2198,2453 2201,2413 2171,2377 2171,2310 2206,2272 2190,2200 2209,2143 2185,2092 2217,1973 2201,1922 2220,1889 2190,1749 2125,1749"/>
+        <Baseline points="2104,2453 2127,1751"/>
+        <TextEquiv>
+          <Unicode>勤官二十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870682" custom="structure {type:Title;}">
+        <Coords points="2131,3097 2028,3095 2020,3105 2017,3278 2034,3329 2020,3380 2047,3421 2020,3477 2044,3513 2023,3580 2047,3602 2047,3642 2028,3693 2039,3736 2017,3769 2117,3782 2195,3779 2168,3647 2195,3577 2171,3529 2204,3502 2177,3442 2206,3372 2195,3264 2209,3151 2179,3097 2131,3097"/>
+        <Baseline points="2119,3784 2132,3098"/>
+        <TextEquiv>
+          <Unicode>稱職二十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870683" custom="structure {type:Title;}">
+        <Coords points="1920,1752 1858,1752 1831,1938 1850,1978 1834,2057 1856,2127 1837,2189 1864,2218 1837,2267 1866,2324 1996,2315 1996,2280 2020,2259 1996,2205 2017,2156 1993,2102 2023,2027 2023,1938 1993,1900 2017,1809 1990,1776 1990,1749 1920,1752"/>
+        <Baseline points="1921,1754 1931,2325"/>
+        <TextEquiv>
+          <Unicode>守職三十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870684" custom="structure {type:Title;}">
+        <Coords points="1729,2315 1807,2313 1799,2140 1812,2111 1799,2067 1820,2046 1804,1984 1820,1951 1799,1930 1823,1881 1823,1717 1796,1636 1656,1636 1624,1765 1624,1930 1653,1992 1629,2024 1629,2038 1653,2065 1626,2121 1659,2164 1659,2237 1626,2275 1626,2288 1656,2315 1729,2315"/>
+        <Baseline points="1731,1638 1731,2318"/>
+        <TextEquiv>
+          <Unicode>卷第三十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870685" custom="structure {type:Title;}">
+        <Coords points="1715,2839 1642,2839 1621,2992 1634,3014 1624,3108 1642,3124 1626,3151 1642,3205 1629,3300 1661,3340 1661,3386 1634,3456 1648,3477 1818,3469 1802,3367 1815,3305 1799,3267 1823,3192 1799,3127 1818,3062 1804,2960 1815,2909 1791,2836 1715,2839"/>
+        <Baseline points="1717,2841 1736,3479"/>
+        <TextEquiv>
+          <Unicode>政術部十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870686" custom="structure {type:Title;}">
+        <Coords points="1526,2407 1618,2399 1591,2351 1591,2283 1618,2256 1591,2200 1618,2167 1594,2116 1618,2040 1597,2000 1615,1976 1599,1922 1618,1838 1591,1811 1591,1779 1481,1779 1481,1854 1445,1887 1435,1946 1435,2062 1459,2111 1435,2170 1462,2197 1435,2259 1478,2307 1435,2386 1440,2407 1526,2407"/>
+        <Baseline points="1527,1781 1527,2409"/>
+        <TextEquiv>
+          <Unicode>公政三十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870687" custom="structure {type:Title;}">
+        <Coords points="1321,1636 1257,1633 1227,1709 1240,1744 1224,1846 1240,1892 1224,1930 1251,1976 1222,2030 1246,2067 1222,2124 1254,2156 1254,2267 1230,2294 1311,2307 1405,2305 1378,2151 1405,2127 1386,2081 1410,2024 1386,1970 1416,1900 1416,1801 1397,1779 1416,1733 1383,1636 1321,1636"/>
+        <Baseline points="1313,2309 1322,1638"/>
+        <TextEquiv>
+          <Unicode>卷第三十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870688" custom="structure {type:Title;}">
+        <Coords points="1321,2830 1246,2828 1227,2871 1238,2919 1222,3189 1243,3270 1227,3286 1243,3318 1243,3451 1220,3521 1409,3531 1400,3424 1386,3351 1410,3313 1397,3254 1410,3232 1416,2968 1392,2830 1321,2830"/>
+        <Baseline points="1313,3493 1322,2832"/>
+        <TextEquiv>
+          <Unicode>政術部十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870728" custom="structure {type:Title;}">
+        <Coords points="1122,1765 1038,1765 1030,2057 1057,2127 1033,2162 1060,2210 1035,2235 1035,2248 1062,2272 1062,2326 1033,2434 1127,2442 1208,2429 1192,2404 1192,2278 1216,2240 1192,2202 1216,2164 1203,2086 1216,2011 1200,1976 1219,1954 1219,1825 1186,1763 1122,1765"/>
+        <Baseline points="1124,1768 1128,2444"/>
+        <TextEquiv>
+          <Unicode>廉潔三十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870729" custom="structure {type:Title;}">
+        <Coords points="922,1647 801,1647 803,1949 838,1984 825,2032 844,2059 828,2102 847,2140 828,2313 930,2315 1017,2302 992,2262 992,2146 1022,2105 1022,2092 992,2062 1019,2035 995,1973 1019,1865 1006,1836 1017,1706 992,1644 922,1647"/>
+        <Baseline points="924,1648 932,2316"/>
+        <TextEquiv>
+          <Unicode>卷第三十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870730" custom="structure {type:Title;}">
+        <Coords points="919,3510 1003,3510 1003,3248 1017,3232 1003,2844 841,2844 825,2971 825,3200 844,3221 844,3270 825,3294 841,3426 825,3494 838,3510 919,3510"/>
+        <Baseline points="920,2847 920,3511"/>
+        <TextEquiv>
+          <Unicode>政術部十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870731" custom="structure {type:Title;}">
+        <Coords points="717,1768 647,1768 631,1803 647,1844 631,1889 631,1954 647,1970 631,2013 647,2129 631,2162 631,2253 647,2270 631,2431 812,2431 798,2278 817,2243 798,2213 820,2162 798,2132 817,2097 806,1970 820,1892 795,1768 717,1768"/>
+        <Baseline points="720,1771 720,2435"/>
+        <TextEquiv>
+          <Unicode>施惠三十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870732" custom="structure {type:Title;}">
+        <Coords points="709,3097 642,3097 623,3157 642,3246 623,3291 636,3318 625,3410 644,3432 625,3502 647,3526 628,3588 650,3615 628,3739 647,3782 798,3777 814,3332 801,3208 812,3132 795,3095 709,3097"/>
+        <Baseline points="712,3099 720,3783"/>
+        <TextEquiv>
+          <Unicode>賑恤三十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870733" custom="structure {type:Title;}">
+        <Coords points="515,1774 450,1774 450,1838 428,1868 445,1981 431,2049 455,2108 439,2148 455,2202 434,2224 458,2272 437,2332 439,2437 615,2423 596,2402 596,2264 609,2240 593,2200 615,2129 593,2111 606,2078 590,2046 612,2005 598,1860 609,1795 590,1771 515,1774"/>
+        <Baseline points="516,1775 528,2439"/>
+        <TextEquiv>
+          <Unicode>興利三十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870734" custom="structure {type:Title;}">
+        <Coords points="523,3114 447,3114 426,3146 450,3200 426,3224 428,3340 450,3362 428,3399 428,3413 450,3432 428,3469 442,3531 428,3561 458,3602 458,3655 431,3680 434,3782 609,3771 596,3731 609,3693 588,3672 588,3593 609,3569 588,3523 606,3486 585,3461 606,3332 582,3232 604,3135 585,3111 523,3114"/>
+        <Baseline points="524,3115 532,3783"/>
+        <TextEquiv>
+          <Unicode>方略三十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870735" custom="structure {type:Title;}">
+        <Coords points="323,1760 267,1760 267,1784 242,1809 267,1916 242,1957 261,2040 245,2076 264,2092 245,2135 258,2200 248,2248 275,2278 275,2351 248,2375 258,2439 396,2434 393,2386 410,2367 393,2337 393,2270 415,2229 393,2191 415,2146 391,2124 391,2086 420,2013 401,1919 420,1884 420,1790 393,1757 323,1760"/>
+        <Baseline points="325,1763 333,2443"/>
+        <TextEquiv>
+          <Unicode>摘伏三十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870736" custom="structure {type:Title;}">
+        <Coords points="323,3105 261,3105 240,3124 240,3407 261,3429 240,3483 258,3523 240,3577 267,3607 248,3774 415,3771 391,3704 391,3602 410,3583 399,3526 418,3488 391,3445 418,3378 404,3286 418,3157 391,3105 323,3105"/>
+        <Baseline points="325,3107 325,3779"/>
+        <TextEquiv>
+          <Unicode>勸課三十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>清淨二十四
+明察二十五
+威嚴二十六
+疾惡二十七
+勤官二十八
+稱職二十九
+守職三十
+卷第三十七
+政術部十一
+公政三十一
+卷第三十八
+政術部十二
+廉潔三十二
+卷第三十九
+政術部十三
+施惠三十三
+賑恤三十四
+興利三十五
+方略三十六
+摘伏三十七
+勸課三十八
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79734" custom="structure {type:Marginalia;}">
+      <Coords points="84,4220 84,3488 200,3488 200,4220 84,4220"/>
+      <TextLine id="870629" custom="structure {type:Title;}">
+        <Coords points="137,3507 91,3507 91,4192 199,4187 186,3504 137,3507"/>
+        <Baseline points="140,3509 156,4193"/>
+        <TextEquiv>
+          <Unicode>孔氏三十三萬卷堂影鈔本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>孔氏三十三萬卷堂影鈔本
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

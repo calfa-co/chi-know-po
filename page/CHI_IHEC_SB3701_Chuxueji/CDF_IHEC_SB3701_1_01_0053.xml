@@ -1,0 +1,633 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:51+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB3701_1_01_0053.jpg" imageHeight="4684" imageWidth="5751">
+    <TextRegion id="118078" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5356,909 5475,904 5479,4163 5365,4163 5356,909"/>
+      <TextLine id="1113520" custom="structure {type:Marginalia;}">
+        <Coords points="5355,887 5644,887 5644,1379 5355,1379 5355,887"/>
+        <Baseline points="5416,897 5424,1381"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113521" custom="structure {type:Section;}">
+        <Coords points="5347,1860 5636,1860 5636,2407 5347,2407 5347,1860"/>
+        <Baseline points="5412,1869 5428,2409"/>
+        <TextEquiv>
+          <Unicode>初學記卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113522" custom="structure {type:Page_Number;}">
+        <Coords points="5337,3099 5631,3099 5631,3390 5337,3390 5337,3099"/>
+        <Baseline points="5420,3109 5428,3393"/>
+        <TextEquiv>
+          <Unicode>十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷二
+十一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118079" custom="structure {type:MainText_Right;}">
+      <Coords points="2882,933 5365,900 5356,4158 2906,4182 2882,933"/>
+      <TextLine id="1113523" custom="structure {type:Commentary;}">
+        <Coords points="5201,889 5378,889 5378,1454 5201,1454 5201,889"/>
+        <Baseline points="5279,893 5283,1457"/>
+        <TextEquiv>
+          <Unicode>三日果疾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113524" custom="structure {type:Commentary;}">
+        <Coords points="5058,874 5212,874 5212,1475 5058,1475 5058,874"/>
+        <Baseline points="5131,877 5139,1477"/>
+        <TextEquiv>
+          <Unicode>風暴雨過</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113525" custom="structure {type:Text;}">
+        <Coords points="5087,1420 5334,1420 5334,1826 5087,1826 5087,1420"/>
+        <Baseline points="5211,1829 5215,1425"/>
+        <TextEquiv>
+          <Unicode>含水</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113526" custom="structure {type:Text;}">
+        <Coords points="5144,1894 5342,1894 5342,2258 5144,2258 5144,1894"/>
+        <Baseline points="5211,1897 5211,2261"/>
+        <TextEquiv>
+          <Unicode>嗽酒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113527" custom="structure {type:Commentary;}">
+        <Coords points="5196,2256 5373,2256 5373,4184 5196,4184 5196,2256"/>
+        <Baseline points="5279,2257 5279,4185"/>
+        <TextEquiv>
+          <Unicode>楚國先賢傳曰樊英隱於壺山嘗有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113528" custom="structure {type:Commentary;}">
+        <Coords points="5069,2240 5217,2240 5217,4171 5069,4171 5069,2240"/>
+        <Baseline points="5143,2241 5143,4173"/>
+        <TextEquiv>
+          <Unicode>暴風從西南起英謂學者成都市火</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113529" custom="structure {type:Commentary;}">
+        <Coords points="4923,884 5071,884 5071,4168 4923,4168 4923,884"/>
+        <Baseline points="5003,889 5011,4169"/>
+        <TextEquiv>
+          <Unicode>甚盛因含水西向嗽之乃令記其時日後有從蜀郡來者云是</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113530" custom="structure {type:Commentary;}">
+        <Coords points="4798,897 4941,897 4941,4176 4798,4176 4798,897"/>
+        <Baseline points="4867,901 4871,4177"/>
+        <TextEquiv>
+          <Unicode>日大火有雲從東起須臾大雨葛洪神仙傳曰欒巴者蜀郡人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113531" custom="structure {type:Commentary;}">
+        <Coords points="4650,887 4795,887 4795,4160 4650,4160 4650,887"/>
+        <Baseline points="4727,889 4731,4161"/>
+        <TextEquiv>
+          <Unicode>也徵入爲尚書正朝大會欒巴得酒不飲面西南嗽之有司奏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113532" custom="structure {type:Commentary;}">
+        <Coords points="4522,892 4665,892 4665,4179 4522,4179 4522,892"/>
+        <Baseline points="4595,4181 4599,897"/>
+        <TextEquiv>
+          <Unicode>巴大不敬詔問巴巴謝曰臣本縣都市失火臣故嗽酒爲雨滅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113533" custom="structure {type:Commentary;}">
+        <Coords points="4377,882 4520,882 4520,1311 4377,1311 4377,882"/>
+        <Baseline points="4459,885 4463,1313"/>
+        <TextEquiv>
+          <Unicode>火非敢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113534" custom="structure {type:Commentary;}">
+        <Coords points="4246,900 4377,900 4377,1184 4246,1184 4246,900"/>
+        <Baseline points="4319,901 4319,1185"/>
+        <TextEquiv>
+          <Unicode>不敬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113535" custom="structure {type:Text;}">
+        <Coords points="4257,1306 4494,1306 4494,1691 4257,1691 4257,1306"/>
+        <Baseline points="4371,1309 4379,1693"/>
+        <TextEquiv>
+          <Unicode>蟻封</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113536" custom="structure {type:Text;}">
+        <Coords points="4259,1769 4504,1769 4504,2120 4259,2120 4259,1769"/>
+        <Baseline points="4379,1773 4383,2121"/>
+        <TextEquiv>
+          <Unicode>龍穴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113537" custom="structure {type:Commentary;}">
+        <Coords points="4369,2118 4525,2118 4525,4168 4369,4168 4369,2118"/>
+        <Baseline points="4451,2121 4467,4169"/>
+        <TextEquiv>
+          <Unicode>東觀漢記曰沛獻王輔善京氏易永平</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113538" custom="structure {type:Commentary;}">
+        <Coords points="4236,2118 4384,2118 4384,4168 4236,4168 4236,2118"/>
+        <Baseline points="4311,2121 4315,4169"/>
+        <TextEquiv>
+          <Unicode>五年京師少雨上御雲臺自爲卦以周</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113539" custom="structure {type:Commentary;}">
+        <Coords points="4093,897 4246,897 4246,4186 4093,4186 4093,897"/>
+        <Baseline points="4179,901 4187,4189"/>
+        <TextEquiv>
+          <Unicode>易林占之其繇曰蟻封穴戶大雨將至上以問輔輔上書曰蹇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113540" custom="structure {type:Commentary;}">
+        <Coords points="3960,897 4108,897 4108,4184 3960,4184 3960,897"/>
+        <Baseline points="4039,901 4043,4185"/>
+        <TextEquiv>
+          <Unicode>艮下坎上艮爲山坎爲水山出雲爲雨蟻穴居知雨將至故以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113541" custom="structure {type:Commentary;}">
+        <Coords points="3812,892 3968,892 3968,2948 3812,2948 3812,892"/>
+        <Baseline points="3907,897 3911,2949"/>
+        <TextEquiv>
+          <Unicode>蟻興張勃蹇吳錄曰湘東郡新平縣有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113542" custom="structure {type:Commentary;}">
+        <Coords points="3671,889 3817,889 3817,2802 3671,2802 3671,889"/>
+        <Baseline points="3747,2805 3751,893"/>
+        <TextEquiv>
+          <Unicode>龍穴天旱人共遏水漬此穴輒雨也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113543" custom="structure {type:Text;}">
+        <Coords points="3716,2904 3939,2904 3939,3364 3716,3364 3716,2904"/>
+        <Baseline points="3827,2905 3827,3365"/>
+        <TextEquiv>
+          <Unicode>積薪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113544" custom="structure {type:Text;}">
+        <Coords points="3716,3453 3945,3453 3945,3830 3716,3830 3716,3453"/>
+        <Baseline points="3827,3457 3835,3833"/>
+        <TextEquiv>
+          <Unicode>環艾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113545" custom="structure {type:Commentary;}">
+        <Coords points="3804,3851 3978,3851 3978,4186 3804,4186 3804,3851"/>
+        <Baseline points="3895,3857 3911,4185"/>
+        <TextEquiv>
+          <Unicode>謝承</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113546" custom="structure {type:Commentary;}">
+        <Coords points="3671,3825 3812,3825 3812,4171 3671,4171 3671,3825"/>
+        <Baseline points="3747,3829 3759,4173"/>
+        <TextEquiv>
+          <Unicode>後漢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113547" custom="structure {type:Commentary;}">
+        <Coords points="3526,892 3690,892 3690,4186 3526,4186 3526,892"/>
+        <Baseline points="3611,897 3631,4189"/>
+        <TextEquiv>
+          <Unicode>書曰戴封字平仲遷西華令其年大旱禱請不獲乃積薪坐其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113548" custom="structure {type:Commentary;}">
+        <Coords points="3401,900 3557,900 3557,4184 3401,4184 3401,900"/>
+        <Baseline points="3479,905 3495,4185"/>
+        <TextEquiv>
+          <Unicode>上以自焚火起而大雨遠邇歎服遷中山令范曄後漢書曰涼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113549" custom="structure {type:Commentary;}">
+        <Coords points="3255,908 3411,908 3411,4202 3255,4202 3255,908"/>
+        <Baseline points="3343,913 3351,4205"/>
+        <TextEquiv>
+          <Unicode>輔仕郡爲五官掾時夏大旱太守自祈請輔曰若至日中不雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113550" custom="structure {type:Commentary;}">
+        <Coords points="3117,905 3281,905 3281,4199 3117,4199 3117,905"/>
+        <Baseline points="3199,909 3223,4201"/>
+        <TextEquiv>
+          <Unicode>以身塞無狀於是積薪聚艾茅以自環構火將自焚未及中時</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113551" custom="structure {type:Commentary;}">
+        <Coords points="2971,908 3122,908 3122,1618 2971,1618 2971,908"/>
+        <Baseline points="3059,913 3067,1621"/>
+        <TextEquiv>
+          <Unicode>而天雲晦合</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113552" custom="structure {type:Commentary;}">
+        <Coords points="2875,902 2992,902 2992,1475 2875,1475 2875,902"/>
+        <Baseline points="2923,905 2923,1477"/>
+        <TextEquiv>
+          <Unicode>須臾澍雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113553" custom="structure {type:Text;}">
+        <Coords points="2875,1563 3094,1563 3094,1998 2875,1998 2875,1563"/>
+        <Baseline points="2991,2001 2995,1569"/>
+        <TextEquiv>
+          <Unicode>伐殷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113554" custom="structure {type:Text;}">
+        <Coords points="2953,2089 3044,2089 3044,2440 2953,2440 2953,2089"/>
+        <Baseline points="2991,2093 2999,2441"/>
+        <TextEquiv>
+          <Unicode>討邢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113555" custom="structure {type:Commentary;}">
+        <Coords points="2984,2529 3127,2529 3127,4192 2984,4192 2984,2529"/>
+        <Baseline points="3067,2533 3075,4193"/>
+        <TextEquiv>
+          <Unicode>搜神記曰武王伐紂至河土雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113556" custom="structure {type:Commentary;}">
+        <Coords points="2888,2500 3005,2500 3005,4194 2888,4194 2888,2500"/>
+        <Baseline points="2939,2505 2947,4197"/>
+        <TextEquiv>
+          <Unicode>甚疾當晝暝揚波於河衆甚懼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>三日果疾
+風暴雨過
+含水
+嗽酒
+楚國先賢傳曰樊英隱於壺山嘗有
+暴風從西南起英謂學者成都市火
+甚盛因含水西向嗽之乃令記其時日後有從蜀郡來者云是
+日大火有雲從東起須臾大雨葛洪神仙傳曰欒巴者蜀郡人
+也徵入爲尚書正朝大會欒巴得酒不飲面西南嗽之有司奏
+巴大不敬詔問巴巴謝曰臣本縣都市失火臣故嗽酒爲雨滅
+火非敢
+不敬
+蟻封
+龍穴
+東觀漢記曰沛獻王輔善京氏易永平
+五年京師少雨上御雲臺自爲卦以周
+易林占之其繇曰蟻封穴戶大雨將至上以問輔輔上書曰蹇
+艮下坎上艮爲山坎爲水山出雲爲雨蟻穴居知雨將至故以
+蟻興張勃蹇吳錄曰湘東郡新平縣有
+龍穴天旱人共遏水漬此穴輒雨也
+積薪
+環艾
+謝承
+後漢
+書曰戴封字平仲遷西華令其年大旱禱請不獲乃積薪坐其
+上以自焚火起而大雨遠邇歎服遷中山令范曄後漢書曰涼
+輔仕郡爲五官掾時夏大旱太守自祈請輔曰若至日中不雨
+以身塞無狀於是積薪聚艾茅以自環構火將自焚未及中時
+而天雲晦合
+須臾澍雨
+伐殷
+討邢
+搜神記曰武王伐紂至河土雨
+甚疾當晝暝揚波於河衆甚懼
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118080" custom="structure {type:MainText_Left;}">
+      <Coords points="384,890 2406,885 2839,871 2839,4149 398,4177 384,890"/>
+      <TextLine id="1113557" custom="structure {type:Commentary;}">
+        <Coords points="2716,856 2844,856 2844,4168 2716,4168 2716,856"/>
+        <Baseline points="2791,861 2811,4169"/>
+        <TextEquiv>
+          <Unicode>武王曰余在天下誰敢干志者風波立濟左傳曰衞旱卜有事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113558" custom="structure {type:Commentary;}">
+        <Coords points="2576,856 2755,856 2755,4168 2576,4168 2576,856"/>
+        <Baseline points="2655,861 2691,4169"/>
+        <TextEquiv>
+          <Unicode>於山川不吉甯莊子曰昔周飢克殷而年豐今邢方無道欲使</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113559" custom="structure {type:Commentary;}">
+        <Coords points="2422,861 2584,861 2584,1584 2422,1584 2422,861"/>
+        <Baseline points="2507,865 2535,1585"/>
+        <TextEquiv>
+          <Unicode>衞討邢焉從</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113560" custom="structure {type:Commentary;}">
+        <Coords points="2271,853 2456,853 2456,1566 2271,1566 2271,853"/>
+        <Baseline points="2363,857 2387,1569"/>
+        <TextEquiv>
+          <Unicode>之師興而雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113561" custom="structure {type:Text;}">
+        <Coords points="2412,1548 2581,1548 2581,2016 2412,2016 2412,1548"/>
+        <Baseline points="2455,1553 2459,2017"/>
+        <TextEquiv>
+          <Unicode>禱林</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113562" custom="structure {type:Text;}">
+        <Coords points="2326,2066 2584,2066 2584,2511 2326,2511 2326,2066"/>
+        <Baseline points="2459,2073 2471,2513"/>
+        <TextEquiv>
+          <Unicode>暴野</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113563" custom="structure {type:Commentary;}">
+        <Coords points="2459,2508 2610,2508 2610,4168 2459,4168 2459,2508"/>
+        <Baseline points="2539,2509 2539,4169"/>
+        <TextEquiv>
+          <Unicode>淮南子曰湯時九年旱以禱於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113564" custom="structure {type:Commentary;}">
+        <Coords points="2313,2490 2472,2490 2472,4184 2313,4184 2313,2490"/>
+        <Baseline points="2391,2493 2395,4185"/>
+        <TextEquiv>
+          <Unicode>桑林而四海之雲湊千里之雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113565" custom="structure {type:Commentary;}">
+        <Coords points="2154,856 2329,856 2329,4194 2154,4194 2154,856"/>
+        <Baseline points="2243,861 2263,4197"/>
+        <TextEquiv>
+          <Unicode>至晏子春秋齊景公時旱欲祀靈山晏子曰山故以石爲身草</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113566" custom="structure {type:Commentary;}">
+        <Coords points="2024,861 2196,861 2196,4184 2024,4184 2024,861"/>
+        <Baseline points="2099,865 2135,4185"/>
+        <TextEquiv>
+          <Unicode>木爲髮天苟不雨髮焦身熱久旱獨不欲雨乎君避殿暴露其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113567" custom="structure {type:Commentary;}">
+        <Coords points="1878,874 2032,874 2032,1743 1878,1743 1878,874"/>
+        <Baseline points="1975,877 1987,1745"/>
+        <TextEquiv>
+          <Unicode>當雨公出野暴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113568" custom="structure {type:Commentary;}">
+        <Coords points="1735,845 1891,845 1891,1602 1735,1602 1735,845"/>
+        <Baseline points="1807,849 1827,1605"/>
+        <TextEquiv>
+          <Unicode>露天果大雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113569" custom="structure {type:Text;}">
+        <Coords points="1766,1712 2024,1712 2024,2136 1766,2136 1766,1712"/>
+        <Baseline points="1903,1713 1903,2137"/>
+        <TextEquiv>
+          <Unicode>十夜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113570" custom="structure {type:Text;}">
+        <Coords points="1813,2206 2016,2206 2016,2544 1813,2544 1813,2206"/>
+        <Baseline points="1903,2213 1923,2545"/>
+        <TextEquiv>
+          <Unicode>九旬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113571" custom="structure {type:Commentary;}">
+        <Coords points="1899,2498 2060,2498 2060,4192 1899,4192 1899,2498"/>
+        <Baseline points="1987,2501 1999,4193"/>
+        <TextEquiv>
+          <Unicode>說苑曰楚莊王伐陳吳救之雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113572" custom="structure {type:Commentary;}">
+        <Coords points="1764,2508 1920,2508 1920,4186 1764,4186 1764,2508"/>
+        <Baseline points="1835,2509 1843,4189"/>
+        <TextEquiv>
+          <Unicode>十日十夜晴左史倚相曰吳師</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113573" custom="structure {type:Commentary;}">
+        <Coords points="1600,863 1787,863 1787,4199 1600,4199 1600,863"/>
+        <Baseline points="1683,869 1731,4201"/>
+        <TextEquiv>
+          <Unicode>必夜至甲裂壘壞彼必薄我何不行列鼓出待之吳師見楚軍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113574" custom="structure {type:Commentary;}">
+        <Coords points="1465,853 1647,853 1647,4171 1465,4171 1465,853"/>
+        <Baseline points="1551,857 1587,4173"/>
+        <TextEquiv>
+          <Unicode>成敗而還傅咸懷雨賦曰夫何遠寓之多懷兮惠霖雨之有經</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113575" custom="structure {type:Commentary;}">
+        <Coords points="1321,876 1496,876 1496,2716 1321,2716 1321,876"/>
+        <Baseline points="1395,881 1451,2717"/>
+        <TextEquiv>
+          <Unicode>自流火以迄今兮歷九旬而無寧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113576" custom="structure {type:Commentary;}">
+        <Coords points="1189,861 1358,861 1358,2688 1189,2688 1189,861"/>
+        <Baseline points="1271,865 1291,2689"/>
+        <TextEquiv>
+          <Unicode>庶太清之垂曜兮覩日月之光明</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113577" custom="structure {type:Text;}">
+        <Coords points="1225,2677 1472,2677 1472,3078 1225,3078 1225,2677"/>
+        <Baseline points="1359,2681 1367,3081"/>
+        <TextEquiv>
+          <Unicode>石牛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113578" custom="structure {type:Text;}">
+        <Coords points="1290,3156 1472,3156 1472,3567 1290,3567 1290,3156"/>
+        <Baseline points="1359,3157 1359,3569"/>
+        <TextEquiv>
+          <Unicode>桐魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113579" custom="structure {type:Commentary;}">
+        <Coords points="1350,3601 1504,3601 1504,4171 1350,4171 1350,3601"/>
+        <Baseline points="1443,3605 1447,4173"/>
+        <TextEquiv>
+          <Unicode>顧微廣州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113580" custom="structure {type:Commentary;}">
+        <Coords points="1220,3588 1371,3588 1371,4179 1220,4179 1220,3588"/>
+        <Baseline points="1291,3589 1291,4181"/>
+        <TextEquiv>
+          <Unicode>記曰鬱林</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113581" custom="structure {type:Commentary;}">
+        <Coords points="1051,876 1225,876 1225,4179 1051,4179 1051,876"/>
+        <Baseline points="1135,881 1171,4181"/>
+        <TextEquiv>
+          <Unicode>郡山東南有池池有石牛歲旱百姓殺牛祈雨以牛血和泥泥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113582" custom="structure {type:Commentary;}">
+        <Coords points="913,876 1095,876 1095,4184 913,4184 913,876"/>
+        <Baseline points="987,881 1039,4185"/>
+        <TextEquiv>
+          <Unicode>石牛背祠畢天雨洪注洗牛背泥盡即晴淮南子曰董仲舒請</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113583" custom="structure {type:Commentary;}">
+        <Coords points="770,861 913,861 913,1340 770,1340 770,861"/>
+        <Baseline points="859,865 875,1341"/>
+        <TextEquiv>
+          <Unicode>雨秋用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113584" custom="structure {type:Commentary;}">
+        <Coords points="629,876 783,876 783,1355 629,1355 629,876"/>
+        <Baseline points="711,877 711,1357"/>
+        <TextEquiv>
+          <Unicode>桐木魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113585" custom="structure {type:Text;}">
+        <Coords points="658,1306 905,1306 905,1943 658,1943 658,1306"/>
+        <Baseline points="787,1309 799,1945"/>
+        <TextEquiv>
+          <Unicode>商羊舞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113586" custom="structure {type:Text;}">
+        <Coords points="666,2016 918,2016 918,2539 666,2539 666,2016"/>
+        <Baseline points="799,2541 803,2021"/>
+        <TextEquiv>
+          <Unicode>黑蜧躍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113587" custom="structure {type:Commentary;}">
+        <Coords points="793,2537 955,2537 955,4186 793,4186 793,2537"/>
+        <Baseline points="883,2541 895,4189"/>
+        <TextEquiv>
+          <Unicode>家語曰齊有一足鳥飛公朝下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113588" custom="structure {type:Commentary;}">
+        <Coords points="647,2516 806,2516 806,4179 647,4179 647,2516"/>
+        <Baseline points="731,2521 751,4181"/>
+        <TextEquiv>
+          <Unicode>於殿前舒翅而跳齊侯遣使問</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113589" custom="structure {type:Commentary;}">
+        <Coords points="491,882 681,882 681,4023 491,4023 491,882"/>
+        <Baseline points="571,885 619,4025"/>
+        <TextEquiv>
+          <Unicode>孔子曰鳥名商羊昔童謠曰天將大雨商羊鼓舞今齊有之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113590" custom="structure {type:Commentary;}">
+        <Coords points="351,876 536,876 536,4012 351,4012 351,876"/>
+        <Baseline points="439,881 467,4013"/>
+        <TextEquiv>
+          <Unicode>將爲水災淮南子曰黑蜧神蛇潛泉而居將雨則躍蜧音麗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113591" custom="structure {type:Text;}">
+        <Coords points="473,3960 619,3960 619,4212 473,4212 473,3960"/>
+        <Baseline points="551,3961 551,4213"/>
+        <TextEquiv>
+          <Unicode>洗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>武王曰余在天下誰敢干志者風波立濟左傳曰衞旱卜有事
+於山川不吉甯莊子曰昔周飢克殷而年豐今邢方無道欲使
+衞討邢焉從
+之師興而雨
+禱林
+暴野
+淮南子曰湯時九年旱以禱於
+桑林而四海之雲湊千里之雨
+至晏子春秋齊景公時旱欲祀靈山晏子曰山故以石爲身草
+木爲髮天苟不雨髮焦身熱久旱獨不欲雨乎君避殿暴露其
+當雨公出野暴
+露天果大雨
+十夜
+九旬
+說苑曰楚莊王伐陳吳救之雨
+十日十夜晴左史倚相曰吳師
+必夜至甲裂壘壞彼必薄我何不行列鼓出待之吳師見楚軍
+成敗而還傅咸懷雨賦曰夫何遠寓之多懷兮惠霖雨之有經
+自流火以迄今兮歷九旬而無寧
+庶太清之垂曜兮覩日月之光明
+石牛
+桐魚
+顧微廣州
+記曰鬱林
+郡山東南有池池有石牛歲旱百姓殺牛祈雨以牛血和泥泥
+石牛背祠畢天雨洪注洗牛背泥盡即晴淮南子曰董仲舒請
+雨秋用
+桐木魚
+商羊舞
+黑蜧躍
+家語曰齊有一足鳥飛公朝下
+於殿前舒翅而跳齊侯遣使問
+孔子曰鳥名商羊昔童謠曰天將大雨商羊鼓舞今齊有之
+將爲水災淮南子曰黑蜧神蛇潛泉而居將雨則躍蜧音麗
+洗
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118081" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="260,895 389,895 398,4187 279,4187 260,895"/>
+      <TextLine id="1113592" custom="structure {type:Marginalia;}">
+        <Coords points="119,879 356,879 356,1358 119,1358 119,879"/>
+        <Baseline points="303,881 319,1357"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113593" custom="structure {type:Section;}">
+        <Coords points="288,1891 387,1891 387,2404 288,2404 288,1891"/>
+        <Baseline points="311,1897 335,2405"/>
+        <TextEquiv>
+          <Unicode>初學記卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113594" custom="structure {type:Page_Number;}">
+        <Coords points="255,3075 359,3075 359,3323 255,3323 255,3075"/>
+        <Baseline points="319,3325 323,3081"/>
+        <TextEquiv>
+          <Unicode>十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷二
+十二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,449 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:10+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB3701_1_02_0044.jpg" imageHeight="4687" imageWidth="5752">
+    <TextRegion id="118108" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5356,925 5460,925 5460,4198 5351,4208 5356,925"/>
+      <TextLine id="1114073" custom="structure {type:Marginalia;}">
+        <Coords points="5356,903 5640,903 5640,1294 5356,1294 5356,903"/>
+        <Baseline points="5420,915 5432,1295"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114074" custom="structure {type:Section;}">
+        <Coords points="5356,1866 5634,1866 5634,2392 5356,2392 5356,1866"/>
+        <Baseline points="5412,1879 5436,2395"/>
+        <TextEquiv>
+          <Unicode>初學記卷五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114075" custom="structure {type:Page_Number;}">
+        <Coords points="5371,3088 5621,3088 5621,3299 5371,3299 5371,3088"/>
+        <Baseline points="5404,3099 5413,3301"/>
+        <TextEquiv>
+          <Unicode>十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷五
+十六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118109" custom="structure {type:MainText_Right;}">
+      <Coords points="2887,1006 5370,930 5351,4198 2930,4227 2887,1006"/>
+      <TextLine id="1114076" custom="structure {type:Commentary;}">
+        <Coords points="5194,924 5351,924 5351,1361 5194,1361 5194,924"/>
+        <Baseline points="5292,931 5312,1363"/>
+        <TextEquiv>
+          <Unicode>來廻策</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114077" custom="structure {type:Commentary;}">
+        <Coords points="5072,929 5220,929 5220,1354 5072,1354 5072,929"/>
+        <Baseline points="5136,935 5160,1355"/>
+        <TextEquiv>
+          <Unicode>思方浩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114078" custom="structure {type:Title;}">
+        <Coords points="5067,1343 5356,1343 5356,1630 5067,1630 5067,1343"/>
+        <Baseline points="5204,1359 5224,1623"/>
+        <TextEquiv>
+          <Unicode>序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114079" custom="structure {type:Text;}">
+        <Coords points="5121,1640 5356,1640 5356,3109 5121,3109 5121,1640"/>
+        <Baseline points="5220,1643 5220,3111"/>
+        <TextEquiv>
+          <Unicode>後漢張旭華嶽碑序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114080" custom="structure {type:Commentary;}">
+        <Coords points="5202,3067 5374,3067 5374,4205 5202,4205 5202,3067"/>
+        <Baseline points="5288,4207 5292,3071"/>
+        <TextEquiv>
+          <Unicode>易曰天地定位山澤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114081" custom="structure {type:Commentary;}">
+        <Coords points="5085,3072 5231,3072 5231,4197 5085,4197 5085,3072"/>
+        <Baseline points="5164,3075 5164,4199"/>
+        <TextEquiv>
+          <Unicode>通氣然則山莫尊於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114082" custom="structure {type:Commentary;}">
+        <Coords points="4939,926 5114,926 5114,4220 4939,4220 4939,926"/>
+        <Baseline points="5024,931 5036,4223"/>
+        <TextEquiv>
+          <Unicode>岳澤莫崇於瀆岳而有五而華處其一瀆而有四而河在其數</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114083" custom="structure {type:Commentary;}">
+        <Coords points="4801,926 4973,926 4973,4226 4801,4226 4801,926"/>
+        <Baseline points="4884,931 4916,4227"/>
+        <TextEquiv>
+          <Unicode>其為靈也至矣人主慶興必有其應故岱山石立中宗繼統太</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114084" custom="structure {type:Commentary;}">
+        <Coords points="4647,926 4858,926 4858,4213 4647,4213 4647,926"/>
+        <Baseline points="4732,931 4784,4215"/>
+        <TextEquiv>
+          <Unicode>華授璧秦胡絕緒布五方則受其西列三條則居其中若廣獸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114085" custom="structure {type:Commentary;}">
+        <Coords points="4535,926 4710,926 4710,4220 4535,4220 4535,926"/>
+        <Baseline points="4616,927 4644,4223"/>
+        <TextEquiv>
+          <Unicode>奇蟲山經有紀經有望秩之禮典有生殖之祀蓋所以宗山川</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114086" custom="structure {type:Commentary;}">
+        <Coords points="4392,932 4572,932 4572,2978 4392,2978 4392,932"/>
+        <Baseline points="4480,935 4512,2979"/>
+        <TextEquiv>
+          <Unicode>而報功也四海一統天子乘其祀諸矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114087" custom="structure {type:Commentary;}">
+        <Coords points="4257,934 4434,934 4434,2958 4257,2958 4257,934"/>
+        <Baseline points="4332,939 4372,2959"/>
+        <TextEquiv>
+          <Unicode>力政強國攝其祭其奉邑曰華陰久矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114088" custom="structure {type:Text;}">
+        <Coords points="4304,2952 4569,2952 4569,4213 4304,4213 4304,2952"/>
+        <Baseline points="4424,2959 4460,4215"/>
+        <TextEquiv>
+          <Unicode>西晉傅玄華嶽碑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114089" custom="structure {type:Text;}">
+        <Coords points="4072,945 4231,945 4231,1213 4072,1213 4072,945"/>
+        <Baseline points="4124,947 4124,1215"/>
+        <TextEquiv>
+          <Unicode>序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114090" custom="structure {type:Commentary;}">
+        <Coords points="4114,1202 4312,1202 4312,4241 4114,4241 4114,1202"/>
+        <Baseline points="4196,1207 4248,4243"/>
+        <TextEquiv>
+          <Unicode>易稱法象莫大乎天地天以高明為稱而岳配焉地以廣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114091" custom="structure {type:Commentary;}">
+        <Coords points="3981,1208 4168,1208 4168,4218 3981,4218 3981,1208"/>
+        <Baseline points="4064,1211 4100,4219"/>
+        <TextEquiv>
+          <Unicode>厚為名而岳射焉若夫太華之為鎮也五岳列位而在其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114092" custom="structure {type:Commentary;}">
+        <Coords points="3827,958 4038,958 4038,4213 3827,4213 3827,958"/>
+        <Baseline points="3912,963 3976,4215"/>
+        <TextEquiv>
+          <Unicode>首三條分方而處其中故兩儀以比德協和氣之絪缊濟雲行</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114093" custom="structure {type:Commentary;}">
+        <Coords points="3687,958 3900,958 3900,4233 3687,4233 3687,958"/>
+        <Baseline points="3776,963 3852,4235"/>
+        <TextEquiv>
+          <Unicode>而雨施興雷風以動物是以聖帝明王莫不燔柴加牲尊而祀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114094" custom="structure {type:Commentary;}">
+        <Coords points="3538,966 3694,966 3694,1106 3538,1106 3538,966"/>
+        <Baseline points="3624,1107 3628,971"/>
+        <TextEquiv>
+          <Unicode>焉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114095" custom="structure {type:Title;}">
+        <Coords points="3411,1122 3710,1122 3710,1343 3411,1343 3411,1122"/>
+        <Baseline points="3548,1131 3556,1343"/>
+        <TextEquiv>
+          <Unicode>讚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114096" custom="structure {type:Text;}">
+        <Coords points="3442,1382 3710,1382 3710,2624 3442,2624 3442,1382"/>
+        <Baseline points="3568,1387 3588,2627"/>
+        <TextEquiv>
+          <Unicode>東晉郭璞太華讚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114097" custom="structure {type:Commentary;}">
+        <Coords points="3593,2577 3760,2577 3760,4228 3593,4228 3593,2577"/>
+        <Baseline points="3660,2583 3696,4231"/>
+        <TextEquiv>
+          <Unicode>華岳靈峻削成四方爰有神女</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114098" custom="structure {type:Commentary;}">
+        <Coords points="3465,2583 3624,2583 3624,4226 3465,4226 3465,2583"/>
+        <Baseline points="3544,2587 3576,4227"/>
+        <TextEquiv>
+          <Unicode>是挹玉漿其誰游之龍駕雲裳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114099" custom="structure {type:Title;}">
+        <Coords points="3200,958 3392,958 3392,1676 3200,1676 3200,958"/>
+        <Baseline points="3280,963 3288,1679"/>
+        <TextEquiv>
+          <Unicode>恒山第六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114100" custom="structure {type:Title;}">
+        <Coords points="3291,1684 3444,1684 3444,1853 3291,1853 3291,1684"/>
+        <Baseline points="3352,1687 3352,1855"/>
+        <TextEquiv>
+          <Unicode>敘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114101" custom="structure {type:Title;}">
+        <Coords points="3135,1689 3270,1689 3270,1853 3135,1853 3135,1689"/>
+        <Baseline points="3232,1691 3232,1855"/>
+        <TextEquiv>
+          <Unicode>事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114102" custom="structure {type:Text;}">
+        <Coords points="3184,1820 3465,1820 3465,4218 3184,4218 3184,1820"/>
+        <Baseline points="3316,1827 3368,4219"/>
+        <TextEquiv>
+          <Unicode>案恒山五嶽之北嶽也周官并州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114103" custom="structure {type:Text;}">
+        <Coords points="2882,976 3187,976 3187,4226 2882,4226 2882,976"/>
+        <Baseline points="2992,983 3060,4227"/>
+        <TextEquiv>
+          <Unicode>其鎮山曰恒山風俗通曰恒常也萬物伏北方</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>來廻策
+思方浩
+序
+後漢張旭華嶽碑序
+易曰天地定位山澤
+通氣然則山莫尊於
+岳澤莫崇於瀆岳而有五而華處其一瀆而有四而河在其數
+其為靈也至矣人主慶興必有其應故岱山石立中宗繼統太
+華授璧秦胡絕緒布五方則受其西列三條則居其中若廣獸
+奇蟲山經有紀經有望秩之禮典有生殖之祀蓋所以宗山川
+而報功也四海一統天子乘其祀諸矣
+力政強國攝其祭其奉邑曰華陰久矣
+西晉傅玄華嶽碑
+序
+易稱法象莫大乎天地天以高明為稱而岳配焉地以廣
+厚為名而岳射焉若夫太華之為鎮也五岳列位而在其
+首三條分方而處其中故兩儀以比德協和氣之絪缊濟雲行
+而雨施興雷風以動物是以聖帝明王莫不燔柴加牲尊而祀
+焉
+讚
+東晉郭璞太華讚
+華岳靈峻削成四方爰有神女
+是挹玉漿其誰游之龍駕雲裳
+恒山第六
+敘
+事
+案恒山五嶽之北嶽也周官并州
+其鎮山曰恒山風俗通曰恒常也萬物伏北方
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118110" custom="structure {type:MainText_Left;}">
+      <Coords points="394,944 2811,940 2816,4174 356,4160 394,944"/>
+      <TextLine id="1114104" custom="structure {type:Text;}">
+        <Coords points="2572,913 2804,913 2804,2236 2572,2236 2572,913"/>
+        <Baseline points="2688,915 2688,2239"/>
+        <TextEquiv>
+          <Unicode>有常亦謂之常山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114105" custom="structure {type:Commentary;}">
+        <Coords points="2674,2260 2806,2260 2806,3900 2674,3900 2674,2260"/>
+        <Baseline points="2744,2263 2764,3903"/>
+        <TextEquiv>
+          <Unicode>白虎通曰北方為常山者何陰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114106" custom="structure {type:Commentary;}">
+        <Coords points="2530,2231 2697,2231 2697,3765 2530,3765 2530,2231"/>
+        <Baseline points="2604,3767 2628,2235"/>
+        <TextEquiv>
+          <Unicode>終陽始其道常久故曰常山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114107" custom="structure {type:Text;}">
+        <Coords points="2562,3926 2783,3926 2783,4161 2562,4161 2562,3926"/>
+        <Baseline points="2680,3931 2684,4163"/>
+        <TextEquiv>
+          <Unicode>爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114108" custom="structure {type:Text;}">
+        <Coords points="2267,906 2541,906 2541,4174 2267,4174 2267,906"/>
+        <Baseline points="2384,4175 2436,911"/>
+        <TextEquiv>
+          <Unicode>雅曰常山謂之恒山五岳圖云恒山高三千九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114109" custom="structure {type:Text;}">
+        <Coords points="1997,898 2270,898 2270,4184 1997,4184 1997,898"/>
+        <Baseline points="2124,4187 2168,903"/>
+        <TextEquiv>
+          <Unicode>百丈七尺上方三十里周廻三千里有太玄之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114110" custom="structure {type:Text;}">
+        <Coords points="1739,913 1986,913 1986,4189 1739,4189 1739,913"/>
+        <Baseline points="1864,4191 1876,919"/>
+        <TextEquiv>
+          <Unicode>泉神草十九種服之可度世管子云其山北臨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114111" custom="structure {type:Text;}">
+        <Coords points="1447,906 1726,906 1726,4174 1447,4174 1447,906"/>
+        <Baseline points="1588,4175 1628,911"/>
+        <TextEquiv>
+          <Unicode>代南俯趙東接河海之間早生而晚殺五穀之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114112" custom="structure {type:Text;}">
+        <Coords points="1163,903 1455,903 1455,4181 1163,4181 1163,903"/>
+        <Baseline points="1312,4183 1364,907"/>
+        <TextEquiv>
+          <Unicode>所蕃熟四種五穫焉後魏書云道武立廟於其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114113" custom="structure {type:Text;}">
+        <Coords points="924,911 1184,911 1184,4184 924,4184 924,911"/>
+        <Baseline points="1036,4187 1076,915"/>
+        <TextEquiv>
+          <Unicode>上置侍祀九十人歲時祈禱水旱至文成帝東</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114114" custom="structure {type:Text;}">
+        <Coords points="731,929 908,929 908,1994 731,1994 731,929"/>
+        <Baseline points="796,931 796,1995"/>
+        <TextEquiv>
+          <Unicode>巡親禮其神焉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114115" custom="structure {type:Title;}">
+        <Coords points="755,2025 919,2025 919,2382 755,2382 755,2025"/>
+        <Baseline points="796,2027 796,2383"/>
+        <TextEquiv>
+          <Unicode>事對</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114116" custom="structure {type:Text;}">
+        <Coords points="744,2419 895,2419 895,2793 744,2793 744,2419"/>
+        <Baseline points="792,2423 796,2795"/>
+        <TextEquiv>
+          <Unicode>趙符</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114117" custom="structure {type:Text;}">
+        <Coords points="640,2911 887,2911 887,3330 640,3330 640,2911"/>
+        <Baseline points="776,3331 780,2915"/>
+        <TextEquiv>
+          <Unicode>燕玉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114118" custom="structure {type:Commentary;}">
+        <Coords points="731,3317 911,3317 911,4174 731,4174 731,3317"/>
+        <Baseline points="820,4175 848,3323"/>
+        <TextEquiv>
+          <Unicode>史記曰趙簡子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114119" custom="structure {type:Commentary;}">
+        <Coords points="617,3317 773,3317 773,4176 617,4176 617,3317"/>
+        <Baseline points="700,4179 720,3319"/>
+        <TextEquiv>
+          <Unicode>謂諸子曰吾藏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114120" custom="structure {type:Commentary;}">
+        <Coords points="489,919 656,919 656,4174 489,4174 489,919"/>
+        <Baseline points="584,4175 604,923"/>
+        <TextEquiv>
+          <Unicode>寶符於常山中往得者立為後諸子皆競往無所得無恤曰常</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114121" custom="structure {type:Commentary;}">
+        <Coords points="335,937 520,937 520,4184 335,4184 335,937"/>
+        <Baseline points="436,4187 460,939"/>
+        <TextEquiv>
+          <Unicode>山臨代代可取也簡子曰是知符矣遂立之崔鴻前燕錄曰慕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>有常亦謂之常山
+白虎通曰北方為常山者何陰
+終陽始其道常久故曰常山
+爾
+雅曰常山謂之恒山五岳圖云恒山高三千九
+百丈七尺上方三十里周廻三千里有太玄之
+泉神草十九種服之可度世管子云其山北臨
+代南俯趙東接河海之間早生而晚殺五穀之
+所蕃熟四種五穫焉後魏書云道武立廟於其
+上置侍祀九十人歲時祈禱水旱至文成帝東
+巡親禮其神焉
+事對
+趙符
+燕玉
+史記曰趙簡子
+謂諸子曰吾藏
+寶符於常山中往得者立為後諸子皆競往無所得無恤曰常
+山臨代代可取也簡子曰是知符矣遂立之崔鴻前燕錄曰慕
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118111" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="242,944 394,935 337,4174 233,4170 242,944"/>
+      <TextLine id="1114122" custom="structure {type:Marginalia;}">
+        <Coords points="111,919 369,919 369,1367 111,1367 111,919"/>
+        <Baseline points="300,1368 316,932"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114123" custom="structure {type:Section;}">
+        <Coords points="117,1872 377,1872 377,2413 117,2413 117,1872"/>
+        <Baseline points="304,2416 316,1880"/>
+        <TextEquiv>
+          <Unicode>初學記卷五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114124" custom="structure {type:Page_Number;}">
+        <Coords points="117,3023 346,3023 346,3299 117,3299 117,3023"/>
+        <Baseline points="311,3301 312,3024"/>
+        <TextEquiv>
+          <Unicode>十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷五
+十七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

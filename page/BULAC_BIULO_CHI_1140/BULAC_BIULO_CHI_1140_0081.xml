@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:52+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0081.jpg" imageHeight="4568" imageWidth="2574">
+    <TextRegion id="79248" custom="structure {type:MainText;}">
+      <Coords points="2458,4071 2420,996 381,1010 390,4078 2458,4071"/>
+      <TextLine id="867370" custom="structure {type:Text;}">
+        <Coords points="2231,1002 2452,1002 2452,4055 2231,4055 2231,1002"/>
+        <Baseline points="2343,1007 2375,4056"/>
+        <TextEquiv>
+          <Unicode>王母乘紫雲車而至於殿西南面東向頭上戴七種青氣鬱鬱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867371" custom="structure {type:Text;}">
+        <Coords points="2053,999 2271,999 2271,4055 2053,4055 2053,999"/>
+        <Baseline points="2163,1004 2191,4056"/>
+        <TextEquiv>
+          <Unicode>如雲有三青鳥如烏大使侍母旁時設九微燈帝東面西向王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867372" custom="structure {type:Text;}">
+        <Coords points="1868,997 2084,997 2084,4055 1868,4055 1868,997"/>
+        <Baseline points="1975,1002 1999,4056"/>
+        <TextEquiv>
+          <Unicode>母索七桃大如彈丸以五枚與帝母食二枚帝食桃輒以核著</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867373" custom="structure {type:Text;}">
+        <Coords points="1680,1007 1896,1007 1896,4057 1680,4057 1680,1007"/>
+        <Baseline points="1796,1011 1816,4060"/>
+        <TextEquiv>
+          <Unicode>膝前母曰取此核將何為帝曰此桃甘美欲種之母笑曰此桃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867374" custom="structure {type:Text;}">
+        <Coords points="1490,1015 1705,1015 1705,4055 1490,4055 1490,1015"/>
+        <Baseline points="1600,1017 1616,4056"/>
+        <TextEquiv>
+          <Unicode>三千年一生實唯帝與母對坐其從者皆不得進時東方朔竊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867375" custom="structure {type:Text;}">
+        <Coords points="1302,1007 1520,1007 1520,4062 1302,4062 1302,1007"/>
+        <Baseline points="1412,1011 1432,4064"/>
+        <TextEquiv>
+          <Unicode>從殿南廂朱鳥牖中窺母母顧之謂帝曰此窺牖小兒嘗三來</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867376" custom="structure {type:Text;}">
+        <Coords points="1127,1015 1332,1015 1332,3428 1127,3428 1127,1015"/>
+        <Baseline points="1236,1018 1244,3429"/>
+        <TextEquiv>
+          <Unicode>盜吾此桃帝乃大怪之由此世人謂方朔神仙也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867377" custom="structure {type:Text;}">
+        <Coords points="931,1010 1142,1010 1142,4047 931,4047 931,1010"/>
+        <Baseline points="1040,1014 1056,4048"/>
+        <TextEquiv>
+          <Unicode>君山有道與吳包山潛通上有美酒數斗得飲者不死漢武帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867378" custom="structure {type:Text;}">
+        <Coords points="743,1017 951,1017 951,4047 743,4047 743,1017"/>
+        <Baseline points="844,1022 860,4048"/>
+        <TextEquiv>
+          <Unicode>齋七日遣男女數十人至君山得酒欲飲之東方朔曰臣識此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867379" custom="structure {type:Text;}">
+        <Coords points="543,1015 766,1015 766,4055 543,4055 543,1015"/>
+        <Baseline points="672,1020 680,4056"/>
+        <TextEquiv>
+          <Unicode>酒請視之因一飲致盡帝欲殺之朔乃曰殺朔若死此為不驗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867380" custom="structure {type:Text;}">
+        <Coords points="350,1015 571,1015 571,2413 350,2413 350,1015"/>
+        <Baseline points="472,1019 480,2415"/>
+        <TextEquiv>
+          <Unicode>以其有驗殺亦不死乃赦之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>王母乘紫雲車而至於殿西南面東向頭上戴七種青氣鬱鬱
+如雲有三青鳥如烏大使侍母旁時設九微燈帝東面西向王
+母索七桃大如彈丸以五枚與帝母食二枚帝食桃輒以核著
+膝前母曰取此核將何為帝曰此桃甘美欲種之母笑曰此桃
+三千年一生實唯帝與母對坐其從者皆不得進時東方朔竊
+從殿南廂朱鳥牖中窺母母顧之謂帝曰此窺牖小兒嘗三來
+盜吾此桃帝乃大怪之由此世人謂方朔神仙也
+君山有道與吳包山潛通上有美酒數斗得飲者不死漢武帝
+齋七日遣男女數十人至君山得酒欲飲之東方朔曰臣識此
+酒請視之因一飲致盡帝欲殺之朔乃曰殺朔若死此為不驗
+以其有驗殺亦不死乃赦之
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79249" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="85,3549 85,1773 201,1773 201,3549 85,3549"/>
+      <TextLine id="869057" custom="structure {type:Page_Number;}">
+        <Coords points="33,1791 218,1791 218,2139 33,2139 33,1791"/>
+        <Baseline points="102,1804 126,2137"/>
+        <TextEquiv>
+          <Unicode>卷八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869058" custom="structure {type:Title;}">
+        <Coords points="35,2367 220,2367 220,2816 35,2816 35,2367"/>
+        <Baseline points="126,2375 140,2817"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869059" custom="structure {type:Page_Number;}">
+        <Coords points="35,3111 165,3111 165,3329 35,3329 35,3111"/>
+        <Baseline points="112,3331 117,3117"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷八
+博物志
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79250" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="133,191 133,83 269,83 269,191 133,191"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

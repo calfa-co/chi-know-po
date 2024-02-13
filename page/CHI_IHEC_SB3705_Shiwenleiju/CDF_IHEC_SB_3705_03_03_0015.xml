@@ -1,0 +1,297 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:18+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB_3705_03_03_0015.jpg" imageHeight="4580" imageWidth="5917">
+    <TextRegion id="128507" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5208,774 5348,762 5380,4138 5284,4134 5208,774"/>
+      <TextLine id="1176373" custom="structure {type:Title;}">
+        <Coords points="5229,772 5320,770 5326,1634 5243,1642 5229,772"/>
+        <Baseline points="5288,730 5308,1630"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176374" custom="structure {type:Section;}">
+        <Coords points="5248,1914 5316,1844 5334,2476 5247,2473 5248,1914"/>
+        <Baseline points="5308,2474 5312,1830"/>
+        <TextEquiv>
+          <Unicode>卷之二十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176375" custom="structure {type:Page_Number;}">
+        <Coords points="5270,2859 5328,2864 5340,3120 5270,3129 5270,2859"/>
+        <Baseline points="5312,2862 5312,3130"/>
+        <TextEquiv>
+          <Unicode>十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之二十一
+十三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128508" custom="structure {type:MainText_Right;}">
+      <Coords points="2976,790 5212,754 5268,4146 3020,4174 2976,790"/>
+      <TextLine id="1176376" custom="structure {type:Text;}">
+        <Coords points="5037,768 5216,760 5276,4148 5077,4152 5037,768"/>
+        <Baseline points="5120,746 5192,4178"/>
+        <TextEquiv>
+          <Unicode>成王始為太子也太公為師周公為傅召公為保伯禽唐叔與</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176377" custom="structure {type:Text;}">
+        <Coords points="4835,770 5032,762 5073,4154 4883,4158 4835,770"/>
+        <Baseline points="4916,734 4996,4178"/>
+        <TextEquiv>
+          <Unicode>游目不恱淫艶耳不聞優笑居不近庸邪及為君也血氣既定</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176378" custom="structure {type:Text;}">
+        <Coords points="4626,745 4835,745 4835,2880 4626,2880 4626,745"/>
+        <Baseline points="4716,750 4756,2882"/>
+        <TextEquiv>
+          <Unicode>游習既成雖有放心不能奪已成之性</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176379" custom="structure {type:Commentary;}">
+        <Coords points="4733,2877 4871,2877 4871,3368 4733,3368 4733,2877"/>
+        <Baseline points="4812,3370 4824,2882"/>
+        <TextEquiv>
+          <Unicode>元稹書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176380" custom="structure {type:Title;}">
+        <Coords points="4435,1272 4606,1272 4606,1689 4435,1689 4435,1272"/>
+        <Baseline points="4528,1274 4528,1690"/>
+        <TextEquiv>
+          <Unicode>鶴駕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176381" custom="structure {type:Text;}">
+        <Coords points="4216,750 4428,750 4428,4165 4216,4165 4216,750"/>
+        <Baseline points="4332,754 4360,4166"/>
+        <TextEquiv>
+          <Unicode>周𤫊王太子晉七月七日乘白鶴駐山巔謝時人而去後世稱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176382" custom="structure {type:Text;}">
+        <Coords points="4003,773 4186,773 4186,2361 4003,2361 4003,773"/>
+        <Baseline points="4104,778 4112,2362"/>
+        <TextEquiv>
+          <Unicode>太子之駕曰鶴駕禁曰鶴禁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176383" custom="structure {type:Commentary;}">
+        <Coords points="4082,2354 4215,2332 4214,3055 4082,3055 4082,2354"/>
+        <Baseline points="4156,2326 4156,3058"/>
+        <TextEquiv>
+          <Unicode>劉向列仙傳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176384" custom="structure {type:Title;}">
+        <Coords points="3799,1302 3977,1302 3977,1989 3799,1989 3799,1302"/>
+        <Baseline points="3896,1306 3904,1990"/>
+        <TextEquiv>
+          <Unicode>當璧者立</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176385" custom="structure {type:Text;}">
+        <Coords points="3575,774 3776,766 3820,4170 3611,4172 3575,774"/>
+        <Baseline points="3684,762 3756,4194"/>
+        <TextEquiv>
+          <Unicode>楚共王無冢適有寵子五人無適立焉乃有大事于羣望而祈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176386" custom="structure {type:Text;}">
+        <Coords points="3374,790 3572,788 3609,4160 3411,4162 3374,790"/>
+        <Baseline points="3480,762 3524,4162"/>
+        <TextEquiv>
+          <Unicode>曰請神擇於五人者曰當璧而拜埋璧於大室之庭再拜皆壓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176387" custom="structure {type:Text;}">
+        <Coords points="3171,786 3370,786 3407,4178 3199,4178 3171,786"/>
+        <Baseline points="3272,762 3328,4210"/>
+        <TextEquiv>
+          <Unicode>紐者神所立也既乃與巴姬密使五人齊而長入拜康王跨之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176388" custom="structure {type:Text;}">
+        <Coords points="2976,800 3174,790 3197,4180 3011,4176 2976,800"/>
+        <Baseline points="3064,766 3124,4210"/>
+        <TextEquiv>
+          <Unicode>𤫊王肘加焉子干子哲皆遠之平王弱抱而入再拜皆壓紐闘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>成王始為太子也太公為師周公為傅召公為保伯禽唐叔與
+游目不恱淫艶耳不聞優笑居不近庸邪及為君也血氣既定
+游習既成雖有放心不能奪已成之性
+元稹書
+鶴駕
+周𤫊王太子晉七月七日乘白鶴駐山巔謝時人而去後世稱
+太子之駕曰鶴駕禁曰鶴禁
+劉向列仙傳
+當璧者立
+楚共王無冢適有寵子五人無適立焉乃有大事于羣望而祈
+曰請神擇於五人者曰當璧而拜埋璧於大室之庭再拜皆壓
+紐者神所立也既乃與巴姬密使五人齊而長入拜康王跨之
+𤫊王肘加焉子干子哲皆遠之平王弱抱而入再拜皆壓紐闘
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128509" custom="structure {type:MainText_Left;}">
+      <Coords points="645,778 2408,750 2904,766 2904,4162 2572,4154 669,4142 645,778"/>
+      <TextLine id="1176389" custom="structure {type:Text;}">
+        <Coords points="2694,758 2896,764 2906,3018 2721,3016 2694,758"/>
+        <Baseline points="2784,722 2820,3014"/>
+        <TextEquiv>
+          <Unicode>韋龜屬成然焉且曰棄禮違命楚其危哉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176390" custom="structure {type:Commentary;}">
+        <Coords points="2811,3020 2916,3018 2912,3452 2804,3447 2811,3020"/>
+        <Baseline points="2860,2990 2880,3450"/>
+        <TextEquiv>
+          <Unicode>昭十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176391" custom="structure {type:Title;}">
+        <Coords points="2509,1272 2690,1272 2690,1949 2509,1949 2509,1272"/>
+        <Baseline points="2584,1274 2584,1950"/>
+        <TextEquiv>
+          <Unicode>撫軍監國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176392" custom="structure {type:Text;}">
+        <Coords points="2295,752 2484,756 2525,4162 2307,4162 2295,752"/>
+        <Baseline points="2372,718 2428,4186"/>
+        <TextEquiv>
+          <Unicode>晉侯使太子申生伐東山臯落氏里克諫曰太子奉冢祀社稷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176393" custom="structure {type:Text;}">
+        <Coords points="2087,754 2304,752 2309,4150 2087,4146 2087,754"/>
+        <Baseline points="2181,734 2225,4178"/>
+        <TextEquiv>
+          <Unicode>之粢盛以朝夕視君膳者也故曰冢子有行則守有守則從從</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176394" custom="structure {type:Text;}">
+        <Coords points="1870,737 2091,737 2091,4157 1870,4157 1870,737"/>
+        <Baseline points="1965,742 2013,4158"/>
+        <TextEquiv>
+          <Unicode>曰撫軍守曰監國古之制也夫帥師専行謀誓軍旅君與國政</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176395" custom="structure {type:Text;}">
+        <Coords points="1664,725 1873,725 1873,2195 1664,2195 1664,725"/>
+        <Baseline points="1757,730 1797,2198"/>
+        <TextEquiv>
+          <Unicode>之所圖也師在制命而已</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176396" custom="structure {type:Text;}">
+        <Coords points="1761,2184 1891,2178 1888,2633 1758,2633 1761,2184"/>
+        <Baseline points="1821,2170 1837,2634"/>
+        <TextEquiv>
+          <Unicode>左閔二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176397" custom="structure {type:Title;}">
+        <Coords points="1465,1264 1661,1264 1661,1936 1465,1936 1465,1264"/>
+        <Baseline points="1549,1270 1589,1934"/>
+        <TextEquiv>
+          <Unicode>廢立俟命</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176398" custom="structure {type:Text;}">
+        <Coords points="1275,735 1463,735 1463,4165 1275,4165 1275,735"/>
+        <Baseline points="1369,738 1381,4166"/>
+        <TextEquiv>
+          <Unicode>衞靈公逐其世子蒯聵公薨而國人立蒯聵之子輒於是晉納</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176399" custom="structure {type:Text;}">
+        <Coords points="1061,750 1254,750 1254,4185 1061,4185 1061,750"/>
+        <Baseline points="1161,754 1173,4186"/>
+        <TextEquiv>
+          <Unicode>蒯聵而輙拒之衞蒯聵得罪於父而出奔於宋𤫊公未嘗有廢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176400" custom="structure {type:Text;}">
+        <Coords points="847,758 1056,758 1056,4185 867,4178 847,758"/>
+        <Baseline points="941,762 969,4186"/>
+        <TextEquiv>
+          <Unicode>之之命而更立它子𤫊公死衞人立輙而拒蒯聵是輙之立非</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176401" custom="structure {type:Text;}">
+        <Coords points="651,730 837,730 837,2608 651,2608 651,730"/>
+        <Baseline points="741,734 745,2610"/>
+        <TextEquiv>
+          <Unicode>有𤫊公之命安得利其位而拒之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176402" custom="structure {type:Commentary;}">
+        <Coords points="722,2614 868,2614 872,3063 722,3063 722,2614"/>
+        <Baseline points="801,2586 809,3066"/>
+        <TextEquiv>
+          <Unicode>胡管見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>韋龜屬成然焉且曰棄禮違命楚其危哉
+昭十三
+撫軍監國
+晉侯使太子申生伐東山臯落氏里克諫曰太子奉冢祀社稷
+之粢盛以朝夕視君膳者也故曰冢子有行則守有守則從從
+曰撫軍守曰監國古之制也夫帥師専行謀誓軍旅君與國政
+之所圖也師在制命而已
+左閔二
+廢立俟命
+衞靈公逐其世子蒯聵公薨而國人立蒯聵之子輒於是晉納
+蒯聵而輙拒之衞蒯聵得罪於父而出奔於宋𤫊公未嘗有廢
+之之命而更立它子𤫊公死衞人立輙而拒蒯聵是輙之立非
+有𤫊公之命安得利其位而拒之
+胡管見
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128510" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="529,766 661,766 657,4146 565,4146 529,766"/>
+      <TextLine id="1176403" custom="structure {type:Title;}">
+        <Coords points="551,762 649,774 643,1653 551,1660 551,762"/>
+        <Baseline points="577,758 593,1654"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176404" custom="structure {type:Section;}">
+        <Coords points="549,1875 638,1875 638,2524 549,2524 549,1875"/>
+        <Baseline points="585,1878 597,2526"/>
+        <TextEquiv>
+          <Unicode>卷之二十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176405" custom="structure {type:Page_Number;}">
+        <Coords points="560,2884 633,2880 633,3152 558,3152 560,2884"/>
+        <Baseline points="593,2882 593,3154"/>
+        <TextEquiv>
+          <Unicode>十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之二十一
+十四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T16:51:57+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_C_III_5-7_02_01_0008.jpg" imageHeight="4647" imageWidth="5895">
+    <TextRegion id="116852" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5454,3358 5454,937 5559,937 5559,3358 5454,3358"/>
+      <TextLine id="1100856" custom="structure {type:Title;}">
+        <Coords points="5425,924 5567,924 5567,1481 5425,1481 5425,924"/>
+        <Baseline points="5506,927 5530,1483"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100857" custom="structure {type:Section;}">
+        <Coords points="5437,1698 5561,1698 5561,2457 5437,2457 5437,1698"/>
+        <Baseline points="5510,1703 5518,2459"/>
+        <TextEquiv>
+          <Unicode>帝王部卷之十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100858" custom="structure {type:Page_Number;}">
+        <Coords points="5437,3224 5585,3224 5585,3325 5437,3325 5437,3224"/>
+        <Baseline points="5502,3231 5506,3327"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+帝王部卷之十一
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116853" custom="structure {type:MainText_Right;}">
+      <Coords points="3318,4110 3318,956 5450,956 5450,4110 3318,4110"/>
+      <TextLine id="1100859" custom="structure {type:Text;}">
+        <Coords points="5231,934 5440,934 5440,4133 5231,4133 5231,934"/>
+        <Baseline points="5350,4135 5358,939"/>
+        <TextEquiv>
+          <Unicode>禮斗威儀曰帝者得其根核王者得其英華霸者得</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100860" custom="structure {type:Text;}">
+        <Coords points="5024,926 5231,926 5231,4133 5024,4133 5024,926"/>
+        <Baseline points="5134,4135 5146,931"/>
+        <TextEquiv>
+          <Unicode>其附枝故帝道不行不能王王道不行不能霸霸道</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100861" custom="structure {type:Text;}">
+        <Coords points="4815,926 5024,926 5024,2116 4815,2116 4815,926"/>
+        <Baseline points="4930,931 4942,2119"/>
+        <TextEquiv>
+          <Unicode>不行不能守其身</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100862" custom="structure {type:Text;}">
+        <Coords points="4603,919 4810,919 4810,4138 4603,4138 4603,919"/>
+        <Baseline points="4714,923 4734,4139"/>
+        <TextEquiv>
+          <Unicode>管子曰明一者皇察道者帝通德者王謀得兵勝者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100863" custom="structure {type:Text;}">
+        <Coords points="4430,901 4606,901 4606,1200 4430,1200 4430,901"/>
+        <Baseline points="4506,911 4530,1199"/>
+        <TextEquiv>
+          <Unicode>霸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100864" custom="structure {type:Text;}">
+        <Coords points="4193,934 4430,934 4430,4125 4193,4125 4193,934"/>
+        <Baseline points="4330,935 4330,4127"/>
+        <TextEquiv>
+          <Unicode>呂氏春秋曰始生之者天也養成之者人也能養天</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100865" custom="structure {type:Text;}">
+        <Coords points="3973,934 4203,934 4203,2114 3973,2114 3973,934"/>
+        <Baseline points="4098,2115 4114,939"/>
+        <TextEquiv>
+          <Unicode>之所生而為天子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100866" custom="structure {type:Text;}">
+        <Coords points="3777,934 3986,934 3986,3857 3777,3857 3777,934"/>
+        <Baseline points="3882,3859 3894,935"/>
+        <TextEquiv>
+          <Unicode>春秋考耀文曰王者往也神所輸向人所樂歸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100867" custom="structure {type:Text;}">
+        <Coords points="3555,926 3790,926 3790,4140 3555,4140 3555,926"/>
+        <Baseline points="3694,4143 3714,931"/>
+        <TextEquiv>
+          <Unicode>春秋繁露曰德俟天地者稱皇帝天祐而子之號稱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100868" custom="structure {type:Text;}">
+        <Coords points="3310,934 3560,934 3560,1345 3310,1345 3310,934"/>
+        <Baseline points="3478,939 3486,1347"/>
+        <TextEquiv>
+          <Unicode>天子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>禮斗威儀曰帝者得其根核王者得其英華霸者得
+其附枝故帝道不行不能王王道不行不能霸霸道
+不行不能守其身
+管子曰明一者皇察道者帝通德者王謀得兵勝者
+霸
+呂氏春秋曰始生之者天也養成之者人也能養天
+之所生而為天子
+春秋考耀文曰王者往也神所輸向人所樂歸
+春秋繁露曰德俟天地者稱皇帝天祐而子之號稱
+天子
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116854" custom="structure {type:MainText_Left;}">
+      <Coords points="340,4110 340,951 2419,951 2419,4110 340,4110"/>
+      <TextLine id="1100869" custom="structure {type:Text;}">
+        <Coords points="2197,944 2411,944 2411,4140 2197,4140 2197,944"/>
+        <Baseline points="2306,4143 2326,947"/>
+        <TextEquiv>
+          <Unicode>董子曰古之人造文字者三畫而連其中謂之王三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100870" custom="structure {type:Text;}">
+        <Coords points="1995,926 2205,926 2205,4166 1995,4166 1995,926"/>
+        <Baseline points="2118,4167 2126,931"/>
+        <TextEquiv>
+          <Unicode>畫者天地與人也連中者通其道也取天地與人之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100871" custom="structure {type:Text;}">
+        <Coords points="1776,934 2001,934 2001,4130 1776,4130 1776,934"/>
+        <Baseline points="1874,4131 1914,939"/>
+        <TextEquiv>
+          <Unicode>才而參之非王者其孰能當是故王者必法天以大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100872" custom="structure {type:Text;}">
+        <Coords points="1575,939 1791,939 1791,3412 1575,3412 1575,939"/>
+        <Baseline points="1682,3415 1714,943"/>
+        <TextEquiv>
+          <Unicode>仁覆育萬物既化而生之又養而成之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100873" custom="structure {type:Text;}">
+        <Coords points="1350,931 1593,931 1593,4130 1350,4130 1350,931"/>
+        <Baseline points="1474,4131 1522,939"/>
+        <TextEquiv>
+          <Unicode>韓詩外傳曰君者何曰羣也敢羣天下萬物而除其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100874" custom="structure {type:Text;}">
+        <Coords points="1156,921 1386,921 1386,1804 1156,1804 1156,921"/>
+        <Baseline points="1266,1807 1306,927"/>
+        <TextEquiv>
+          <Unicode>害者謂之君</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100875" custom="structure {type:Text;}">
+        <Coords points="947,913 1154,913 1154,4148 947,4148 947,913"/>
+        <Baseline points="1062,4151 1074,919"/>
+        <TextEquiv>
+          <Unicode>白虎通曰帝王者號也號者功之表也所以表功明</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100876" custom="structure {type:Text;}">
+        <Coords points="733,913 947,913 947,4130 733,4130 733,913"/>
+        <Baseline points="846,4131 866,919"/>
+        <TextEquiv>
+          <Unicode>德號令臣下者也德合天地者稱帝仁義合者稱王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100877" custom="structure {type:Text;}">
+        <Coords points="529,919 741,919 741,4122 529,4122 529,919"/>
+        <Baseline points="654,923 670,4123"/>
+        <TextEquiv>
+          <Unicode>別優劣也又曰接上稱天子者明以爵事天也接下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100878" custom="structure {type:Text;}">
+        <Coords points="307,911 544,911 544,3056 307,3056 307,911"/>
+        <Baseline points="434,3059 466,915"/>
+        <TextEquiv>
+          <Unicode>稱帝王者明位號天下至尊之稱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>董子曰古之人造文字者三畫而連其中謂之王三
+畫者天地與人也連中者通其道也取天地與人之
+才而參之非王者其孰能當是故王者必法天以大
+仁覆育萬物既化而生之又養而成之
+韓詩外傳曰君者何曰羣也敢羣天下萬物而除其
+害者謂之君
+白虎通曰帝王者號也號者功之表也所以表功明
+德號令臣下者也德合天地者稱帝仁義合者稱王
+別優劣也又曰接上稱天子者明以爵事天也接下
+稱帝王者明位號天下至尊之稱
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116855" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="226,4086 226,937 354,937 354,4086 226,4086"/>
+      <TextLine id="1100879" custom="structure {type:Title;}">
+        <Coords points="185,926 333,926 333,1474 185,1474 185,926"/>
+        <Baseline points="282,931 286,1475"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100880" custom="structure {type:Section;}">
+        <Coords points="170,1688 335,1688 335,2450 170,2450 170,1688"/>
+        <Baseline points="278,2451 282,1691"/>
+        <TextEquiv>
+          <Unicode>帝王部卷之十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231417" custom="structure {type:Page_Number;}">
+        <Coords points="162,3098 299,3098 299,3320 162,3320 162,3098"/>
+        <Baseline points="275,3321 289,3106"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100881" custom="structure {type:Marginalia;}">
+        <Coords points="121,3410 348,3410 348,4102 121,4102 121,3410"/>
+        <Baseline points="286,3415 290,4103"/>
+        <TextEquiv>
+          <Unicode>宏達堂校梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+帝王部卷之十一
+二
+宏達堂校梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:49+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_12_89_0020.jpg" imageHeight="3095" imageWidth="3494">
+    <TextRegion id="115933" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3150,1151 3261,1144 3268,1622 3177,1618 3150,1151"/>
+      <TextLine id="1093541" custom="structure {type:Section;}">
+        <Coords points="3167,1154 3238,1149 3244,1612 3170,1624 3167,1154"/>
+        <Baseline points="3211,1127 3221,1608"/>
+        <TextEquiv>
+          <Unicode>詩義指南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩義指南
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115934" custom="structure {type:MainText_Right;}">
+      <Coords points="1768,693 3154,687 3157,2634 1768,2637 1768,693"/>
+      <TextLine id="1093542" custom="structure {type:Text;}">
+        <Coords points="3003,765 3144,765 3144,2647 3003,2647 3003,765"/>
+        <Baseline points="3076,767 3080,2648"/>
+        <TextEquiv>
+          <Unicode>愛君之至既願神之錫君以福尢願民之助</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093543" custom="structure {type:Text;}">
+        <Coords points="2854,768 2990,768 2990,1256 2854,1256 2854,768"/>
+        <Baseline points="2922,771 2925,1258"/>
+        <TextEquiv>
+          <Unicode>君為德也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093544" custom="structure {type:Text;}">
+        <Coords points="2696,784 2835,784 2835,2635 2696,2635 2696,784"/>
+        <Baseline points="2777,787 2794,2637"/>
+        <TextEquiv>
+          <Unicode>知君之所以獲福於神當知君之德化徧及</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093545" custom="structure {type:Text;}">
+        <Coords points="2546,772 2684,772 2684,1136 2546,1136 2546,772"/>
+        <Baseline points="2615,774 2625,1137"/>
+        <TextEquiv>
+          <Unicode>於民也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093546" custom="structure {type:Title;}">
+        <Coords points="2386,656 2522,656 2522,2451 2386,2451 2386,656"/>
+        <Baseline points="2467,660 2471,2452"/>
+        <TextEquiv>
+          <Unicode>民之質矣日用飲食羣黎百姓徧為爾德</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093547" custom="structure {type:Text;}">
+        <Coords points="2231,780 2366,780 2366,2642 2231,2642 2231,780"/>
+        <Baseline points="2303,784 2306,2644"/>
+        <TextEquiv>
+          <Unicode>知民之全乎夭而不移於外物則知民之法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093548" custom="structure {type:Text;}">
+        <Coords points="2080,773 2216,773 2216,1688 2080,1688 2080,773"/>
+        <Baseline points="2144,1689 2151,777"/>
+        <TextEquiv>
+          <Unicode>乎君而能充其常性</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093549" custom="structure {type:Title;}">
+        <Coords points="1917,670 2058,670 2058,2551 1917,2551 1917,670"/>
+        <Baseline points="1996,673 2007,2553"/>
+        <TextEquiv>
+          <Unicode>如月之恆如日之升如南山之壽不騫不崩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093550" custom="structure {type:Text;}">
+        <Coords points="1759,772 1901,772 1901,2653 1759,2653 1759,772"/>
+        <Baseline points="1835,2654 1848,774"/>
+        <TextEquiv>
+          <Unicode>既即天象以喻君之得福復即地勢以喻君</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>愛君之至既願神之錫君以福尢願民之助
+君為德也
+知君之所以獲福於神當知君之德化徧及
+於民也
+民之質矣日用飲食羣黎百姓徧為爾德
+知民之全乎夭而不移於外物則知民之法
+乎君而能充其常性
+如月之恆如日之升如南山之壽不騫不崩
+既即天象以喻君之得福復即地勢以喻君
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115935" custom="structure {type:MainText_Left;}">
+      <Coords points="254,687 1620,666 1674,2624 284,2644 254,687"/>
+      <TextLine id="1093551" custom="structure {type:Text;}">
+        <Coords points="1495,751 1642,751 1642,1784 1495,1784 1495,751"/>
+        <Baseline points="1559,754 1583,1786"/>
+        <TextEquiv>
+          <Unicode>之得壽此愛君之至也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093552" custom="structure {type:Title;}">
+        <Coords points="1349,648 1490,648 1490,2431 1349,2431 1349,648"/>
+        <Baseline points="1418,650 1425,2432"/>
+        <TextEquiv>
+          <Unicode>昔我往矣楊柳依依今我來思雨雪霏霏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093553" custom="structure {type:Commentary;}">
+        <Coords points="1411,2400 1533,2400 1533,2642 1411,2642 1411,2400"/>
+        <Baseline points="1475,2405 1482,2644"/>
+        <TextEquiv>
+          <Unicode>采薇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093554" custom="structure {type:Text;}">
+        <Coords points="1184,754 1346,754 1346,2642 1184,2642 1184,754"/>
+        <Baseline points="1253,757 1290,2644"/>
+        <TextEquiv>
+          <Unicode>歌時物之異閔行役之勞此賢君所以遣戍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093555" custom="structure {type:Text;}">
+        <Coords points="1035,741 1167,741 1167,1021 1035,1021 1035,741"/>
+        <Baseline points="1115,1023 1122,744"/>
+        <TextEquiv>
+          <Unicode>役也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093556" custom="structure {type:Title;}">
+        <Coords points="880,660 1031,660 1031,2417 880,2417 880,660"/>
+        <Baseline points="950,663 967,2419"/>
+        <TextEquiv>
+          <Unicode>我出我車于彼牧矣自夭子所謂我來矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093557" custom="structure {type:Commentary;}">
+        <Coords points="943,2402 1079,2402 1079,2647 943,2647 943,2402"/>
+        <Baseline points="1007,2405 1011,2648"/>
+        <TextEquiv>
+          <Unicode>出車</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093558" custom="structure {type:Text;}">
+        <Coords points="723,765 875,765 875,2329 723,2329 723,765"/>
+        <Baseline points="799,767 822,2331"/>
+        <TextEquiv>
+          <Unicode>治外之政固當修事上之義尢當明</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093559" custom="structure {type:Title;}">
+        <Coords points="572,656 715,656 715,2441 572,2441 572,656"/>
+        <Baseline points="648,660 658,2442"/>
+        <TextEquiv>
+          <Unicode>王命南仲往城于方出車彭彭旂旐央央</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093560" custom="structure {type:Text;}">
+        <Coords points="412,758 569,758 569,2659 412,2659 412,758"/>
+        <Baseline points="486,761 513,2661"/>
+        <TextEquiv>
+          <Unicode>大臣有以受其命於君斯可以壯其威於外</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093561" custom="structure {type:Title;}">
+        <Coords points="257,648 407,648 407,2462 257,2462 257,648"/>
+        <Baseline points="338,650 365,2463"/>
+        <TextEquiv>
+          <Unicode>昔我往矣黍稷方華今我來思雨雪載塗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之得壽此愛君之至也
+昔我往矣楊柳依依今我來思雨雪霏霏
+采薇
+歌時物之異閔行役之勞此賢君所以遣戍
+役也
+我出我車于彼牧矣自夭子所謂我來矣
+出車
+治外之政固當修事上之義尢當明
+王命南仲往城于方出車彭彭旂旐央央
+大臣有以受其命於君斯可以壯其威於外
+昔我往矣黍稷方華今我來思雨雪載塗
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115936" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="140,1147 274,1147 281,2668 183,2664 140,1147"/>
+      <TextLine id="1093562" custom="structure {type:Section;}">
+        <Coords points="178,1134 247,1134 247,1607 172,1612 178,1134"/>
+        <Baseline points="200,1137 203,1608"/>
+        <TextEquiv>
+          <Unicode>詩義指南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093563" custom="structure {type:Page_Number;}">
+        <Coords points="185,2033 264,2029 276,2173 186,2177 185,2033"/>
+        <Baseline points="232,2171 234,2039"/>
+        <TextEquiv>
+          <Unicode>十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1131340" custom="structure {type:Title;}">
+        <Coords points="190,2178 263,2170 273,2648 202,2652 190,2178"/>
+        <Baseline points="227,2178 233,2642"/>
+        <TextEquiv>
+          <Unicode>知不足齋叢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩義指南
+十五
+知不足齋叢書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

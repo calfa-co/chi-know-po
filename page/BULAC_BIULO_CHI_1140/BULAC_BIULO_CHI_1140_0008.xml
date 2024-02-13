@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:22+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0008.jpg" imageHeight="4578" imageWidth="2608">
+    <TextRegion id="79211" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2492,3536 2402,3550 2402,1757 2506,1766 2505,2098 2492,3536"/>
+      <TextLine id="867341" custom="structure {type:Page_Number;}">
+        <Coords points="2353,1836 2539,1836 2539,2067 2353,2067 2353,1836"/>
+        <Baseline points="2468,1839 2472,2068"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869013" custom="structure {type:Page_Number;}">
+        <Coords points="2394,3128 2526,3128 2526,3344 2394,3344 2394,3128"/>
+        <Baseline points="2453,3345 2458,3131"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>目錄
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79192" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="2387,4097 2392,1010 104,981 142,4111 2387,4097"/>
+      <TextLine id="867176" custom="structure {type:Title;}">
+        <Coords points="2177,1230 2404,1230 2404,1513 2177,1513 2177,1230"/>
+        <Baseline points="2291,1241 2307,1509"/>
+        <TextEquiv>
+          <Unicode>異俗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867177" custom="structure {type:Title;}">
+        <Coords points="2002,1243 2198,1243 2198,1515 2002,1515 2002,1243"/>
+        <Baseline points="2103,1245 2103,1517"/>
+        <TextEquiv>
+          <Unicode>異產</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867178" custom="structure {type:Title;}">
+        <Coords points="1806,1121 2007,1121 2007,1378 1806,1378 1806,1121"/>
+        <Baseline points="1904,1129 1912,1381"/>
+        <TextEquiv>
+          <Unicode>卷三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867179" custom="structure {type:Title;}">
+        <Coords points="1618,1238 1831,1238 1831,1528 1618,1528 1618,1238"/>
+        <Baseline points="1712,1241 1712,1529"/>
+        <TextEquiv>
+          <Unicode>異獸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867180" custom="structure {type:Title;}">
+        <Coords points="1437,1238 1623,1238 1623,1520 1437,1520 1437,1238"/>
+        <Baseline points="1536,1241 1536,1521"/>
+        <TextEquiv>
+          <Unicode>異鳥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867181" custom="structure {type:Title;}">
+        <Coords points="1239,1248 1437,1248 1437,1520 1239,1520 1239,1248"/>
+        <Baseline points="1332,1249 1332,1521"/>
+        <TextEquiv>
+          <Unicode>異蟲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867182" custom="structure {type:Title;}">
+        <Coords points="1058,1246 1239,1246 1239,1515 1058,1515 1058,1246"/>
+        <Baseline points="1144,1517 1148,1249"/>
+        <TextEquiv>
+          <Unicode>異魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867183" custom="structure {type:Title;}">
+        <Coords points="839,1243 1078,1243 1078,1650 839,1650 839,1243"/>
+        <Baseline points="968,1245 968,1653"/>
+        <TextEquiv>
+          <Unicode>異草木</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867184" custom="structure {type:Title;}">
+        <Coords points="661,1108 875,1108 875,1388 661,1388 661,1108"/>
+        <Baseline points="764,1389 772,1113"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867185" custom="structure {type:Title;}">
+        <Coords points="488,1264 694,1264 694,1523 488,1523 488,1264"/>
+        <Baseline points="584,1525 588,1269"/>
+        <TextEquiv>
+          <Unicode>物性</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867186" custom="structure {type:Title;}">
+        <Coords points="295,1261 501,1261 501,1528 295,1528 295,1261"/>
+        <Baseline points="397,1265 401,1529"/>
+        <TextEquiv>
+          <Unicode>物理</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867187" custom="structure {type:Title;}">
+        <Coords points="109,1261 312,1261 312,1515 109,1515 109,1261"/>
+        <Baseline points="209,1269 217,1517"/>
+        <TextEquiv>
+          <Unicode>物類</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>異俗
+異產
+卷三
+異獸
+異鳥
+異蟲
+異魚
+異草木
+卷四
+物性
+物理
+物類
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79212" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2364,207 2364,103 2448,103 2448,207 2364,207"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:47+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0785.jpg" imageHeight="4923" imageWidth="2792">
+    <TextRegion id="80252" custom="structure {type:MainText;}">
+      <Coords points="228,1445 2563,1427 2581,4359 227,4331 228,1445"/>
+      <TextLine id="876296" custom="structure {type:Commentary;}">
+        <Coords points="2471,1444 2638,1444 2638,4340 2471,4340 2471,1444"/>
+        <Baseline points="2536,4341 2539,1448"/>
+        <TextEquiv>
+          <Unicode>東觀雲第五倫字伯魚帝徵為司空奉公子撓言議果決</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876297" custom="structure {type:Commentary;}">
+        <Coords points="2370,1446 2501,1446 2501,4337 2370,4337 2370,1446"/>
+        <Baseline points="2441,1452 2445,4338"/>
+        <TextEquiv>
+          <Unicode>無所依違○今案聚珍本東觀記脫果決二字議作事姚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876298" custom="structure {type:Commentary;}">
+        <Coords points="2285,1441 2386,1441 2386,2352 2285,2352 2285,1441"/>
+        <Baseline points="2341,1445 2354,2353"/>
+        <TextEquiv>
+          <Unicode>輯本脫字伯魚三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876299" custom="structure {type:Commentary;}">
+        <Coords points="2176,1441 2302,1441 2302,2218 2176,2218 2176,1441"/>
+        <Baseline points="2233,1445 2243,2219"/>
+        <TextEquiv>
+          <Unicode>字餘與聚珍同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876300" custom="structure {type:Text;}">
+        <Coords points="2192,2341 2381,2341 2381,2890 2192,2890 2192,2341"/>
+        <Baseline points="2297,2891 2300,2346"/>
+        <TextEquiv>
+          <Unicode>當朝正色</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876301" custom="structure {type:Commentary;}">
+        <Coords points="2274,2893 2400,2893 2400,4337 2274,4337 2274,2893"/>
+        <Baseline points="2341,4338 2347,2898"/>
+        <TextEquiv>
+          <Unicode>陶氏家傳陶敦字文通理延</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876302" custom="structure {type:Commentary;}">
+        <Coords points="2176,2882 2299,2882 2299,4337 2176,4337 2176,2882"/>
+        <Baseline points="2250,4338 2253,2888"/>
+        <TextEquiv>
+          <Unicode>兌子司空於時權臣擅命當</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876303" custom="structure {type:Commentary;}">
+        <Coords points="2074,1446 2200,1446 2200,4337 2074,4337 2074,1446"/>
+        <Baseline points="2142,4338 2145,1452"/>
+        <TextEquiv>
+          <Unicode>朝正色慨然有匡粥之志防範非禮不動以此為世家所</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876304" custom="structure {type:Commentary;}">
+        <Coords points="1968,1444 2104,1444 2104,4326 1968,4326 1968,1444"/>
+        <Baseline points="2041,4328 2048,1448"/>
+        <TextEquiv>
+          <Unicode>憚○今案理廷句有誤防範句有脫字俞本脫此條陳本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876305" custom="structure {type:Commentary;}">
+        <Coords points="1877,1449 1984,1449 1984,1840 1877,1840 1877,1449"/>
+        <Baseline points="1944,1452 1944,1842"/>
+        <TextEquiv>
+          <Unicode>刪字文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876306" custom="structure {type:Commentary;}">
+        <Coords points="1776,1441 1891,1441 1891,1824 1776,1824 1776,1441"/>
+        <Baseline points="1843,1825 1846,1445"/>
+        <TextEquiv>
+          <Unicode>通以下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876307" custom="structure {type:Text;}">
+        <Coords points="1798,1826 1987,1826 1987,2360 1798,2360 1798,1826"/>
+        <Baseline points="1897,1828 1897,2363"/>
+        <TextEquiv>
+          <Unicode>性疾朋黨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876308" custom="structure {type:Commentary;}">
+        <Coords points="1880,2363 2000,2363 2000,4329 1880,4329 1880,2363"/>
+        <Baseline points="1947,4331 1950,2367"/>
+        <TextEquiv>
+          <Unicode>漢書何武字君公成帝時為大司空性</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876309" custom="structure {type:Commentary;}">
+        <Coords points="1790,2360 1896,2360 1896,4326 1790,4326 1790,2360"/>
+        <Baseline points="1853,2363 1853,4328"/>
+        <TextEquiv>
+          <Unicode>疾朋黨問文吏必於儒者問儒者必於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876310" custom="structure {type:Commentary;}">
+        <Coords points="1683,1449 1809,1449 1809,3402 1683,3402 1683,1449"/>
+        <Baseline points="1752,1455 1759,3403"/>
+        <TextEquiv>
+          <Unicode>文吏以相參檢其所居無赫赫名云後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876311" custom="structure {type:Commentary;}">
+        <Coords points="1584,1438 1705,1438 1705,3287 1584,3287 1584,1438"/>
+        <Baseline points="1638,1442 1644,3288"/>
+        <TextEquiv>
+          <Unicode>常見思○今案見卷八十六何武傳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876312" custom="structure {type:Text;}">
+        <Coords points="1598,3391 1792,3391 1792,3930 1598,3930 1598,3391"/>
+        <Baseline points="1715,3392 1715,3931"/>
+        <TextEquiv>
+          <Unicode>數犯嚴諫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876313" custom="structure {type:Commentary;}">
+        <Coords points="1691,3938 1817,3938 1817,4332 1691,4332 1691,3938"/>
+        <Baseline points="1755,3941 1755,4334"/>
+        <TextEquiv>
+          <Unicode>東觀雲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876314" custom="structure {type:Commentary;}">
+        <Coords points="1582,3932 1710,3932 1710,4343 1582,4343 1582,3932"/>
+        <Baseline points="1658,3937 1661,4344"/>
+        <TextEquiv>
+          <Unicode>任隗字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876315" custom="structure {type:Commentary;}">
+        <Coords points="1480,1449 1617,1449 1617,4337 1480,4337 1480,1449"/>
+        <Baseline points="1547,1455 1564,4338"/>
+        <TextEquiv>
+          <Unicode>仲和拜司空永元初外戚秉權朝臣畏竦莫敢抗者惟隗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876316" custom="structure {type:Commentary;}">
+        <Coords points="1393,1449 1497,1449 1497,4293 1393,4293 1393,1449"/>
+        <Baseline points="1453,1452 1453,4294"/>
+        <TextEquiv>
+          <Unicode>與袁安同心合意數犯嚴諫舉竇憲並諸黨免官爭奏○</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876317" custom="structure {type:Commentary;}">
+        <Coords points="1283,1441 1412,1441 1412,3659 1283,3659 1283,1441"/>
+        <Baseline points="1348,1445 1362,3662"/>
+        <TextEquiv>
+          <Unicode>今案聚珍本姚輯本東觀合意作畢力無舉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876318" custom="structure {type:Commentary;}">
+        <Coords points="1193,1446 1308,1446 1308,3555 1192,3539 1193,1446"/>
+        <Baseline points="1254,1448 1254,3524"/>
+        <TextEquiv>
+          <Unicode>實以下陳俞本永元誤永平餘同聚珍本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876319" custom="structure {type:Text;}">
+        <Coords points="1198,3651 1387,3651 1387,4326 1198,4326 1198,3651"/>
+        <Baseline points="1308,4328 1311,3655"/>
+        <TextEquiv>
+          <Unicode>何武號為煩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876320" custom="structure {type:Text;}">
+        <Coords points="1016,1439 1193,1441 1193,1580 1020,1587 1016,1439"/>
+        <Baseline points="1093,1445 1096,1583"/>
+        <TextEquiv>
+          <Unicode>碎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876321" custom="structure {type:Commentary;}">
+        <Coords points="1094,1572 1220,1572 1220,4321 1094,4321 1094,1572"/>
+        <Baseline points="1157,1576 1163,4324"/>
+        <TextEquiv>
+          <Unicode>漢書何式字君公為司空多所舉奏號為煩碎不稱賢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876322" custom="structure {type:Commentary;}">
+        <Coords points="990,1578 1119,1578 1119,4326 990,4326 990,1578"/>
+        <Baseline points="1056,1583 1059,4328"/>
+        <TextEquiv>
+          <Unicode>公後哀帝策免武曰舉錯煩奇不合眾心考聲不聞惡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876323" custom="structure {type:Commentary;}">
+        <Coords points="897,1452 1015,1452 1015,3126 897,3126 897,1452"/>
+        <Baseline points="961,1455 961,3127"/>
+        <TextEquiv>
+          <Unicode>名流行其上大司空印綬○今案</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876324" custom="structure {type:Commentary;}">
+        <Coords points="788,1446 925,1446 925,3120 788,3120 788,1446"/>
+        <Baseline points="854,1452 871,3123"/>
+        <TextEquiv>
+          <Unicode>聚漢書八十六何武傳考作孝餘同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876325" custom="structure {type:Text;}">
+        <Coords points="821,3123 1001,3123 1001,3930 821,3930 821,3123"/>
+        <Baseline points="908,3931 914,3127"/>
+        <TextEquiv>
+          <Unicode>陳群譏其拱默</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876326" custom="structure {type:Commentary;}">
+        <Coords points="908,3921 1018,3921 1018,4321 908,4321 908,3921"/>
+        <Baseline points="958,3927 965,4324"/>
+        <TextEquiv>
+          <Unicode>魏志陳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876327" custom="structure {type:Commentary;}">
+        <Coords points="815,3921 919,3921 919,4321 815,4321 815,3921"/>
+        <Baseline points="864,3927 874,4324"/>
+        <TextEquiv>
+          <Unicode>群字長</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876328" custom="structure {type:Commentary;}">
+        <Coords points="703,1446 826,1446 826,4321 703,4321 703,1446"/>
+        <Baseline points="766,1452 770,4324"/>
+        <TextEquiv>
+          <Unicode>文為司空前後密陳得失上封事輒削其萬輪者譏其居</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876329" custom="structure {type:Commentary;}">
+        <Coords points="604,1452 711,1452 711,4326 604,4326 604,1452"/>
+        <Baseline points="669,1455 669,4328"/>
+        <TextEquiv>
+          <Unicode>位拱默正始中詔撰群臣上書朝士乃見群諫事皆嘆息</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876330" custom="structure {type:Commentary;}">
+        <Coords points="509,1463 624,1463 624,3664 509,3664 509,1463"/>
+        <Baseline points="561,1465 561,3665"/>
+        <TextEquiv>
+          <Unicode>○今案魏志二十二本傳有司空以上八字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876331" custom="structure {type:Commentary;}">
+        <Coords points="407,1446 517,1446 517,3525 407,3525 407,1446"/>
+        <Baseline points="467,1452 470,3526"/>
+        <TextEquiv>
+          <Unicode>前後密陳以下別見尤傳裴注所引魏書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876332" custom="structure {type:Text;}">
+        <Coords points="418,3653 610,3653 610,4321 418,4321 418,3653"/>
+        <Baseline points="524,3655 524,4324"/>
+        <TextEquiv>
+          <Unicode>彭宣疾病乞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876333" custom="structure {type:Text;}">
+        <Coords points="221,1438 402,1438 402,1564 221,1564 221,1438"/>
+        <Baseline points="319,1563 326,1448"/>
+        <TextEquiv>
+          <Unicode>歸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876334" custom="structure {type:Commentary;}">
+        <Coords points="309,1575 432,1575 432,4321 309,4321 309,1575"/>
+        <Baseline points="376,1579 380,4324"/>
+        <TextEquiv>
+          <Unicode>漢書彭宣字子佩轉大司空王莽專權宣上書有疾病</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876335" custom="structure {type:Commentary;}">
+        <Coords points="191,1572 328,1572 328,4326 191,4326 191,1572"/>
+        <Baseline points="279,1576 282,4328"/>
+        <TextEquiv>
+          <Unicode>昏亂上印綬乞骸骨歸鄉里得見親故竢填溝壑○今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>東觀雲第五倫字伯魚帝徵為司空奉公子撓言議果決
+無所依違○今案聚珍本東觀記脫果決二字議作事姚
+輯本脫字伯魚三
+字餘與聚珍同
+當朝正色
+陶氏家傳陶敦字文通理延
+兌子司空於時權臣擅命當
+朝正色慨然有匡粥之志防範非禮不動以此為世家所
+憚○今案理廷句有誤防範句有脫字俞本脫此條陳本
+刪字文
+通以下
+性疾朋黨
+漢書何武字君公成帝時為大司空性
+疾朋黨問文吏必於儒者問儒者必於
+文吏以相參檢其所居無赫赫名云後
+常見思○今案見卷八十六何武傳
+數犯嚴諫
+東觀雲
+任隗字
+仲和拜司空永元初外戚秉權朝臣畏竦莫敢抗者惟隗
+與袁安同心合意數犯嚴諫舉竇憲並諸黨免官爭奏○
+今案聚珍本姚輯本東觀合意作畢力無舉
+實以下陳俞本永元誤永平餘同聚珍本
+何武號為煩
+碎
+漢書何式字君公為司空多所舉奏號為煩碎不稱賢
+公後哀帝策免武曰舉錯煩奇不合眾心考聲不聞惡
+名流行其上大司空印綬○今案
+聚漢書八十六何武傳考作孝餘同
+陳群譏其拱默
+魏志陳
+群字長
+文為司空前後密陳得失上封事輒削其萬輪者譏其居
+位拱默正始中詔撰群臣上書朝士乃見群諫事皆嘆息
+○今案魏志二十二本傳有司空以上八字
+前後密陳以下別見尤傳裴注所引魏書
+彭宣疾病乞
+歸
+漢書彭宣字子佩轉大司空王莽專權宣上書有疾病
+昏亂上印綬乞骸骨歸鄉里得見親故竢填溝壑○今
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80253" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="133,2083 217,2079 213,3635 135,3633 133,2083"/>
+      <TextLine id="876146" custom="structure {type:Section;}">
+        <Coords points="106,2089 221,2089 221,2841 106,2841 106,2089"/>
+        <Baseline points="172,2094 175,2844"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第五十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876147" custom="structure {type:Page_Number;}">
+        <Coords points="101,3476 216,3476 216,3588 101,3588 101,3476"/>
+        <Baseline points="166,3480 169,3591"/>
+        <TextEquiv>
+          <Unicode>八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷第五十二
+八
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80254" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="147,194 305,171 339,290 158,324 147,194"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

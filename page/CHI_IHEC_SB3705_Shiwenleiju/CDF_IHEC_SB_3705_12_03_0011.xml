@@ -1,0 +1,281 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:26+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB_3705_12_03_0011.jpg" imageHeight="4588" imageWidth="6003">
+    <TextRegion id="128523" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5210,841 5340,818 5374,4178 5261,4190 5210,841"/>
+      <TextLine id="1176558" custom="structure {type:Title;}">
+        <Coords points="5197,805 5317,814 5314,1708 5197,1712 5197,805"/>
+        <Baseline points="5284,809 5289,1713"/>
+        <TextEquiv>
+          <Unicode>事文類聚續集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176559" custom="structure {type:Section;}">
+        <Coords points="5216,1950 5311,1900 5317,2384 5217,2378 5216,1950"/>
+        <Baseline points="5284,1894 5289,2379"/>
+        <TextEquiv>
+          <Unicode>卷之四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176560" custom="structure {type:Page_Number;}">
+        <Coords points="5240,2916 5335,2900 5334,3094 5233,3097 5240,2916"/>
+        <Baseline points="5303,2902 5303,3064"/>
+        <TextEquiv>
+          <Unicode>九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176561" custom="structure {type:Marginalia;}">
+        <Coords points="5200,3471 5304,3464 5304,4063 5200,4073 5200,3471"/>
+        <Baseline points="5279,4063 5293,3463"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚續集
+卷之四
+九
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128524" custom="structure {type:MainText_Right;}">
+      <Coords points="2970,863 5210,841 5204,4184 3293,4184 2959,4144 2970,863"/>
+      <TextLine id="1176562" custom="structure {type:Text;}">
+        <Coords points="5016,810 5200,810 5200,4175 5016,4175 5016,810"/>
+        <Baseline points="5089,814 5108,4177"/>
+        <TextEquiv>
+          <Unicode>自秦漢以来士之所求乎書者類以記誦剽掠為功而不及乎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176563" custom="structure {type:Text;}">
+        <Coords points="4810,815 4988,815 4988,4185 4810,4185 4810,815"/>
+        <Baseline points="4899,4186 4913,819"/>
+        <TextEquiv>
+          <Unicode>窮理修身之要其過之者則遂絶學捐書而相與馳騖乎荒虛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176564" custom="structure {type:Text;}">
+        <Coords points="4611,797 4794,797 4794,4233 4611,4233 4611,797"/>
+        <Baseline points="4704,799 4704,4234"/>
+        <TextEquiv>
+          <Unicode>浮誕之域蓋二者之蔽不同而于古人之意則胥失之矣嗚呼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176565" custom="structure {type:Text;}">
+        <Coords points="4384,818 4590,818 4590,4180 4384,4180 4384,818"/>
+        <Baseline points="4485,4182 4518,823"/>
+        <TextEquiv>
+          <Unicode>道之所以不明不行其不以此歟婺源學宫講堂之上有重屋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176566" custom="structure {type:Text;}">
+        <Coords points="4182,818 4384,818 4384,4169 4182,4169 4182,818"/>
+        <Baseline points="4290,4172 4319,823"/>
+        <TextEquiv>
+          <Unicode>焉牓曰藏書而未有以藏莆田林侯虙知縣事始出其所寳太</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176567" custom="structure {type:Text;}">
+        <Coords points="3971,825 4162,825 4162,4180 3971,4180 3971,825"/>
+        <Baseline points="4071,4182 4100,828"/>
+        <TextEquiv>
+          <Unicode>帝神筆石經若干卷以填之而又益廣市書凡千四百餘卷列</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176568" custom="structure {type:Text;}">
+        <Coords points="3762,810 3961,810 3961,4200 3762,4200 3762,810"/>
+        <Baseline points="3853,4201 3881,814"/>
+        <TextEquiv>
+          <Unicode>庋其上俾肄業者得以講教而誦習焉某故邑人也而客於閩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176569" custom="structure {type:Text;}">
+        <Coords points="3573,825 3757,825 3757,4175 3573,4175 3573,825"/>
+        <Baseline points="3681,828 3681,4177"/>
+        <TextEquiv>
+          <Unicode>茲以事歸而拜於其學則林侯已去而遷任于朝矣學者猶指</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176570" custom="structure {type:Text;}">
+        <Coords points="3354,815 3562,827 3545,4208 3354,4208 3354,815"/>
+        <Baseline points="3472,4210 3491,819"/>
+        <TextEquiv>
+          <Unicode>其書以相語感歡久之一旦遂相率而踵門謂某盍記其事且</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176571" custom="structure {type:Text;}">
+        <Coords points="3150,818 3344,818 3344,4208 3150,4208 3150,818"/>
+        <Baseline points="3258,4210 3277,823"/>
+        <TextEquiv>
+          <Unicode>曰近年以来鄉人子弟願學者衆而病未知所以學也子誠未</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176572" custom="structure {type:Text;}">
+        <Coords points="2974,833 3148,840 3132,4175 2974,4175 2974,833"/>
+        <Baseline points="3063,4177 3073,838"/>
+        <TextEquiv>
+          <Unicode>忘先人之國獨不能因是而以一言曉之哉某起對曰必欲記</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>自秦漢以来士之所求乎書者類以記誦剽掠為功而不及乎
+窮理修身之要其過之者則遂絶學捐書而相與馳騖乎荒虛
+浮誕之域蓋二者之蔽不同而于古人之意則胥失之矣嗚呼
+道之所以不明不行其不以此歟婺源學宫講堂之上有重屋
+焉牓曰藏書而未有以藏莆田林侯虙知縣事始出其所寳太
+帝神筆石經若干卷以填之而又益廣市書凡千四百餘卷列
+庋其上俾肄業者得以講教而誦習焉某故邑人也而客於閩
+茲以事歸而拜於其學則林侯已去而遷任于朝矣學者猶指
+其書以相語感歡久之一旦遂相率而踵門謂某盍記其事且
+曰近年以来鄉人子弟願學者衆而病未知所以學也子誠未
+忘先人之國獨不能因是而以一言曉之哉某起對曰必欲記
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128525" custom="structure {type:MainText_Left;}">
+      <Coords points="713,835 2726,812 2924,818 2890,4156 2783,4178 708,4173 713,835"/>
+      <TextLine id="1176573" custom="structure {type:Text;}">
+        <Coords points="2765,795 2900,795 2900,4152 2765,4152 2765,795"/>
+        <Baseline points="2821,799 2844,1437 2844,4153"/>
+        <TextEquiv>
+          <Unicode>賢大夫之績以詔後學垂方来則有邑之先生君子在某無所</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176574" custom="structure {type:Text;}">
+        <Coords points="2549,779 2747,779 2747,4180 2549,4180 2549,779"/>
+        <Baseline points="2635,785 2678,4182"/>
+        <TextEquiv>
+          <Unicode>辱也顧父兄子弟之言又某之所不忍違者其敢不敬而諾諸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176575" custom="structure {type:Text;}">
+        <Coords points="2347,785 2538,785 2538,4185 2347,4185 2347,785"/>
+        <Baseline points="2450,790 2464,4186"/>
+        <TextEquiv>
+          <Unicode>於是竊記所聞如此以告鄉人之願學者所知讀書求道之不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176576" custom="structure {type:Text;}">
+        <Coords points="2148,795 2327,795 2327,4190 2148,4190 2148,795"/>
+        <Baseline points="2250,799 2260,4191"/>
+        <TextEquiv>
+          <Unicode>可已而盡心焉以善其身齊其家而及於鄉達之天下傳之後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176577" custom="structure {type:Text;}">
+        <Coords points="1937,795 2123,795 2123,2977 1937,2977 1937,795"/>
+        <Baseline points="2041,799 2055,2978"/>
+        <TextEquiv>
+          <Unicode>世且以信林侯之徳於無窮也是為記</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176578" custom="structure {type:Title;}">
+        <Coords points="1738,1322 1919,1322 1919,2097 1738,2097 1738,1322"/>
+        <Baseline points="1836,1323 1836,2098"/>
+        <TextEquiv>
+          <Unicode>謝范舍人書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176579" custom="structure {type:Author_name;}">
+        <Coords points="1746,3282 1914,3282 1914,3823 1746,3823 1746,3282"/>
+        <Baseline points="1832,3283 1832,3825"/>
+        <TextEquiv>
+          <Unicode>蘇子瞻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176580" custom="structure {type:Text;}">
+        <Coords points="1542,797 1712,797 1712,4208 1542,4208 1542,797"/>
+        <Baseline points="1637,799 1637,4210"/>
+        <TextEquiv>
+          <Unicode>軾聞之古人民無常性雖土地風氣之所稟而其好惡則存乎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176581" custom="structure {type:Text;}">
+        <Coords points="1320,785 1526,785 1526,4190 1320,4190 1320,785"/>
+        <Baseline points="1408,4191 1446,790"/>
+        <TextEquiv>
+          <Unicode>其上之人文章之風惟漢為盛而貴顯暴著者蜀人為多蓋相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176582" custom="structure {type:Text;}">
+        <Coords points="1116,795 1312,795 1312,4203 1116,4203 1116,795"/>
+        <Baseline points="1218,4205 1242,799"/>
+        <TextEquiv>
+          <Unicode>如倡其前而王褒繼其後峩冠曳佩大車駟馬徜徉乎鄉閭之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176583" custom="structure {type:Text;}">
+        <Coords points="910,777 1103,777 1103,4195 910,4195 910,777"/>
+        <Baseline points="1018,4196 1047,780"/>
+        <TextEquiv>
+          <Unicode>中而蜀人始有好文之意弦歌之聲與鄒魯比然而二子者不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176584" custom="structure {type:Text;}">
+        <Coords points="700,779 892,779 892,4175 700,4175 700,779"/>
+        <Baseline points="795,4177 819,785"/>
+        <TextEquiv>
+          <Unicode>聞其能有所薦達豈其身之富貴而遂忘其徒耶嘗聞之老人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>賢大夫之績以詔後學垂方来則有邑之先生君子在某無所
+辱也顧父兄子弟之言又某之所不忍違者其敢不敬而諾諸
+於是竊記所聞如此以告鄉人之願學者所知讀書求道之不
+可已而盡心焉以善其身齊其家而及於鄉達之天下傳之後
+世且以信林侯之徳於無窮也是為記
+謝范舍人書
+蘇子瞻
+軾聞之古人民無常性雖土地風氣之所稟而其好惡則存乎
+其上之人文章之風惟漢為盛而貴顯暴著者蜀人為多蓋相
+如倡其前而王褒繼其後峩冠曳佩大車駟馬徜徉乎鄉閭之
+中而蜀人始有好文之意弦歌之聲與鄒魯比然而二子者不
+聞其能有所薦達豈其身之富貴而遂忘其徒耶嘗聞之老人
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128526" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="583,841 719,829 708,4173 634,4173 583,841"/>
+      <TextLine id="1176585" custom="structure {type:Title;}">
+        <Coords points="604,767 734,767 734,1707 604,1707 604,767"/>
+        <Baseline points="647,771 662,1708"/>
+        <TextEquiv>
+          <Unicode>事文類聚續集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176586" custom="structure {type:Section;}">
+        <Coords points="588,1911 736,1911 736,2416 588,2416 588,1911"/>
+        <Baseline points="633,1913 633,2417"/>
+        <TextEquiv>
+          <Unicode>卷之四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176587" custom="structure {type:Page_Number;}">
+        <Coords points="609,2951 688,2951 689,3175 615,3178 609,2951"/>
+        <Baseline points="652,3161 652,2954"/>
+        <TextEquiv>
+          <Unicode>十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176588" custom="structure {type:Marginalia;}">
+        <Coords points="608,3447 683,3443 683,4052 612,4053 608,3447"/>
+        <Baseline points="652,3444 652,4053"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚續集
+卷之四
+十
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

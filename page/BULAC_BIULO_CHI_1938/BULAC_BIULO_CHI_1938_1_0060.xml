@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:51+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1938_1_0060.jpg" imageHeight="5745" imageWidth="3889">
+    <TextRegion id="86250" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3625,2142 3814,2149 3787,4308 3625,4308 3625,2142"/>
+      <TextLine id="918474" custom="structure {type:Page_Number;}">
+        <Coords points="3754,2432 3697,2432 3700,2591 3671,2677 3671,2795 3707,3067 3828,3060 3828,2425 3754,2432"/>
+        <Baseline points="3755,2434 3771,3070"/>
+        <TextEquiv>
+          <Unicode>爾雅卷中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918475" custom="structure {type:Page_Number;}">
+        <Coords points="3761,3660 3703,3660 3681,3788 3825,3791 3815,3660 3761,3660"/>
+        <Baseline points="3763,3662 3763,3798"/>
+        <TextEquiv>
+          <Unicode>七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>爾雅卷中
+七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86252" custom="structure {type:Image;}">
+      <Coords points="430,948 3330,1062 3067,5085 376,5146 430,948"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86660" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="3532,145 3696,147 3685,260 3524,263 3532,145"/>
+      <TextLine id="918672" custom="structure {type:;}">
+        <Coords points="3550,303 3675,303 3678,54 3556,54 3550,303"/>
+        <Baseline points="3555,227 3679,232"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,545 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:12+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB_3705_03_01_0032.jpg" imageHeight="4629" imageWidth="5658">
+    <TextRegion id="128498" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5044,811 5180,803 5156,4183 5084,4183 5044,811"/>
+      <TextLine id="1176275" custom="structure {type:Title;}">
+        <Coords points="5035,799 5144,813 5164,1693 5035,1694 5035,799"/>
+        <Baseline points="5112,807 5124,1695"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176276" custom="structure {type:Section;}">
+        <Coords points="5053,1903 5144,1902 5144,2490 5054,2490 5053,1903"/>
+        <Baseline points="5124,1907 5128,2487"/>
+        <TextEquiv>
+          <Unicode>卷之十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176277" custom="structure {type:Page_Number;}">
+        <Coords points="5081,2965 5142,2963 5142,3163 5081,3158 5081,2965"/>
+        <Baseline points="5120,2967 5120,3159"/>
+        <TextEquiv>
+          <Unicode>十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176278" custom="structure {type:Marginalia;}">
+        <Coords points="5062,3452 5144,3455 5147,4043 5057,4046 5062,3452"/>
+        <Baseline points="5120,3459 5132,4047"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之十五
+十
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128499" custom="structure {type:MainText_Right;}">
+      <Coords points="2824,847 3032,843 5044,811 5068,4207 3156,4219 2848,4199 2824,847"/>
+      <TextLine id="1176279" custom="structure {type:Commentary;}">
+        <Coords points="4925,807 5056,807 5056,1249 4925,1249 4925,807"/>
+        <Baseline points="4984,811 5004,1251"/>
+        <TextEquiv>
+          <Unicode>子湯問</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176280" custom="structure {type:Text;}">
+        <Coords points="4845,1234 5043,1254 5057,3347 4859,3359 4845,1234"/>
+        <Baseline points="4932,1215 4944,3335"/>
+        <TextEquiv>
+          <Unicode>中國名曰赤縣神州有大瀛海環其外</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176281" custom="structure {type:Commentary;}">
+        <Coords points="4946,3356 5068,3339 5074,3624 4946,3630 4946,3356"/>
+        <Baseline points="4996,3331 5020,3647"/>
+        <TextEquiv>
+          <Unicode>史記</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176282" custom="structure {type:Text;}">
+        <Coords points="4876,3616 5048,3624 5062,4193 4876,4199 4876,3616"/>
+        <Baseline points="4956,3599 4988,4211"/>
+        <TextEquiv>
+          <Unicode>東有碧海</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176283" custom="structure {type:Text;}">
+        <Coords points="4644,794 4822,794 4822,1969 4644,1969 4644,794"/>
+        <Baseline points="4748,799 4756,1971"/>
+        <TextEquiv>
+          <Unicode>水不鹹苦正作碧色</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176284" custom="structure {type:Commentary;}">
+        <Coords points="4721,1954 4853,1954 4853,2368 4721,2368 4721,1954"/>
+        <Baseline points="4796,1959 4808,2371"/>
+        <TextEquiv>
+          <Unicode>十洲記</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176285" custom="structure {type:Text;}">
+        <Coords points="4644,2347 4850,2377 4850,4209 4644,4209 4644,2347"/>
+        <Baseline points="4732,2351 4776,4211"/>
+        <TextEquiv>
+          <Unicode>扶桑在碧海之中有太帝宮太真</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176286" custom="structure {type:Text;}">
+        <Coords points="4436,792 4642,792 4642,4222 4436,4222 4436,792"/>
+        <Baseline points="4536,795 4580,4223"/>
+        <TextEquiv>
+          <Unicode>東王所居有蓬萊山周廻五十里外有員海繞山其海水色正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176287" custom="structure {type:Text;}">
+        <Coords points="4230,794 4428,794 4428,3214 4230,3214 4230,794"/>
+        <Baseline points="4320,799 4364,3215"/>
+        <TextEquiv>
+          <Unicode>黒謂之溟海無風而洪波百丈惟飛仙能到</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176288" custom="structure {type:Commentary;}">
+        <Coords points="4319,3220 4454,3220 4460,3641 4319,3636 4319,3220"/>
+        <Baseline points="4404,3203 4436,3639"/>
+        <TextEquiv>
+          <Unicode>山海經</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176289" custom="structure {type:Text;}">
+        <Coords points="4248,3622 4434,3630 4431,4204 4251,4204 4248,3622"/>
+        <Baseline points="4340,3607 4356,4207"/>
+        <TextEquiv>
+          <Unicode>海傍有蜃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176290" custom="structure {type:Text;}">
+        <Coords points="4001,807 4189,807 4189,1422 4001,1422 4001,807"/>
+        <Baseline points="4100,811 4112,1423"/>
+        <TextEquiv>
+          <Unicode>氣為樓臺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176291" custom="structure {type:Commentary;}">
+        <Coords points="4104,1415 4214,1410 4220,1687 4101,1684 4104,1415"/>
+        <Baseline points="4148,1395 4148,1699"/>
+        <TextEquiv>
+          <Unicode>漢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176292" custom="structure {type:Text;}">
+        <Coords points="4024,1663 4205,1681 4208,2521 4024,2538 4024,1663"/>
+        <Baseline points="4100,1667 4124,2511"/>
+        <TextEquiv>
+          <Unicode>江漢朝宗于海</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176293" custom="structure {type:Commentary;}">
+        <Coords points="4104,2538 4222,2513 4225,2804 4104,2801 4104,2538"/>
+        <Baseline points="4176,2503 4184,2807"/>
+        <TextEquiv>
+          <Unicode>禹貢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176294" custom="structure {type:Text;}">
+        <Coords points="4024,2787 4222,2804 4236,3373 4027,3392 4024,2787"/>
+        <Baseline points="4116,3359 4132,2783"/>
+        <TextEquiv>
+          <Unicode>海濵廣斥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176295" custom="structure {type:Commentary;}">
+        <Coords points="4117,3350 4246,3350 4246,3633 4117,3633 4117,3350"/>
+        <Baseline points="4192,3351 4192,3635"/>
+        <TextEquiv>
+          <Unicode>同上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176296" custom="structure {type:Text;}">
+        <Coords points="4058,3618 4212,3618 4212,4209 4058,4209 4058,3618"/>
+        <Baseline points="4132,3623 4140,4211"/>
+        <TextEquiv>
+          <Unicode>百川學海</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176297" custom="structure {type:Text;}">
+        <Coords points="3796,815 3965,815 3965,1393 3796,1393 3796,815"/>
+        <Baseline points="3876,1395 3896,819"/>
+        <TextEquiv>
+          <Unicode>而至于海</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176298" custom="structure {type:Commentary;}">
+        <Coords points="3889,1393 3999,1396 3999,1674 3893,1674 3889,1393"/>
+        <Baseline points="3944,1375 3956,1675"/>
+        <TextEquiv>
+          <Unicode>揚子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176299" custom="structure {type:Text;}">
+        <Coords points="3795,1650 3999,1681 4001,4181 3808,4181 3795,1650"/>
+        <Baseline points="3892,1639 3928,4183"/>
+        <TextEquiv>
+          <Unicode>萬川歸之不知何時止而不盈尾閭泄之不知</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176300" custom="structure {type:Text;}">
+        <Coords points="3600,812 3765,812 3765,1681 3600,1681 3600,812"/>
+        <Baseline points="3688,815 3688,1683"/>
+        <TextEquiv>
+          <Unicode>何時已而不虛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176301" custom="structure {type:Commentary;}">
+        <Coords points="3687,1663 3781,1659 3781,1970 3688,1953 3687,1663"/>
+        <Baseline points="3736,1667 3752,1943"/>
+        <TextEquiv>
+          <Unicode>莊子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176302" custom="structure {type:Text;}">
+        <Coords points="3609,1947 3801,1978 3798,4196 3610,4196 3609,1947"/>
+        <Baseline points="3700,1919 3720,4199"/>
+        <TextEquiv>
+          <Unicode>君處北海寡人處南海惟是風馬牛不相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176303" custom="structure {type:Text;}">
+        <Coords points="3379,830 3560,830 3569,1000 3377,1014 3379,830"/>
+        <Baseline points="3480,807 3480,1007"/>
+        <TextEquiv>
+          <Unicode>及</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176304" custom="structure {type:Commentary;}">
+        <Coords points="3464,985 3603,988 3608,1280 3473,1266 3464,985"/>
+        <Baseline points="3528,967 3540,1283"/>
+        <TextEquiv>
+          <Unicode>左傳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176305" custom="structure {type:Text;}">
+        <Coords points="3394,1246 3586,1280 3579,2998 3394,2998 3394,1246"/>
+        <Baseline points="3476,1239 3504,2999"/>
+        <TextEquiv>
+          <Unicode>九天之雲下垂四海之水皆立</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176306" custom="structure {type:Commentary;}">
+        <Coords points="3478,2968 3626,2931 3626,3638 3479,3638 3478,2968"/>
+        <Baseline points="3552,2935 3568,3639"/>
+        <TextEquiv>
+          <Unicode>杜甫大禮賦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176307" custom="structure {type:Text;}">
+        <Coords points="3422,3627 3597,3633 3597,4073 3420,4073 3422,3627"/>
+        <Baseline points="3508,3591 3508,4075"/>
+        <TextEquiv>
+          <Unicode>東海鱉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176308" custom="structure {type:Commentary;}">
+        <Coords points="3505,4052 3639,4052 3639,4222 3505,4222 3505,4052"/>
+        <Baseline points="3580,4055 3580,4223"/>
+        <TextEquiv>
+          <Unicode>莊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176309" custom="structure {type:Text;}">
+        <Coords points="3273,812 3366,812 3366,982 3273,982 3273,812"/>
+        <Baseline points="3332,815 3332,983"/>
+        <TextEquiv>
+          <Unicode>子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176310" custom="structure {type:Text;}">
+        <Coords points="3179,960 3362,997 3379,1413 3184,1424 3179,960"/>
+        <Baseline points="3260,951 3272,1415"/>
+        <TextEquiv>
+          <Unicode>北溟魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176311" custom="structure {type:Commentary;}">
+        <Coords points="3261,1398 3376,1398 3376,1697 3261,1697 3261,1398"/>
+        <Baseline points="3328,1403 3332,1699"/>
+        <TextEquiv>
+          <Unicode>莊子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176312" custom="structure {type:Title;}">
+        <Coords points="2933,830 3184,833 3176,1135 2935,1141 2933,830"/>
+        <Baseline points="3044,811 3044,1143"/>
+        <TextEquiv>
+          <Unicode>詩句</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176313" custom="structure {type:Text;}">
+        <Coords points="2967,1135 3159,1130 3184,2538 2981,2555 2967,1135"/>
+        <Baseline points="3060,2535 3080,1115"/>
+        <TextEquiv>
+          <Unicode>遠聲魚呷浪層氣蜃迎風</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176314" custom="structure {type:Commentary;}">
+        <Coords points="3060,2544 3198,2533 3207,2813 3054,2810 3060,2544"/>
+        <Baseline points="3140,2511 3140,2815"/>
+        <TextEquiv>
+          <Unicode>張濵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176315" custom="structure {type:Text;}">
+        <Coords points="2998,2803 3181,2803 3181,3541 2998,3541 2998,2803"/>
+        <Baseline points="3080,2807 3084,3543"/>
+        <TextEquiv>
+          <Unicode>歸海流漫漫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176316" custom="structure {type:Commentary;}">
+        <Coords points="3066,3534 3201,3525 3207,3664 3071,3656 3066,3534"/>
+        <Baseline points="3156,3515 3160,3651"/>
+        <TextEquiv>
+          <Unicode>選</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176317" custom="structure {type:Text;}">
+        <Coords points="2998,3650 3204,3672 3199,4235 3009,4235 2998,3650"/>
+        <Baseline points="3076,3623 3104,4235"/>
+        <TextEquiv>
+          <Unicode>地濶海㝠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176318" custom="structure {type:Text;}">
+        <Coords points="2808,830 2911,820 2918,985 2811,1017 2808,830"/>
+        <Baseline points="2876,823 2880,975"/>
+        <TextEquiv>
+          <Unicode>㝠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176319" custom="structure {type:Commentary;}">
+        <Coords points="2848,1011 2944,974 2955,1121 2839,1121 2848,1011"/>
+        <Baseline points="2924,975 2924,1107"/>
+        <TextEquiv>
+          <Unicode>杜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176320" custom="structure {type:Text;}">
+        <Coords points="2802,1138 2944,1110 2944,1849 2805,1848 2802,1138"/>
+        <Baseline points="2860,1851 2876,1115"/>
+        <TextEquiv>
+          <Unicode>溟漲鯨波動</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176321" custom="structure {type:Commentary;}">
+        <Coords points="2828,1857 2964,1828 2969,1995 2836,1992 2828,1857"/>
+        <Baseline points="2912,1799 2916,2027"/>
+        <TextEquiv>
+          <Unicode>杜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>子湯問
+中國名曰赤縣神州有大瀛海環其外
+史記
+東有碧海
+水不鹹苦正作碧色
+十洲記
+扶桑在碧海之中有太帝宮太真
+東王所居有蓬萊山周廻五十里外有員海繞山其海水色正
+黒謂之溟海無風而洪波百丈惟飛仙能到
+山海經
+海傍有蜃
+氣為樓臺
+漢書
+江漢朝宗于海
+禹貢
+海濵廣斥
+同上
+百川學海
+而至于海
+揚子
+萬川歸之不知何時止而不盈尾閭泄之不知
+何時已而不虛
+莊子
+君處北海寡人處南海惟是風馬牛不相
+及
+左傳
+九天之雲下垂四海之水皆立
+杜甫大禮賦
+東海鱉
+莊
+子
+北溟魚
+莊子
+詩句
+遠聲魚呷浪層氣蜃迎風
+張濵
+歸海流漫漫
+選
+地濶海㝠
+㝠
+杜
+溟漲鯨波動
+杜
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128500" custom="structure {type:MainText_Left;}">
+      <Coords points="537,811 1629,791 2804,779 2800,4171 2504,4175 557,4167 537,811"/>
+      <TextLine id="1176322" custom="structure {type:Title;}">
+        <Coords points="2602,773 2788,790 2783,1379 2616,1379 2602,773"/>
+        <Baseline points="2692,747 2712,1375"/>
+        <TextEquiv>
+          <Unicode>古今事實</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176323" custom="structure {type:Title;}">
+        <Coords points="2412,1298 2597,1298 2597,1928 2412,1928 2412,1298"/>
+        <Baseline points="2500,1303 2516,1931"/>
+        <TextEquiv>
+          <Unicode>精衛填海</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176324" custom="structure {type:Text;}">
+        <Coords points="2196,748 2422,748 2422,4186 2196,4186 2196,748"/>
+        <Baseline points="2292,751 2352,4187"/>
+        <TextEquiv>
+          <Unicode>發鳩之山有鳥名曰精衛是炎帝之女徃遊于東海溺而不反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176325" custom="structure {type:Text;}">
+        <Coords points="1975,758 2196,758 2196,2913 1975,2913 1975,758"/>
+        <Baseline points="2061,763 2125,2915"/>
+        <TextEquiv>
+          <Unicode>是故精衛常取西山之木石以填東海</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176326" custom="structure {type:Commentary;}">
+        <Coords points="2081,2912 2217,2909 2227,3350 2083,3350 2081,2912"/>
+        <Baseline points="2165,3351 2177,2895"/>
+        <TextEquiv>
+          <Unicode>山海經</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176327" custom="structure {type:Title;}">
+        <Coords points="1792,1306 1967,1306 1967,1964 1792,1964 1792,1306"/>
+        <Baseline points="1893,1311 1905,1967"/>
+        <TextEquiv>
+          <Unicode>乗桴浮海</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176328" custom="structure {type:Text;}">
+        <Coords points="1586,730 1766,730 1766,3232 1586,3232 1586,730"/>
+        <Baseline points="1693,735 1705,3235"/>
+        <TextEquiv>
+          <Unicode>孔子曰道不行乘桴浮于海從我者其由與</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176329" custom="structure {type:Title;}">
+        <Coords points="1381,1319 1561,1319 1561,1949 1381,1949 1381,1319"/>
+        <Baseline points="1469,1323 1485,1951"/>
+        <TextEquiv>
+          <Unicode>海變桑田</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176330" custom="structure {type:Text;}">
+        <Coords points="1180,763 1370,763 1370,4181 1180,4181 1180,763"/>
+        <Baseline points="1273,767 1293,4183"/>
+        <TextEquiv>
+          <Unicode>麻姑謂王方平曰自接待以來見東海三變為桑田向到蓬萊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176331" custom="structure {type:Text;}">
+        <Coords points="972,756 1157,756 1157,4186 972,4186 972,756"/>
+        <Baseline points="1069,759 1085,4187"/>
+        <TextEquiv>
+          <Unicode>水乃淺於徃者畧半也豈復為陵乎方平乃曰東海行復揚塵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176332" custom="structure {type:Text;}">
+        <Coords points="781,776 920,776 920,946 781,946 781,776"/>
+        <Baseline points="865,779 865,947"/>
+        <TextEquiv>
+          <Unicode>耳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176333" custom="structure {type:Commentary;}">
+        <Coords points="825,941 987,941 987,1406 825,1406 825,941"/>
+        <Baseline points="897,947 913,1407"/>
+        <TextEquiv>
+          <Unicode>神仙傳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176334" custom="structure {type:Title;}">
+        <Coords points="563,1306 743,1306 743,2106 563,2106 563,1306"/>
+        <Baseline points="649,1307 649,2107"/>
+        <TextEquiv>
+          <Unicode>海賦不道鹽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>古今事實
+精衛填海
+發鳩之山有鳥名曰精衛是炎帝之女徃遊于東海溺而不反
+是故精衛常取西山之木石以填東海
+山海經
+乗桴浮海
+孔子曰道不行乘桴浮于海從我者其由與
+海變桑田
+麻姑謂王方平曰自接待以來見東海三變為桑田向到蓬萊
+水乃淺於徃者畧半也豈復為陵乎方平乃曰東海行復揚塵
+耳
+神仙傳
+海賦不道鹽
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128501" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="405,799 541,799 549,4187 461,4183 405,799"/>
+      <TextLine id="1176335" custom="structure {type:Title;}">
+        <Coords points="426,771 534,771 534,1666 426,1666 426,771"/>
+        <Baseline points="485,775 489,1667"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176336" custom="structure {type:Section;}">
+        <Coords points="438,1893 548,1944 537,2502 432,2502 438,1893"/>
+        <Baseline points="477,1899 481,2503"/>
+        <TextEquiv>
+          <Unicode>卷之十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176337" custom="structure {type:Page_Number;}">
+        <Coords points="462,2962 532,2962 532,3116 462,3116 462,2962"/>
+        <Baseline points="481,2967 485,3119"/>
+        <TextEquiv>
+          <Unicode>十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176338" custom="structure {type:Marginalia;}">
+        <Coords points="421,3407 568,3407 568,4052 421,4052 421,3407"/>
+        <Baseline points="485,3411 489,4055"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之十五
+十一
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

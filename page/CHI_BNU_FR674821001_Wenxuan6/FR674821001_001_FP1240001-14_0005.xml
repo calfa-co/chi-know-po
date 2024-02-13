@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:29+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-14_0005.jpg" imageHeight="3500" imageWidth="1967">
+    <TextRegion id="117226" custom="structure {type:Image_Stamp;}">
+      <Coords points="1549,564 1753,567 1742,782 1532,776 1549,564"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117224" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="231,861 1762,855 1725,3189 217,3169 231,861"/>
+      <TextLine id="1104809" custom="structure {type:Title;}">
+        <Coords points="1603,857 1754,847 1745,1678 1598,1678 1603,857"/>
+        <Baseline points="1671,1675 1682,850"/>
+        <TextEquiv>
+          <Unicode>文選卷第三十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104810" custom="structure {type:Author_name;}">
+        <Coords points="1448,1074 1581,1069 1581,1782 1441,1782 1448,1074"/>
+        <Baseline points="1518,1073 1521,1766"/>
+        <TextEquiv>
+          <Unicode>梁昭明太子撰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104811" custom="structure {type:Author_name;}">
+        <Coords points="1293,1176 1418,1174 1412,2151 1400,3128 1262,3130 1293,1176"/>
+        <Baseline points="1337,3131 1368,1178"/>
+        <TextEquiv>
+          <Unicode>文林郎守太子右内率府録事參軍事崇賢館直學士臣李善注上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104812" custom="structure {type:Title;}">
+        <Coords points="1148,938 1280,939 1277,1192 1146,1204 1148,938"/>
+        <Baseline points="1213,1195 1221,943"/>
+        <TextEquiv>
+          <Unicode>上書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104813" custom="structure {type:Title;}">
+        <Coords points="1111,2094 984,2099 989,1066 1126,1067 1111,2094"/>
+        <Baseline points="1048,2099 1069,1070"/>
+        <TextEquiv>
+          <Unicode>李斯上書秦始皇一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1108577" custom="structure {type:Title;}">
+        <Coords points="984,2149 1102,2149 1088,3104 984,3109 984,2149"/>
+        <Baseline points="1038,3089 1045,2169"/>
+        <TextEquiv>
+          <Unicode>鄒陽上書吳王一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104814" custom="structure {type:Title;}">
+        <Coords points="837,2099 841,1169 974,1168 960,2100 837,2099"/>
+        <Baseline points="899,2088 907,1172"/>
+        <TextEquiv>
+          <Unicode>獄中上書自明一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1108580" custom="structure {type:Title;}">
+        <Coords points="831,2164 959,2156 955,3184 820,3186 831,2164"/>
+        <Baseline points="887,3188 892,2168"/>
+        <TextEquiv>
+          <Unicode>司馬長卿上疏諫獵一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104815" custom="structure {type:Title;}">
+        <Coords points="689,1052 824,1053 820,2148 677,2146 689,1052"/>
+        <Baseline points="747,2148 760,1057"/>
+        <TextEquiv>
+          <Unicode>枚叔奏書諫吳王濞一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1108581" custom="structure {type:Title;}">
+        <Coords points="680,2184 808,2182 811,2853 677,2857 680,2184"/>
+        <Baseline points="741,2848 751,2187"/>
+        <TextEquiv>
+          <Unicode>重諫擧兵一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104816" custom="structure {type:Title;}">
+        <Coords points="532,1066 673,1065 663,2296 511,2294 532,1066"/>
+        <Baseline points="593,2296 613,1069"/>
+        <TextEquiv>
+          <Unicode>江文通建平王上書一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104817" custom="structure {type:Title;}">
+        <Coords points="389,931 523,931 518,1081 449,1093 385,1085 389,931"/>
+        <Baseline points="461,933 461,1083"/>
+        <TextEquiv>
+          <Unicode>啓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104818" custom="structure {type:Title;}">
+        <Coords points="221,1040 363,1042 352,2294 211,2298 221,1040"/>
+        <Baseline points="282,2302 299,1046"/>
+        <TextEquiv>
+          <Unicode>任彥昇奉答七夕詩啓一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文選卷第三十九
+梁昭明太子撰
+文林郎守太子右内率府録事參軍事崇賢館直學士臣李善注上
+上書
+李斯上書秦始皇一首
+鄒陽上書吳王一首
+獄中上書自明一首
+司馬長卿上疏諫獵一首
+枚叔奏書諫吳王濞一首
+重諫擧兵一首
+江文通建平王上書一首
+啓
+任彥昇奉答七夕詩啓一首
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117225" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="154,1319 216,1316 199,2391 152,2384 154,1319"/>
+      <TextLine id="1104819" custom="structure {type:Section;}">
+        <Coords points="152,1366 208,1366 208,1621 154,1623 152,1366"/>
+        <Baseline points="169,1369 172,1623"/>
+        <TextEquiv>
+          <Unicode>文三十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104820" custom="structure {type:Page_Number;}">
+        <Coords points="159,2289 192,2288 192,2372 156,2372 159,2289"/>
+        <Baseline points="172,2370 181,2336"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文三十九
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117227" custom="structure {type:Image_Stamp;}">
+      <Coords points="1688,2510 1852,2518 1849,2866 1677,2858 1688,2510"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117228" custom="structure {type:Image_Stamp;}">
+      <Coords points="1479,1834 1705,1840 1697,2306 1473,2298 1479,1834"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117229" custom="structure {type:Image_Stamp;}">
+      <Coords points="1493,2510 1663,2507 1660,2699 1493,2697 1493,2510"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117230" custom="structure {type:Image_Stamp;}">
+      <Coords points="1462,2926 1702,2928 1691,3160 1453,3172 1462,2926"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117231" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="311,162 415,168 421,267 305,273 311,162"/>
+      <TextLine id="1104821" custom="structure {type:Page_Number;}">
+        <Coords points="332,161 410,161 410,266 332,266 332,161"/>
+        <Baseline points="345,247 412,241"/>
+        <TextEquiv>
+          <Unicode>14</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>14
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117232" custom="structure {type:Marginalia;}">
+      <Coords points="704,278 1213,270 1210,372 704,369 704,278"/>
+      <TextLine id="1104822" custom="structure {type:Marginalia;}">
+        <Coords points="715,268 1200,268 1200,361 715,361 715,268"/>
+        <Baseline points="718,346 1202,338"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117233" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="181,72 243,69 243,140 183,137 181,72"/>
+      <TextLine id="1104823" custom="structure {type:Page_Number;}">
+        <Coords points="196,71 245,71 245,132 196,132 196,71"/>
+        <Baseline points="203,117 246,114"/>
+        <TextEquiv>
+          <Unicode>1</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>1
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117234" custom="structure {type:Image_Stamp;}">
+      <Coords points="936,3333 981,3279 1074,3271 1137,3319 1148,3375 1063,3423 961,3412 936,3333"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

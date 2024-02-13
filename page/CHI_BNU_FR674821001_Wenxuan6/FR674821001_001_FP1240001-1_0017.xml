@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:43+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-1_0017.jpg" imageHeight="3500" imageWidth="1957">
+    <TextRegion id="117335" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="249,838 1833,829 1781,3191 273,3202 249,838"/>
+      <TextLine id="1105965" custom="structure {type:Title;}">
+        <Coords points="1641,1166 1807,1166 1807,2072 1641,2072 1641,1166"/>
+        <Baseline points="1733,2073 1743,1169"/>
+        <TextEquiv>
+          <Unicode>左太沖吳都賦一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105966" custom="structure {type:Title;}">
+        <Coords points="1488,832 1661,832 1661,1242 1488,1242 1488,832"/>
+        <Baseline points="1579,836 1586,1243"/>
+        <TextEquiv>
+          <Unicode>第六卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105967" custom="structure {type:Title;}">
+        <Coords points="1295,1186 1490,1186 1490,2065 1295,2065 1295,1186"/>
+        <Baseline points="1408,2066 1424,1190"/>
+        <TextEquiv>
+          <Unicode>左太沖魏都賦一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105968" custom="structure {type:Title;}">
+        <Coords points="1169,828 1338,828 1338,1236 1169,1236 1169,828"/>
+        <Baseline points="1267,829 1267,1238"/>
+        <TextEquiv>
+          <Unicode>第七卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105969" custom="structure {type:Title;}">
+        <Coords points="1021,946 1180,946 1180,1211 1021,1211 1021,946"/>
+        <Baseline points="1108,1212 1113,950"/>
+        <TextEquiv>
+          <Unicode>賦丁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105970" custom="structure {type:Title;}">
+        <Coords points="852,1063 1029,1063 1029,1331 852,1331 852,1063"/>
+        <Baseline points="939,1067 941,1333"/>
+        <TextEquiv>
+          <Unicode>郊祀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105971" custom="structure {type:Title;}">
+        <Coords points="692,1160 861,1160 861,2397 692,2397 692,1160"/>
+        <Baseline points="784,1162 784,2399"/>
+        <TextEquiv>
+          <Unicode>楊子雲甘泉賦一首并序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105972" custom="structure {type:Title;}">
+        <Coords points="538,1040 706,1040 706,1365 538,1365 538,1040"/>
+        <Baseline points="625,1366 632,1043"/>
+        <TextEquiv>
+          <Unicode>耕籍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105973" custom="structure {type:Title;}">
+        <Coords points="383,1164 546,1164 546,2078 383,2078 383,1164"/>
+        <Baseline points="468,2080 473,1167"/>
+        <TextEquiv>
+          <Unicode>潘安仁籍田賦一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105974" custom="structure {type:Title;}">
+        <Coords points="231,1048 389,1048 389,1436 231,1436 231,1048"/>
+        <Baseline points="316,1050 325,1438"/>
+        <TextEquiv>
+          <Unicode>畋獵上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>左太沖吳都賦一首
+第六卷
+左太沖魏都賦一首
+第七卷
+賦丁
+郊祀
+楊子雲甘泉賦一首并序
+耕籍
+潘安仁籍田賦一首
+畋獵上
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117336" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="178,1466 242,1466 247,2570 187,2572 178,1466"/>
+      <TextLine id="1105975" custom="structure {type:Section;}">
+        <Coords points="165,1532 249,1532 249,1726 165,1726 165,1532"/>
+        <Baseline points="199,1535 211,1728"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105976" custom="structure {type:Page_Number;}">
+        <Coords points="177,2469 268,2469 268,2551 177,2551 177,2469"/>
+        <Baseline points="211,2475 214,2553"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>目錄
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

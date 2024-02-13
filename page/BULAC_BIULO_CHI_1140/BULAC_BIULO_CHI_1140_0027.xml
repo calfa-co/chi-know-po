@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:33+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0027.jpg" imageHeight="4479" imageWidth="2527">
+    <TextRegion id="79202" custom="structure {type:MainText;}">
+      <Coords points="196,3999 196,1008 2373,1008 2373,3999 196,3999"/>
+      <TextLine id="867264" custom="structure {type:Text;}">
+        <Coords points="2166,1022 2382,1022 2382,3272 2166,3272 2166,1022"/>
+        <Baseline points="2291,1026 2299,3274"/>
+        <TextEquiv>
+          <Unicode>日南有野女群行見丈夫狀皛目裸袒無衣䙏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867265" custom="structure {type:Title;}">
+        <Coords points="2004,1259 2195,1259 2195,1515 2004,1515 2004,1259"/>
+        <Baseline points="2103,1265 2115,1513"/>
+        <TextEquiv>
+          <Unicode>異俗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867266" custom="structure {type:Text;}">
+        <Coords points="1824,1020 2046,1020 2046,3988 1824,3988 1824,1020"/>
+        <Baseline points="1924,1025 1928,3989"/>
+        <TextEquiv>
+          <Unicode>越之東有駭沐之國其長子生則解而食之謂之宜弟父死則</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867267" custom="structure {type:Text;}">
+        <Coords points="1638,1017 1842,1017 1842,2744 1638,2744 1638,1017"/>
+        <Baseline points="1748,1022 1756,2747"/>
+        <TextEquiv>
+          <Unicode>負其母而棄之言鬼妻不可與同居</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867268" custom="structure {type:Commentary;}">
+        <Coords points="1725,2774 1839,2774 1839,3978 1725,3978 1725,2774"/>
+        <Baseline points="1788,2775 1788,3979"/>
+        <TextEquiv>
+          <Unicode>周日用曰既其母為鬼妻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867269" custom="structure {type:Commentary;}">
+        <Coords points="1608,2762 1750,2762 1750,3978 1608,3978 1608,2762"/>
+        <Baseline points="1684,3979 1696,2767"/>
+        <TextEquiv>
+          <Unicode>則其子為鬼子亦合棄之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867270" custom="structure {type:Commentary;}">
+        <Coords points="1541,1020 1663,1020 1663,1144 1541,1144 1541,1020"/>
+        <Baseline points="1608,1022 1608,1146"/>
+        <TextEquiv>
+          <Unicode>矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867271" custom="structure {type:Text;}">
+        <Coords points="1264,1015 1501,1015 1501,3978 1264,3978 1264,1015"/>
+        <Baseline points="1372,3979 1392,1018"/>
+        <TextEquiv>
+          <Unicode>楚之南有炎人之國其親戚死朽之肉而棄之然後埋其骨乃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867272" custom="structure {type:Text;}">
+        <Coords points="1100,1012 1299,1012 1299,1403 1100,1403 1100,1012"/>
+        <Baseline points="1204,1016 1208,1404"/>
+        <TextEquiv>
+          <Unicode>為孝也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867273" custom="structure {type:Text;}">
+        <Coords points="908,1015 1130,1015 1130,3978 908,3978 908,1015"/>
+        <Baseline points="1012,3979 1016,1020"/>
+        <TextEquiv>
+          <Unicode>秦之西有義渠國其親戚死聚柴積而焚之熏之即煙上謂之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867274" custom="structure {type:Text;}">
+        <Coords points="722,1015 926,1015 926,3983 722,3983 722,1015"/>
+        <Baseline points="824,3984 832,1020"/>
+        <TextEquiv>
+          <Unicode>登遐然後為孝此上以為政下以為俗中國未足為非也此事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867275" custom="structure {type:Text;}">
+        <Coords points="552,1015 749,1015 749,1378 552,1378 552,1015"/>
+        <Baseline points="644,1020 652,1380"/>
+        <TextEquiv>
+          <Unicode>見墨子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867276" custom="structure {type:Commentary;}">
+        <Coords points="637,1398 749,1398 749,2859 637,2859 637,1398"/>
+        <Baseline points="696,1400 696,2860"/>
+        <TextEquiv>
+          <Unicode>周日用曰此事庶幾佛國之法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867277" custom="structure {type:Commentary;}">
+        <Coords points="550,1408 649,1408 649,2859 550,2859 550,1408"/>
+        <Baseline points="600,1412 604,2860"/>
+        <TextEquiv>
+          <Unicode>且如是乎中國之徒亦如此也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867278" custom="structure {type:Text;}">
+        <Coords points="361,1015 565,1015 565,3973 361,3973 361,1015"/>
+        <Baseline points="456,1020 464,3975"/>
+        <TextEquiv>
+          <Unicode>荊州極西南界至蜀諸民曰獠子婦人姙娠七月而產臨水生</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867279" custom="structure {type:Text;}">
+        <Coords points="166,1010 378,1010 378,3966 166,3966 166,1010"/>
+        <Baseline points="277,3967 289,1014"/>
+        <TextEquiv>
+          <Unicode>兒便置水中浮則取養之沈便棄之然千百多浮既長皆拔去</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>日南有野女群行見丈夫狀皛目裸袒無衣䙏
+異俗
+越之東有駭沐之國其長子生則解而食之謂之宜弟父死則
+負其母而棄之言鬼妻不可與同居
+周日用曰既其母為鬼妻
+則其子為鬼子亦合棄之
+矣
+楚之南有炎人之國其親戚死朽之肉而棄之然後埋其骨乃
+為孝也
+秦之西有義渠國其親戚死聚柴積而焚之熏之即煙上謂之
+登遐然後為孝此上以為政下以為俗中國未足為非也此事
+見墨子
+周日用曰此事庶幾佛國之法
+且如是乎中國之徒亦如此也
+荊州極西南界至蜀諸民曰獠子婦人姙娠七月而產臨水生
+兒便置水中浮則取養之沈便棄之然千百多浮既長皆拔去
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79229" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="134,228 134,95 267,95 267,228 134,228"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79230" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="91,3472 102,1755 191,1754 188,3473 91,3472"/>
+      <TextLine id="869035" custom="structure {type:Page_Number;}">
+        <Coords points="74,1774 199,1774 199,2085 74,2085 74,1774"/>
+        <Baseline points="126,1777 131,2086"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869036" custom="structure {type:Title;}">
+        <Coords points="62,2299 199,2299 199,2784 62,2784 62,2299"/>
+        <Baseline points="131,2785 140,2305"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869037" custom="structure {type:Page_Number;}">
+        <Coords points="54,3065 154,3065 154,3259 54,3259 54,3065"/>
+        <Baseline points="117,3261 131,3075"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷二
+博物志
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

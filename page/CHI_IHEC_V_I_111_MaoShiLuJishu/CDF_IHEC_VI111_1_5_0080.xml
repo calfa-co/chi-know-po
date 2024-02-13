@@ -1,0 +1,297 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:29:03+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI111_1_5_0080.jpg" imageHeight="4091" imageWidth="4826">
+    <TextRegion id="118041" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4484,733 4627,728 4612,3677 4489,3668 4484,733"/>
+      <TextLine id="1112955" custom="structure {type:Title;}">
+        <Coords points="4519,729 4590,728 4590,1310 4519,1302 4519,729"/>
+        <Baseline points="4574,731 4574,1303"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112956" custom="structure {type:Section;}">
+        <Coords points="4497,1698 4601,1638 4596,1958 4503,1954 4497,1698"/>
+        <Baseline points="4566,1635 4566,1955"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112957" custom="structure {type:Page_Number;}">
+        <Coords points="4487,2815 4587,2809 4593,3047 4487,3047 4487,2815"/>
+        <Baseline points="4562,2827 4578,3047"/>
+        <TextEquiv>
+          <Unicode>十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注
+卷二
+十六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118042" custom="structure {type:MainText_Right;}">
+      <Coords points="2557,718 4470,723 4479,3649 2524,3639 2557,718"/>
+      <TextLine id="1112958" custom="structure {type:Text;}">
+        <Coords points="4298,715 4473,715 4473,3690 4298,3690 4298,715"/>
+        <Baseline points="4386,3691 4402,719"/>
+        <TextEquiv>
+          <Unicode>也孔疏引爾雅歆喜興也今釋詰作廞喜巾車鄭注以廞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112959" custom="structure {type:Text;}">
+        <Coords points="4119,693 4275,693 4275,1022 4119,1022 4119,693"/>
+        <Baseline points="4194,1023 4202,699"/>
+        <TextEquiv>
+          <Unicode>為興</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112960" custom="structure {type:Text;}">
+        <Coords points="3914,700 4084,700 4084,2350 3914,2350 3914,700"/>
+        <Baseline points="4002,2351 4018,703"/>
+        <TextEquiv>
+          <Unicode>取銘置於重注今文銘皆作名</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112961" custom="structure {type:Text;}">
+        <Coords points="3912,2438 4075,2438 4075,3670 3912,3670 3912,2438"/>
+        <Baseline points="3990,3671 3994,2443"/>
+        <TextEquiv>
+          <Unicode>案周禮小祝注銘今書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112962" custom="structure {type:Text;}">
+        <Coords points="3714,704 3891,704 3891,3665 3714,3665 3714,704"/>
+        <Baseline points="3798,3667 3834,707"/>
+        <TextEquiv>
+          <Unicode>或作名釋名釋言語銘名也記名其功也說文無銘字或</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112963" custom="structure {type:Text;}">
+        <Coords points="3550,700 3703,700 3703,1154 3550,1154 3550,700"/>
+        <Baseline points="3642,703 3646,1155"/>
+        <TextEquiv>
+          <Unicode>借作名</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112964" custom="structure {type:Text;}">
+        <Coords points="3330,690 3514,690 3514,3665 3330,3665 3330,690"/>
+        <Baseline points="3410,3667 3442,695"/>
+        <TextEquiv>
+          <Unicode>薦馬纓三就注纓今馬鞅也就成也諸侯之臣飾纓以三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112965" custom="structure {type:Text;}">
+        <Coords points="3152,684 3300,684 3300,1290 3152,1290 3152,684"/>
+        <Baseline points="3238,1291 3250,687"/>
+        <TextEquiv>
+          <Unicode>色而三成</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112966" custom="structure {type:Text;}">
+        <Coords points="3137,1370 3309,1370 3309,3650 3137,3650 3137,1370"/>
+        <Baseline points="3214,3651 3238,1375"/>
+        <TextEquiv>
+          <Unicode>案巾車注先鄭引士喪禮下篇曰馬纓三就</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112967" custom="structure {type:Text;}">
+        <Coords points="2943,706 3121,706 3121,3656 2943,3656 2943,706"/>
+        <Baseline points="3022,3659 3050,711"/>
+        <TextEquiv>
+          <Unicode>禮家說曰纓當胷以削革為之三就三重三匝也後鄭謂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112968" custom="structure {type:Text;}">
+        <Coords points="2750,675 2927,675 2927,3302 2750,3302 2750,675"/>
+        <Baseline points="2838,3303 2862,679"/>
+        <TextEquiv>
+          <Unicode>纓今馮鞅就成也既夕劉向別錄名士喪禮下篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112969" custom="structure {type:Text;}">
+        <Coords points="2566,688 2730,688 2730,1965 2566,1965 2566,688"/>
+        <Baseline points="2650,1967 2666,691"/>
+        <TextEquiv>
+          <Unicode>設披注今文披皆為藩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112970" custom="structure {type:Text;}">
+        <Coords points="2543,2038 2727,2038 2727,3650 2543,3650 2543,2038"/>
+        <Baseline points="2622,3651 2642,2043"/>
+        <TextEquiv>
+          <Unicode>案披藩聲相近詩小雅蕃維司</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>也孔疏引爾雅歆喜興也今釋詰作廞喜巾車鄭注以廞
+為興
+取銘置於重注今文銘皆作名
+案周禮小祝注銘今書
+或作名釋名釋言語銘名也記名其功也說文無銘字或
+借作名
+薦馬纓三就注纓今馬鞅也就成也諸侯之臣飾纓以三
+色而三成
+案巾車注先鄭引士喪禮下篇曰馬纓三就
+禮家說曰纓當胷以削革為之三就三重三匝也後鄭謂
+纓今馮鞅就成也既夕劉向別錄名士喪禮下篇
+設披注今文披皆為藩
+案披藩聲相近詩小雅蕃維司
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118043" custom="structure {type:MainText_Left;}">
+      <Coords points="326,747 2238,771 2215,3696 302,3663 326,747"/>
+      <TextLine id="1112971" custom="structure {type:Text;}">
+        <Coords points="2052,743 2216,743 2216,2645 2052,2645 2052,743"/>
+        <Baseline points="2142,2647 2150,747"/>
+        <TextEquiv>
+          <Unicode>徒漢書古今人表蕃作皮是其例也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112972" custom="structure {type:Text;}">
+        <Coords points="1859,738 2029,738 2029,2618 1859,2618 1859,738"/>
+        <Baseline points="1950,2619 1958,743"/>
+        <TextEquiv>
+          <Unicode>緇翦有幅注翦淺也注今文翦作淺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112973" custom="structure {type:Text;}">
+        <Coords points="1861,2709 2023,2709 2023,3681 1861,3681 1861,2709"/>
+        <Baseline points="1942,2711 1942,3683"/>
+        <TextEquiv>
+          <Unicode>案攷工記鮑人先</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112974" custom="structure {type:Text;}">
+        <Coords points="1661,738 1841,738 1841,2913 1661,2913 1661,738"/>
+        <Baseline points="1758,2915 1770,743"/>
+        <TextEquiv>
+          <Unicode>鄭注帴讀為翦後鄭謂翦者如俴淺之淺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112975" custom="structure {type:Text;}">
+        <Coords points="1470,747 1652,747 1652,2345 1470,2345 1470,747"/>
+        <Baseline points="1566,2347 1590,751"/>
+        <TextEquiv>
+          <Unicode>兩杅注杅盛湯漿今文杅為桙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112976" custom="structure {type:Text;}">
+        <Coords points="1468,2438 1638,2438 1638,3702 1468,3702 1468,2438"/>
+        <Baseline points="1550,3703 1562,2443"/>
+        <TextEquiv>
+          <Unicode>案續漢書禮儀志注引</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112977" custom="structure {type:Text;}">
+        <Coords points="1284,727 1452,727 1452,3022 1284,3022 1284,727"/>
+        <Baseline points="1378,3023 1386,731"/>
+        <TextEquiv>
+          <Unicode>鄭注既夕云牟盛湯漿劉昭从今文省作牟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112978" custom="structure {type:Text;}">
+        <Coords points="1091,736 1266,736 1266,3156 1091,3156 1091,736"/>
+        <Baseline points="1178,3159 1198,739"/>
+        <TextEquiv>
+          <Unicode>賓奠幣於棧左服注棧謂柩車也今文棧作輚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112979" custom="structure {type:Text;}">
+        <Coords points="1093,3229 1247,3229 1247,3670 1093,3670 1093,3229"/>
+        <Baseline points="1166,3235 1190,3671"/>
+        <TextEquiv>
+          <Unicode>案五經</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112980" custom="structure {type:Text;}">
+        <Coords points="902,711 1072,711 1072,3690 902,3690 902,711"/>
+        <Baseline points="994,3691 1010,715"/>
+        <TextEquiv>
+          <Unicode>文字木部棧仕諫反車部轏輚二同士諫反上見春秋傳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112981" custom="structure {type:Text;}">
+        <Coords points="702,743 884,743 884,3661 702,3661 702,743"/>
+        <Baseline points="794,3663 814,747"/>
+        <TextEquiv>
+          <Unicode>下見周禮與棧同今周禮作棧車張參所見本作輚古字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112982" custom="structure {type:Text;}">
+        <Coords points="529,727 695,727 695,1045 529,1045 529,727"/>
+        <Baseline points="622,731 626,1047"/>
+        <TextEquiv>
+          <Unicode>通也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112983" custom="structure {type:Text;}">
+        <Coords points="320,715 511,715 511,2625 320,2625 320,715"/>
+        <Baseline points="414,2627 442,719"/>
+        <TextEquiv>
+          <Unicode>婦人則設中帶注中帶若今之褌襂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112984" custom="structure {type:Text;}">
+        <Coords points="318,2711 495,2711 495,3690 318,3690 318,2711"/>
+        <Baseline points="418,2715 426,3691"/>
+        <TextEquiv>
+          <Unicode>案說文巾部㡓幒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>徒漢書古今人表蕃作皮是其例也
+緇翦有幅注翦淺也注今文翦作淺
+案攷工記鮑人先
+鄭注帴讀為翦後鄭謂翦者如俴淺之淺
+兩杅注杅盛湯漿今文杅為桙
+案續漢書禮儀志注引
+鄭注既夕云牟盛湯漿劉昭从今文省作牟
+賓奠幣於棧左服注棧謂柩車也今文棧作輚
+案五經
+文字木部棧仕諫反車部轏輚二同士諫反上見春秋傳
+下見周禮與棧同今周禮作棧車張參所見本作輚古字
+通也
+婦人則設中帶注中帶若今之褌襂
+案說文巾部㡓幒
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118044" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="179,742 338,747 322,3663 206,3663 179,742"/>
+      <TextLine id="1112985" custom="structure {type:Title;}">
+        <Coords points="214,742 313,734 313,1306 217,1302 214,742"/>
+        <Baseline points="242,735 242,1307"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112986" custom="structure {type:Section;}">
+        <Coords points="214,1638 294,1675 295,1956 203,1955 214,1638"/>
+        <Baseline points="230,1631 238,1959"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112987" custom="structure {type:Page_Number;}">
+        <Coords points="214,2835 281,2834 281,3040 217,3047 214,2835"/>
+        <Baseline points="242,2835 242,3043"/>
+        <TextEquiv>
+          <Unicode>十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注
+卷二
+十七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

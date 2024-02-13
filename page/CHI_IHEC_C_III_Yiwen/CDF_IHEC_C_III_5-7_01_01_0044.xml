@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T16:51:39+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_C_III_5-7_01_01_0044.jpg" imageHeight="4562" imageWidth="6212">
+    <TextRegion id="116800" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5678,971 5769,971 5774,2549 5670,2554 5678,971"/>
+      <TextLine id="1100408" custom="structure {type:Title;}">
+        <Coords points="5656,963 5940,963 5940,1487 5656,1487 5656,963"/>
+        <Baseline points="5734,970 5745,1490"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100390" custom="structure {type:Section;}">
+        <Coords points="5659,1855 5940,1855 5940,2422 5659,2422 5659,1855"/>
+        <Baseline points="5732,1860 5736,2423"/>
+        <TextEquiv>
+          <Unicode>天部卷文一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231410" custom="structure {type:Page_Number;}">
+        <Coords points="5667,3261 5933,3261 5933,3446 5667,3446 5667,3261"/>
+        <Baseline points="5724,3263 5724,3448"/>
+        <TextEquiv>
+          <Unicode>九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+天部卷文一
+九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116801" custom="structure {type:MainText_Right;}">
+      <Coords points="3567,971 5696,971 5696,4095 3567,4095 3567,971"/>
+      <TextLine id="1100391" custom="structure {type:Text;}">
+        <Coords points="5456,978 5659,978 5659,4085 5456,4085 5456,978"/>
+        <Baseline points="5563,983 5573,4088"/>
+        <TextEquiv>
+          <Unicode>梁李鏡遠詩曰始臨東岳觀俄昇若木枝萍實詎儔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100392" custom="structure {type:Text;}">
+        <Coords points="5256,975 5454,975 5454,4077 5256,4077 5256,975"/>
+        <Baseline points="5362,978 5362,4080"/>
+        <TextEquiv>
+          <Unicode>彩合扇且慚規北林耿初曜員窻鑒早曦照庭餘雪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100393" custom="structure {type:Text;}">
+        <Coords points="5043,960 5241,960 5241,4085 5043,4085 5043,960"/>
+        <Baseline points="5144,965 5150,4088"/>
+        <TextEquiv>
+          <Unicode>盡映簷溜滴垂徘徊匝花樹煜爚滿春池柳陰裁靡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100394" custom="structure {type:Text;}">
+        <Coords points="4833,965 5033,965 5033,4080 4833,4080 4833,965"/>
+        <Baseline points="4934,970 4942,4082"/>
+        <TextEquiv>
+          <Unicode>靡簾影復離離曾泉豈停舍桑榆忽在斯迴戈安得</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100395" custom="structure {type:Text;}">
+        <Coords points="4620,973 4828,973 4828,4072 4620,4072 4620,973"/>
+        <Baseline points="4726,975 4731,4075"/>
+        <TextEquiv>
+          <Unicode>中長繩不可羈沖情愛景落清宴惜光馳溫暉徒已</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100396" custom="structure {type:Text;}">
+        <Coords points="4417,963 4617,963 4617,1948 4417,1948 4417,963"/>
+        <Baseline points="4518,968 4529,1951"/>
+        <TextEquiv>
+          <Unicode>荷深心竊自知</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100397" custom="structure {type:Text;}">
+        <Coords points="4204,973 4422,973 4422,4095 4204,4095 4204,973"/>
+        <Baseline points="4313,978 4323,4098"/>
+        <TextEquiv>
+          <Unicode>梁劉孝綽詠日應令詩曰弭節馳湯谷照曜出扶桑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100398" custom="structure {type:Text;}">
+        <Coords points="4001,970 4199,970 4199,2547 4001,2547 4001,970"/>
+        <Baseline points="4098,975 4108,2549"/>
+        <TextEquiv>
+          <Unicode>園葵一何幸傾葉奉離光</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100399" custom="structure {type:Text;}">
+        <Coords points="3776,985 3994,985 3994,4105 3776,4105 3776,985"/>
+        <Baseline points="3890,990 3905,4108"/>
+        <TextEquiv>
+          <Unicode>謌後漢李尤九曲謌曰年歲晚暮時已斜安得力士</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100400" custom="structure {type:Text;}">
+        <Coords points="3571,985 3761,985 3761,1475 3571,1475 3571,985"/>
+        <Baseline points="3669,990 3682,1477"/>
+        <TextEquiv>
+          <Unicode>翻日車</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>梁李鏡遠詩曰始臨東岳觀俄昇若木枝萍實詎儔
+彩合扇且慚規北林耿初曜員窻鑒早曦照庭餘雪
+盡映簷溜滴垂徘徊匝花樹煜爚滿春池柳陰裁靡
+靡簾影復離離曾泉豈停舍桑榆忽在斯迴戈安得
+中長繩不可羈沖情愛景落清宴惜光馳溫暉徒已
+荷深心竊自知
+梁劉孝綽詠日應令詩曰弭節馳湯谷照曜出扶桑
+園葵一何幸傾葉奉離光
+謌後漢李尤九曲謌曰年歲晚暮時已斜安得力士
+翻日車
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116799" custom="structure {type:MainText_Left;}">
+      <Coords points="607,971 2712,971 2712,4119 607,4119 607,971"/>
+      <TextLine id="1100380" custom="structure {type:Text;}">
+        <Coords points="2486,975 2701,975 2701,4095 2486,4095 2486,975"/>
+        <Baseline points="2595,980 2600,2967 2618,4098"/>
+        <TextEquiv>
+          <Unicode>晉傅元日昇謌詠曰東光昇朝暘羲和初攬轡六龍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100381" custom="structure {type:Text;}">
+        <Coords points="2278,980 2504,980 2504,4093 2278,4093 2278,980"/>
+        <Baseline points="2379,985 2410,4095"/>
+        <TextEquiv>
+          <Unicode>並騰驤逸景何晃晃旭日照萬方皇德配天地神明</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100382" custom="structure {type:Text;}">
+        <Coords points="2070,975 2278,975 2278,4093 2070,4093 2070,975"/>
+        <Baseline points="2172,980 2189,4095"/>
+        <TextEquiv>
+          <Unicode>鑒幽荒又三光篇曰三光垂象表天地有晷度聲和</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100383" custom="structure {type:Text;}">
+        <Coords points="1857,970 2065,970 2065,3788 1857,3788 1857,970"/>
+        <Baseline points="1961,975 1976,3791"/>
+        <TextEquiv>
+          <Unicode>音響應形立影自附素日抱元烏明月懷靈兔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100384" custom="structure {type:Text;}">
+        <Coords points="1652,980 1857,980 1857,4085 1652,4085 1652,980"/>
+        <Baseline points="1758,985 1771,4088"/>
+        <TextEquiv>
+          <Unicode>贊晉郭璞十日贊曰十日並出草木焦枯羿乃控弦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100385" custom="structure {type:Text;}">
+        <Coords points="1447,983 1647,983 1647,2866 1447,2866 1447,983"/>
+        <Baseline points="1546,988 1553,2868"/>
+        <TextEquiv>
+          <Unicode>仰落陽烏可為洞感天人縣符</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100386" custom="structure {type:Title;}">
+        <Coords points="1249,1295 1419,1295 1419,1475 1249,1475 1249,1295"/>
+        <Baseline points="1333,1477 1338,1302"/>
+        <TextEquiv>
+          <Unicode>月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100387" custom="structure {type:Text;}">
+        <Coords points="1021,980 1239,980 1239,4085 1021,4085 1021,980"/>
+        <Baseline points="1122,985 1127,2569 1153,4088"/>
+        <TextEquiv>
+          <Unicode>釋名曰月闕也滿則缺也晦灰也月死為灰月光盡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100388" custom="structure {type:Text;}">
+        <Coords points="808,988 1031,988 1031,4077 808,4077 808,988"/>
+        <Baseline points="907,993 945,4080"/>
+        <TextEquiv>
+          <Unicode>似之也朔蘇也月死復蘇生也弦月半之名也其形</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100389" custom="structure {type:Text;}">
+        <Coords points="608,1021 816,1021 816,4080 608,4080 608,1021"/>
+        <Baseline points="712,1026 732,4082"/>
+        <TextEquiv>
+          <Unicode>一旁曲一旁直若張弓弦也望月滿之名也日月遙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>晉傅元日昇謌詠曰東光昇朝暘羲和初攬轡六龍
+並騰驤逸景何晃晃旭日照萬方皇德配天地神明
+鑒幽荒又三光篇曰三光垂象表天地有晷度聲和
+音響應形立影自附素日抱元烏明月懷靈兔
+贊晉郭璞十日贊曰十日並出草木焦枯羿乃控弦
+仰落陽烏可為洞感天人縣符
+月
+釋名曰月闕也滿則缺也晦灰也月死為灰月光盡
+似之也朔蘇也月死復蘇生也弦月半之名也其形
+一旁曲一旁直若張弓弦也望月滿之名也日月遙
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116798" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="534,1189 625,1189 625,4071 534,4071 534,1189"/>
+      <TextLine id="1100378" custom="structure {type:Title;}">
+        <Coords points="499,3375 636,3375 636,4080 499,4080 499,3375"/>
+        <Baseline points="575,3380 582,4082"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100379" custom="structure {type:Section;}">
+        <Coords points="479,952 598,952 598,1376 479,1376 479,952"/>
+        <Baseline points="552,1378 561,956"/>
+        <TextEquiv>
+          <Unicode>天部卷文一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231411" custom="structure {type:Page_Number;}">
+        <Coords points="524,3266 608,3266 608,3396 524,3396 524,3266"/>
+        <Baseline points="554,3267 554,3398"/>
+        <TextEquiv>
+          <Unicode>十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100410" custom="structure {type:Marginalia;}">
+        <Coords points="481,1799 605,1799 605,2362 481,2362 481,1799"/>
+        <Baseline points="554,2364 559,1803"/>
+        <TextEquiv>
+          <Unicode>宏達堂校梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+天部卷文一
+十
+宏達堂校梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:52+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0090.jpg" imageHeight="4524" imageWidth="2591">
+    <TextRegion id="79260" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2392,3517 2392,1757 2492,1757 2492,3517 2392,3517"/>
+      <TextLine id="869062" custom="structure {type:Page_Number;}">
+        <Coords points="2374,1789 2523,1789 2523,2063 2374,2063 2374,1789"/>
+        <Baseline points="2463,2064 2477,1798"/>
+        <TextEquiv>
+          <Unicode>卷十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869063" custom="structure {type:Page_Number;}">
+        <Coords points="2394,3111 2518,3111 2518,3310 2394,3310 2394,3111"/>
+        <Baseline points="2453,3311 2458,3115"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷十
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79258" custom="structure {type:MainText;}">
+      <Coords points="2379,4049 2387,1010 181,1006 161,4025 2379,4049"/>
+      <TextLine id="867421" custom="structure {type:Text;}">
+        <Coords points="2188,1030 2404,1030 2404,4023 2188,4023 2188,1030"/>
+        <Baseline points="2300,4025 2304,1033"/>
+        <TextEquiv>
+          <Unicode>一處有城郭狀屋舍甚嚴遙望宮中多織婦見一丈夫牽牛渚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867422" custom="structure {type:Text;}">
+        <Coords points="1992,1020 2208,1020 2208,4023 1992,4023 1992,1020"/>
+        <Baseline points="2092,4025 2112,1024"/>
+        <TextEquiv>
+          <Unicode>次飲之牽牛人乃驚問曰何由至此此人具說來意並問此是</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867423" custom="structure {type:Text;}">
+        <Coords points="1806,1017 2025,1017 2025,4018 1806,4018 1806,1017"/>
+        <Baseline points="1920,4021 1940,1021"/>
+        <TextEquiv>
+          <Unicode>何處答曰君還至蜀郡訪嚴君平則知之竟不上岸因還如期</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867424" custom="structure {type:Text;}">
+        <Coords points="1607,1015 1831,1015 1831,4018 1607,4018 1607,1015"/>
+        <Baseline points="1728,4021 1744,1018"/>
+        <TextEquiv>
+          <Unicode>後至蜀問君平曰某年月日有客星犯牽牛宿計年月正是此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867425" custom="structure {type:Text;}">
+        <Coords points="1456,1017 1655,1017 1655,1786 1456,1786 1456,1017"/>
+        <Baseline points="1560,1021 1568,1789"/>
+        <TextEquiv>
+          <Unicode>人到天河時也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867426" custom="structure {type:Text;}">
+        <Coords points="1252,1017 1476,1017 1476,4028 1252,4028 1252,1017"/>
+        <Baseline points="1360,4029 1372,1021"/>
+        <TextEquiv>
+          <Unicode>人有山行墮深澗者無出路饑餓欲死左右見龜蛇甚多朝暮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867427" custom="structure {type:Text;}">
+        <Coords points="1066,1010 1287,1010 1287,4016 1066,4016 1066,1010"/>
+        <Baseline points="1168,4017 1192,1015"/>
+        <TextEquiv>
+          <Unicode>引頸向東方人因伏地學之遂不饑體殊輕便能登巖岸經數</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867428" custom="structure {type:Text;}">
+        <Coords points="877,1007 1099,1007 1099,4016 877,4016 877,1007"/>
+        <Baseline points="980,4017 1008,1012"/>
+        <TextEquiv>
+          <Unicode>年後竦身舉臂遂超出澗上即得還家顏色悅懌頗更黠慧勝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867429" custom="structure {type:Text;}">
+        <Coords points="711,1017 908,1017 908,2777 711,2777 711,1017"/>
+        <Baseline points="816,2779 828,1022"/>
+        <TextEquiv>
+          <Unicode>故還食穀啖滋味百餘日中復本質</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867430" custom="structure {type:Text;}">
+        <Coords points="515,1010 739,1010 739,4023 515,4023 515,1010"/>
+        <Baseline points="625,4025 641,1011"/>
+        <TextEquiv>
+          <Unicode>天門郡有幽山峻谷而其土人有從下經過者忽然踴出林表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867431" custom="structure {type:Text;}">
+        <Coords points="337,1017 550,1017 550,4003 337,4003 337,1017"/>
+        <Baseline points="433,4005 461,1021"/>
+        <TextEquiv>
+          <Unicode>狀如飛仙遂絕跡年中如此甚數遂名此處為仙谷有樂道好</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867432" custom="structure {type:Text;}">
+        <Coords points="153,1012 372,1012 372,4011 153,4011 153,1012"/>
+        <Baseline points="245,4013 289,1016"/>
+        <TextEquiv>
+          <Unicode>事者入此谷中洗沐以求飛仙往往得去有長意思人疑必以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>一處有城郭狀屋舍甚嚴遙望宮中多織婦見一丈夫牽牛渚
+次飲之牽牛人乃驚問曰何由至此此人具說來意並問此是
+何處答曰君還至蜀郡訪嚴君平則知之竟不上岸因還如期
+後至蜀問君平曰某年月日有客星犯牽牛宿計年月正是此
+人到天河時也
+人有山行墮深澗者無出路饑餓欲死左右見龜蛇甚多朝暮
+引頸向東方人因伏地學之遂不饑體殊輕便能登巖岸經數
+年後竦身舉臂遂超出澗上即得還家顏色悅懌頗更黠慧勝
+故還食穀啖滋味百餘日中復本質
+天門郡有幽山峻谷而其土人有從下經過者忽然踴出林表
+狀如飛仙遂絕跡年中如此甚數遂名此處為仙谷有樂道好
+事者入此谷中洗沐以求飛仙往往得去有長意思人疑必以
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79259" custom="structure {type:Marginalia;}">
+      <Coords points="1656,897 1656,661 1804,661 1804,897 1656,897"/>
+      <TextLine id="867433" custom="structure {type:Marginalia;}">
+        <Coords points="1667,668 1808,668 1808,844 1667,844 1667,668"/>
+        <Baseline points="1728,669 1728,845"/>
+        <TextEquiv>
+          <Unicode>後至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>後至
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79261" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2328,209 2328,101 2444,101 2444,209 2328,209"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

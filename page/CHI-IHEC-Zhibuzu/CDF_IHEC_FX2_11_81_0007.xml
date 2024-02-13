@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:36+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_11_81_0007.jpg" imageHeight="3172" imageWidth="3492">
+    <TextRegion id="115812" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3239,1604 3239,1231 3326,1231 3326,1604 3239,1604"/>
+      <TextLine id="1092690" custom="structure {type:Section;}">
+        <Coords points="3255,1217 3322,1216 3322,1602 3255,1601 3255,1217"/>
+        <Baseline points="3295,1603 3300,1221"/>
+        <TextEquiv>
+          <Unicode>詩傳註疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩傳註疏
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115813" custom="structure {type:MainText_Right;}">
+      <Coords points="1843,2681 1843,787 3252,787 3252,2681 1843,2681"/>
+      <TextLine id="1092691" custom="structure {type:Text;}">
+        <Coords points="3090,770 3241,770 3241,2683 3090,2683 3090,770"/>
+        <Baseline points="3156,772 3176,2684"/>
+        <TextEquiv>
+          <Unicode>至疏蓼莪之四章詳明愷惻令人讀之淚孔子興觀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092692" custom="structure {type:Text;}">
+        <Coords points="2929,770 3083,770 3083,2685 2929,2685 2929,770"/>
+        <Baseline points="3000,772 3023,2687"/>
+        <TextEquiv>
+          <Unicode>羣怨事父事君之旨先生蓋深有焉是編者可以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092693" custom="structure {type:Text;}">
+        <Coords points="2774,770 2924,770 2924,1423 2774,1423 2774,770"/>
+        <Baseline points="2842,772 2865,1425"/>
+        <TextEquiv>
+          <Unicode>論世可以知人矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092694" custom="structure {type:Text;}">
+        <Coords points="2619,759 2774,759 2774,2690 2619,2690 2619,759"/>
+        <Baseline points="2684,763 2712,2692"/>
+        <TextEquiv>
+          <Unicode>乾隆辛丑立夏三日仁和吳長元麗煌書於京城氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092695" custom="structure {type:Text;}">
+        <Coords points="2466,761 2605,761 2605,1101 2466,1101 2466,761"/>
+        <Baseline points="2534,763 2534,1103"/>
+        <TextEquiv>
+          <Unicode>之東軒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>至疏蓼莪之四章詳明愷惻令人讀之淚孔子興觀
+羣怨事父事君之旨先生蓋深有焉是編者可以
+論世可以知人矣
+乾隆辛丑立夏三日仁和吳長元麗煌書於京城氏
+之東軒
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115814" custom="structure {type:MainText_Left;}">
+      <Coords points="399,2692 349,659 1779,659 1779,2681 399,2692"/>
+      <TextLine id="1092696" custom="structure {type:Title;}">
+        <Coords points="1618,641 1746,641 1746,1259 1618,1259 1618,641"/>
+        <Baseline points="1685,644 1694,1261"/>
+        <TextEquiv>
+          <Unicode>詩傳註疏卷上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092697" custom="structure {type:Author_name;}">
+        <Coords points="1471,1304 1630,1304 1630,2527 1471,2527 1471,1304"/>
+        <Baseline points="1532,1306 1566,2528"/>
+        <TextEquiv>
+          <Unicode>弋陽 謝 枋得 君直 著</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092698" custom="structure {type:Title;}">
+        <Coords points="1311,727 1441,727 1441,993 1311,993 1311,727"/>
+        <Baseline points="1377,732 1388,995"/>
+        <TextEquiv>
+          <Unicode>周南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092699" custom="structure {type:Title;}">
+        <Coords points="1152,824 1283,824 1283,1099 1152,1099 1152,824"/>
+        <Baseline points="1215,828 1224,1100"/>
+        <TextEquiv>
+          <Unicode>葛覃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092700" custom="structure {type:Text;}">
+        <Coords points="990,644 1161,644 1161,2687 990,2687 990,644"/>
+        <Baseline points="1049,647 1085,2689"/>
+        <TextEquiv>
+          <Unicode>貴為后妃正位乎内供織紝豈無嬪嬙盛服飾豈無文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092701" custom="structure {type:Text;}">
+        <Coords points="826,636 1004,636 1004,2705 826,2705 826,636"/>
+        <Baseline points="887,639 935,2706"/>
+        <TextEquiv>
+          <Unicode>繡有司者治之足矣今也刈葛絺其事至勞澣衣潔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092702" custom="structure {type:Text;}">
+        <Coords points="669,644 846,644 846,2690 669,2690 669,644"/>
+        <Baseline points="737,647 788,2692"/>
+        <TextEquiv>
+          <Unicode>裳其事至細手之而不倦足之而忐豈褊嗇哉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092703" custom="structure {type:Text;}">
+        <Coords points="509,646 685,646 685,2687 509,2687 509,646"/>
+        <Baseline points="576,650 627,2689"/>
+        <TextEquiv>
+          <Unicode>將化天下以盡婦道也為人婦者聞后妃知本如此豈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092704" custom="structure {type:Text;}">
+        <Coords points="356,659 523,659 523,2660 404,2668 356,659"/>
+        <Baseline points="429,661 469,2661"/>
+        <TextEquiv>
+          <Unicode>不克勤克儉乎盡孝盡義乎故曰一國之事繫一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩傳註疏卷上
+弋陽 謝 枋得 君直 著
+周南
+葛覃
+貴為后妃正位乎内供織紝豈無嬪嬙盛服飾豈無文
+繡有司者治之足矣今也刈葛絺其事至勞澣衣潔
+裳其事至細手之而不倦足之而忐豈褊嗇哉
+將化天下以盡婦道也為人婦者聞后妃知本如此豈
+不克勤克儉乎盡孝盡義乎故曰一國之事繫一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115815" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="265,1162 342,1162 386,2696 295,2702 265,1162"/>
+      <TextLine id="1092705" custom="structure {type:Section;}">
+        <Coords points="257,1144 345,1141 345,1651 268,1653 257,1144"/>
+        <Baseline points="302,1145 316,1648"/>
+        <TextEquiv>
+          <Unicode>詩傳註疏二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092706" custom="structure {type:Page_Number;}">
+        <Coords points="294,2125 376,2122 384,2190 291,2199 294,2125"/>
+        <Baseline points="336,2196 339,2126"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104471" custom="structure {type:Title;}">
+        <Coords points="291,2207 373,2199 381,2696 308,2693 291,2207"/>
+        <Baseline points="342,2213 350,2696"/>
+        <TextEquiv>
+          <Unicode>知不足齋叢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩傳註疏二
+一
+知不足齋叢書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:23+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_9_65_0014.jpg" imageHeight="3144" imageWidth="3649">
+    <TextRegion id="116650" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3349,1186 3443,1186 3460,1459 3379,1462 3349,1186"/>
+      <TextLine id="1099000" custom="structure {type:Section;}">
+        <Coords points="3351,1188 3443,1181 3462,1464 3365,1493 3351,1188"/>
+        <Baseline points="3413,1465 3416,1169"/>
+        <TextEquiv>
+          <Unicode>金樓子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>金樓子
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116651" custom="structure {type:MainText_Left;}">
+      <Coords points="304,752 1761,769 1737,2730 311,2676 304,752"/>
+      <TextLine id="1099001" custom="structure {type:Title;}">
+        <Coords points="1584,761 1729,761 1729,1093 1584,1093 1584,761"/>
+        <Baseline points="1667,1095 1677,766"/>
+        <TextEquiv>
+          <Unicode>金樓子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099002" custom="structure {type:Author_name;}">
+        <Coords points="1563,1933 1711,1933 1711,2574 1563,2574 1563,1933"/>
+        <Baseline points="1636,2575 1653,1936"/>
+        <TextEquiv>
+          <Unicode>海寧吳騫附訂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099003" custom="structure {type:Title;}">
+        <Coords points="1439,840 1563,840 1563,1093 1439,1093 1439,840"/>
+        <Baseline points="1509,843 1512,1095"/>
+        <TextEquiv>
+          <Unicode>自序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099004" custom="structure {type:Author_name;}">
+        <Coords points="1264,913 1407,913 1407,1330 1264,1330 1264,913"/>
+        <Baseline points="1340,1331 1354,917"/>
+        <TextEquiv>
+          <Unicode>連章離翰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099005" custom="structure {type:Commentary;}">
+        <Coords points="1339,1319 1415,1329 1398,2311 1322,2304 1339,1319"/>
+        <Baseline points="1367,2283 1381,1311"/>
+        <TextEquiv>
+          <Unicode>離當作摛o新印已改正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099006" custom="structure {type:Commentary;}">
+        <Coords points="1260,1331 1341,1329 1331,1804 1255,1802 1260,1331"/>
+        <Baseline points="1293,1798 1300,1331"/>
+        <TextEquiv>
+          <Unicode>一頁後三行</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099007" custom="structure {type:Title;}">
+        <Coords points="1110,833 1250,833 1250,1189 1110,1189 1110,833"/>
+        <Baseline points="1196,1190 1203,836"/>
+        <TextEquiv>
+          <Unicode>第五卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099008" custom="structure {type:Text;}">
+        <Coords points="945,906 1093,906 1093,1685 945,1685 945,906"/>
+        <Baseline points="1011,1687 1024,910"/>
+        <TextEquiv>
+          <Unicode>官教前牀可開八尺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099009" custom="structure {type:Commentary;}">
+        <Coords points="1017,1679 1103,1684 1084,2713 1004,2718 1017,1679"/>
+        <Baseline points="1051,2720 1061,1671"/>
+        <TextEquiv>
+          <Unicode>案八尺二字非雙聲疑有誤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099010" custom="structure {type:Commentary;}">
+        <Coords points="940,1685 1014,1682 1000,2703 921,2701 940,1685"/>
+        <Baseline points="967,1681 977,2717"/>
+        <TextEquiv>
+          <Unicode>攷南史羊元保傅江夏王義</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099011" custom="structure {type:Commentary;}">
+        <Coords points="869,1036 945,1031 921,2721 847,2716 869,1036"/>
+        <Baseline points="880,2720 910,1008"/>
+        <TextEquiv>
+          <Unicode>恭嘗設斎使戎布牀須臾王出牀狹乃自開</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099012" custom="structure {type:Commentary;}">
+        <Coords points="792,1011 871,1009 849,2706 766,2705 792,1011"/>
+        <Baseline points="799,2713 826,1011"/>
+        <TextEquiv>
+          <Unicode>牀戎曰官家恨狹更廣八分王笑曰卿豈惟善</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099013" custom="structure {type:Commentary;}">
+        <Coords points="714,1004 793,1008 785,1608 709,1615 714,1004"/>
+        <Baseline points="745,1610 759,1005"/>
+        <TextEquiv>
+          <Unicode>雙聲乃辨士也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099014" custom="structure {type:Commentary;}">
+        <Coords points="625,1006 714,1006 714,1612 625,1612 625,1006"/>
+        <Baseline points="668,1613 671,1008"/>
+        <TextEquiv>
+          <Unicode>十一頁後六行</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099015" custom="structure {type:Text;}">
+        <Coords points="475,911 621,911 621,1491 475,1491 475,911"/>
+        <Baseline points="540,1492 560,914"/>
+        <TextEquiv>
+          <Unicode>文帝與戎對曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099016" custom="structure {type:Commentary;}">
+        <Coords points="549,1495 625,1495 608,2706 528,2705 549,1495"/>
+        <Baseline points="577,2707 580,1462"/>
+        <TextEquiv>
+          <Unicode>案此句疑有脫誤攷南史羊元保</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099017" custom="structure {type:Commentary;}">
+        <Coords points="469,1486 549,1490 528,2693 454,2701 469,1486"/>
+        <Baseline points="483,2713 503,1472"/>
+        <TextEquiv>
+          <Unicode>傳云文帝好與元保棊嘗中使至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099018" custom="structure {type:Commentary;}">
+        <Coords points="400,1016 473,1016 455,2700 365,2698 400,1016"/>
+        <Baseline points="415,2700 436,1015"/>
+        <TextEquiv>
+          <Unicode>元保曰今日上何召我耶戎曰金溝清泚銅池</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099019" custom="structure {type:Commentary;}">
+        <Coords points="318,1018 400,1002 371,2600 304,2596 318,1018"/>
+        <Baseline points="348,2596 358,1005"/>
+        <TextEquiv>
+          <Unicode>搖颺既佳光景當得劇綦 十一頁後八行</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>金樓子
+海寧吳騫附訂
+自序
+連章離翰
+離當作摛o新印已改正
+一頁後三行
+第五卷
+官教前牀可開八尺
+案八尺二字非雙聲疑有誤
+攷南史羊元保傅江夏王義
+恭嘗設斎使戎布牀須臾王出牀狹乃自開
+牀戎曰官家恨狹更廣八分王笑曰卿豈惟善
+雙聲乃辨士也
+十一頁後六行
+文帝與戎對曰
+案此句疑有脫誤攷南史羊元保
+傳云文帝好與元保棊嘗中使至
+元保曰今日上何召我耶戎曰金溝清泚銅池
+搖颺既佳光景當得劇綦 十一頁後八行
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116652" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="230,1203 318,1206 318,2700 217,2690 230,1203"/>
+      <TextLine id="1098998" custom="structure {type:Section;}">
+        <Coords points="236,1198 321,1180 321,1690 226,1690 236,1198"/>
+        <Baseline points="258,1489 267,1183"/>
+        <TextEquiv>
+          <Unicode>金樓子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234246" custom="structure {type:Section;}">
+        <Coords points=""/>
+        <Baseline points="284,1462 284,1687"/>
+        <TextEquiv>
+          <Unicode>附訂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234247" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="267,2091 271,2229"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098999" custom="structure {type:Title;}">
+        <Coords points="218,2108 319,2108 319,2705 224,2699 218,2108"/>
+        <Baseline points="251,2707 269,2222"/>
+        <TextEquiv>
+          <Unicode>知不足斎樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>金樓子
+附訂
+四
+知不足斎樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

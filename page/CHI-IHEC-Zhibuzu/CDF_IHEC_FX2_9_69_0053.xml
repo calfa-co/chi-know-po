@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:30+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_9_69_0053.jpg" imageHeight="3144" imageWidth="3548">
+    <TextRegion id="116671" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3255,1593 3255,1176 3366,1176 3366,1593 3255,1593"/>
+      <TextLine id="1099166" custom="structure {type:Section;}">
+        <Coords points="3278,1166 3354,1166 3365,1596 3283,1596 3278,1166"/>
+        <Baseline points="3312,1156 3329,1600"/>
+        <TextEquiv>
+          <Unicode>耕織圖詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>耕織圖詩
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116672" custom="structure {type:MainText_Right;}">
+      <Coords points="1865,2676 1865,709 3288,709 3288,2676 1865,2676"/>
+      <TextLine id="1099167" custom="structure {type:Text;}">
+        <Coords points="3121,705 3256,705 3256,2679 3121,2679 3121,705"/>
+        <Baseline points="3194,709 3197,2680"/>
+        <TextEquiv>
+          <Unicode>晨雨麥秋潤午風槐夏涼谿南與谿北嘯歌插新秧抛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099168" custom="structure {type:Text;}">
+        <Coords points="2962,696 3100,696 3100,2511 2962,2511 2962,696"/>
+        <Baseline points="3043,2512 3046,699"/>
+        <TextEquiv>
+          <Unicode>擲不停手左右無亂行我將教秧馬代勞民莫忘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099169" custom="structure {type:Title;}">
+        <Coords points="2810,1000 2941,1000 2941,1257 2810,1257 2810,1000"/>
+        <Baseline points="2868,1005 2891,1257"/>
+        <TextEquiv>
+          <Unicode>一耘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099190" custom="structure {type:Text;}">
+        <Coords points="2655,698 2791,698 2791,2684 2655,2684 2655,698"/>
+        <Baseline points="2720,2686 2726,702"/>
+        <TextEquiv>
+          <Unicode>時雨既已降艮苗日懷新去草如去惡務令盡陳根泥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099191" custom="structure {type:Text;}">
+        <Coords points="2501,712 2637,712 2636,2527 2499,2527 2501,712"/>
+        <Baseline points="2578,692 2578,2528"/>
+        <TextEquiv>
+          <Unicode>蟠任犢鼻郭行生浪紋眷惟聖天子儻亦思鳥耘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099192" custom="structure {type:Title;}">
+        <Coords points="2340,971 2475,971 2475,1236 2340,1236 2340,971"/>
+        <Baseline points="2414,1237 2417,974"/>
+        <TextEquiv>
+          <Unicode>二耘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099193" custom="structure {type:Text;}">
+        <Coords points="2181,684 2326,684 2326,2691 2181,2691 2181,684"/>
+        <Baseline points="2255,2693 2266,688"/>
+        <TextEquiv>
+          <Unicode>解衣日炙背戴笠汗濡首敢辭冒炎蒸但欲去莨莠壺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099194" custom="structure {type:Text;}">
+        <Coords points="2021,684 2173,684 2173,2516 2021,2516 2021,684"/>
+        <Baseline points="2104,2518 2118,688"/>
+        <TextEquiv>
+          <Unicode>漿與箪食亭午來餉婦要兒知稼穑豈日事攜幼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099195" custom="structure {type:Title;}">
+        <Coords points="1874,969 2012,969 2012,1238 1874,1238 1874,969"/>
+        <Baseline points="1946,971 1946,1240"/>
+        <TextEquiv>
+          <Unicode>三耘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>晨雨麥秋潤午風槐夏涼谿南與谿北嘯歌插新秧抛
+擲不停手左右無亂行我將教秧馬代勞民莫忘
+一耘
+時雨既已降艮苗日懷新去草如去惡務令盡陳根泥
+蟠任犢鼻郭行生浪紋眷惟聖天子儻亦思鳥耘
+二耘
+解衣日炙背戴笠汗濡首敢辭冒炎蒸但欲去莨莠壺
+漿與箪食亭午來餉婦要兒知稼穑豈日事攜幼
+三耘
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116673" custom="structure {type:MainText_Left;}">
+      <Coords points="288,2680 288,776 1684,776 1684,2680 288,2680"/>
+      <TextLine id="1099196" custom="structure {type:Text;}">
+        <Coords points="1533,766 1671,760 1670,2705 1532,2705 1533,766"/>
+        <Baseline points="1579,2707 1610,742"/>
+        <TextEquiv>
+          <Unicode>農田亦甚劬三復事耘耔經年苦艱食喜見苗薿薿老</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099197" custom="structure {type:Text;}">
+        <Coords points="1376,766 1518,766 1518,2534 1376,2534 1376,766"/>
+        <Baseline points="1448,769 1458,2535"/>
+        <TextEquiv>
+          <Unicode>農念一飽對此出饞水願天均雨暘滿野如雲委</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099198" custom="structure {type:Title;}">
+        <Coords points="1236,1010 1359,1002 1359,1257 1236,1268 1236,1010"/>
+        <Baseline points="1293,1008 1314,1257"/>
+        <TextEquiv>
+          <Unicode>灌溉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099199" custom="structure {type:Text;}">
+        <Coords points="1058,749 1207,749 1207,2696 1058,2696 1058,749"/>
+        <Baseline points="1139,752 1159,2697"/>
+        <TextEquiv>
+          <Unicode>揠苗鄙宋人抱甕慙蒙莊何如銜尾鴉倒流竭池塘䆉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099200" custom="structure {type:Text;}">
+        <Coords points="908,745 1048,745 1048,2530 908,2530 908,745"/>
+        <Baseline points="981,749 984,2532"/>
+        <TextEquiv>
+          <Unicode>椏舞翠浪篷篨生畫涼斜陽耿衰柳笑歌閒女郖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099201" custom="structure {type:Title;}">
+        <Coords points="756,1007 883,1007 883,1290 756,1290 756,1007"/>
+        <Baseline points="826,1011 829,1291"/>
+        <TextEquiv>
+          <Unicode>收刈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099202" custom="structure {type:Text;}">
+        <Coords points="592,744 738,744 738,2682 592,2682 592,744"/>
+        <Baseline points="668,746 678,2683"/>
+        <TextEquiv>
+          <Unicode>田家刈穫時腰鎌競倉卒霜濃手龜坼日永身罄折兒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099203" custom="structure {type:Text;}">
+        <Coords points="436,745 576,745 576,2523 436,2523 436,745"/>
+        <Baseline points="513,749 516,2525"/>
+        <TextEquiv>
+          <Unicode>童行拾穗風色凌短褐歡呼荷擔歸望望屋山月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099204" custom="structure {type:Title;}">
+        <Coords points="293,1020 412,1014 412,1278 293,1282 293,1020"/>
+        <Baseline points="355,1018 358,1280"/>
+        <TextEquiv>
+          <Unicode>登場</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>農田亦甚劬三復事耘耔經年苦艱食喜見苗薿薿老
+農念一飽對此出饞水願天均雨暘滿野如雲委
+灌溉
+揠苗鄙宋人抱甕慙蒙莊何如銜尾鴉倒流竭池塘䆉
+椏舞翠浪篷篨生畫涼斜陽耿衰柳笑歌閒女郖
+收刈
+田家刈穫時腰鎌競倉卒霜濃手龜坼日永身罄折兒
+童行拾穗風色凌短褐歡呼荷擔歸望望屋山月
+登場
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116674" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="173,2690 173,1233 291,1233 291,2690 173,2690"/>
+      <TextLine id="1099164" custom="structure {type:Section;}">
+        <Coords points="175,1238 262,1240 263,1582 173,1600 175,1238"/>
+        <Baseline points="203,1210 214,1583"/>
+        <TextEquiv>
+          <Unicode>耕織圖詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234254" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="240,2114 247,2225"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099165" custom="structure {type:Title;}">
+        <Coords points="185,2116 292,2109 290,2695 191,2701 185,2116"/>
+        <Baseline points="245,2222 247,2710"/>
+        <TextEquiv>
+          <Unicode>知不足斎樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>耕織圖詩
+三
+知不足斎樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

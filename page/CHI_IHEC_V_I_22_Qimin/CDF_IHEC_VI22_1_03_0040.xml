@@ -1,0 +1,393 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:37+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_03_0040.jpg" imageHeight="4178" imageWidth="4696">
+    <TextRegion id="119624" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4412,760 4517,753 4547,3686 4433,3693 4412,760"/>
+      <TextLine id="1129514" custom="structure {type:Title;}">
+        <Coords points="4429,766 4508,772 4508,1334 4431,1334 4429,766"/>
+        <Baseline points="4470,757 4480,1335"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129515" custom="structure {type:Section;}">
+        <Coords points="4424,1706 4514,1708 4514,1988 4423,1991 4424,1706"/>
+        <Baseline points="4480,1712 4490,1984"/>
+        <TextEquiv>
+          <Unicode>卷八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129516" custom="structure {type:Page_Number;}">
+        <Coords points="4438,2950 4525,2947 4519,3108 4438,3103 4438,2950"/>
+        <Baseline points="4490,2953 4493,3105"/>
+        <TextEquiv>
+          <Unicode>八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷八
+八
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119625" custom="structure {type:MainText_Right;}">
+      <Coords points="2523,774 4419,763 4439,3697 2580,3727 2523,774"/>
+      <TextLine id="1129517" custom="structure {type:Commentary;}">
+        <Coords points="4297,758 4428,758 4432,3688 4323,3688 4297,758"/>
+        <Baseline points="4349,750 4382,3693"/>
+        <TextEquiv>
+          <Unicode>甕中瀉時直傾之勿以手撥飯水量麴末為著飯上慎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129518" custom="structure {type:Commentary;}">
+        <Coords points="4203,764 4304,764 4330,3686 4213,3686 4203,764"/>
+        <Baseline points="4251,763 4288,3693"/>
+        <TextEquiv>
+          <Unicode>勿撓攪亦勿移動綿幕甕口三七日熟美釅少澱久停</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129519" custom="structure {type:Commentary;}">
+        <Coords points="4097,766 4204,762 4220,2722 4109,2724 4097,766"/>
+        <Baseline points="4144,757 4147,2724"/>
+        <TextEquiv>
+          <Unicode>彌好凡酢未熟已熟而移甕者率多</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129520" custom="structure {type:Commentary;}">
+        <Coords points="3993,760 4102,750 4112,2553 4005,2555 3993,760"/>
+        <Baseline points="4036,750 4073,2553"/>
+        <TextEquiv>
+          <Unicode>壞矣熟則無忌接取清別甕著之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129521" custom="structure {type:Text;}">
+        <Coords points="3806,728 3985,728 3985,1323 3806,1323 3806,728"/>
+        <Baseline points="3891,733 3898,1325"/>
+        <TextEquiv>
+          <Unicode>秫米醋法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129522" custom="structure {type:Commentary;}">
+        <Coords points="3893,1323 4000,1319 4029,3678 3910,3678 3893,1323"/>
+        <Baseline points="3942,1322 3959,3680"/>
+        <TextEquiv>
+          <Unicode>五月五日作七月七日熟入五月則多收粟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129523" custom="structure {type:Commentary;}">
+        <Coords points="3793,1321 3893,1321 3917,3673 3810,3676 3793,1321"/>
+        <Baseline points="3834,1315 3874,3676"/>
+        <TextEquiv>
+          <Unicode>米飯醋醬以擬和釀不用水也醬以極醋為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129524" custom="structure {type:Commentary;}">
+        <Coords points="3684,755 3800,757 3810,3680 3705,3685 3684,755"/>
+        <Baseline points="3750,760 3770,3693"/>
+        <TextEquiv>
+          <Unicode>佳末乾麴下絹篩經用稉秫米為第一黍米亦佳一石</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129525" custom="structure {type:Commentary;}">
+        <Coords points="3586,755 3681,753 3721,3688 3605,3685 3586,755"/>
+        <Baseline points="3629,750 3669,3690"/>
+        <TextEquiv>
+          <Unicode>用麴末一斗麵多則醋不美唯再餾淘不用多遍初淘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129526" custom="structure {type:Commentary;}">
+        <Coords points="3479,755 3586,762 3608,3692 3498,3690 3479,755"/>
+        <Baseline points="3538,760 3575,3693"/>
+        <TextEquiv>
+          <Unicode>瀋汁為卻其第二淘泔即餾以浸饋令飲泔汁盡重裝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129527" custom="structure {type:Commentary;}">
+        <Coords points="3379,762 3482,755 3501,3690 3403,3699 3379,762"/>
+        <Baseline points="3434,747 3468,3697"/>
+        <TextEquiv>
+          <Unicode>作再餾飯下撣去熱氣令如人體於盆中和之擘去飯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129528" custom="structure {type:Commentary;}">
+        <Coords points="3275,767 3382,762 3405,3688 3296,3695 3275,767"/>
+        <Baseline points="3333,737 3353,3690"/>
+        <TextEquiv>
+          <Unicode>塊以麵拌之必令均調下醬醋更搦破令薄粥粥稠則</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129529" custom="structure {type:Commentary;}">
+        <Coords points="3170,748 3275,748 3303,3688 3201,3688 3170,748"/>
+        <Baseline points="3225,750 3252,3690"/>
+        <TextEquiv>
+          <Unicode>醋剋稀則味薄內著甕中隨甕大小以滿為限七日閒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129530" custom="structure {type:Commentary;}">
+        <Coords points="3068,772 3172,776 3203,3695 3101,3697 3068,772"/>
+        <Baseline points="3121,763 3162,3697"/>
+        <TextEquiv>
+          <Unicode>一日一度攪之七日以外十日一攪三十日止初置甕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129531" custom="structure {type:Commentary;}">
+        <Coords points="2965,762 3075,767 3098,3674 2992,3678 2965,762"/>
+        <Baseline points="3024,763 3037,3676"/>
+        <TextEquiv>
+          <Unicode>於北蔭中風涼之處勿令見日時時汲冷水遍澆甕外</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129532" custom="structure {type:Commentary;}">
+        <Coords points="2865,774 2970,769 2987,3319 2882,3321 2865,774"/>
+        <Baseline points="2916,770 2946,3320"/>
+        <TextEquiv>
+          <Unicode>引去熱氣但勿令生水入甕中取十石甕不過</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129533" custom="structure {type:Commentary;}">
+        <Coords points="2744,769 2868,764 2882,3152 2789,3157 2744,769"/>
+        <Baseline points="2822,763 2856,3155"/>
+        <TextEquiv>
+          <Unicode>五六斗糟耳接取清別甕貯之得停數年也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129534" custom="structure {type:Text;}">
+        <Coords points="2560,756 2746,756 2746,1336 2560,1336 2560,756"/>
+        <Baseline points="2654,760 2674,1339"/>
+        <TextEquiv>
+          <Unicode>大麥酢法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129535" custom="structure {type:Commentary;}">
+        <Coords points="2666,1345 2768,1335 2797,3699 2682,3714 2666,1345"/>
+        <Baseline points="2718,1322 2755,3723"/>
+        <TextEquiv>
+          <Unicode>七月七日作若七日不得作者必須收藏取</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129536" custom="structure {type:Commentary;}">
+        <Coords points="2565,1325 2683,1325 2683,3709 2565,3709 2565,1325"/>
+        <Baseline points="2620,1329 2627,3710"/>
+        <TextEquiv>
+          <Unicode>七日水十五日作除此兩日則不成於屋裏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>甕中瀉時直傾之勿以手撥飯水量麴末為著飯上慎
+勿撓攪亦勿移動綿幕甕口三七日熟美釅少澱久停
+彌好凡酢未熟已熟而移甕者率多
+壞矣熟則無忌接取清別甕著之
+秫米醋法
+五月五日作七月七日熟入五月則多收粟
+米飯醋醬以擬和釀不用水也醬以極醋為
+佳末乾麴下絹篩經用稉秫米為第一黍米亦佳一石
+用麴末一斗麵多則醋不美唯再餾淘不用多遍初淘
+瀋汁為卻其第二淘泔即餾以浸饋令飲泔汁盡重裝
+作再餾飯下撣去熱氣令如人體於盆中和之擘去飯
+塊以麵拌之必令均調下醬醋更搦破令薄粥粥稠則
+醋剋稀則味薄內著甕中隨甕大小以滿為限七日閒
+一日一度攪之七日以外十日一攪三十日止初置甕
+於北蔭中風涼之處勿令見日時時汲冷水遍澆甕外
+引去熱氣但勿令生水入甕中取十石甕不過
+五六斗糟耳接取清別甕貯之得停數年也
+大麥酢法
+七月七日作若七日不得作者必須收藏取
+七日水十五日作除此兩日則不成於屋裏
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119626" custom="structure {type:MainText_Left;}">
+      <Coords points="397,763 2240,760 2233,3717 367,3680 397,763"/>
+      <TextLine id="1129537" custom="structure {type:Commentary;}">
+        <Coords points="2131,753 2252,750 2230,3678 2121,3683 2131,753"/>
+        <Baseline points="2166,3686 2180,747"/>
+        <TextEquiv>
+          <Unicode>近戶裏邊置甕大率小麥䴷一石水三石大麥細造一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129538" custom="structure {type:Commentary;}">
+        <Coords points="2033,764 2135,760 2119,3671 2021,3673 2033,764"/>
+        <Baseline points="2082,743 2086,3673"/>
+        <TextEquiv>
+          <Unicode>石不用作米則科麗是以用造簸訖淨淘炊作再餾飯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129539" custom="structure {type:Commentary;}">
+        <Coords points="1936,760 2033,762 2021,3671 1914,3673 1936,760"/>
+        <Baseline points="1971,3666 1991,747"/>
+        <TextEquiv>
+          <Unicode>撣令小暖如人體下釀以杷攪之綿幕甕口二日便發</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129540" custom="structure {type:Commentary;}">
+        <Coords points="1828,755 1936,757 1917,3661 1809,3666 1828,755"/>
+        <Baseline points="1870,757 1880,3666"/>
+        <TextEquiv>
+          <Unicode>時數攪不攪則生白醭則不好以棘子徹底攪之恐有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129541" custom="structure {type:Commentary;}">
+        <Coords points="1731,760 1836,762 1809,3669 1707,3669 1731,760"/>
+        <Baseline points="1763,3663 1786,760"/>
+        <TextEquiv>
+          <Unicode>人髮落中則壞醋悉爾亦去髮則還好六七日淨淘粟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129542" custom="structure {type:Commentary;}">
+        <Coords points="1613,742 1729,742 1729,3665 1613,3665 1613,742"/>
+        <Baseline points="1679,747 1682,3666"/>
+        <TextEquiv>
+          <Unicode>米五升亦不用過細炊作再餾飯亦撣如人體投之杷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129543" custom="structure {type:Commentary;}">
+        <Coords points="1522,748 1626,750 1614,3678 1500,3680 1522,748"/>
+        <Baseline points="1581,733 1585,3680"/>
+        <TextEquiv>
+          <Unicode>攪綿幕三四日看水消攪而嘗之味甘美則罷若苦者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129544" custom="structure {type:Commentary;}">
+        <Coords points="1417,750 1522,750 1522,3671 1399,3671 1417,750"/>
+        <Baseline points="1463,733 1463,3673"/>
+        <TextEquiv>
+          <Unicode>更炊三二升粟米投之以意斟量二七日可食三七日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129545" custom="structure {type:Commentary;}">
+        <Coords points="1312,750 1419,748 1405,3678 1296,3683 1312,750"/>
+        <Baseline points="1369,743 1383,3686"/>
+        <TextEquiv>
+          <Unicode>好熟香美湻釅一盞醋和水一碗乃可食之八月中接</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129546" custom="structure {type:Commentary;}">
+        <Coords points="1215,736 1312,741 1313,3671 1176,3671 1215,736"/>
+        <Baseline points="1248,733 1252,3673"/>
+        <TextEquiv>
+          <Unicode>取清別甕貯之盆合泥頭得停數年未熟時二日三日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129547" custom="structure {type:Commentary;}">
+        <Coords points="1113,745 1214,738 1193,2974 1094,2976 1113,745"/>
+        <Baseline points="1151,740 1151,2980"/>
+        <TextEquiv>
+          <Unicode>須以冷水澆甕外引出熱氣勿令生水入</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129548" custom="structure {type:Commentary;}">
+        <Coords points="987,745 1110,748 1096,2841 991,2848 987,745"/>
+        <Baseline points="1046,2842 1050,740"/>
+        <TextEquiv>
+          <Unicode>甕中若用黍米投彌佳白倉粟米亦得</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129549" custom="structure {type:Text;}">
+        <Coords points="812,728 988,728 988,1469 812,1469 812,728"/>
+        <Baseline points="895,1470 902,733"/>
+        <TextEquiv>
+          <Unicode>燒餅作酢法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129550" custom="structure {type:Commentary;}">
+        <Coords points="891,1464 998,1466 991,3688 887,3688 891,1464"/>
+        <Baseline points="929,3690 952,1460"/>
+        <TextEquiv>
+          <Unicode>亦七月七日大率麥䴷一斗水三斗亦隨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129551" custom="structure {type:Commentary;}">
+        <Coords points="796,1464 899,1461 887,3697 784,3702 796,1464"/>
+        <Baseline points="835,1419 855,3703"/>
+        <TextEquiv>
+          <Unicode>甕大小任人增加水䴷亦當日頓下初作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129552" custom="structure {type:Commentary;}">
+        <Coords points="694,757 806,755 789,3683 680,3683 694,757"/>
+        <Baseline points="737,743 740,3686"/>
+        <TextEquiv>
+          <Unicode>日軟溲數升麵作燒餅待冷下之經宿看餅漸消盡更</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129553" custom="structure {type:Commentary;}">
+        <Coords points="585,760 701,764 680,3673 570,3673 585,760"/>
+        <Baseline points="640,753 643,3676"/>
+        <TextEquiv>
+          <Unicode>作燒餅投凡四五度後當味美沸定便止有薄緣諸麵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129554" custom="structure {type:Commentary;}">
+        <Coords points="489,745 598,740 598,1469 487,1468 489,745"/>
+        <Baseline points="545,1470 549,743"/>
+        <TextEquiv>
+          <Unicode>餅但是燒煿</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129555" custom="structure {type:Commentary;}">
+        <Coords points="380,753 494,740 494,1485 378,1485 380,753"/>
+        <Baseline points="441,743 445,1487"/>
+        <TextEquiv>
+          <Unicode>者皆得投之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>近戶裏邊置甕大率小麥䴷一石水三石大麥細造一
+石不用作米則科麗是以用造簸訖淨淘炊作再餾飯
+撣令小暖如人體下釀以杷攪之綿幕甕口二日便發
+時數攪不攪則生白醭則不好以棘子徹底攪之恐有
+人髮落中則壞醋悉爾亦去髮則還好六七日淨淘粟
+米五升亦不用過細炊作再餾飯亦撣如人體投之杷
+攪綿幕三四日看水消攪而嘗之味甘美則罷若苦者
+更炊三二升粟米投之以意斟量二七日可食三七日
+好熟香美湻釅一盞醋和水一碗乃可食之八月中接
+取清別甕貯之盆合泥頭得停數年未熟時二日三日
+須以冷水澆甕外引出熱氣勿令生水入
+甕中若用黍米投彌佳白倉粟米亦得
+燒餅作酢法
+亦七月七日大率麥䴷一斗水三斗亦隨
+甕大小任人增加水䴷亦當日頓下初作
+日軟溲數升麵作燒餅待冷下之經宿看餅漸消盡更
+作燒餅投凡四五度後當味美沸定便止有薄緣諸麵
+餅但是燒煿
+者皆得投之
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119627" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="246,750 411,763 367,3680 246,3690 246,750"/>
+      <TextLine id="1129556" custom="structure {type:Title;}">
+        <Coords points="263,757 368,762 366,1323 261,1326 263,757"/>
+        <Baseline points="303,1325 307,753"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129557" custom="structure {type:Section;}">
+        <Coords points="254,1702 359,1703 359,2005 249,2001 254,1702"/>
+        <Baseline points="276,1709 290,2005"/>
+        <TextEquiv>
+          <Unicode>卷八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129558" custom="structure {type:Page_Number;}">
+        <Coords points="255,2929 355,2929 355,3177 255,3177 255,2929"/>
+        <Baseline points="297,2936 320,3179"/>
+        <TextEquiv>
+          <Unicode>九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷八
+九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

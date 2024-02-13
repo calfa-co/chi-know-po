@@ -1,0 +1,463 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:27+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_02_0045.jpg" imageHeight="4178" imageWidth="4663">
+    <TextRegion id="119605" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4376,3707 4376,743 4514,743 4514,3707 4376,3707"/>
+      <TextLine id="1129359" custom="structure {type:Title;}">
+        <Coords points="4379,765 4474,764 4480,1400 4379,1399 4379,765"/>
+        <Baseline points="4438,772 4452,1400"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129360" custom="structure {type:Section;}">
+        <Coords points="4386,1773 4471,1714 4480,2036 4386,2034 4386,1773"/>
+        <Baseline points="4452,1675 4452,2037"/>
+        <TextEquiv>
+          <Unicode>卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129361" custom="structure {type:Page_Number;}">
+        <Coords points="4386,2899 4477,2905 4471,3156 4386,3156 4386,2899"/>
+        <Baseline points="4447,2912 4466,3155"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷六
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119606" custom="structure {type:MainText_Right;}">
+      <Coords points="2512,3702 2512,738 4395,738 4395,3702 2512,3702"/>
+      <TextLine id="1129362" custom="structure {type:Text;}">
+        <Coords points="4184,731 4363,731 4363,1083 4184,1083 4184,731"/>
+        <Baseline points="4262,734 4267,1086"/>
+        <TextEquiv>
+          <Unicode>五駑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129363" custom="structure {type:Text;}">
+        <Coords points="3968,731 4156,731 4156,3024 3968,3024 3968,731"/>
+        <Baseline points="4076,734 4105,3026"/>
+        <TextEquiv>
+          <Unicode>騮馬驪肩鹿毛☐☐馬驒駱馬皆善馬也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129364" custom="structure {type:Text;}">
+        <Coords points="3764,740 3954,740 3954,3685 3764,3685 3764,740"/>
+        <Baseline points="3858,743 3877,3688"/>
+        <TextEquiv>
+          <Unicode>馬生墮地無毛行千里溺舉一腳行五百里相馬在五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129365" custom="structure {type:Text;}">
+        <Coords points="3576,733 3743,733 3743,3699 3576,3699 3576,733"/>
+        <Baseline points="3658,734 3658,3702"/>
+        <TextEquiv>
+          <Unicode>藏法肝欲得小耳小則肝小肝小則識人意肺欲得大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129366" custom="structure {type:Text;}">
+        <Coords points="3350,768 3541,768 3541,3699 3350,3699 3350,768"/>
+        <Baseline points="3425,772 3482,3702"/>
+        <TextEquiv>
+          <Unicode>鼻大則肺大肺大則能奔心欲得大目大則心大心大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129367" custom="structure {type:Text;}">
+        <Coords points="3153,759 3332,759 3332,3709 3153,3709 3153,759"/>
+        <Baseline points="3268,3711 3273,762"/>
+        <TextEquiv>
+          <Unicode>則猛利不驚目四滿則朝暮健腎欲得小腸欲得厚且</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129368" custom="structure {type:Text;}">
+        <Coords points="2951,754 3139,754 3139,3727 2951,3727 2951,754"/>
+        <Baseline points="3040,757 3068,3730"/>
+        <TextEquiv>
+          <Unicode>長腸厚則腹下廣方而平脾欲得小膁腹小則脾小脾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129369" custom="structure {type:Text;}">
+        <Coords points="2749,752 2921,752 2921,3709 2749,3709 2749,752"/>
+        <Baseline points="2859,753 2859,3711"/>
+        <TextEquiv>
+          <Unicode>小則易養望之大就之小筋馬也望之小就之大肉馬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129370" custom="structure {type:Text;}">
+        <Coords points="2533,759 2726,759 2726,2411 2533,2411 2533,759"/>
+        <Baseline points="2626,762 2659,2413"/>
+        <TextEquiv>
+          <Unicode>也皆可乘致致瘦欲得見其肉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129371" custom="structure {type:Commentary;}">
+        <Coords points="2621,2416 2761,2416 2761,2829 2621,2829 2621,2416"/>
+        <Baseline points="2688,2417 2688,2831"/>
+        <TextEquiv>
+          <Unicode>謂前肩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129372" custom="structure {type:Commentary;}">
+        <Coords points="2520,2432 2638,2432 2638,2727 2517,2721 2520,2432"/>
+        <Baseline points="2564,2413 2564,2674"/>
+        <TextEquiv>
+          <Unicode>守肉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129373" custom="structure {type:Text;}">
+        <Coords points="2545,2815 2721,2815 2721,3727 2545,3727 2545,2815"/>
+        <Baseline points="2602,2817 2602,3730"/>
+        <TextEquiv>
+          <Unicode>致肥欲得見其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>五駑
+騮馬驪肩鹿毛☐☐馬驒駱馬皆善馬也
+馬生墮地無毛行千里溺舉一腳行五百里相馬在五
+藏法肝欲得小耳小則肝小肝小則識人意肺欲得大
+鼻大則肺大肺大則能奔心欲得大目大則心大心大
+則猛利不驚目四滿則朝暮健腎欲得小腸欲得厚且
+長腸厚則腹下廣方而平脾欲得小膁腹小則脾小脾
+小則易養望之大就之小筋馬也望之小就之大肉馬
+也皆可乘致致瘦欲得見其肉
+謂前肩
+守肉
+致肥欲得見其
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119607" custom="structure {type:MainText_Left;}">
+      <Coords points="377,3730 377,776 2193,776 2193,3730 377,3730"/>
+      <TextLine id="1129374" custom="structure {type:Text;}">
+        <Coords points="2042,803 2189,800 2194,962 2036,970 2042,803"/>
+        <Baseline points="2131,791 2131,914"/>
+        <TextEquiv>
+          <Unicode>骨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129375" custom="structure {type:Commentary;}">
+        <Coords points="2112,970 2209,959 2217,1225 2107,1225 2112,970"/>
+        <Baseline points="2165,967 2184,1209"/>
+        <TextEquiv>
+          <Unicode>骨謂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129376" custom="structure {type:Commentary;}">
+        <Coords points="1999,956 2112,962 2104,1227 1996,1222 1999,956"/>
+        <Baseline points="2041,1190 2051,933"/>
+        <TextEquiv>
+          <Unicode>頭顱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129377" custom="structure {type:Text;}">
+        <Coords points="1980,1211 2178,1211 2178,3743 1980,3743 1980,1211"/>
+        <Baseline points="2089,3745 2098,1214"/>
+        <TextEquiv>
+          <Unicode>馬龍顱突目平脊大腹䏶重有肉此三事備者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129378" custom="structure {type:Text;}">
+        <Coords points="1795,793 1983,793 1983,2330 1795,2330 1795,793"/>
+        <Baseline points="1903,2332 1917,795"/>
+        <TextEquiv>
+          <Unicode>亦千里馬也水火欲得分</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129379" custom="structure {type:Commentary;}">
+        <Coords points="1876,2321 1987,2321 1987,2901 1876,2901 1876,2321"/>
+        <Baseline points="1946,2322 1946,2903"/>
+        <TextEquiv>
+          <Unicode>水火在鼻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129380" custom="structure {type:Commentary;}">
+        <Coords points="1767,2322 1880,2331 1887,2873 1770,2874 1767,2322"/>
+        <Baseline points="1846,2874 1851,2265"/>
+        <TextEquiv>
+          <Unicode>兩孔閒也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129381" custom="structure {type:Text;}">
+        <Coords points="1767,2871 1952,2871 1952,3727 1767,3727 1767,2871"/>
+        <Baseline points="1870,3730 1884,2874"/>
+        <TextEquiv>
+          <Unicode>上脣欲急而方</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129382" custom="structure {type:Text;}">
+        <Coords points="1567,786 1781,786 1781,3757 1567,3757 1567,786"/>
+        <Baseline points="1661,3759 1718,791"/>
+        <TextEquiv>
+          <Unicode>口中欲得紅而有光此馬千里馬上齒欲鉤鉤則壽下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129383" custom="structure {type:Text;}">
+        <Coords points="1370,772 1576,772 1576,3685 1370,3685 1370,772"/>
+        <Baseline points="1480,3688 1508,776"/>
+        <TextEquiv>
+          <Unicode>齒欲鋸鋸則怒頷下欲深下脣欲緩牙欲去齒一寸則</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129384" custom="structure {type:Text;}">
+        <Coords points="1158,789 1374,789 1374,3720 1158,3720 1158,789"/>
+        <Baseline points="1237,3721 1318,795"/>
+        <TextEquiv>
+          <Unicode>四百里牙劍鋒則千里嗣骨欲廉如織杼而闊又欲長</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129385" custom="structure {type:Commentary;}">
+        <Coords points="1075,779 1209,779 1209,1206 1075,1206 1075,779"/>
+        <Baseline points="1142,781 1142,1209"/>
+        <TextEquiv>
+          <Unicode>頰下側</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129386" custom="structure {type:Commentary;}">
+        <Coords points="961,761 1105,761 1105,1218 961,1218 961,761"/>
+        <Baseline points="1042,762 1042,1219"/>
+        <TextEquiv>
+          <Unicode>小骨是</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129387" custom="structure {type:Text;}">
+        <Coords points="963,1204 1158,1204 1158,3743 963,3743 963,1204"/>
+        <Baseline points="1066,3745 1099,1209"/>
+        <TextEquiv>
+          <Unicode>目欲滿而澤眶欲小上欲弓曲下欲直素中欲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129388" custom="structure {type:Text;}">
+        <Coords points="794,772 963,772 963,1218 794,1218 794,772"/>
+        <Baseline points="881,1219 890,776"/>
+        <TextEquiv>
+          <Unicode>廉而張</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129389" custom="structure {type:Commentary;}">
+        <Coords points="870,1197 989,1197 989,1478 870,1478 870,1197"/>
+        <Baseline points="933,1200 933,1480"/>
+        <TextEquiv>
+          <Unicode>素鼻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129390" custom="structure {type:Commentary;}">
+        <Coords points="783,1205 865,1210 868,1459 786,1457 783,1205"/>
+        <Baseline points="814,1485 819,1190"/>
+        <TextEquiv>
+          <Unicode>孔上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129391" custom="structure {type:Text;}">
+        <Coords points="759,1459 949,1459 949,2181 759,2181 759,1459"/>
+        <Baseline points="876,2184 890,1466"/>
+        <TextEquiv>
+          <Unicode>陰中欲得平</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129392" custom="structure {type:Commentary;}">
+        <Coords points="867,2181 970,2176 973,2307 862,2305 867,2181"/>
+        <Baseline points="919,2184 928,2318"/>
+        <TextEquiv>
+          <Unicode>股</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129393" custom="structure {type:Commentary;}">
+        <Coords points="761,2140 863,2140 863,2293 761,2293 761,2140"/>
+        <Baseline points="805,2142 805,2294"/>
+        <TextEquiv>
+          <Unicode>下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129394" custom="structure {type:Text;}">
+        <Coords points="757,2293 938,2293 938,2882 757,2882 757,2293"/>
+        <Baseline points="843,2884 862,2299"/>
+        <TextEquiv>
+          <Unicode>主人欲小</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129395" custom="structure {type:Commentary;}">
+        <Coords points="862,2874 963,2866 965,3273 852,3276 862,2874"/>
+        <Baseline points="909,2831 909,3288"/>
+        <TextEquiv>
+          <Unicode>股裏上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129396" custom="structure {type:Commentary;}">
+        <Coords points="746,2871 859,2867 850,3261 743,3271 746,2871"/>
+        <Baseline points="800,2827 800,3274"/>
+        <TextEquiv>
+          <Unicode>近前也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129397" custom="structure {type:Text;}">
+        <Coords points="746,3276 936,3273 933,3723 747,3723 746,3276"/>
+        <Baseline points="857,3245 876,3721"/>
+        <TextEquiv>
+          <Unicode>陽裏欲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129398" custom="structure {type:Text;}">
+        <Coords points="587,747 757,747 757,1213 587,1213 587,747"/>
+        <Baseline points="690,1214 705,753"/>
+        <TextEquiv>
+          <Unicode>高則怒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129399" custom="structure {type:Commentary;}">
+        <Coords points="657,1204 787,1204 787,1627 657,1627 657,1204"/>
+        <Baseline points="738,1628 748,1209"/>
+        <TextEquiv>
+          <Unicode>股中上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129400" custom="structure {type:Commentary;}">
+        <Coords points="570,1211 667,1211 675,1613 564,1613 570,1211"/>
+        <Baseline points="614,1176 629,1614"/>
+        <TextEquiv>
+          <Unicode>近主人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129401" custom="structure {type:Text;}">
+        <Coords points="550,1610 745,1610 746,3142 548,3145 550,1610"/>
+        <Baseline points="645,3131 671,1614"/>
+        <TextEquiv>
+          <Unicode>額欲方而平八肉欲大而明</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129687" custom="structure {type:Commentary;}">
+        <Coords points="651,3139 741,3136 746,3262 642,3250 651,3139"/>
+        <Baseline points="696,3141 696,3253"/>
+        <TextEquiv>
+          <Unicode>耳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129688" custom="structure {type:Commentary;}">
+        <Coords points="546,3141 634,3136 651,3258 542,3258 546,3141"/>
+        <Baseline points="589,3141 592,3255"/>
+        <TextEquiv>
+          <Unicode>下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129689" custom="structure {type:Text;}">
+        <Coords points="556,3267 746,3269 746,3705 546,3693 556,3267"/>
+        <Baseline points="644,3274 646,3688"/>
+        <TextEquiv>
+          <Unicode>玄中欲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129402" custom="structure {type:Text;}">
+        <Coords points="394,745 555,745 555,928 394,928 394,745"/>
+        <Baseline points="481,929 496,753"/>
+        <TextEquiv>
+          <Unicode>深</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129403" custom="structure {type:Commentary;}">
+        <Coords points="459,928 561,928 561,1197 459,1197 459,928"/>
+        <Baseline points="519,929 519,1200"/>
+        <TextEquiv>
+          <Unicode>耳下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129404" custom="structure {type:Commentary;}">
+        <Coords points="358,925 469,930 469,1202 354,1207 358,925"/>
+        <Baseline points="415,1219 419,895"/>
+        <TextEquiv>
+          <Unicode>近牙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129405" custom="structure {type:Text;}">
+        <Coords points="350,1211 541,1211 541,3699 350,3699 350,1211"/>
+        <Baseline points="453,3702 462,1214"/>
+        <TextEquiv>
+          <Unicode>耳欲小而銳如削筒相去欲促𩭳欲戴中骨高</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>骨
+骨謂
+頭顱
+馬龍顱突目平脊大腹䏶重有肉此三事備者
+亦千里馬也水火欲得分
+水火在鼻
+兩孔閒也
+上脣欲急而方
+口中欲得紅而有光此馬千里馬上齒欲鉤鉤則壽下
+齒欲鋸鋸則怒頷下欲深下脣欲緩牙欲去齒一寸則
+四百里牙劍鋒則千里嗣骨欲廉如織杼而闊又欲長
+頰下側
+小骨是
+目欲滿而澤眶欲小上欲弓曲下欲直素中欲
+廉而張
+素鼻
+孔上
+陰中欲得平
+股
+下
+主人欲小
+股裏上
+近前也
+陽裏欲
+高則怒
+股中上
+近主人
+額欲方而平八肉欲大而明
+耳
+下
+玄中欲
+深
+耳下
+近牙
+耳欲小而銳如削筒相去欲促𩭳欲戴中骨高
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119608" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="224,3721 224,757 367,757 367,3721 224,3721"/>
+      <TextLine id="1129406" custom="structure {type:Title;}">
+        <Coords points="233,787 351,794 352,1332 232,1342 233,787"/>
+        <Baseline points="301,1333 305,738"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129407" custom="structure {type:Section;}">
+        <Coords points="240,1720 334,1771 334,2012 238,2013 240,1720"/>
+        <Baseline points="282,1732 282,2013"/>
+        <TextEquiv>
+          <Unicode>卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129408" custom="structure {type:Page_Number;}">
+        <Coords points="237,2980 325,2977 325,3135 235,3140 237,2980"/>
+        <Baseline points="272,2979 272,3136"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷六
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119609" custom="structure {type:Image_Stamp;}">
+      <Coords points="1042,676 1042,353 1718,353 1718,676 1042,676"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:12+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0091.jpg" imageHeight="4926" imageWidth="2825">
+    <TextRegion id="79735" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="159,252 159,110 295,110 295,252 159,252"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79744" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="211,3842 2575,3806 2539,1586 183,1614 211,3842"/>
+      <TextLine id="870737" custom="structure {type:Title;}">
+        <Coords points="2460,1778 2384,1778 2367,1822 2381,1858 2367,1912 2384,1926 2370,1973 2389,2014 2373,2057 2395,2085 2376,2126 2400,2189 2381,2213 2400,2260 2387,2328 2578,2320 2592,2263 2589,2178 2573,2164 2578,1904 2559,1773 2460,1778"/>
+        <Baseline points="2463,1781 2483,2329"/>
+        <TextEquiv>
+          <Unicode>葬三十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870738" custom="structure {type:Title;}">
+        <Coords points="2477,3095 2403,3095 2389,3199 2406,3234 2389,3253 2408,3371 2392,3387 2408,3456 2395,3576 2414,3623 2397,3645 2411,3686 2400,3762 2573,3757 2559,3092 2477,3095"/>
+        <Baseline points="2479,3096 2491,3768"/>
+        <TextEquiv>
+          <Unicode>挽歌三十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870739" custom="structure {type:Title;}">
+        <Coords points="2258,1658 2143,1663 2162,2337 2370,2323 2354,2153 2376,2107 2351,2077 2373,2036 2343,1997 2345,1945 2367,1912 2359,1737 2326,1652 2258,1658"/>
+        <Baseline points="2259,1660 2295,2336"/>
+        <TextEquiv>
+          <Unicode>卷第九十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870740" custom="structure {type:Title;}">
+        <Coords points="2285,2835 2168,2837 2168,3117 2209,3215 2189,3311 2214,3338 2217,3497 2378,3491 2384,2914 2359,2832 2285,2835"/>
+        <Baseline points="2287,2836 2307,3498"/>
+        <TextEquiv>
+          <Unicode>禮儀部十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870741" custom="structure {type:Title;}">
+        <Coords points="2069,1789 1984,1792 1970,1841 1990,1932 1979,2082 1994,2473 2169,2459 2165,1863 2140,1784 2069,1789"/>
+        <Baseline points="2071,1790 2095,2454"/>
+        <TextEquiv>
+          <Unicode>喪服三十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870742" custom="structure {type:Title;}">
+        <Coords points="2077,3097 2001,3097 2003,3776 2192,3768 2176,3541 2192,3491 2176,3453 2189,3426 2176,3390 2184,3125 2165,3092 2077,3097"/>
+        <Baseline points="2079,3098 2099,3778"/>
+        <TextEquiv>
+          <Unicode>居喪三十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870743" custom="structure {type:Title;}">
+        <Coords points="1872,1800 1798,1800 1776,1830 1784,1871 1771,1904 1792,1992 1776,2033 1801,2068 1779,2099 1798,2156 1779,2183 1795,2235 1784,2268 1801,2479 1965,2487 1968,1956 1946,1797 1872,1800"/>
+        <Baseline points="1875,1802 1887,2474"/>
+        <TextEquiv>
+          <Unicode>奔喪三十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870744" custom="structure {type:Title;}">
+        <Coords points="1888,3103 1765,3103 1762,3552 1798,3620 1801,3776 1990,3765 1970,3702 1984,3672 1962,3645 1962,3598 1990,3571 1976,3541 1984,3286 1954,3240 1951,3100 1888,3103"/>
+        <Baseline points="1891,3106 1899,3778"/>
+        <TextEquiv>
+          <Unicode>訃告三十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870745" custom="structure {type:Title;}">
+        <Coords points="1784,2476 1776,2271 1760,2230 1776,2175 1757,2156 1776,2088 1762,1959 1773,1926 1754,1896 1776,1847 1727,1784 1604,1784 1606,1795 1571,1830 1571,1940 1590,1959 1571,1986 1571,2099 1595,2161 1579,2197 1589,2479 1784,2476"/>
+        <Baseline points="1679,2466 1683,1786"/>
+        <TextEquiv>
+          <Unicode>奪禮三十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870746" custom="structure {type:Title;}">
+        <Coords points="1461,1669 1385,1669 1368,1751 1382,1784 1376,1986 1396,2057 1379,2077 1382,2167 1401,2183 1387,2233 1404,2337 1560,2328 1557,2181 1579,2156 1576,2057 1552,1978 1571,1896 1565,1737 1541,1713 1541,1666 1461,1669"/>
+        <Baseline points="1464,1670 1484,2338"/>
+        <TextEquiv>
+          <Unicode>卷第九十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870747" custom="structure {type:Title;}">
+        <Coords points="1491,2837 1407,2837 1393,3076 1409,3125 1393,3160 1412,3229 1396,3294 1412,3377 1396,3393 1409,3456 1398,3497 1497,3505 1593,3494 1574,3459 1590,2917 1568,2835 1491,2837"/>
+        <Baseline points="1492,2838 1500,3506"/>
+        <TextEquiv>
+          <Unicode>禮儀部十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870748" custom="structure {type:Title;}">
+        <Coords points="1267,1803 1188,1803 1171,1849 1174,1992 1190,2008 1174,2077 1201,2109 1177,2159 1207,2186 1207,2249 1179,2276 1196,2315 1182,2342 1278,2348 1374,2339 1352,2205 1376,2151 1357,2008 1371,1877 1344,1800 1267,1803"/>
+        <Baseline points="1268,1806 1280,2350"/>
+        <TextEquiv>
+          <Unicode>謚三十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870749" custom="structure {type:Title;}">
+        <Coords points="1289,3100 1218,3100 1196,3141 1196,3237 1220,3390 1201,3459 1231,3486 1234,3533 1365,3527 1365,3472 1393,3445 1376,3368 1390,3281 1385,3130 1360,3097 1289,3100"/>
+        <Baseline points="1292,3102 1300,3534"/>
+        <TextEquiv>
+          <Unicode>諱四十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870750" custom="structure {type:Title;}">
+        <Coords points="1075,2432 1160,2432 1174,2421 1155,2307 1174,2282 1160,2082 1174,2030 1155,1973 1171,1915 1152,1825 1004,1825 985,1866 1007,2052 985,2137 1007,2219 985,2255 1010,2309 1010,2369 985,2402 993,2432 1075,2432"/>
+        <Baseline points="1076,1826 1076,2434"/>
+        <TextEquiv>
+          <Unicode>忌日四十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870751" custom="structure {type:Title;}">
+        <Coords points="1089,3108 969,3108 971,3776 1188,3771 1188,3133 1171,3106 1089,3108"/>
+        <Baseline points="1092,3110 1104,3778"/>
+        <TextEquiv>
+          <Unicode>塚墓四十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870752" custom="structure {type:Title;}">
+        <Coords points="878,1685 793,1685 777,1751 780,1973 799,1992 785,2038 802,2055 782,2151 804,2189 785,2233 788,2353 974,2342 960,2296 974,2227 955,2172 969,2131 955,2107 974,2047 952,1997 971,1923 969,1836 952,1819 969,1737 949,1683 878,1685"/>
+        <Baseline points="880,1686 892,2354"/>
+        <TextEquiv>
+          <Unicode>卷第九十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870753" custom="structure {type:Title;}">
+        <Coords points="889,2851 766,2857 774,3335 985,3327 990,3040 963,2846 889,2851"/>
+        <Baseline points="892,2854 912,3334"/>
+        <TextEquiv>
+          <Unicode>藝文部一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870754" custom="structure {type:Title;}">
+        <Coords points="673,1808 594,1808 594,1888 572,1934 596,2000 577,2049 583,2181 777,2175 777,1904 755,1803 673,1808"/>
+        <Baseline points="676,1810 688,2182"/>
+        <TextEquiv>
+          <Unicode>經典一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870755" custom="structure {type:Title;}">
+        <Coords points="687,3111 599,3114 599,3221 566,3278 574,3385 793,3366 774,3322 785,3190 758,3106 687,3111"/>
+        <Baseline points="688,3114 704,3382"/>
+        <TextEquiv>
+          <Unicode>易二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870756" custom="structure {type:Title;}">
+        <Coords points="470,1792 391,1795 369,1863 369,1929 396,1951 377,1984 383,2082 574,2066 558,2014 572,1978 555,1959 580,1923 577,1863 544,1825 542,1787 470,1792"/>
+        <Baseline points="472,1794 488,2082"/>
+        <TextEquiv>
+          <Unicode>書三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870757" custom="structure {type:Title;}">
+        <Coords points="495,3108 481,3108 487,3221 437,3275 451,3396 580,3382 574,3232 588,3182 563,3103 495,3108"/>
+        <Baseline points="496,3110 512,3394"/>
+        <TextEquiv>
+          <Unicode>詩四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870758" custom="structure {type:Title;}">
+        <Coords points="273,2219 377,2216 364,1808 180,1808 164,1836 164,1953 191,1986 191,2219 273,2219"/>
+        <Baseline points="276,1810 276,2222"/>
+        <TextEquiv>
+          <Unicode>春秋五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870759" custom="structure {type:Title;}">
+        <Coords points="295,3100 195,3104 200,3409 383,3390 394,3300 377,3264 394,3190 369,3097 295,3100"/>
+        <Baseline points="296,3102 304,3398"/>
+        <TextEquiv>
+          <Unicode>禮六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>葬三十二
+挽歌三十三
+卷第九十三
+禮儀部十四
+喪服三十四
+居喪三十五
+奔喪三十六
+訃告三十七
+奪禮三十八
+卷第九十四
+禮儀部十五
+謚三十九
+諱四十
+忌日四十一
+塚墓四十二
+卷第九十五
+藝文部一
+經典一
+易二
+書三
+詩四
+春秋五
+禮六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79736" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="97,3623 97,2084 193,2084 193,3623 97,3623"/>
+      <TextLine id="1009326" custom="structure {type:Section;}">
+        <Coords points="96,2111 96,2700 172,2695 186,2597 172,2558 183,2419 169,2391 180,2279 164,2112 96,2111"/>
+        <Baseline points="116,2118 128,2700"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1009327" custom="structure {type:Page_Number;}">
+        <Coords points="84,3424 90,3616 180,3598 188,3491 183,3424 84,3424"/>
+        <Baseline points="122,3424 128,3605"/>
+        <TextEquiv>
+          <Unicode>十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔目錄
+十四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

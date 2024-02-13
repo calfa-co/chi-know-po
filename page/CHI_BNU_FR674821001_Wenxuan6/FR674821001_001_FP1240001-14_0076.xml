@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:34+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-14_0076.jpg" imageHeight="3500" imageWidth="1907">
+    <TextRegion id="117242" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1721,1167 1783,1169 1774,2222 1733,2222 1721,1167"/>
+      <TextLine id="1104949" custom="structure {type:Section;}">
+        <Coords points="1723,1254 1774,1242 1780,1458 1720,1460 1723,1254"/>
+        <Baseline points="1752,1447 1755,1237"/>
+        <TextEquiv>
+          <Unicode>文四十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104950" custom="structure {type:Page_Number;}">
+        <Coords points="1718,2131 1778,2131 1778,2208 1718,2230 1718,2131"/>
+        <Baseline points="1755,2210 1757,2134"/>
+        <TextEquiv>
+          <Unicode>六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文四十
+六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117241" custom="structure {type:MainText;}">
+      <Coords points="192,728 1714,722 1716,3177 183,3197 192,728"/>
+      <TextLine id="1104932" custom="structure {type:Commentary;}">
+        <Coords points="1639,730 1720,728 1722,1996 1643,1986 1639,730"/>
+        <Baseline points="1677,728 1688,2000"/>
+        <TextEquiv>
+          <Unicode>子曰人故無情乎莊子曰然</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104933" custom="structure {type:Commentary;}">
+        <Coords points="1567,734 1636,724 1644,1970 1565,1976 1567,734"/>
+        <Baseline points="1606,727 1606,1960"/>
+        <TextEquiv>
+          <Unicode>惠子曰人而無情何謂之人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104934" custom="structure {type:Text;}">
+        <Coords points="1581,1982 1718,2000 1729,3172 1577,3172 1581,1982"/>
+        <Baseline points="1648,1983 1657,3157"/>
+        <TextEquiv>
+          <Unicode>實教義所不容紳冕所共</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104935" custom="structure {type:Text;}">
+        <Coords points="1414,727 1547,727 1547,873 1480,878 1414,873 1414,727"/>
+        <Baseline points="1479,730 1484,874"/>
+        <TextEquiv>
+          <Unicode>棄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104936" custom="structure {type:Commentary;}">
+        <Coords points="1491,1510 1483,880 1558,874 1572,2116 1497,2112 1491,1510"/>
+        <Baseline points="1521,874 1538,2113"/>
+        <TextEquiv>
+          <Unicode>仲長子昌言曰引之於教義</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104937" custom="structure {type:Commentary;}">
+        <Coords points="1403,872 1486,878 1502,2104 1409,2100 1403,872"/>
+        <Baseline points="1436,871 1453,2105"/>
+        <TextEquiv>
+          <Unicode>嵇康絕交書曰世教所不容</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104938" custom="structure {type:Text;}">
+        <Coords points="1418,2108 1566,2114 1574,3163 1427,3168 1418,2108"/>
+        <Baseline points="1493,2102 1496,3165"/>
+        <TextEquiv>
+          <Unicode>臣等參議請以見事免</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104939" custom="structure {type:Text;}">
+        <Coords points="1271,2544 1261,1937 1263,1326 1265,724 1400,724 1410,1946 1421,3154 1273,3152 1271,2544"/>
+        <Baseline points="1335,727 1354,3148"/>
+        <TextEquiv>
+          <Unicode>整所除官輒勒外收付廷尉法獄治罪諸所連逮應</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104940" custom="structure {type:Text;}">
+        <Coords points="1115,1946 1113,720 1252,720 1268,3173 1129,3174 1115,1946"/>
+        <Baseline points="1170,724 1190,3174"/>
+        <TextEquiv>
+          <Unicode>洗之源委之獄官悉以法制從事婢采音不款偷車龍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104941" custom="structure {type:Text;}">
+        <Coords points="965,1944 967,730 1102,730 1110,1938 1119,3168 971,3172 965,1944"/>
+        <Baseline points="1029,727 1043,3165"/>
+        <TextEquiv>
+          <Unicode>牽請付獄測實其宗長及地界職司初無糾舉及諸連</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104942" custom="structure {type:Text;}">
+        <Coords points="813,724 954,728 957,2628 819,2632 813,724"/>
+        <Baseline points="873,730 888,2614"/>
+        <TextEquiv>
+          <Unicode>逮請不足申盡臣昉云云誠惶誠恐以聞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104943" custom="structure {type:Title;}">
+        <Coords points="665,1030 807,1038 807,1777 661,1778 665,1030"/>
+        <Baseline points="721,1041 735,1779"/>
+        <TextEquiv>
+          <Unicode>奏彈王源一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104944" custom="structure {type:Text;}">
+        <Coords points="496,1160 655,1160 659,1556 497,1556 496,1160"/>
+        <Baseline points="568,1164 576,1565"/>
+        <TextEquiv>
+          <Unicode>沈休文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104945" custom="structure {type:Commentary;}">
+        <Coords points="572,1553 656,1554 663,2465 572,2465 572,1553"/>
+        <Baseline points="613,1557 616,2467"/>
+        <TextEquiv>
+          <Unicode>吳均齊春秋曰永明</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104946" custom="structure {type:Commentary;}">
+        <Coords points="497,1558 570,1554 572,2352 495,2352 497,1558"/>
+        <Baseline points="526,1557 543,2351"/>
+        <TextEquiv>
+          <Unicode>八年沈約為中丞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104947" custom="structure {type:Text;}">
+        <Coords points="347,734 496,732 505,3175 351,3176 347,734"/>
+        <Baseline points="427,734 429,3177"/>
+        <TextEquiv>
+          <Unicode>給事黃門侍郎兼御史中丞吳興邑中正臣沈約稽首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104948" custom="structure {type:Text;}">
+        <Coords points="191,728 342,727 342,3064 197,3084 191,728"/>
+        <Baseline points="271,731 274,3067"/>
+        <TextEquiv>
+          <Unicode>言臣聞齊大非偶著乎前誥辭霍不婚垂稱往烈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1108985" custom="structure {type:Commentary;}">
+        <Coords points="271,3068 342,3065 345,3170 268,3169 271,3068"/>
+        <Baseline points="299,3164 302,3072"/>
+        <TextEquiv>
+          <Unicode>左</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1108986" custom="structure {type:Commentary;}">
+        <Coords points="197,3078 271,3075 270,3171 200,3171 197,3078"/>
+        <Baseline points="233,3163 234,3081"/>
+        <TextEquiv>
+          <Unicode>氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>子曰人故無情乎莊子曰然
+惠子曰人而無情何謂之人
+實教義所不容紳冕所共
+棄
+仲長子昌言曰引之於教義
+嵇康絕交書曰世教所不容
+臣等參議請以見事免
+整所除官輒勒外收付廷尉法獄治罪諸所連逮應
+洗之源委之獄官悉以法制從事婢采音不款偷車龍
+牽請付獄測實其宗長及地界職司初無糾舉及諸連
+逮請不足申盡臣昉云云誠惶誠恐以聞
+奏彈王源一首
+沈休文
+吳均齊春秋曰永明
+八年沈約為中丞
+給事黃門侍郎兼御史中丞吳興邑中正臣沈約稽首
+言臣聞齊大非偶著乎前誥辭霍不婚垂稱往烈
+左
+氏
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

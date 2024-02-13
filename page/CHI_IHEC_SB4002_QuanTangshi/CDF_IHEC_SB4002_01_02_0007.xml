@@ -1,0 +1,399 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:41+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB4002_01_02_0007.jpg" imageHeight="3874" imageWidth="4392">
+    <TextRegion id="116797" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4169,1337 4250,1337 4261,1765 4174,1768 4169,1337"/>
+      <TextLine id="1100377" custom="structure {type:Title;}">
+        <Coords points="4172,1396 4245,1393 4251,1735 4172,1736 4172,1396"/>
+        <Baseline points="4224,1398 4224,1738"/>
+        <TextEquiv>
+          <Unicode>全唐詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231338" custom="structure {type:Page_Number;}">
+        <Coords points="4176,2656 4264,2656 4268,2840 4196,2840 4176,2656"/>
+        <Baseline points="4238,2676 4241,2821"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>全唐詩
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116796" custom="structure {type:MainText_Right;}">
+      <Coords points="2419,805 4160,805 4160,3464 2419,3464 2419,805"/>
+      <TextLine id="1100365" custom="structure {type:Text;}">
+        <Coords points="4006,1039 4155,1039 4155,3430 4006,3430 4006,1039"/>
+        <Baseline points="4077,1043 4092,3432"/>
+        <TextEquiv>
+          <Unicode>予以萬幾之暇游息藝文觀列代之皇王考當時</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100366" custom="structure {type:Text;}">
+        <Coords points="3849,1054 3991,1054 3991,3434 3849,3434 3849,1054"/>
+        <Baseline points="3922,1058 3933,3437"/>
+        <TextEquiv>
+          <Unicode>之行事軒昊舜禹之上信無間然矣至於秦皇周</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100367" custom="structure {type:Text;}">
+        <Coords points="3683,1039 3840,1039 3840,3441 3683,3441 3683,1039"/>
+        <Baseline points="3750,1043 3774,3443"/>
+        <TextEquiv>
+          <Unicode>穆漢武魏明峻宇雕牆窮侈極麗征稅殫於宇宙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100368" custom="structure {type:Text;}">
+        <Coords points="3524,1045 3685,1045 3685,3443 3524,3443 3524,1045"/>
+        <Baseline points="3593,1050 3614,3445"/>
+        <TextEquiv>
+          <Unicode>轍迹徧於天下九州無以稱其求江海不能贍其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100369" custom="structure {type:Text;}">
+        <Coords points="3367,1050 3526,1050 3526,3432 3367,3432 3367,1050"/>
+        <Baseline points="3438,1054 3455,3434"/>
+        <TextEquiv>
+          <Unicode>欲覆亡顛沛不亦宜乎予追蹤百王之末馳心千</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100370" custom="structure {type:Text;}">
+        <Coords points="3205,1033 3369,1033 3369,3445 3205,3445 3205,1033"/>
+        <Baseline points="3278,1037 3304,3447"/>
+        <TextEquiv>
+          <Unicode>載之下慷慨懷古想彼哲人庶以堯舜之風蕩秦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100371" custom="structure {type:Text;}">
+        <Coords points="3050,1050 3207,1050 3207,3450 3050,3450 3050,1050"/>
+        <Baseline points="3123,1054 3143,3452"/>
+        <TextEquiv>
+          <Unicode>漢之弊用咸英之曲變爛熳之音求之人情不為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100372" custom="structure {type:Text;}">
+        <Coords points="2887,1048 3057,1048 3057,3454 2887,3454 2887,1048"/>
+        <Baseline points="2958,1052 2983,3456"/>
+        <TextEquiv>
+          <Unicode>難矣故觀文敎於六經閱武功於七德臺榭取其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100373" custom="structure {type:Text;}">
+        <Coords points="2734,1054 2893,1054 2893,3432 2734,3432 2734,1054"/>
+        <Baseline points="2809,1058 2828,3434"/>
+        <TextEquiv>
+          <Unicode>避燥溼金石尙其諧神人皆節之於中和不係之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100374" custom="structure {type:Text;}">
+        <Coords points="2577,1048 2740,1048 2740,3454 2577,3454 2577,1048"/>
+        <Baseline points="2645,1052 2669,3456"/>
+        <TextEquiv>
+          <Unicode>於淫放故溝洫可悅何必江海之濱乎麟閣可翫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100412" custom="structure {type:Text;}">
+        <Coords points="2406,1039 2568,1039 2568,1441 2406,1441 2406,1039"/>
+        <Baseline points="2474,1048 2501,1442"/>
+        <TextEquiv>
+          <Unicode>何必兩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100413" custom="structure {type:Commentary;}">
+        <Coords points="2482,1437 2598,1437 2598,1596 2482,1596 2482,1437"/>
+        <Baseline points="2538,1442 2548,1597"/>
+        <TextEquiv>
+          <Unicode>一作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100414" custom="structure {type:Commentary;}">
+        <Coords points="2411,1426 2499,1426 2499,1521 2411,1521 2411,1426"/>
+        <Baseline points="2447,1432 2451,1523"/>
+        <TextEquiv>
+          <Unicode>山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100415" custom="structure {type:Text;}">
+        <Coords points="2437,1549 2581,1549 2581,3495 2437,3495 2437,1549"/>
+        <Baseline points="2491,1550 2491,3497"/>
+        <TextEquiv>
+          <Unicode>陵之間乎忠良可接何必海上神仙乎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>予以萬幾之暇游息藝文觀列代之皇王考當時
+之行事軒昊舜禹之上信無間然矣至於秦皇周
+穆漢武魏明峻宇雕牆窮侈極麗征稅殫於宇宙
+轍迹徧於天下九州無以稱其求江海不能贍其
+欲覆亡顛沛不亦宜乎予追蹤百王之末馳心千
+載之下慷慨懷古想彼哲人庶以堯舜之風蕩秦
+漢之弊用咸英之曲變爛熳之音求之人情不為
+難矣故觀文敎於六經閱武功於七德臺榭取其
+避燥溼金石尙其諧神人皆節之於中和不係之
+於淫放故溝洫可悅何必江海之濱乎麟閣可翫
+何必兩
+一作
+山
+陵之間乎忠良可接何必海上神仙乎
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116802" custom="structure {type:MainText_Left;}">
+      <Coords points="425,779 2155,783 2141,3470 405,3443 425,779"/>
+      <TextLine id="1100418" custom="structure {type:Text;}">
+        <Coords points="1989,1005 2146,1005 2146,3488 1989,3488 1989,1005"/>
+        <Baseline points="2077,1008 2087,3490"/>
+        <TextEquiv>
+          <Unicode>豐鎬可遊何必瑤池之上乎釋實求華以人從欲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100420" custom="structure {type:Text;}">
+        <Coords points="1827,1011 1978,1011 1978,3493 1827,3493 1827,1011"/>
+        <Baseline points="1889,1015 1916,3494"/>
+        <TextEquiv>
+          <Unicode>亂於大道君子恥之故述帝京篇以明雅志云爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100421" custom="structure {type:Text;}">
+        <Coords points="1668,766 1830,766 1830,3465 1668,3465 1668,766"/>
+        <Baseline points="1751,769 1761,3467"/>
+        <TextEquiv>
+          <Unicode>秦川雄帝宅函谷壯皇居綺殿千尋起離宮百雉餘連</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100422" custom="structure {type:Text;}">
+        <Coords points="1513,761 1664,761 1664,3230 1513,3230 1513,761"/>
+        <Baseline points="1593,766 1599,3231"/>
+        <TextEquiv>
+          <Unicode>甍遙接漢飛觀迥凌虛雲日隱層闕風煙出綺疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100423" custom="structure {type:Text;}">
+        <Coords points="1352,766 1500,766 1503,3196 1346,3200 1352,766"/>
+        <Baseline points="1424,3194 1441,769"/>
+        <TextEquiv>
+          <Unicode>巖廊罷機務崇文聊駐輦玉匣啓龍圖金繩披鳳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114360" custom="structure {type:Commentary;}">
+        <Coords points="1419,3211 1491,3207 1495,3313 1419,3315 1419,3211"/>
+        <Baseline points="1458,3208 1460,3314"/>
+        <TextEquiv>
+          <Unicode>一作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114361" custom="structure {type:Commentary;}">
+        <Coords points="1343,3201 1411,3203 1417,3291 1347,3295 1343,3201"/>
+        <Baseline points="1374,3292 1376,3204"/>
+        <TextEquiv>
+          <Unicode>鳥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114362" custom="structure {type:Text;}">
+        <Coords points="1356,3324 1471,3318 1477,3452 1362,3454 1356,3324"/>
+        <Baseline points="1413,3444 1415,3324"/>
+        <TextEquiv>
+          <Unicode>篆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100424" custom="structure {type:Text;}">
+        <Coords points="1207,746 1345,746 1345,1317 1207,1317 1207,746"/>
+        <Baseline points="1277,749 1280,1318"/>
+        <TextEquiv>
+          <Unicode>韋編斷仍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100425" custom="structure {type:Commentary;}">
+        <Coords points="1265,1299 1373,1299 1373,1461 1265,1461 1265,1299"/>
+        <Baseline points="1320,1462 1324,1301"/>
+        <TextEquiv>
+          <Unicode>一作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100426" custom="structure {type:Commentary;}">
+        <Coords points="1197,1261 1257,1261 1257,1416 1197,1416 1197,1261"/>
+        <Baseline points="1233,1418 1236,1264"/>
+        <TextEquiv>
+          <Unicode>方</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100427" custom="structure {type:Text;}">
+        <Coords points="1190,1401 1341,1401 1341,2819 1190,2819 1190,1401"/>
+        <Baseline points="1270,2821 1277,1405"/>
+        <TextEquiv>
+          <Unicode>續縹帙舒還卷對此乃淹留</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100428" custom="structure {type:Commentary;}">
+        <Coords points="1291,2800 1339,2800 1339,2985 1291,2985 1291,2800"/>
+        <Baseline points="1310,2801 1310,2986"/>
+        <TextEquiv>
+          <Unicode>一作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100429" custom="structure {type:Commentary;}">
+        <Coords points="1160,2793 1263,2793 1263,2982 1160,2982 1160,2793"/>
+        <Baseline points="1223,2794 1223,2983"/>
+        <TextEquiv>
+          <Unicode>忘憂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100430" custom="structure {type:Text;}">
+        <Coords points="1186,2939 1334,2939 1334,3462 1186,3462 1186,2939"/>
+        <Baseline points="1273,2942 1273,3464"/>
+        <TextEquiv>
+          <Unicode>欹案觀墳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100431" custom="structure {type:Text;}">
+        <Coords points="1052,772 1190,772 1190,936 1052,936 1052,772"/>
+        <Baseline points="1125,776 1129,937"/>
+        <TextEquiv>
+          <Unicode>典</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100432" custom="structure {type:Text;}">
+        <Coords points="880,779 1024,779 1024,1934 880,1934 880,779"/>
+        <Baseline points="950,1936 960,783"/>
+        <TextEquiv>
+          <Unicode>移步出詞林停輿欣武</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100433" custom="structure {type:Commentary;}">
+        <Coords points="964,1932 1054,1932 1054,2083 964,2083 964,1932"/>
+        <Baseline points="1001,1940 1011,2084"/>
+        <TextEquiv>
+          <Unicode>一作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100434" custom="structure {type:Commentary;}">
+        <Coords points="878,1887 960,1887 960,2025 878,2025 878,1887"/>
+        <Baseline points="917,1893 927,2027"/>
+        <TextEquiv>
+          <Unicode>載</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100435" custom="structure {type:Text;}">
+        <Coords points="876,2038 1020,2038 1020,3477 876,3477 876,2038"/>
+        <Baseline points="957,2041 960,3480"/>
+        <TextEquiv>
+          <Unicode>宴琱弓寫明月駿馬疑流電</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100436" custom="structure {type:Text;}">
+        <Coords points="712,766 865,766 865,3363 712,3363 712,766"/>
+        <Baseline points="782,3366 799,769"/>
+        <TextEquiv>
+          <Unicode>驚雁落虛弦啼猿悲急箭閱賞誠多美於茲乃忘倦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100437" custom="structure {type:Text;}">
+        <Coords points="546,759 716,759 716,3458 546,3458 546,759"/>
+        <Baseline points="624,3460 654,763"/>
+        <TextEquiv>
+          <Unicode>鳴笳臨樂館眺聽歡芳節急管韻朱絃清歌凝白雪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100438" custom="structure {type:Text;}">
+        <Coords points="415,782 554,779 548,1435 407,1433 415,782"/>
+        <Baseline points="482,1419 489,766"/>
+        <TextEquiv>
+          <Unicode>彩鳳肅來儀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114390" custom="structure {type:Commentary;}">
+        <Coords points="480,1436 563,1434 559,1560 479,1550 480,1436"/>
+        <Baseline points="523,1437 525,1553"/>
+        <TextEquiv>
+          <Unicode>一作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114391" custom="structure {type:Commentary;}">
+        <Coords points="406,1429 475,1429 475,1525 406,1532 406,1429"/>
+        <Baseline points="438,1434 441,1516"/>
+        <TextEquiv>
+          <Unicode>下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114392" custom="structure {type:Text;}">
+        <Coords points="413,1554 544,1554 541,3443 405,3438 413,1554"/>
+        <Baseline points="466,3445 477,1554"/>
+        <TextEquiv>
+          <Unicode>玄鶴紛成列去茲鄭衛聲雅音方可悅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>豐鎬可遊何必瑤池之上乎釋實求華以人從欲
+亂於大道君子恥之故述帝京篇以明雅志云爾
+秦川雄帝宅函谷壯皇居綺殿千尋起離宮百雉餘連
+甍遙接漢飛觀迥凌虛雲日隱層闕風煙出綺疏
+巖廊罷機務崇文聊駐輦玉匣啓龍圖金繩披鳳
+一作
+鳥
+篆
+韋編斷仍
+一作
+方
+續縹帙舒還卷對此乃淹留
+一作
+忘憂
+欹案觀墳
+典
+移步出詞林停輿欣武
+一作
+載
+宴琱弓寫明月駿馬疑流電
+驚雁落虛弦啼猿悲急箭閱賞誠多美於茲乃忘倦
+鳴笳臨樂館眺聽歡芳節急管韻朱絃清歌凝白雪
+彩鳳肅來儀
+一作
+下
+玄鶴紛成列去茲鄭衛聲雅音方可悅
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116794" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="326,788 390,788 403,1990 326,2000 326,788"/>
+      <TextLine id="1100344" custom="structure {type:Section;}">
+        <Coords points="320,783 426,783 426,1084 320,1084 320,783"/>
+        <Baseline points="363,1086 370,787"/>
+        <TextEquiv>
+          <Unicode>太宗皇帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100411" custom="structure {type:Title;}">
+        <Coords points="328,1430 389,1429 389,1736 325,1738 328,1430"/>
+        <Baseline points="362,1430 362,1738"/>
+        <TextEquiv>
+          <Unicode>全唐詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231341" custom="structure {type:Page_Number;}">
+        <Coords points="273,2652 397,2648 397,2836 285,2844 273,2652"/>
+        <Baseline points="326,2669 329,2801"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>太宗皇帝
+全唐詩
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116803" custom="structure {type:Image_Stamp;}">
+      <Coords points="1142,742 1142,470 1744,470 1744,742 1142,742"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

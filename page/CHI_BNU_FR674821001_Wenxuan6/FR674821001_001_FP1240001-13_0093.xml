@@ -1,0 +1,291 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:27+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-13_0093.jpg" imageHeight="3500" imageWidth="1927">
+    <TextRegion id="117216" custom="structure {type:MainText;}">
+      <Coords points="278,845 1786,822 1752,3169 259,3157 278,845"/>
+      <TextLine id="1104717" custom="structure {type:Commentary;}">
+        <Coords points="1701,1932 1709,1574 1703,836 1788,832 1782,1546 1780,2252 1703,2246 1701,1932"/>
+        <Baseline points="1733,2241 1740,829"/>
+        <TextEquiv>
+          <Unicode>所犯罪名已定而逃亡避之謂之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104718" custom="structure {type:Commentary;}">
+        <Coords points="1621,1550 1623,838 1709,834 1706,2262 1615,2252 1621,1550"/>
+        <Baseline points="1664,2247 1672,838"/>
+        <TextEquiv>
+          <Unicode>亡命青組朱軒並二千石之車飾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104719" custom="structure {type:Text;}">
+        <Coords points="1623,2260 1767,2256 1760,2716 1750,3162 1689,3170 1619,3168 1623,2260"/>
+        <Baseline points="1683,3162 1702,2259"/>
+        <TextEquiv>
+          <Unicode>方臣所荷未足為泰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104720" custom="structure {type:Text;}">
+        <Coords points="1481,836 1617,836 1615,1932 1547,1946 1469,1940 1481,836"/>
+        <Baseline points="1543,1934 1548,829"/>
+        <TextEquiv>
+          <Unicode>豈臣蒙垢含吝所宜忝竊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104721" custom="structure {type:Commentary;}">
+        <Coords points="1532,2566 1541,1944 1620,1938 1614,3160 1532,3156 1532,2566"/>
+        <Baseline points="1572,3145 1581,1936"/>
+        <TextEquiv>
+          <Unicode>范曄後漢書陳蕃曰鄙吝之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104722" custom="structure {type:Commentary;}">
+        <Coords points="1453,2553 1463,1942 1540,1940 1538,2257 1532,2566 1532,3160 1451,3158 1453,2553"/>
+        <Baseline points="1491,3157 1500,1944"/>
+        <TextEquiv>
+          <Unicode>萌復存于心方言曰貪而不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104723" custom="structure {type:Commentary;}">
+        <Coords points="1395,832 1478,832 1479,1052 1397,1044 1395,832"/>
+        <Baseline points="1436,831 1443,1048"/>
+        <TextEquiv>
+          <Unicode>施謂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104724" custom="structure {type:Commentary;}">
+        <Coords points="1325,837 1394,834 1400,1042 1325,1044 1325,837"/>
+        <Baseline points="1362,836 1362,1040"/>
+        <TextEquiv>
+          <Unicode>之吝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104725" custom="structure {type:Text;}">
+        <Coords points="1310,2640 1316,2114 1320,1051 1394,1042 1473,1058 1461,2119 1451,2647 1446,3158 1310,3161 1310,2640"/>
+        <Baseline points="1379,3164 1400,1045"/>
+        <TextEquiv>
+          <Unicode>非臣毀宗夷族所能上報喜懼參并悲慙哽結拘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104726" custom="structure {type:Text;}">
+        <Coords points="1182,834 1318,842 1316,1728 1172,1729 1182,834"/>
+        <Baseline points="1246,1730 1255,829"/>
+        <TextEquiv>
+          <Unicode>守常憲當便道之官</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104727" custom="structure {type:Commentary;}">
+        <Coords points="1232,2450 1242,1722 1316,1720 1310,3156 1227,3160 1232,2450"/>
+        <Baseline points="1270,3150 1281,1725"/>
+        <TextEquiv>
+          <Unicode>如湻漢書注曰律二千石以上告</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104728" custom="structure {type:Commentary;}">
+        <Coords points="1152,2438 1153,2260 1155,2077 1157,1722 1239,1730 1227,3156 1146,3155 1152,2438"/>
+        <Baseline points="1193,3153 1205,1718"/>
+        <TextEquiv>
+          <Unicode>歸寕不過行在所者便道之官無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104729" custom="structure {type:Commentary;}">
+        <Coords points="1099,834 1173,837 1175,923 1136,933 1096,923 1099,834"/>
+        <Baseline points="1139,836 1141,922"/>
+        <TextEquiv>
+          <Unicode>問</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104730" custom="structure {type:Commentary;}">
+        <Coords points="1024,839 1094,837 1096,925 1057,931 1020,925 1024,839"/>
+        <Baseline points="1056,838 1056,926"/>
+        <TextEquiv>
+          <Unicode>也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104731" custom="structure {type:Text;}">
+        <Coords points="1007,2458 1009,1947 1025,1441 1022,935 1094,930 1173,935 1153,1952 1150,2961 1005,2966 1007,2458"/>
+        <Baseline points="1075,2960 1096,924"/>
+        <TextEquiv>
+          <Unicode>不得束身奔走稽顙城闕瞻係天衢馳心輦轂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104732" custom="structure {type:Commentary;}">
+        <Coords points="1067,2961 1143,2963 1145,3160 1067,3163 1067,2961"/>
+        <Baseline points="1110,2953 1110,3162"/>
+        <TextEquiv>
+          <Unicode>天衢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104733" custom="structure {type:Commentary;}">
+        <Coords points="1004,2973 1069,2969 1069,3155 1004,3158 1004,2973"/>
+        <Baseline points="1039,3157 1044,2972"/>
+        <TextEquiv>
+          <Unicode>已見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104734" custom="structure {type:Commentary;}">
+        <Coords points="936,1258 941,836 1015,834 1017,1683 972,1688 941,1680 936,1258"/>
+        <Baseline points="979,838 982,1683"/>
+        <TextEquiv>
+          <Unicode>上薦禰衡表輦轂已</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104735" custom="structure {type:Commentary;}">
+        <Coords points="871,842 943,834 945,1578 901,1591 872,1576 871,842"/>
+        <Baseline points="906,1580 910,836"/>
+        <TextEquiv>
+          <Unicode>見上求通親親表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104736" custom="structure {type:Text;}">
+        <Coords points="874,1687 1009,1695 998,3062 852,3062 874,1687"/>
+        <Baseline points="934,3065 941,1678"/>
+        <TextEquiv>
+          <Unicode>臣不勝屏營延仰謹拜表以聞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104737" custom="structure {type:Commentary;}">
+        <Coords points="930,3059 1002,3062 1002,3153 933,3153 930,3059"/>
+        <Baseline points="970,3053 972,3153"/>
+        <TextEquiv>
+          <Unicode>國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104738" custom="structure {type:Commentary;}">
+        <Coords points="842,3062 926,3064 928,3156 850,3160 842,3062"/>
+        <Baseline points="889,3148 896,3062"/>
+        <TextEquiv>
+          <Unicode>語</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104739" custom="structure {type:Commentary;}">
+        <Coords points="798,1162 807,836 872,836 872,1486 797,1491 798,1162"/>
+        <Baseline points="837,1488 839,838"/>
+        <TextEquiv>
+          <Unicode>申胥曰昔楚靈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104740" custom="structure {type:Commentary;}">
+        <Coords points="721,839 806,841 797,1375 718,1382 721,839"/>
+        <Baseline points="763,1378 765,845"/>
+        <TextEquiv>
+          <Unicode>王獨行屏營</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104741" custom="structure {type:Text;}">
+        <Coords points="570,1249 706,1249 716,1626 573,1628 570,1249"/>
+        <Baseline points="635,1247 649,1618"/>
+        <TextEquiv>
+          <Unicode>勸進表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104742" custom="structure {type:Commentary;}">
+        <Coords points="627,2776 634,2393 637,1628 717,1625 709,3163 625,3160 627,2776"/>
+        <Baseline points="665,3155 680,1628"/>
+        <TextEquiv>
+          <Unicode>何法盛晉書曰劉琨連名勸進中宗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104743" custom="structure {type:Commentary;}">
+        <Coords points="553,2386 563,1626 644,1626 634,2391 627,2771 623,3148 541,3146 553,2386"/>
+        <Baseline points="589,3150 601,1621"/>
+        <TextEquiv>
+          <Unicode>嘉之晉紀曰劉琨作勸進表無所點</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104744" custom="structure {type:Commentary;}">
+        <Coords points="484,2142 489,1865 491,1476 561,1480 558,2265 474,2263 484,2142"/>
+        <Baseline points="520,2265 523,1476"/>
+        <TextEquiv>
+          <Unicode>竄封印既畢對使</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104745" custom="structure {type:Commentary;}">
+        <Coords points="415,1478 493,1481 486,2129 401,2132 415,1478"/>
+        <Baseline points="442,2130 449,1485"/>
+        <TextEquiv>
+          <Unicode>者流涕而遣之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104746" custom="structure {type:Author_name;}">
+        <Coords points="265,1350 408,1351 405,1737 262,1738 265,1350"/>
+        <Baseline points="325,1354 335,1740"/>
+        <TextEquiv>
+          <Unicode>劉越石</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>所犯罪名已定而逃亡避之謂之
+亡命青組朱軒並二千石之車飾
+方臣所荷未足為泰
+豈臣蒙垢含吝所宜忝竊
+范曄後漢書陳蕃曰鄙吝之
+萌復存于心方言曰貪而不
+施謂
+之吝
+非臣毀宗夷族所能上報喜懼參并悲慙哽結拘
+守常憲當便道之官
+如湻漢書注曰律二千石以上告
+歸寕不過行在所者便道之官無
+問
+也
+不得束身奔走稽顙城闕瞻係天衢馳心輦轂
+天衢
+已見
+上薦禰衡表輦轂已
+見上求通親親表
+臣不勝屏營延仰謹拜表以聞
+國
+語
+申胥曰昔楚靈
+王獨行屏營
+勸進表
+何法盛晉書曰劉琨連名勸進中宗
+嘉之晉紀曰劉琨作勸進表無所點
+竄封印既畢對使
+者流涕而遣之
+劉越石
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117217" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="180,1343 261,1338 247,2422 173,2422 180,1343"/>
+      <TextLine id="1104747" custom="structure {type:Section;}">
+        <Coords points="173,1399 254,1396 254,1650 181,1646 173,1399"/>
+        <Baseline points="204,1400 209,1652"/>
+        <TextEquiv>
+          <Unicode>文三十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104748" custom="structure {type:Page_Number;}">
+        <Coords points="174,2255 241,2255 241,2411 171,2411 174,2255"/>
+        <Baseline points="195,2258 202,2413"/>
+        <TextEquiv>
+          <Unicode>二十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文三十七
+二十三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117218" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="229,80 294,86 296,137 220,142 229,80"/>
+      <TextLine id="1104749" custom="structure {type:Commentary;}">
+        <Coords points="230,82 301,82 301,149 228,146 230,82"/>
+        <Baseline points="237,125 285,125"/>
+        <TextEquiv>
+          <Unicode>89</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>89
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:42+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_11_82_0029.jpg" imageHeight="3172" imageWidth="3566">
+    <TextRegion id="115823" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3239,1143 3386,1148 3358,1761 3253,1761 3239,1143"/>
+      <TextLine id="1092750" custom="structure {type:Section;}">
+        <Coords points="3246,1136 3319,1140 3351,1746 3246,1746 3246,1136"/>
+        <Baseline points="3289,1142 3303,1747"/>
+        <TextEquiv>
+          <Unicode>顏氏家訓卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>顏氏家訓卷二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115824" custom="structure {type:MainText_Right;}">
+      <Coords points="1802,710 3248,710 3272,2694 1826,2713 1802,710"/>
+      <TextLine id="1092751" custom="structure {type:Text;}">
+        <Coords points="3097,689 3232,689 3232,2705 3097,2705 3097,689"/>
+        <Baseline points="3165,691 3171,2706"/>
+        <TextEquiv>
+          <Unicode>江南凡遭重喪若相知者同在城邑三日不弔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092752" custom="structure {type:Text;}">
+        <Coords points="2938,681 3079,681 3079,2710 2938,2710 2938,681"/>
+        <Baseline points="3006,684 3017,2712"/>
+        <TextEquiv>
+          <Unicode>則絶之除喪雖相遇則避之怨其不己憫也有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092753" custom="structure {type:Text;}">
+        <Coords points="2774,690 2927,690 2927,2687 2774,2687 2774,690"/>
+        <Baseline points="2838,694 2872,2689"/>
+        <TextEquiv>
+          <Unicode>故及道遙者致書可也無書亦如之北俗則不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092754" custom="structure {type:Text;}">
+        <Coords points="2619,671 2769,671 2769,2705 2619,2705 2619,671"/>
+        <Baseline points="2690,674 2707,2706"/>
+        <TextEquiv>
+          <Unicode>尒江南凡弔者主人之外不識者不執手識輕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092755" custom="structure {type:Text;}">
+        <Coords points="2466,674 2601,674 2601,2724 2466,2724 2466,674"/>
+        <Baseline points="2539,678 2542,2726"/>
+        <TextEquiv>
+          <Unicode>服而不識主人則不於會所而弔他日修名詣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092756" custom="structure {type:Text;}">
+        <Coords points="2298,680 2434,680 2434,958 2298,958 2298,680"/>
+        <Baseline points="2371,684 2381,960"/>
+        <TextEquiv>
+          <Unicode>其家</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092757" custom="structure {type:Text;}">
+        <Coords points="2145,685 2296,685 2296,2731 2145,2731 2145,685"/>
+        <Baseline points="2216,688 2239,2733"/>
+        <TextEquiv>
+          <Unicode>陰陽説云辰爲水墓又爲土墓故不得哭王充</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092758" custom="structure {type:Text;}">
+        <Coords points="1988,678 2131,678 2131,2715 1988,2715 1988,678"/>
+        <Baseline points="2051,681 2065,2716"/>
+        <TextEquiv>
+          <Unicode>論衡云辰日不哭哭則重喪今無教者辰日有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092759" custom="structure {type:Text;}">
+        <Coords points="1822,681 1983,681 1983,2715 1822,2715 1822,681"/>
+        <Baseline points="1893,684 1917,2716"/>
+        <TextEquiv>
+          <Unicode>喪不問輕重舉家清謐不敢發聲以辭弔客道</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>江南凡遭重喪若相知者同在城邑三日不弔
+則絶之除喪雖相遇則避之怨其不己憫也有
+故及道遙者致書可也無書亦如之北俗則不
+尒江南凡弔者主人之外不識者不執手識輕
+服而不識主人則不於會所而弔他日修名詣
+其家
+陰陽説云辰爲水墓又爲土墓故不得哭王充
+論衡云辰日不哭哭則重喪今無教者辰日有
+喪不問輕重舉家清謐不敢發聲以辭弔客道
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115825" custom="structure {type:MainText_Left;}">
+      <Coords points="313,720 1731,705 1735,2713 337,2708 313,720"/>
+      <TextLine id="1092760" custom="structure {type:Text;}">
+        <Coords points="1579,690 1708,690 1708,2708 1579,2708 1579,690"/>
+        <Baseline points="1651,691 1651,2709"/>
+        <TextEquiv>
+          <Unicode>書又曰晦歌朔哭皆當有罪天奪之算喪家朔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092761" custom="structure {type:Text;}">
+        <Coords points="1415,696 1563,696 1563,2502 1415,2502 1415,696"/>
+        <Baseline points="1486,698 1509,2504"/>
+        <TextEquiv>
+          <Unicode>望哀感彌深寧當惜壽又不哭也亦不諭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092762" custom="structure {type:Commentary;}">
+        <Coords points="1484,2493 1593,2493 1593,2687 1484,2687 1484,2493"/>
+        <Baseline points="1533,2497 1536,2689"/>
+        <TextEquiv>
+          <Unicode>一本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092763" custom="structure {type:Commentary;}">
+        <Coords points="1367,2470 1496,2470 1496,2708 1367,2708 1367,2470"/>
+        <Baseline points="1452,2474 1456,2709"/>
+        <TextEquiv>
+          <Unicode>無亦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092764" custom="structure {type:Commentary;}">
+        <Coords points="1323,685 1447,685 1447,958 1323,958 1323,685"/>
+        <Baseline points="1372,688 1378,960"/>
+        <TextEquiv>
+          <Unicode>不論</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092765" custom="structure {type:Commentary;}">
+        <Coords points="1235,690 1337,690 1337,958 1235,958 1235,690"/>
+        <Baseline points="1301,694 1304,960"/>
+        <TextEquiv>
+          <Unicode>三字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092766" custom="structure {type:Text;}">
+        <Coords points="1098,708 1242,708 1242,2715 1098,2715 1098,708"/>
+        <Baseline points="1173,711 1187,2716"/>
+        <TextEquiv>
+          <Unicode>偏傍之書死有歸殺子孫逃竄莫肯在家畫瓦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092767" custom="structure {type:Text;}">
+        <Coords points="944,696 1080,696 1080,2717 944,2717 944,696"/>
+        <Baseline points="1018,698 1025,2719"/>
+        <TextEquiv>
+          <Unicode>書符作諸猒勝喪出之日門前然火戶外列灰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092768" custom="structure {type:Text;}">
+        <Coords points="789,685 928,685 928,2724 789,2724 789,685"/>
+        <Baseline points="860,688 870,2726"/>
+        <TextEquiv>
+          <Unicode>祓送家鬼章斷注連凡如此比不近有情乃儒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092769" custom="structure {type:Text;}">
+        <Coords points="632,701 768,701 768,1853 632,1853 632,701"/>
+        <Baseline points="695,1855 699,704"/>
+        <TextEquiv>
+          <Unicode>雅之罪人彈議所當加也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092770" custom="structure {type:Text;}">
+        <Coords points="474,690 615,690 615,2742 474,2742 474,690"/>
+        <Baseline points="544,694 557,2743"/>
+        <TextEquiv>
+          <Unicode>己孤而履歲及長至之節無父拜母祖父母世</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092771" custom="structure {type:Text;}">
+        <Coords points="319,704 458,704 458,2724 319,2724 319,704"/>
+        <Baseline points="396,708 403,2726"/>
+        <TextEquiv>
+          <Unicode>叔父母姑兄姊則皆泣無母拜父外祖父母舅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>書又曰晦歌朔哭皆當有罪天奪之算喪家朔
+望哀感彌深寧當惜壽又不哭也亦不諭
+一本
+無亦
+不論
+三字
+偏傍之書死有歸殺子孫逃竄莫肯在家畫瓦
+書符作諸猒勝喪出之日門前然火戶外列灰
+祓送家鬼章斷注連凡如此比不近有情乃儒
+雅之罪人彈議所當加也
+己孤而履歲及長至之節無父拜母祖父母世
+叔父母姑兄姊則皆泣無母拜父外祖父母舅
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115826" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="203,1186 322,1181 318,2722 223,2722 203,1186"/>
+      <TextLine id="1092772" custom="structure {type:Section;}">
+        <Coords points="233,1183 297,1193 297,1765 211,1771 233,1183"/>
+        <Baseline points="258,1767 261,1175"/>
+        <TextEquiv>
+          <Unicode>顏氏家訓卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113450" custom="structure {type:Page_Number;}">
+        <Coords points="240,2121 311,2116 311,2221 230,2221 240,2121"/>
+        <Baseline points="273,2121 273,2218"/>
+        <TextEquiv>
+          <Unicode>九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092773" custom="structure {type:Title;}">
+        <Coords points="233,2234 316,2227 325,2724 242,2717 233,2234"/>
+        <Baseline points="278,2729 283,2234"/>
+        <TextEquiv>
+          <Unicode>知不足齋叢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>顏氏家訓卷二
+九
+知不足齋叢書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

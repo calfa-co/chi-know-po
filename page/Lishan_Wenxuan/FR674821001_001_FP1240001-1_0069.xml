@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:30:37+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-1_0069.jpg" imageHeight="4754" imageWidth="2622">
+    <TextRegion id="79117" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="316,4369 305,1207 2432,1212 2421,4363 316,4369"/>
+      <TextLine id="865530" custom="structure {type:Title;}">
+        <Coords points="2384,2973 2386,2844 2415,2796 2415,2493 2389,2435 2413,2395 2402,2268 2415,2207 2399,2186 2415,2083 2399,2028 2415,1970 2392,1946 2415,1790 2389,1650 2245,1647 2245,2965 2384,2973"/>
+        <Baseline points="2330,2974 2335,1651"/>
+        <TextEquiv>
+          <Unicode>宋玉對楚王問一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="865531" custom="structure {type:Title;}">
+        <Coords points="2101,1497 2035,1500 2035,1928 2212,1912 2197,1676 2214,1489 2101,1497"/>
+        <Baseline points="2102,1499 2126,1923"/>
+        <TextEquiv>
+          <Unicode>設論</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="865532" custom="structure {type:Title;}">
+        <Coords points="1900,1655 1831,1643 1831,2261 1831,3203 1985,3198 1985,3103 2008,3061 1990,3013 2014,2989 2014,2825 1982,2783 1982,2754 2008,2730 1995,2561 2008,2493 1982,2453 2006,2210 1979,2160 1992,2102 1977,1959 1977,1943 1998,1922 1987,1885 2003,1832 1977,1806 1990,1756 1974,1653 1900,1655"/>
+        <Baseline points="1902,1656 1912,3207"/>
+        <TextEquiv>
+          <Unicode>東方曼倩答客難一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="865533" custom="structure {type:Title;}">
+        <Coords points="1702,1663 1607,1666 1622,1942 1622,2247 1626,2670 1628,2804 1773,2799 1786,2548 1781,2281 1802,1753 1768,1661 1702,1663"/>
+        <Baseline points="1703,1666 1707,2807"/>
+        <TextEquiv>
+          <Unicode>楊子雲解嘲一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="865534" custom="structure {type:Title;}">
+        <Coords points="1477,1682 1390,1682 1384,2347 1384,2641 1403,3050 1488,3053 1567,3047 1567,2899 1591,2876 1570,2831 1591,2770 1564,2593 1564,2448 1591,2366 1591,2305 1564,2268 1588,2186 1572,2147 1588,2107 1564,2046 1588,2017 1588,1735 1556,1679 1477,1682"/>
+        <Baseline points="1479,1685 1489,3055"/>
+        <TextEquiv>
+          <Unicode>班孟堅答賓戲一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="865535" custom="structure {type:Title;}">
+        <Coords points="1279,1510 1197,1510 1181,1626 1192,1748 1355,1743 1377,1545 1355,1508 1279,1510"/>
+        <Baseline points="1280,1513 1284,1751"/>
+        <TextEquiv>
+          <Unicode>辭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="865536" custom="structure {type:Title;}">
+        <Coords points="1054,1634 983,1634 983,1888 962,2020 985,2202 991,2873 991,2960 1067,2963 1152,2955 1152,2818 1168,2783 1152,2741 1170,2709 1149,2678 1178,2643 1165,2522 1178,2469 1149,2379 1176,2308 1149,2279 1144,2194 1144,2152 1170,2097 1168,1941 1152,1922 1170,1809 1152,1735 1170,1692 1141,1632 1054,1634"/>
+        <Baseline points="1056,1637 1070,2964"/>
+        <TextEquiv>
+          <Unicode>漢武帝秋風辭一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="865537" custom="structure {type:Title;}">
+        <Coords points="859,1655 775,1676 784,2979 922,2981 954,2680 930,2575 948,2548 940,2456 959,2437 959,2244 935,2176 951,2054 940,2023 954,1891 940,1861 962,1756 935,1655 859,1655"/>
+        <Baseline points="847,2983 861,1656"/>
+        <TextEquiv>
+          <Unicode>陶淵明歸去來一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="865538" custom="structure {type:Title;}">
+        <Coords points="551,1486 556,1890 748,1877 726,1774 742,1666 734,1494 551,1486"/>
+        <Baseline points="642,1499 652,1918"/>
+        <TextEquiv>
+          <Unicode>序上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="865539" custom="structure {type:Title;}">
+        <Coords points="404,1650 338,1650 338,1832 347,3022 491,3013 491,2899 528,2839 525,2744 499,2704 502,2664 533,2635 499,2511 531,2416 510,2284 525,2186 486,2099 518,2057 523,2004 504,1983 520,1912 470,1843 465,1648 404,1650"/>
+        <Baseline points="405,1651 429,3021"/>
+        <TextEquiv>
+          <Unicode>卜子夏毛詩序一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>宋玉對楚王問一首
+設論
+東方曼倩答客難一首
+楊子雲解嘲一首
+班孟堅答賓戲一首
+辭
+漢武帝秋風辭一首
+陶淵明歸去來一首
+序上
+卜子夏毛詩序一首
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79532" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="238,1216 289,1222 278,4373 221,4361 238,1216"/>
+      <TextLine id="868919" custom="structure {type:Section;}">
+        <Coords points="222,2378 222,1970 304,1970 304,2378 222,2378"/>
+        <Baseline points="241,2362 252,1983"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="868920" custom="structure {type:Page_Number;}">
+        <Coords points="200,3640 200,3310 306,3310 306,3640 200,3640"/>
+        <Baseline points="241,3323 247,3623"/>
+        <TextEquiv>
+          <Unicode>二十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>目錄
+二十八
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

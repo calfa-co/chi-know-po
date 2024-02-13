@@ -1,0 +1,417 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:12+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_01_0047.jpg" imageHeight="4146" imageWidth="4683">
+    <TextRegion id="117880" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4328,740 4462,740 4495,3670 4371,3675 4328,740"/>
+      <TextLine id="1111456" custom="structure {type:Title;}">
+        <Coords points="4355,720 4456,731 4473,1286 4355,1292 4355,720"/>
+        <Baseline points="4416,725 4419,1293"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111457" custom="structure {type:Section;}">
+        <Coords points="4349,1720 4460,1683 4480,2000 4348,1994 4349,1720"/>
+        <Baseline points="4416,1673 4429,1996"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111458" custom="structure {type:Page_Number;}">
+        <Coords points="4381,2964 4480,2962 4483,3110 4381,3109 4381,2964"/>
+        <Baseline points="4439,2965 4439,3110"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷二
+五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117881" custom="structure {type:MainText_Right;}">
+      <Coords points="2469,749 4314,725 4371,3656 2526,3679 2469,749"/>
+      <TextLine id="1111459" custom="structure {type:Text;}">
+        <Coords points="4141,725 4353,725 4353,3673 4141,3673 4141,725"/>
+        <Baseline points="4231,728 4278,3675"/>
+        <TextEquiv>
+          <Unicode>六葉鋤之旱者溉之坎三升水丁夫一人可治五畝至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111460" custom="structure {type:Text;}">
+        <Coords points="3941,697 4148,697 4148,3150 3941,3150 3941,697"/>
+        <Baseline points="4029,701 4066,3153"/>
+        <TextEquiv>
+          <Unicode>秋收一畝中十六石種之上土纔令蔽豆耳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111461" custom="structure {type:Text;}">
+        <Coords points="3745,695 3948,695 3948,3664 3745,3664 3745,695"/>
+        <Baseline points="3841,698 3875,3665"/>
+        <TextEquiv>
+          <Unicode>崔實曰正月可種豍豆二月可種大豆又曰二月昏參</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111462" custom="structure {type:Text;}">
+        <Coords points="3531,727 3745,727 3745,3664 3531,3664 3531,727"/>
+        <Baseline points="3632,731 3676,3665"/>
+        <TextEquiv>
+          <Unicode>夕杏花盛桑椹赤可種大豆謂之上時四月時雨降可</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111463" custom="structure {type:Text;}">
+        <Coords points="3326,714 3528,714 3528,2453 3326,2453 3326,714"/>
+        <Baseline points="3421,718 3458,2454"/>
+        <TextEquiv>
+          <Unicode>種大小豆美田欲稀薄田欲稠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111464" custom="structure {type:Title;}">
+        <Coords points="3128,995 3314,995 3314,1623 3128,1623 3128,995"/>
+        <Baseline points="3215,1001 3232,1626"/>
+        <TextEquiv>
+          <Unicode>小豆第七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111465" custom="structure {type:Text;}">
+        <Coords points="2927,714 3137,714 3137,3696 2927,3696 2927,714"/>
+        <Baseline points="3027,718 3054,3698"/>
+        <TextEquiv>
+          <Unicode>小豆大率用麥底然恐小晚有地者常須兼留去歲穀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111466" custom="structure {type:Text;}">
+        <Coords points="2727,714 2920,714 2920,2812 2727,2812 2727,714"/>
+        <Baseline points="2829,718 2842,2814"/>
+        <TextEquiv>
+          <Unicode>下以擬之夏至後十日種者為上時</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111467" custom="structure {type:Commentary;}">
+        <Coords points="2833,2812 2971,2812 2971,3095 2833,3095 2833,2812"/>
+        <Baseline points="2872,2814 2872,3096"/>
+        <TextEquiv>
+          <Unicode>一畝用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111468" custom="structure {type:Commentary;}">
+        <Coords points="2718,2833 2858,2833 2858,3104 2718,3104 2718,2833"/>
+        <Baseline points="2778,2840 2785,3106"/>
+        <TextEquiv>
+          <Unicode>子八升</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111469" custom="structure {type:Text;}">
+        <Coords points="2743,3116 2930,3116 2930,3664 2743,3664 2743,3116"/>
+        <Baseline points="2819,3665 2829,3120"/>
+        <TextEquiv>
+          <Unicode>初伏斷手</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111470" custom="structure {type:Text;}">
+        <Coords points="2510,711 2697,711 2697,1167 2510,1167 2510,711"/>
+        <Baseline points="2617,715 2627,1169"/>
+        <TextEquiv>
+          <Unicode>為中時</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111471" custom="structure {type:Commentary;}">
+        <Coords points="2605,1190 2743,1190 2743,1600 2605,1600 2605,1190"/>
+        <Baseline points="2657,1196 2677,1603"/>
+        <TextEquiv>
+          <Unicode>一畝用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111472" custom="structure {type:Commentary;}">
+        <Coords points="2520,1158 2628,1158 2628,1575 2520,1575 2520,1158"/>
+        <Baseline points="2570,1159 2570,1576"/>
+        <TextEquiv>
+          <Unicode>子一斗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111473" custom="structure {type:Text;}">
+        <Coords points="2531,1573 2722,1573 2722,2648 2531,2648 2531,1573"/>
+        <Baseline points="2627,1576 2637,2649"/>
+        <TextEquiv>
+          <Unicode>中伏斷手為下時</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111474" custom="structure {type:Commentary;}">
+        <Coords points="2605,2671 2759,2671 2759,3121 2605,3121 2605,2671"/>
+        <Baseline points="2667,2679 2691,3123"/>
+        <TextEquiv>
+          <Unicode>一畝用子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111475" custom="structure {type:Commentary;}">
+        <Coords points="2487,2653 2635,2653 2635,3132 2487,3132 2487,2653"/>
+        <Baseline points="2583,2655 2583,3133"/>
+        <TextEquiv>
+          <Unicode>一斗二升</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111476" custom="structure {type:Text;}">
+        <Coords points="2554,3091 2729,3091 2729,3669 2554,3669 2554,3091"/>
+        <Baseline points="2627,3093 2627,3671"/>
+        <TextEquiv>
+          <Unicode>中伏以後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>六葉鋤之旱者溉之坎三升水丁夫一人可治五畝至
+秋收一畝中十六石種之上土纔令蔽豆耳
+崔實曰正月可種豍豆二月可種大豆又曰二月昏參
+夕杏花盛桑椹赤可種大豆謂之上時四月時雨降可
+種大小豆美田欲稀薄田欲稠
+小豆第七
+小豆大率用麥底然恐小晚有地者常須兼留去歲穀
+下以擬之夏至後十日種者為上時
+一畝用
+子八升
+初伏斷手
+為中時
+一畝用
+子一斗
+中伏斷手為下時
+一畝用子
+一斗二升
+中伏以後
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117882" custom="structure {type:MainText_Left;}">
+      <Coords points="396,692 2231,730 2184,3694 372,3660 396,692"/>
+      <TextLine id="1111477" custom="structure {type:Text;}">
+        <Coords points="2020,725 2204,725 2204,1177 2020,1177 2020,725"/>
+        <Baseline points="2109,1175 2129,731"/>
+        <TextEquiv>
+          <Unicode>則晚矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111478" custom="structure {type:Commentary;}">
+        <Coords points="2132,1169 2233,1169 2213,2824 2108,2837 2132,1169"/>
+        <Baseline points="2163,2844 2176,1165"/>
+        <TextEquiv>
+          <Unicode>諺曰立秋葉如荷錢猶得豆者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111479" custom="structure {type:Commentary;}">
+        <Coords points="2001,1144 2128,1144 2128,2833 2001,2833 2001,1144"/>
+        <Baseline points="2062,2834 2072,1149"/>
+        <TextEquiv>
+          <Unicode>指謂宜晚之歲耳不可為常矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111480" custom="structure {type:Text;}">
+        <Coords points="2015,2816 2176,2816 2176,3689 2015,3689 2015,2816"/>
+        <Baseline points="2099,3691 2102,2820"/>
+        <TextEquiv>
+          <Unicode>熟耕耬下以為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111481" custom="structure {type:Text;}">
+        <Coords points="1801,727 1997,727 1997,2826 1801,2826 1801,727"/>
+        <Baseline points="1907,2827 1928,731"/>
+        <TextEquiv>
+          <Unicode>良澤多者耬耩漫擲而勞之如種麻法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111482" custom="structure {type:Commentary;}">
+        <Coords points="1916,2796 2024,2796 2024,3381 1916,3381 1916,2796"/>
+        <Baseline points="1961,2800 1965,3382"/>
+        <TextEquiv>
+          <Unicode>未生白背</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111483" custom="structure {type:Commentary;}">
+        <Coords points="1764,2803 1921,2803 1921,3369 1764,3369 1764,2803"/>
+        <Baseline points="1844,3372 1847,2807"/>
+        <TextEquiv>
+          <Unicode>勞之極佳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111484" custom="structure {type:Text;}">
+        <Coords points="1808,3362 1994,3362 1994,3664 1808,3664 1808,3362"/>
+        <Baseline points="1887,3365 1887,3665"/>
+        <TextEquiv>
+          <Unicode>漫擲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111485" custom="structure {type:Text;}">
+        <Coords points="1612,725 1796,725 1796,1444 1612,1444 1612,725"/>
+        <Baseline points="1709,1445 1712,728"/>
+        <TextEquiv>
+          <Unicode>犂㽟次之𥡦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111486" custom="structure {type:Commentary;}">
+        <Coords points="1706,1439 1822,1439 1822,1709 1706,1709 1706,1439"/>
+        <Baseline points="1763,1441 1763,1710"/>
+        <TextEquiv>
+          <Unicode>土歷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111487" custom="structure {type:Commentary;}">
+        <Coords points="1614,1445 1712,1451 1713,1575 1605,1575 1614,1445"/>
+        <Baseline points="1665,1408 1665,1576"/>
+        <TextEquiv>
+          <Unicode>反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111488" custom="structure {type:Text;}">
+        <Coords points="1600,1692 1782,1692 1782,3650 1600,3650 1600,1692"/>
+        <Baseline points="1706,1697 1709,3651"/>
+        <TextEquiv>
+          <Unicode>種為下鋒而不耩鋤不過再葉落盡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111489" custom="structure {type:Text;}">
+        <Coords points="1418,704 1564,704 1564,1170 1418,1170 1418,704"/>
+        <Baseline points="1517,1172 1521,708"/>
+        <TextEquiv>
+          <Unicode>則刈之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111490" custom="structure {type:Commentary;}">
+        <Coords points="1492,1156 1628,1156 1628,1856 1492,1856 1492,1156"/>
+        <Baseline points="1558,1159 1574,1858"/>
+        <TextEquiv>
+          <Unicode>葉未盡者難</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111491" custom="structure {type:Commentary;}">
+        <Coords points="1398,1158 1518,1158 1518,1870 1398,1870 1398,1158"/>
+        <Baseline points="1453,1872 1457,1162"/>
+        <TextEquiv>
+          <Unicode>治而易濕也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111492" custom="structure {type:Text;}">
+        <Coords points="1400,1858 1582,1858 1582,3689 1400,3689 1400,1858"/>
+        <Baseline points="1490,3691 1517,1862"/>
+        <TextEquiv>
+          <Unicode>豆角三青兩黃拔而倒竪籠叢之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111493" custom="structure {type:Text;}">
+        <Coords points="1183,704 1398,704 1398,3653 1183,3653 1183,704"/>
+        <Baseline points="1282,3654 1316,708"/>
+        <TextEquiv>
+          <Unicode>生者均熟不畏嚴霜從本至末全無秕減乃勝刈者牛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111494" custom="structure {type:Text;}">
+        <Coords points="981,725 1183,725 1183,3659 981,3659 981,725"/>
+        <Baseline points="1100,3661 1117,728"/>
+        <TextEquiv>
+          <Unicode>力若少得待春耕亦得𥡦種凡大小豆生既有葉皆得</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111495" custom="structure {type:Text;}">
+        <Coords points="797,718 981,718 981,1439 797,1439 797,718"/>
+        <Baseline points="905,1441 915,721"/>
+        <TextEquiv>
+          <Unicode>用鐵齒𨫒楱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111496" custom="structure {type:Commentary;}">
+        <Coords points="892,1446 1002,1436 1006,1725 886,1698 892,1446"/>
+        <Baseline points="946,1428 966,1727"/>
+        <TextEquiv>
+          <Unicode>俎耩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111497" custom="structure {type:Commentary;}">
+        <Coords points="791,1432 887,1440 881,1604 791,1602 791,1432"/>
+        <Baseline points="835,1606 838,1408"/>
+        <TextEquiv>
+          <Unicode>切</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111498" custom="structure {type:Text;}">
+        <Coords points="787,1686 969,1686 969,2591 787,2591 787,1686"/>
+        <Baseline points="875,1690 885,2592"/>
+        <TextEquiv>
+          <Unicode>縱橫杷而勞之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111499" custom="structure {type:Text;}">
+        <Coords points="582,732 773,732 773,3653 582,3653 582,732"/>
+        <Baseline points="697,735 700,3654"/>
+        <TextEquiv>
+          <Unicode>雜陰陽書曰小豆生于李六十日秀秀後六十日成成</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111500" custom="structure {type:Text;}">
+        <Coords points="391,714 564,714 564,1605 391,1605 391,714"/>
+        <Baseline points="485,718 488,1606"/>
+        <TextEquiv>
+          <Unicode>後忌與大豆同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>則晚矣
+諺曰立秋葉如荷錢猶得豆者
+指謂宜晚之歲耳不可為常矣
+熟耕耬下以為
+良澤多者耬耩漫擲而勞之如種麻法
+未生白背
+勞之極佳
+漫擲
+犂㽟次之𥡦
+土歷
+反
+種為下鋒而不耩鋤不過再葉落盡
+則刈之
+葉未盡者難
+治而易濕也
+豆角三青兩黃拔而倒竪籠叢之
+生者均熟不畏嚴霜從本至末全無秕減乃勝刈者牛
+力若少得待春耕亦得𥡦種凡大小豆生既有葉皆得
+用鐵齒𨫒楱
+俎耩
+切
+縱橫杷而勞之
+雜陰陽書曰小豆生于李六十日秀秀後六十日成成
+後忌與大豆同
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117883" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="239,740 372,740 377,3651 239,3651 239,740"/>
+      <TextLine id="1111501" custom="structure {type:Title;}">
+        <Coords points="275,742 370,748 362,1328 263,1328 275,742"/>
+        <Baseline points="300,731 310,1334"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111502" custom="structure {type:Section;}">
+        <Coords points="263,1700 356,1706 357,1992 263,1994 263,1700"/>
+        <Baseline points="297,1700 297,1993"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111503" custom="structure {type:Page_Number;}">
+        <Coords points="258,2906 354,2906 354,3102 262,3106 258,2906"/>
+        <Baseline points="307,2911 313,3103"/>
+        <TextEquiv>
+          <Unicode>六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷二
+六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

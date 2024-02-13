@@ -1,0 +1,269 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T16:51:56+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_C_III_5-7_02_01_0007.jpg" imageHeight="4647" imageWidth="5895">
+    <TextRegion id="117740" custom="structure {type:MainText_Left;}">
+      <Coords points="342,951 2441,957 2394,4106 322,4085 342,951"/>
+      <TextLine id="1112613" custom="structure {type:Title;}">
+        <Coords points="2210,983 2429,983 2429,2199 2210,2199 2210,983"/>
+        <Baseline points="2311,985 2311,2202"/>
+        <TextEquiv>
+          <Unicode>藝文類聚卷第十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112614" custom="structure {type:Title;}">
+        <Coords points="1975,1574 2236,1574 2236,3993 1975,3993 1975,1574"/>
+        <Baseline points="2092,3996 2101,1579"/>
+        <TextEquiv>
+          <Unicode>唐太子率更令宏文館學士歐陽詢撰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112615" custom="structure {type:Author_name;}">
+        <Coords points="1784,1572 1975,1572 1963,4023 1775,4003 1784,1572"/>
+        <Baseline points="1867,3979 1883,1579"/>
+        <TextEquiv>
+          <Unicode>明秣陵王元貞校</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112619" custom="structure {type:Title;}">
+        <Coords points="1567,1120 1773,1120 1773,1703 1567,1703 1567,1120"/>
+        <Baseline points="1683,1704 1697,1128"/>
+        <TextEquiv>
+          <Unicode>帝王部一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112620" custom="structure {type:Commentary;}">
+        <Coords points="1657,1781 1799,1781 1799,2395 1657,2395 1657,1781"/>
+        <Baseline points="1721,1785 1726,2398"/>
+        <TextEquiv>
+          <Unicode>總載帝王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112621" custom="structure {type:Commentary;}">
+        <Coords points="1662,2548 1773,2548 1773,3030 1662,3030 1662,2548"/>
+        <Baseline points="1707,2551 1712,3031"/>
+        <TextEquiv>
+          <Unicode>天皇氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112622" custom="structure {type:Commentary;}">
+        <Coords points="1652,3175 1761,3175 1761,3642 1652,3642 1652,3175"/>
+        <Baseline points="1716,3179 1721,3645"/>
+        <TextEquiv>
+          <Unicode>地皇氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112623" custom="structure {type:Commentary;}">
+        <Coords points="1652,3792 1773,3792 1773,4086 1652,4086 1652,3792"/>
+        <Baseline points="1702,3797 1707,4087"/>
+        <TextEquiv>
+          <Unicode>人皇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112624" custom="structure {type:Commentary;}">
+        <Coords points="1562,1773 1675,1773 1675,1918 1562,1918 1562,1773"/>
+        <Baseline points="1607,1779 1621,1917"/>
+        <TextEquiv>
+          <Unicode>氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112625" custom="structure {type:Commentary;}">
+        <Coords points="1562,2065 1688,2065 1688,2558 1562,2558 1562,2065"/>
+        <Baseline points="1616,2069 1626,2559"/>
+        <TextEquiv>
+          <Unicode>有巢氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112626" custom="structure {type:Commentary;}">
+        <Coords points="1549,2715 1683,2715 1683,3172 1549,3172 1549,2715"/>
+        <Baseline points="1616,2716 1616,3173"/>
+        <TextEquiv>
+          <Unicode>燧人氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112627" custom="structure {type:Commentary;}">
+        <Coords points="1549,3320 1678,3320 1678,4097 1549,4097 1549,3320"/>
+        <Baseline points="1607,3322 1607,4098"/>
+        <TextEquiv>
+          <Unicode>太昊庖犧氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112628" custom="structure {type:Commentary;}">
+        <Coords points="1451,1290 1590,1290 1590,1915 1451,1915 1451,1290"/>
+        <Baseline points="1517,1917 1521,1294"/>
+        <TextEquiv>
+          <Unicode>帝女媧氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112629" custom="structure {type:Commentary;}">
+        <Coords points="1451,2080 1580,2080 1580,2863 1451,2863 1451,2080"/>
+        <Baseline points="1498,2864 1517,2084"/>
+        <TextEquiv>
+          <Unicode>炎帝神農氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112630" custom="structure {type:Commentary;}">
+        <Coords points="1435,3010 1569,3010 1569,3797 1435,3797 1435,3010"/>
+        <Baseline points="1493,3798 1498,3013"/>
+        <TextEquiv>
+          <Unicode>黃帝軒轅氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112631" custom="structure {type:Commentary;}">
+        <Coords points="1453,3968 1538,3968 1538,4086 1453,4086 1453,3968"/>
+        <Baseline points="1507,3969 1507,4088"/>
+        <TextEquiv>
+          <Unicode>少</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112632" custom="structure {type:Commentary;}">
+        <Coords points="1347,1298 1476,1298 1476,1925 1347,1925 1347,1298"/>
+        <Baseline points="1412,1926 1421,1302"/>
+        <TextEquiv>
+          <Unicode>昊金天氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112633" custom="structure {type:Commentary;}">
+        <Coords points="1340,2073 1471,2073 1471,2852 1340,2852 1340,2073"/>
+        <Baseline points="1398,2853 1402,2078"/>
+        <TextEquiv>
+          <Unicode>顓頊高陽氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112634" custom="structure {type:Commentary;}">
+        <Coords points="1301,3002 1458,3002 1458,3795 1301,3795 1301,3002"/>
+        <Baseline points="1393,3797 1398,3007"/>
+        <TextEquiv>
+          <Unicode>帝嚳高辛氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112635" custom="structure {type:Commentary;}">
+        <Coords points="1298,3929 1456,3929 1456,4097 1298,4097 1298,3929"/>
+        <Baseline points="1383,3938 1402,4090"/>
+        <TextEquiv>
+          <Unicode>帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112636" custom="structure {type:Commentary;}">
+        <Coords points="1242,1303 1376,1303 1376,1907 1242,1907 1242,1303"/>
+        <Baseline points="1303,1908 1317,1308"/>
+        <TextEquiv>
+          <Unicode>堯陶唐氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112637" custom="structure {type:Commentary;}">
+        <Coords points="1226,2088 1355,2088 1355,2857 1226,2857 1226,2088"/>
+        <Baseline points="1298,2859 1303,2093"/>
+        <TextEquiv>
+          <Unicode>帝舜有虞氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112638" custom="structure {type:Commentary;}">
+        <Coords points="1146,1295 1270,1295 1270,2093 1146,2093 1146,1295"/>
+        <Baseline points="1203,2095 1207,1301"/>
+        <TextEquiv>
+          <Unicode>帝禹夏后氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112639" custom="structure {type:Title;}">
+        <Coords points="952,1280 1141,1280 1141,1925 952,1925 952,1280"/>
+        <Baseline points="1036,1282 1036,1928"/>
+        <TextEquiv>
+          <Unicode>總載帝王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112640" custom="structure {type:Title;}">
+        <Coords points="733,968 942,968 942,4097 733,4097 733,968"/>
+        <Baseline points="832,972 837,4098"/>
+        <TextEquiv>
+          <Unicode>尚書刑德放曰帝者天號也王者人稱也天有五帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112641" custom="structure {type:Title;}">
+        <Coords points="521,952 743,952 743,4094 521,4094 521,952"/>
+        <Baseline points="623,4097 637,957"/>
+        <TextEquiv>
+          <Unicode>以立名人有三王以正度天子爵稱也皇者煌煌也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112642" custom="structure {type:Title;}">
+        <Coords points="304,960 531,960 531,3805 304,3805 304,960"/>
+        <Baseline points="409,3806 428,965"/>
+        <TextEquiv>
+          <Unicode>春秋演孔圖曰正氣為帝閒氣為臣秀氣為人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚卷第十一
+唐太子率更令宏文館學士歐陽詢撰
+明秣陵王元貞校
+帝王部一
+總載帝王
+天皇氏
+地皇氏
+人皇
+氏
+有巢氏
+燧人氏
+太昊庖犧氏
+帝女媧氏
+炎帝神農氏
+黃帝軒轅氏
+少
+昊金天氏
+顓頊高陽氏
+帝嚳高辛氏
+帝
+堯陶唐氏
+帝舜有虞氏
+帝禹夏后氏
+總載帝王
+尚書刑德放曰帝者天號也王者人稱也天有五帝
+以立名人有三王以正度天子爵稱也皇者煌煌也
+春秋演孔圖曰正氣為帝閒氣為臣秀氣為人
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117741" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="228,958 328,963 313,4095 233,4095 228,958"/>
+      <TextLine id="1112643" custom="structure {type:Title;}">
+        <Coords points="180,952 320,952 320,1445 180,1445 180,952"/>
+        <Baseline points="252,956 261,1446"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112644" custom="structure {type:Section;}">
+        <Coords points="222,1703 315,1703 315,2419 222,2419 222,1703"/>
+        <Baseline points="247,2421 252,1708"/>
+        <TextEquiv>
+          <Unicode>帝王部卷十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231416" custom="structure {type:Page_Number;}">
+        <Coords points="216,3172 304,3172 304,3340 216,3340 216,3172"/>
+        <Baseline points="252,3180 265,3335"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112645" custom="structure {type:Marginalia;}">
+        <Coords points="226,3477 330,3477 330,4019 226,4019 226,3477"/>
+        <Baseline points="261,3482 275,4020"/>
+        <TextEquiv>
+          <Unicode>宏達堂校梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+帝王部卷十一
+一
+宏達堂校梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

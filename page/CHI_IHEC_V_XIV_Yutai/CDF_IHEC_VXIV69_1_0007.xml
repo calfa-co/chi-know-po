@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:05:40+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VXIV69_1_0007.jpg" imageHeight="4164" imageWidth="4777">
+    <TextRegion id="117676" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4441,906 4567,906 4567,3682 4441,3682 4441,906"/>
+      <TextLine id="1109071" custom="structure {type:Section;}">
+        <Coords points="4434,909 4591,909 4591,1540 4434,1540 4434,909"/>
+        <Baseline points="4517,913 4522,1542"/>
+        <TextEquiv>
+          <Unicode>玉臺新詠序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109077" custom="structure {type:Page_Number;}">
+        <Coords points="4436,2845 4584,2845 4584,3028 4436,3028 4436,2845"/>
+        <Baseline points="4485,2854 4491,3029"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>玉臺新詠序
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117677" custom="structure {type:MainText_Right;}">
+      <Coords points="3840,911 4418,925 4418,3691 3807,3683 3840,911"/>
+      <TextLine id="1109072" custom="structure {type:Commentary;}">
+        <Coords points="4300,1031 4452,1031 4452,3641 4300,3641 4300,1031"/>
+        <Baseline points="4365,1035 4369,3643"/>
+        <TextEquiv>
+          <Unicode>（按）奇賞云繡口錦心又香又豔文士浪稱才情顧此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109073" custom="structure {type:Commentary;}">
+        <Coords points="4203,1038 4323,1038 4323,3657 4203,3657 4203,1038"/>
+        <Baseline points="4248,1041 4263,3659"/>
+        <TextEquiv>
+          <Unicode>應愧又齊云雲中彩鳳天上石麟即此一序驚才絕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109074" custom="structure {type:Commentary;}">
+        <Coords points="4108,1038 4216,1038 4216,3659 4108,3659 4108,1038"/>
+        <Baseline points="4161,3662 4165,1041"/>
+        <TextEquiv>
+          <Unicode>豔妙絕人寰序言傾國傾城無雙無對可謂自評其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109075" custom="structure {type:Commentary;}">
+        <Coords points="4022,1052 4117,1052 4117,3664 4009,3666 4022,1052"/>
+        <Baseline points="4059,3666 4066,1057"/>
+        <TextEquiv>
+          <Unicode>文序文舊有注今因徐笺中吳注有專刻玆不更</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109078" custom="structure {type:Text;}">
+        <Coords points="3892,1015 4019,1015 4022,1210 3892,1212 3892,1015"/>
+        <Baseline points="3959,1016 3959,1214"/>
+        <TextEquiv>
+          <Unicode>錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>（按）奇賞云繡口錦心又香又豔文士浪稱才情顧此
+應愧又齊云雲中彩鳳天上石麟即此一序驚才絕
+豔妙絕人寰序言傾國傾城無雙無對可謂自評其
+文序文舊有注今因徐笺中吳注有專刻玆不更
+錄
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117675" custom="structure {type:MainText_Left;}">
+      <Coords points="317,888 2347,888 2347,3682 317,3682 317,888"/>
+      <TextLine id="1109061" custom="structure {type:Text;}">
+        <Coords points="2143,916 2321,916 2321,3645 2143,3645 2143,916"/>
+        <Baseline points="2226,920 2235,3648"/>
+        <TextEquiv>
+          <Unicode>右玉臺新詠集十卷幼時至外家李氏於廢書中得之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109062" custom="structure {type:Text;}">
+        <Coords points="1927,897 2126,897 2125,3666 1937,3672 1927,897"/>
+        <Baseline points="2011,902 2029,2769 2048,3645"/>
+        <TextEquiv>
+          <Unicode>舊京本也宋已失一葉間復多錯謬版亦時有刓者欲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109063" custom="structure {type:Text;}">
+        <Coords points="1735,909 1920,909 1920,3676 1742,3666 1735,909"/>
+        <Baseline points="1821,913 1830,2748 1851,3652"/>
+        <TextEquiv>
+          <Unicode>求他本是正多不獲嘉定乙亥在會稽始從人借得豫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109064" custom="structure {type:Text;}">
+        <Coords points="1529,904 1717,904 1725,3669 1537,3672 1529,904"/>
+        <Baseline points="1620,909 1627,2489 1652,3645"/>
+        <TextEquiv>
+          <Unicode>章刻本財五巻蓋至刻者中徙故弗畢也又聞有得石</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109065" custom="structure {type:Text;}">
+        <Coords points="1328,920 1527,920 1527,3672 1342,3679 1328,920"/>
+        <Baseline points="1407,925 1444,3652"/>
+        <TextEquiv>
+          <Unicode>氏所藏録本者復求觀之以補亡校脫於是其書復全</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109066" custom="structure {type:Text;}">
+        <Coords points="1131,927 1323,927 1328,3679 1133,3676 1131,927"/>
+        <Baseline points="1212,932 1242,3662"/>
+        <TextEquiv>
+          <Unicode>可繕寫夫詩者情之發也征戍之勞苦室家之怨思動</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109067" custom="structure {type:Text;}">
+        <Coords points="923,916 1117,916 1116,3679 935,3686 923,916"/>
+        <Baseline points="1013,920 1046,3666"/>
+        <TextEquiv>
+          <Unicode>於中而形於言先王不能禁也豈惟不能禁且逆探其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109068" custom="structure {type:Text;}">
+        <Coords points="722,948 925,948 924,3683 733,3686 722,948"/>
+        <Baseline points="814,953 847,3668"/>
+        <TextEquiv>
+          <Unicode>情而著之東山杕杜之詩是矣若其他變風化雅謂豈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109069" custom="structure {type:Text;}">
+        <Coords points="520,923 729,923 729,3686 538,3689 520,923"/>
+        <Baseline points="604,927 648,3678"/>
+        <TextEquiv>
+          <Unicode>無膏沐誰適為容終朝采綠不盈一掬之類以此集揆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109070" custom="structure {type:Text;}">
+        <Coords points="319,936 527,936 531,3683 326,3689 319,936"/>
+        <Baseline points="411,941 446,3668"/>
+        <TextEquiv>
+          <Unicode>之語意未大異也顧其發乎情則同而止乎禮義者蓋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>右玉臺新詠集十卷幼時至外家李氏於廢書中得之
+舊京本也宋已失一葉間復多錯謬版亦時有刓者欲
+求他本是正多不獲嘉定乙亥在會稽始從人借得豫
+章刻本財五巻蓋至刻者中徙故弗畢也又聞有得石
+氏所藏録本者復求觀之以補亡校脫於是其書復全
+可繕寫夫詩者情之發也征戍之勞苦室家之怨思動
+於中而形於言先王不能禁也豈惟不能禁且逆探其
+情而著之東山杕杜之詩是矣若其他變風化雅謂豈
+無膏沐誰適為容終朝采綠不盈一掬之類以此集揆
+之語意未大異也顧其發乎情則同而止乎禮義者蓋
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117674" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="205,906 331,906 331,3682 205,3682 205,906"/>
+      <TextLine id="1109060" custom="structure {type:Section;}">
+        <Coords points="188,928 319,929 302,1765 201,1769 188,928"/>
+        <Baseline points="225,934 238,1782"/>
+        <TextEquiv>
+          <Unicode>玉臺新詠後序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109076" custom="structure {type:Page_Number;}">
+        <Coords points="201,2869 303,2870 303,3007 201,3030 201,2869"/>
+        <Baseline points="270,2877 279,3003"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>玉臺新詠後序
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

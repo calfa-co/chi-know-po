@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:58+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_13_97_0011.jpg" imageHeight="3102" imageWidth="3520">
+    <TextRegion id="116140" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3245,1152 3338,1152 3332,1701 3251,1710 3245,1152"/>
+      <TextLine id="1094539" custom="structure {type:Section;}">
+        <Coords points="3237,1137 3344,1137 3339,1701 3237,1692 3237,1137"/>
+        <Baseline points="3282,1142 3291,1693"/>
+        <TextEquiv>
+          <Unicode>經傳沿革例</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>經傳沿革例
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116139" custom="structure {type:MainText_Right;}">
+      <Coords points="1829,671 3255,671 3255,2634 1829,2634 1829,671"/>
+      <TextLine id="1094530" custom="structure {type:Text;}">
+        <Coords points="3073,784 3220,784 3220,2650 3073,2650 3073,784"/>
+        <Baseline points="3149,787 3155,2651"/>
+        <TextEquiv>
+          <Unicode>三字亦不可曉依疏云故本而說之意始明</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094531" custom="structure {type:Text;}">
+        <Coords points="2925,2631 2928,789 3059,789 3058,2631 2925,2631"/>
+        <Baseline points="2994,792 3002,2617"/>
+        <TextEquiv>
+          <Unicode>如詩角弓教猱升木註云若使之必也依疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094532" custom="structure {type:Text;}">
+        <Coords points="2778,784 2906,784 2906,1983 2778,1983 2778,784"/>
+        <Baseline points="2842,787 2847,1985"/>
+        <TextEquiv>
+          <Unicode>增一能字爲必能也意始明</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094533" custom="structure {type:Text;}">
+        <Coords points="2615,785 2747,785 2751,2631 2611,2633 2615,785"/>
+        <Baseline points="2678,789 2683,2617"/>
+        <TextEquiv>
+          <Unicode>如思齊神罔時怨神罔時恫笺云無是怨恚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094534" custom="structure {type:Text;}">
+        <Coords points="2452,772 2585,772 2590,2640 2454,2621 2452,772"/>
+        <Baseline points="2520,2616 2527,775"/>
+        <TextEquiv>
+          <Unicode>其所行者無是痛傷其所爲者諸本皆無其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094535" custom="structure {type:Text;}">
+        <Coords points="2299,784 2428,784 2428,2628 2302,2633 2299,784"/>
+        <Baseline points="2365,2609 2370,787"/>
+        <TextEquiv>
+          <Unicode>所為者四字惟建大字本有之及考疏則日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094536" custom="structure {type:Text;}">
+        <Coords points="2140,778 2273,778 2278,2640 2140,2626 2140,778"/>
+        <Baseline points="2206,782 2213,2617"/>
+        <TextEquiv>
+          <Unicode>神明無是怨恚女王其所行者神明無是痛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094537" custom="structure {type:Text;}">
+        <Coords points="1985,775 2115,775 2109,2640 1985,2623 1985,775"/>
+        <Baseline points="2051,778 2054,2616"/>
+        <TextEquiv>
+          <Unicode>傷文王其所爲者以此明笺女舊有其所爲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094538" custom="structure {type:Commentary;}">
+        <Coords points="1827,770 1958,770 1969,2628 1829,2619 1827,770"/>
+        <Baseline points="1891,773 1894,2617"/>
+        <TextEquiv>
+          <Unicode>者四字而諸本傳寫逸之也今從建大字本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>三字亦不可曉依疏云故本而說之意始明
+如詩角弓教猱升木註云若使之必也依疏
+增一能字爲必能也意始明
+如思齊神罔時怨神罔時恫笺云無是怨恚
+其所行者無是痛傷其所爲者諸本皆無其
+所為者四字惟建大字本有之及考疏則日
+神明無是怨恚女王其所行者神明無是痛
+傷文王其所爲者以此明笺女舊有其所爲
+者四字而諸本傳寫逸之也今從建大字本
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116138" custom="structure {type:MainText_Left;}">
+      <Coords points="275,698 1686,680 1702,2612 313,2629 275,698"/>
+      <TextLine id="1094510" custom="structure {type:Text;}">
+        <Coords points="1547,770 1678,770 1679,1879 1550,1877 1547,770"/>
+        <Baseline points="1615,773 1616,1866"/>
+        <TextEquiv>
+          <Unicode>意始明此類甚多不悉舉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094511" custom="structure {type:Commentary;}">
+        <Coords points="1457,901 1536,901 1550,2626 1471,2617 1457,901"/>
+        <Baseline points="1501,896 1515,2600"/>
+        <TextEquiv>
+          <Unicode>高宗彤日罔非天亂典無豐于暱註云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094512" custom="structure {type:Commentary;}">
+        <Coords points="1379,905 1456,903 1469,2627 1389,2631 1379,905"/>
+        <Baseline points="1415,904 1427,2609"/>
+        <TextEquiv>
+          <Unicode>無非天所嗣常也嗣之下合有一典字常</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094514" custom="structure {type:Commentary;}">
+        <Coords points="1298,903 1372,905 1385,2086 1305,2081 1298,903"/>
+        <Baseline points="1346,903 1351,2074"/>
+        <TextEquiv>
+          <Unicode>也寶訓典字也此寶傳寫之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094515" custom="structure {type:Commentary;}">
+        <Coords points="1227,912 1303,902 1308,2089 1231,2074 1227,912"/>
+        <Baseline points="1261,903 1268,2070"/>
+        <TextEquiv>
+          <Unicode>脫而疏義乃因之此不敢添</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094516" custom="structure {type:Commentary;}">
+        <Coords points="1148,907 1224,898 1242,2624 1157,2622 1148,907"/>
+        <Baseline points="1187,903 1198,2607"/>
+        <TextEquiv>
+          <Unicode>又洪範凡突厥庶民有猷有為有守註民戢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094517" custom="structure {type:Commentary;}">
+        <Coords points="1072,905 1151,898 1162,2617 1083,2626 1072,905"/>
+        <Baseline points="1110,901 1122,2607"/>
+        <TextEquiv>
+          <Unicode>有道戢字止是一或字傳寫誤做戢爾疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094518" custom="structure {type:Commentary;}">
+        <Coords points="988,898 1070,898 1073,1539 994,1551 988,898"/>
+        <Baseline points="1029,897 1034,1526"/>
+        <TextEquiv>
+          <Unicode>義疆釋作斂戢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094519" custom="structure {type:Commentary;}">
+        <Coords points="913,904 991,904 994,1553 919,1547 913,904"/>
+        <Baseline points="953,906 953,1514"/>
+        <TextEquiv>
+          <Unicode>之戢此不敢改</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094520" custom="structure {type:Commentary;}">
+        <Coords points="837,904 910,894 925,2621 847,2627 837,904"/>
+        <Baseline points="871,894 887,2618"/>
+        <TextEquiv>
+          <Unicode>顧命一人冕執銳銳寶鈗字也按說文以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094521" custom="structure {type:Commentary;}">
+        <Coords points="761,909 833,897 843,2626 772,2628 761,909"/>
+        <Baseline points="801,896 816,2620"/>
+        <TextEquiv>
+          <Unicode>爲兵器今註中釋爲矛屬而陸德明又音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094522" custom="structure {type:Commentary;}">
+        <Coords points="676,915 758,912 768,2626 692,2621 676,915"/>
+        <Baseline points="723,909 734,2616"/>
+        <TextEquiv>
+          <Unicode>以稅反且諸本皆作銳獨越中註疏於正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094523" custom="structure {type:Commentary;}">
+        <Coords points="602,903 674,900 693,2623 614,2633 602,903"/>
+        <Baseline points="643,886 654,2638"/>
+        <TextEquiv>
+          <Unicode>文作鈗爾疏中又皆作銳今只從眾作銳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094525" custom="structure {type:Commentary;}">
+        <Coords points="524,909 603,904 611,2622 536,2632 524,909"/>
+        <Baseline points="572,908 580,2624"/>
+        <TextEquiv>
+          <Unicode>中庸天命之謂性註云木金火水土之神</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094527" custom="structure {type:Commentary;}">
+        <Coords points="448,915 522,913 533,2627 461,2625 448,915"/>
+        <Baseline points="487,906 512,2624"/>
+        <TextEquiv>
+          <Unicode>水神宜曰知土神宜曰信乃誤以信為水</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094528" custom="structure {type:Commentary;}">
+        <Coords points="363,910 444,915 456,2631 387,2627 363,910"/>
+        <Baseline points="411,913 424,2609"/>
+        <TextEquiv>
+          <Unicode>神知爲土神而疏義又從而附會之亦不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094529" custom="structure {type:Commentary;}">
+        <Coords points="287,903 367,899 388,2627 312,2628 287,903"/>
+        <Baseline points="325,904 344,2628"/>
+        <TextEquiv>
+          <Unicode>敢改今按乾鑿度云水土二行兼信與知</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>意始明此類甚多不悉舉
+高宗彤日罔非天亂典無豐于暱註云
+無非天所嗣常也嗣之下合有一典字常
+也寶訓典字也此寶傳寫之
+脫而疏義乃因之此不敢添
+又洪範凡突厥庶民有猷有為有守註民戢
+有道戢字止是一或字傳寫誤做戢爾疏
+義疆釋作斂戢
+之戢此不敢改
+顧命一人冕執銳銳寶鈗字也按說文以
+爲兵器今註中釋爲矛屬而陸德明又音
+以稅反且諸本皆作銳獨越中註疏於正
+文作鈗爾疏中又皆作銳今只從眾作銳
+中庸天命之謂性註云木金火水土之神
+水神宜曰知土神宜曰信乃誤以信為水
+神知爲土神而疏義又從而附會之亦不
+敢改今按乾鑿度云水土二行兼信與知
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116137" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="206,1166 285,1166 312,2624 225,2644 206,1166"/>
+      <TextLine id="1094509" custom="structure {type:Section;}">
+        <Coords points="204,1151 284,1152 286,1681 210,1685 204,1151"/>
+        <Baseline points="236,1161 243,1682"/>
+        <TextEquiv>
+          <Unicode>經傳沿革例</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094540" custom="structure {type:Page_Number;}">
+        <Coords points="222,2035 300,2040 302,2163 222,2164 222,2035"/>
+        <Baseline points="263,2165 264,2038"/>
+        <TextEquiv>
+          <Unicode>六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1130533" custom="structure {type:Title;}">
+        <Coords points="231,2177 303,2167 310,2631 236,2635 231,2177"/>
+        <Baseline points="260,2174 266,2614"/>
+        <TextEquiv>
+          <Unicode>桐華館訂正本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>經傳沿革例
+六
+桐華館訂正本
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

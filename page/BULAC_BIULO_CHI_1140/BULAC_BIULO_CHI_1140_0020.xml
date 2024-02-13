@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:32+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0020.jpg" imageHeight="4578" imageWidth="2595">
+    <TextRegion id="79225" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2387,3550 2387,1770 2507,1770 2507,3550 2387,3550"/>
+      <TextLine id="869030" custom="structure {type:Page_Number;}">
+        <Coords points="2350,1798 2526,1798 2526,2049 2350,2049 2350,1798"/>
+        <Baseline points="2468,2052 2477,1804"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869031" custom="structure {type:Page_Number;}">
+        <Coords points="2381,3110 2546,3110 2546,3372 2381,3372 2381,3110"/>
+        <Baseline points="2458,3117 2463,3374"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷一
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79199" custom="structure {type:MainText;}">
+      <Coords points="104,4069 137,2256 153,990 2373,991 2363,4076 104,4069"/>
+      <TextLine id="867239" custom="structure {type:Text;}">
+        <Coords points="2159,1002 2383,1002 2383,4064 2159,4064 2159,1002"/>
+        <Baseline points="2276,4065 2296,1005"/>
+        <TextEquiv>
+          <Unicode>騰山冢崒崩高岸為谷深谷為陵小人握命君子陵遲白黑不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867240" custom="structure {type:Text;}">
+        <Coords points="1999,1004 2193,1004 2193,1775 1999,1775 1999,1004"/>
+        <Baseline points="2112,1009 2116,1777"/>
+        <TextEquiv>
+          <Unicode>別大亂之徵也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867241" custom="structure {type:Text;}">
+        <Coords points="1775,1002 2009,1002 2009,4064 1775,4064 1775,1002"/>
+        <Baseline points="1884,4065 1924,1005"/>
+        <TextEquiv>
+          <Unicode>援神契曰五嶽之神聖四瀆之精仁河者水之伯上應天漢太</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867242" custom="structure {type:Text;}">
+        <Coords points="1569,1002 1808,1002 1808,3934 1569,3934 1569,1002"/>
+        <Baseline points="1696,3937 1728,1005"/>
+        <TextEquiv>
+          <Unicode>山天帝孫也主召人魂東方萬物始成故知人生命之長短</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867243" custom="structure {type:Title;}">
+        <Coords points="1434,1253 1618,1253 1618,1772 1434,1772 1434,1253"/>
+        <Baseline points="1536,1257 1540,1773"/>
+        <TextEquiv>
+          <Unicode>五方人民</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867244" custom="structure {type:Text;}">
+        <Coords points="1213,989 1445,989 1445,2912 1213,2912 1213,989"/>
+        <Baseline points="1324,2914 1348,993"/>
+        <TextEquiv>
+          <Unicode>東方少陽日月所出山谷清其人佼好</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867245" custom="structure {type:Title;}">
+        <Coords points="1022,994 1254,994 1254,3553 1022,3553 1022,994"/>
+        <Baseline points="1136,3554 1160,997"/>
+        <TextEquiv>
+          <Unicode>西方少陰日月所入其土窈冥其人高鼻深目多毛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867246" custom="structure {type:Text;}">
+        <Coords points="852,996 1055,996 1055,2784 852,2784 852,996"/>
+        <Baseline points="952,2787 972,1001"/>
+        <TextEquiv>
+          <Unicode>南方太陽土下水淺其人大口多傲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867247" custom="structure {type:Text;}">
+        <Coords points="666,999 872,999 872,2777 666,2777 666,999"/>
+        <Baseline points="769,2779 785,1003"/>
+        <TextEquiv>
+          <Unicode>北方太陰土平廣深其人廣面縮頸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867248" custom="structure {type:Text;}">
+        <Coords points="473,991 684,991 684,2774 473,2774 473,991"/>
+        <Baseline points="569,2777 597,995"/>
+        <TextEquiv>
+          <Unicode>中央四析風雨交山谷峻其人端正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867249" custom="structure {type:Text;}">
+        <Coords points="272,994 513,994 513,4048 272,4048 272,994"/>
+        <Baseline points="377,4050 421,998"/>
+        <TextEquiv>
+          <Unicode>東南之人食水產西北之人食陸畜食水產者龜蛤螺蚌以為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867250" custom="structure {type:Text;}">
+        <Coords points="96,1004 307,1004 307,4054 96,4054 96,1004"/>
+        <Baseline points="201,4055 237,1008"/>
+        <TextEquiv>
+          <Unicode>珍味不覺其腥臊也食陸畜者貍兔鼠雀以為珍味不覺其膻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>騰山冢崒崩高岸為谷深谷為陵小人握命君子陵遲白黑不
+別大亂之徵也
+援神契曰五嶽之神聖四瀆之精仁河者水之伯上應天漢太
+山天帝孫也主召人魂東方萬物始成故知人生命之長短
+五方人民
+東方少陽日月所出山谷清其人佼好
+西方少陰日月所入其土窈冥其人高鼻深目多毛
+南方太陽土下水淺其人大口多傲
+北方太陰土平廣深其人廣面縮頸
+中央四析風雨交山谷峻其人端正
+東南之人食水產西北之人食陸畜食水產者龜蛤螺蚌以為
+珍味不覺其腥臊也食陸畜者貍兔鼠雀以為珍味不覺其膻
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79226" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2351,189 2351,93 2463,93 2463,189 2351,189"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

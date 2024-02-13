@@ -1,0 +1,457 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T16:51:38+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_C_III_5-7_01_01_0016.jpg" imageHeight="4589" imageWidth="5951">
+    <TextRegion id="116788" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5359,1986 5359,1515 5500,1515 5500,1986 5359,1986"/>
+      <TextLine id="1231408" custom="structure {type:Title;}">
+        <Coords points="5362,882 5550,882 5550,1442 5362,1442 5362,882"/>
+        <Baseline points="5428,885 5432,1445"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100339" custom="structure {type:Section;}">
+        <Coords points="5344,1621 5558,1621 5558,2011 5344,2011 5344,1621"/>
+        <Baseline points="5447,1623 5447,2013"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231407" custom="structure {type:Page_Number;}">
+        <Coords points="5395,3263 5578,3263 5578,3416 5395,3416 5395,3263"/>
+        <Baseline points="5444,3273 5452,3417"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+目錄
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116787" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="3253,4105 3253,903 5366,903 5366,4105 3253,4105"/>
+      <TextLine id="1100279" custom="structure {type:Title;}">
+        <Coords points="5168,1152 5346,1152 5346,1448 5168,1448 5168,1152"/>
+        <Baseline points="5258,1158 5285,1448"/>
+        <TextEquiv>
+          <Unicode>冬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100280" custom="structure {type:Title;}">
+        <Coords points="4948,984 5140,984 5140,1414 4948,1414 4948,984"/>
+        <Baseline points="5043,990 5063,1414"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100281" custom="structure {type:Title;}">
+        <Coords points="4971,1514 5155,1514 5155,2105 4971,2105 4971,1514"/>
+        <Baseline points="5063,1522 5083,2107"/>
+        <TextEquiv>
+          <Unicode>歳時中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100282" custom="structure {type:Title;}">
+        <Coords points="4752,1198 4948,1198 4948,1603 4752,1603 4752,1198"/>
+        <Baseline points="4848,1199 4875,1602"/>
+        <TextEquiv>
+          <Unicode>元日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100283" custom="structure {type:Title;}">
+        <Coords points="4765,2113 4933,2113 4933,2572 4765,2572 4765,2113"/>
+        <Baseline points="4861,2120 4888,2571"/>
+        <TextEquiv>
+          <Unicode>人日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100284" custom="structure {type:Title;}">
+        <Coords points="4770,3092 4946,3092 4946,4002 4770,4002 4770,3092"/>
+        <Baseline points="4861,4004 4875,3096"/>
+        <TextEquiv>
+          <Unicode>正月十五日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100299" custom="structure {type:Title;}">
+        <Coords points="4533,1134 4724,1134 4724,1669 4533,1669 4533,1134"/>
+        <Baseline points="4626,1138 4646,1670"/>
+        <TextEquiv>
+          <Unicode>月晦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100300" custom="structure {type:Title;}">
+        <Coords points="4543,2110 4744,2110 4744,2590 4543,2590 4543,2110"/>
+        <Baseline points="4646,2114 4673,2591"/>
+        <TextEquiv>
+          <Unicode>寒食</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100301" custom="structure {type:Title;}">
+        <Coords points="4561,3077 4729,3077 4729,3867 4561,3867 4561,3077"/>
+        <Baseline points="4659,3082 4673,3869"/>
+        <TextEquiv>
+          <Unicode>三月三日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100302" custom="structure {type:Title;}">
+        <Coords points="4342,1182 4505,1182 4505,1957 4342,1957 4342,1182"/>
+        <Baseline points="4444,1185 4444,1959"/>
+        <TextEquiv>
+          <Unicode>五月五日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100303" custom="structure {type:Title;}">
+        <Coords points="4342,2133 4541,2133 4541,2878 4342,2878 4342,2133"/>
+        <Baseline points="4437,2141 4485,2874"/>
+        <TextEquiv>
+          <Unicode>七月七日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100304" custom="structure {type:Title;}">
+        <Coords points="4311,3044 4533,3044 4533,4015 4311,4015 4311,3044"/>
+        <Baseline points="4471,3049 4485,4017"/>
+        <TextEquiv>
+          <Unicode>七月十五日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100305" custom="structure {type:Title;}">
+        <Coords points="4133,1154 4321,1154 4321,1957 4133,1957 4133,1154"/>
+        <Baseline points="4236,1959 4242,1158"/>
+        <TextEquiv>
+          <Unicode>九月九日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100306" custom="structure {type:Title;}">
+        <Coords points="3921,978 4120,978 4120,1460 3921,1460 3921,978"/>
+        <Baseline points="4027,983 4034,1461"/>
+        <TextEquiv>
+          <Unicode>卷五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100307" custom="structure {type:Title;}">
+        <Coords points="3931,1516 4120,1516 4120,2087 3931,2087 3931,1516"/>
+        <Baseline points="4020,1522 4047,2087"/>
+        <TextEquiv>
+          <Unicode>歳時下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100308" custom="structure {type:Title;}">
+        <Coords points="3702,1165 3890,1165 3890,1478 3702,1478 3702,1165"/>
+        <Baseline points="3812,1481 3839,1172"/>
+        <TextEquiv>
+          <Unicode>社</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100309" custom="structure {type:Title;}">
+        <Coords points="3727,2156 3908,2156 3908,2529 3727,2529 3727,2156"/>
+        <Baseline points="3832,2161 3839,2531"/>
+        <TextEquiv>
+          <Unicode>伏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100310" custom="structure {type:Title;}">
+        <Coords points="3722,3084 3916,3084 3916,3436 3722,3436 3722,3084"/>
+        <Baseline points="3832,3439 3845,3089"/>
+        <TextEquiv>
+          <Unicode>熱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100311" custom="structure {type:Title;}">
+        <Coords points="3505,1165 3697,1165 3697,1491 3505,1491 3505,1165"/>
+        <Baseline points="3590,1172 3630,1488"/>
+        <TextEquiv>
+          <Unicode>寒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100312" custom="structure {type:Title;}">
+        <Coords points="3513,2151 3704,2151 3704,2455 3513,2455 3513,2151"/>
+        <Baseline points="3617,2154 3617,2457"/>
+        <TextEquiv>
+          <Unicode>臘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100313" custom="structure {type:Title;}">
+        <Coords points="3467,3061 3691,3061 3691,3383 3467,3383 3467,3061"/>
+        <Baseline points="3596,3385 3630,3082"/>
+        <TextEquiv>
+          <Unicode>律</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100314" custom="structure {type:Title;}">
+        <Coords points="3276,1159 3487,1159 3487,1509 3276,1509 3276,1159"/>
+        <Baseline points="3381,1165 3401,1508"/>
+        <TextEquiv>
+          <Unicode>厯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>冬
+卷四
+歳時中
+元日
+人日
+正月十五日
+月晦
+寒食
+三月三日
+五月五日
+七月七日
+七月十五日
+九月九日
+卷五
+歳時下
+社
+伏
+熱
+寒
+臘
+律
+厯
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116789" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="333,4125 333,936 2419,936 2419,4125 333,4125"/>
+      <TextLine id="1100315" custom="structure {type:Title;}">
+        <Coords points="2215,1029 2406,1029 2406,1453 2215,1453 2215,1029"/>
+        <Baseline points="2318,1031 2318,1454"/>
+        <TextEquiv>
+          <Unicode>卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100316" custom="structure {type:Title;}">
+        <Coords points="2210,1537 2401,1537 2401,2003 2210,2003 2210,1537"/>
+        <Baseline points="2311,2006 2325,1542"/>
+        <TextEquiv>
+          <Unicode>地部</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100317" custom="structure {type:Title;}">
+        <Coords points="2004,1218 2187,1218 2187,1473 2004,1473 2004,1218"/>
+        <Baseline points="2083,1219 2083,1475"/>
+        <TextEquiv>
+          <Unicode>地</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100318" custom="structure {type:Title;}">
+        <Coords points="2004,2205 2190,2205 2190,2503 2004,2503 2004,2205"/>
+        <Baseline points="2103,2208 2110,2504"/>
+        <TextEquiv>
+          <Unicode>野</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100319" custom="structure {type:Title;}">
+        <Coords points="2009,3146 2185,3146 2185,3418 2009,3418 2009,3146"/>
+        <Baseline points="2083,3419 2089,3150"/>
+        <TextEquiv>
+          <Unicode>關</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100320" custom="structure {type:Title;}">
+        <Coords points="1779,1208 1976,1208 1976,1486 1779,1486 1779,1208"/>
+        <Baseline points="1914,1212 1921,1488"/>
+        <TextEquiv>
+          <Unicode>岡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100321" custom="structure {type:Title;}">
+        <Coords points="1784,2187 1981,2187 1981,2508 1784,2508 1784,2187"/>
+        <Baseline points="1901,2188 1901,2511"/>
+        <TextEquiv>
+          <Unicode>巖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100322" custom="structure {type:Title;}">
+        <Coords points="1792,3138 1988,3138 1988,3451 1792,3451 1792,3138"/>
+        <Baseline points="1888,3452 1894,3143"/>
+        <TextEquiv>
+          <Unicode>峽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100323" custom="structure {type:Title;}">
+        <Coords points="1573,1231 1756,1231 1756,1514 1573,1514 1573,1231"/>
+        <Baseline points="1699,1232 1699,1515"/>
+        <TextEquiv>
+          <Unicode>石</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100324" custom="structure {type:Title;}">
+        <Coords points="1565,2189 1761,2189 1761,2549 1565,2549 1565,2189"/>
+        <Baseline points="1679,2551 1686,2194"/>
+        <TextEquiv>
+          <Unicode>塵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100325" custom="structure {type:Title;}">
+        <Coords points="1364,1491 1560,1491 1560,2031 1364,2031 1364,1491"/>
+        <Baseline points="1477,1495 1484,2033"/>
+        <TextEquiv>
+          <Unicode>州部</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100326" custom="structure {type:Title;}">
+        <Coords points="1149,1167 1348,1167 1348,1715 1149,1715 1149,1167"/>
+        <Baseline points="1235,1172 1255,1717"/>
+        <TextEquiv>
+          <Unicode>冀州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100327" custom="structure {type:Title;}">
+        <Coords points="1149,2177 1348,2177 1348,2671 1149,2671 1149,2177"/>
+        <Baseline points="1275,2672 1282,2181"/>
+        <TextEquiv>
+          <Unicode>揚州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100328" custom="structure {type:Title;}">
+        <Coords points="1152,3133 1341,3133 1341,3612 1152,3612 1152,3133"/>
+        <Baseline points="1248,3614 1262,3136"/>
+        <TextEquiv>
+          <Unicode>荊州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100329" custom="structure {type:Title;}">
+        <Coords points="945,1188 1137,1188 1137,1646 945,1646 945,1188"/>
+        <Baseline points="1067,1192 1074,1649"/>
+        <TextEquiv>
+          <Unicode>青州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100330" custom="structure {type:Title;}">
+        <Coords points="943,2184 1142,2184 1142,2615 943,2615 943,2184"/>
+        <Baseline points="1053,2618 1060,2188"/>
+        <TextEquiv>
+          <Unicode>徐州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100331" custom="structure {type:Title;}">
+        <Coords points="948,3158 1144,3158 1144,3604 948,3604 948,3158"/>
+        <Baseline points="1053,3163 1067,3607"/>
+        <TextEquiv>
+          <Unicode>兗州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100332" custom="structure {type:Title;}">
+        <Coords points="744,1203 930,1203 930,1634 744,1634 744,1203"/>
+        <Baseline points="865,1205 865,1636"/>
+        <TextEquiv>
+          <Unicode>豫州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100333" custom="structure {type:Title;}">
+        <Coords points="739,2192 920,2192 920,2643 739,2643 739,2192"/>
+        <Baseline points="851,2194 851,2645"/>
+        <TextEquiv>
+          <Unicode>雍州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100334" custom="structure {type:Title;}">
+        <Coords points="741,3138 922,3138 922,3599 741,3599 741,3138"/>
+        <Baseline points="840,3600 845,3143"/>
+        <TextEquiv>
+          <Unicode>益州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100335" custom="structure {type:Title;}">
+        <Coords points="532,1216 724,1216 724,1654 532,1654 532,1216"/>
+        <Baseline points="650,1656 656,1219"/>
+        <TextEquiv>
+          <Unicode>幽州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100336" custom="structure {type:Title;}">
+        <Coords points="527,2197 706,2197 706,2643 527,2643 527,2197"/>
+        <Baseline points="636,2201 656,2645"/>
+        <TextEquiv>
+          <Unicode>并州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100337" custom="structure {type:Title;}">
+        <Coords points="525,3128 711,3128 711,3584 525,3584 525,3128"/>
+        <Baseline points="643,3587 683,3136"/>
+        <TextEquiv>
+          <Unicode>交州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100338" custom="structure {type:Title;}">
+        <Coords points="400,1537 522,1537 522,1998 400,1998 400,1537"/>
+        <Baseline points="434,1542 448,1999"/>
+        <TextEquiv>
+          <Unicode>郡部</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷六
+地部
+地
+野
+關
+岡
+巖
+峽
+石
+塵
+州部
+冀州
+揚州
+荊州
+青州
+徐州
+兗州
+豫州
+雍州
+益州
+幽州
+并州
+交州
+郡部
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116790" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="219,4165 219,936 333,936 333,4165 219,4165"/>
+      <TextLine id="1100340" custom="structure {type:Title;}">
+        <Coords points="117,920 372,920 372,1460 117,1460 117,920"/>
+        <Baseline points="273,923 286,1461"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100341" custom="structure {type:Section;}">
+        <Coords points="99,1708 328,1708 328,2090 99,2090 99,1708"/>
+        <Baseline points="266,2093 280,1717"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231409" custom="structure {type:Page_Number;}">
+        <Coords points="198,3339 303,3339 303,3497 198,3497 198,3339"/>
+        <Baseline points="263,3341 263,3500"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100342" custom="structure {type:Marginalia;}">
+        <Coords points="186,3431 400,3431 400,4216 186,4216 186,3431"/>
+        <Baseline points="280,3432 293,4219"/>
+        <TextEquiv>
+          <Unicode>宏達堂校梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+目錄
+二
+宏達堂校梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

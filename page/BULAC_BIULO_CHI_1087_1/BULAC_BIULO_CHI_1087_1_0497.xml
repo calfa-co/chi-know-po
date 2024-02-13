@@ -1,0 +1,291 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:35+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0497.jpg" imageHeight="4948" imageWidth="2890">
+    <TextRegion id="80206" custom="structure {type:MainText;}">
+      <Coords points="201,1403 2573,1389 2589,4336 221,4342 201,1403"/>
+      <TextLine id="875774" custom="structure {type:Title;}">
+        <Coords points="2353,1401 2576,1401 2576,2619 2353,2619 2353,1401"/>
+        <Baseline points="2478,1406 2485,2620"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第三十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875775" custom="structure {type:Title;}">
+        <Coords points="2392,2993 2571,2993 2571,3540 2392,3540 2392,2993"/>
+        <Baseline points="2492,2997 2499,3542"/>
+        <TextEquiv>
+          <Unicode>政術部十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875776" custom="structure {type:Author_name;}">
+        <Coords points="2191,2647 2397,2647 2397,4098 2191,4098 2191,2647"/>
+        <Baseline points="2293,2651 2304,4101"/>
+        <TextEquiv>
+          <Unicode>隋秘書郎虞世南撰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875777" custom="structure {type:Author_name;}">
+        <Coords points="1996,2660 2208,2660 2208,4117 1996,4117 1996,2660"/>
+        <Baseline points="2092,2665 2108,4118"/>
+        <TextEquiv>
+          <Unicode>南海孔廣陶校注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875778" custom="structure {type:Title;}">
+        <Coords points="1798,1641 1985,1641 1985,2333 1798,2333 1798,1641"/>
+        <Baseline points="1876,1645 1886,2334"/>
+        <TextEquiv>
+          <Unicode>清淨二十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875779" custom="structure {type:Title;}">
+        <Coords points="1806,2996 1988,2996 1988,3678 1806,3678 1806,2996"/>
+        <Baseline points="1903,3680 1907,3000"/>
+        <TextEquiv>
+          <Unicode>明察二十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875780" custom="structure {type:Title;}">
+        <Coords points="1597,1643 1790,1643 1790,2333 1597,2333 1597,1643"/>
+        <Baseline points="1688,1645 1688,2334"/>
+        <TextEquiv>
+          <Unicode>威嚴二十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875781" custom="structure {type:Title;}">
+        <Coords points="1600,2990 1801,2990 1801,3691 1600,3691 1600,2990"/>
+        <Baseline points="1705,2994 1725,3693"/>
+        <TextEquiv>
+          <Unicode>疾惡二十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875782" custom="structure {type:Title;}">
+        <Coords points="1391,1646 1583,1646 1583,2339 1391,2339 1391,1646"/>
+        <Baseline points="1490,2341 1493,1652"/>
+        <TextEquiv>
+          <Unicode>勤官二十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875783" custom="structure {type:Title;}">
+        <Coords points="1405,2996 1603,2996 1603,3680 1405,3680 1405,2996"/>
+        <Baseline points="1500,2997 1500,3683"/>
+        <TextEquiv>
+          <Unicode>稱職二十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875784" custom="structure {type:Title;}">
+        <Coords points="1185,1641 1391,1641 1391,2212 1185,2212 1185,1641"/>
+        <Baseline points="1284,1645 1298,2213"/>
+        <TextEquiv>
+          <Unicode>守職三十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875785" custom="structure {type:Text;}">
+        <Coords points="1000,1778 1182,1778 1182,2490 1000,2490 1000,1778"/>
+        <Baseline points="1103,1783 1120,2492"/>
+        <TextEquiv>
+          <Unicode>清淨二十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875786" custom="structure {type:Text;}">
+        <Coords points="805,1401 984,1401 984,1932 805,1932 805,1401"/>
+        <Baseline points="881,1409 901,1931"/>
+        <TextEquiv>
+          <Unicode>治貴清淨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875787" custom="structure {type:Commentary;}">
+        <Coords points="882,1924 1028,1924 1028,3782 882,3782 882,1924"/>
+        <Baseline points="951,1927 958,3785"/>
+        <TextEquiv>
+          <Unicode>漢書曹參相齊召長老問所以安百</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875788" custom="structure {type:Commentary;}">
+        <Coords points="797,1948 918,1948 924,3808 796,3804 797,1948"/>
+        <Baseline points="840,1954 864,3801"/>
+        <TextEquiv>
+          <Unicode>姓○今案漢書卷三十九曹參傳同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875789" custom="structure {type:Text;}">
+        <Coords points="802,3809 995,3809 995,4337 802,4337 802,3809"/>
+        <Baseline points="901,3814 914,4339"/>
+        <TextEquiv>
+          <Unicode>理民好靜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875790" custom="structure {type:Commentary;}">
+        <Coords points="681,1399 797,1399 797,3133 681,3133 681,1399"/>
+        <Baseline points="743,1403 750,3136"/>
+        <TextEquiv>
+          <Unicode>史記汲黯云○今案汲黯傳云黯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875791" custom="structure {type:Commentary;}">
+        <Coords points="588,1404 709,1404 708,3028 588,3024 588,1404"/>
+        <Baseline points="632,1410 649,3001"/>
+        <TextEquiv>
+          <Unicode>學黃老之言治官理民好清靜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875792" custom="structure {type:Text;}">
+        <Coords points="599,3125 797,3125 797,3669 599,3669 599,3125"/>
+        <Baseline points="689,3129 706,3671"/>
+        <TextEquiv>
+          <Unicode>清淨少欲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875793" custom="structure {type:Commentary;}">
+        <Coords points="687,3669 824,3669 824,4329 687,4329 687,3669"/>
+        <Baseline points="760,3674 763,4330"/>
+        <TextEquiv>
+          <Unicode>東觀漢記甄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875794" custom="structure {type:Commentary;}">
+        <Coords points="599,3669 714,3669 714,4332 599,4332 599,3669"/>
+        <Baseline points="652,3674 662,4333"/>
+        <TextEquiv>
+          <Unicode>宇○孫氏校</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875795" custom="structure {type:Commentary;}">
+        <Coords points="472,1399 588,1399 588,2864 472,2864 472,1399"/>
+        <Baseline points="538,1403 551,2866"/>
+        <TextEquiv>
+          <Unicode>卻改欲今案聚珍本姚輯本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875796" custom="structure {type:Commentary;}">
+        <Coords points="360,1401 505,1401 505,2740 360,2740 360,1401"/>
+        <Baseline points="437,1406 450,2741"/>
+        <TextEquiv>
+          <Unicode>東觀記卷十六甄宇傳同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875797" custom="structure {type:Text;}">
+        <Coords points="393,2845 593,2845 593,3675 393,3675 393,2845"/>
+        <Baseline points="491,2852 511,3676"/>
+        <TextEquiv>
+          <Unicode>曹參為相不事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875798" custom="structure {type:Commentary;}">
+        <Coords points="483,3669 604,3669 604,4329 483,4329 483,3669"/>
+        <Baseline points="548,3673 565,4332"/>
+        <TextEquiv>
+          <Unicode>漢記○今案</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875799" custom="structure {type:Commentary;}">
+        <Coords points="404,3672 511,3672 511,4337 404,4337 404,3672"/>
+        <Baseline points="457,3676 464,4339"/>
+        <TextEquiv>
+          <Unicode>陳本改引漢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875800" custom="structure {type:Commentary;}">
+        <Coords points="283,1404 387,1404 387,2872 283,2872 283,1404"/>
+        <Baseline points="339,1409 356,2873"/>
+        <TextEquiv>
+          <Unicode>書曹參傳考明本前漢紀卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875850" custom="structure {type:Commentary;}">
+        <Coords points="164,1407 302,1407 302,2864 164,2864 164,1407"/>
+        <Baseline points="240,1412 257,2866"/>
+        <TextEquiv>
+          <Unicode>五有云曹參為相不治政事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875851" custom="structure {type:Text;}">
+        <Coords points="151,2869 398,2869 398,3952 151,3952 151,2869"/>
+        <Baseline points="302,3955 311,2875"/>
+        <TextEquiv>
+          <Unicode>王丞相未令不看事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875852" custom="structure {type:Commentary;}">
+        <Coords points="288,3936 398,3936 400,4344 288,4332 288,3936"/>
+        <Baseline points="350,3941 359,4323"/>
+        <TextEquiv>
+          <Unicode>郭子云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="875853" custom="structure {type:Commentary;}">
+        <Coords points="173,3958 305,3958 305,4332 173,4332 173,3958"/>
+        <Baseline points="260,3961 260,4334"/>
+        <TextEquiv>
+          <Unicode>○今案</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷第三十六
+政術部十
+隋秘書郎虞世南撰
+南海孔廣陶校注
+清淨二十四
+明察二十五
+威嚴二十六
+疾惡二十七
+勤官二十八
+稱職二十九
+守職三十
+清淨二十四
+治貴清淨
+漢書曹參相齊召長老問所以安百
+姓○今案漢書卷三十九曹參傳同
+理民好靜
+史記汲黯云○今案汲黯傳云黯
+學黃老之言治官理民好清靜
+清淨少欲
+東觀漢記甄
+宇○孫氏校
+卻改欲今案聚珍本姚輯本
+東觀記卷十六甄宇傳同
+曹參為相不事
+漢記○今案
+陳本改引漢
+書曹參傳考明本前漢紀卷
+五有云曹參為相不治政事
+王丞相未令不看事
+郭子云
+○今案
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80207" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="109,2056 187,2053 204,3637 109,3637 109,2056"/>
+      <TextLine id="1017497" custom="structure {type:Section;}">
+        <Coords points="60,2075 192,2075 192,2869 60,2869 60,2075"/>
+        <Baseline points="129,2870 140,2080"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第三十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1017498" custom="structure {type:Page_Number;}">
+        <Coords points="57,3460 189,3460 189,3617 57,3617 57,3460"/>
+        <Baseline points="153,3620 156,3469"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷第三十六
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80270" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="171,150 264,146 264,274 168,277 171,150"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

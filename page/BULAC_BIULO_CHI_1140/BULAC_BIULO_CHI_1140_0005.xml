@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:21+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0005.jpg" imageHeight="4541" imageWidth="2602">
+    <TextRegion id="79191" custom="structure {type:MainText;}">
+      <Coords points="1275,2883 1470,2892 1465,4036 2235,4041 2221,1501 2392,1491 2392,954 1270,963 1275,2883"/>
+      <TextLine id="867170" custom="structure {type:Text;}">
+        <Coords points="2205,958 2405,958 2405,1478 2205,1478 2205,958"/>
+        <Baseline points="2311,960 2311,1480"/>
+        <TextEquiv>
+          <Unicode>博物志敘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867171" custom="structure {type:Text;}">
+        <Coords points="2019,961 2228,961 2228,4011 2019,4011 2019,961"/>
+        <Baseline points="2111,964 2127,4012"/>
+        <TextEquiv>
+          <Unicode>史稱張華讀書三十車作博物志四百武帝以為繁存十卷今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867172" custom="structure {type:Text;}">
+        <Coords points="1827,966 2039,966 2039,4016 1827,4016 1827,966"/>
+        <Baseline points="1924,971 1952,4018"/>
+        <TextEquiv>
+          <Unicode>讀其書雖多奇聞異事而簡略不成大觀豈書傳既久殘闕處</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867173" custom="structure {type:Text;}">
+        <Coords points="1637,966 1857,966 1857,4021 1637,4021 1637,966"/>
+        <Baseline points="1732,971 1768,4022"/>
+        <TextEquiv>
+          <Unicode>多耶抑或繁非能博博不在繁耶辨龍鮓識劍氣定有一段不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867174" custom="structure {type:Text;}">
+        <Coords points="1463,963 1660,963 1660,4021 1463,4021 1463,963"/>
+        <Baseline points="1572,967 1576,4022"/>
+        <TextEquiv>
+          <Unicode>經人見之學問附於書以傳一讀再讀令人悔武帝之芟除而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867175" custom="structure {type:Text;}">
+        <Coords points="1249,968 1473,968 1473,2870 1249,2870 1249,968"/>
+        <Baseline points="1380,971 1384,2871"/>
+        <TextEquiv>
+          <Unicode>思有以覩其全也錢塘唐琳玉林父識</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>博物志敘
+史稱張華讀書三十車作博物志四百武帝以為繁存十卷今
+讀其書雖多奇聞異事而簡略不成大觀豈書傳既久殘闕處
+多耶抑或繁非能博博不在繁耶辨龍鮓識劍氣定有一段不
+經人見之學問附於書以傳一讀再讀令人悔武帝之芟除而
+思有以覩其全也錢塘唐琳玉林父識
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79209" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="85,3513 80,1720 166,1729 176,3508 85,3513"/>
+      <TextLine id="869011" custom="structure {type:Title;}">
+        <Coords points="37,2283 211,2283 211,2918 37,2918 37,2283"/>
+        <Baseline points="106,2287 119,2919"/>
+        <TextEquiv>
+          <Unicode>博物志敘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869012" custom="structure {type:Page_Number;}">
+        <Coords points="37,3133 164,3133 164,3261 37,3261 37,3133"/>
+        <Baseline points="116,3135 116,3262"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>博物志敘
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79210" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="148,259 148,135 248,135 248,259 148,259"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

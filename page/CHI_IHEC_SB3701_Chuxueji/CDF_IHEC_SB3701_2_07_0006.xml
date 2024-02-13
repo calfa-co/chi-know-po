@@ -1,0 +1,425 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:24+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB3701_2_07_0006.jpg" imageHeight="4670" imageWidth="5682">
+    <TextRegion id="121049" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5395,865 5514,859 5525,4174 5440,4185 5395,865"/>
+      <TextLine id="1138861" custom="structure {type:Marginalia;}">
+        <Coords points="5417,830 5570,830 5570,1333 5417,1333 5417,830"/>
+        <Baseline points="5493,832 5493,1336"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138862" custom="structure {type:Section;}">
+        <Coords points="5391,1810 5567,1810 5567,2443 5391,2443 5391,1810"/>
+        <Baseline points="5464,1812 5478,2444"/>
+        <TextEquiv>
+          <Unicode>初學記卷十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138863" custom="structure {type:Page_Number;}">
+        <Coords points="5430,3105 5536,3105 5536,3294 5430,3294 5430,3105"/>
+        <Baseline points="5478,3110 5481,3295"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷十七
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121050" custom="structure {type:MainText_Right;}">
+      <Coords points="2871,885 5355,866 5436,4182 2943,4224 2871,885"/>
+      <TextLine id="1138864" custom="structure {type:Text;}">
+        <Coords points="5137,832 5409,832 5409,3051 5137,3051 5137,832"/>
+        <Baseline points="5260,836 5288,3053"/>
+        <TextEquiv>
+          <Unicode>如天地之無不持載無不覆燾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138865" custom="structure {type:Commentary;}">
+        <Coords points="5246,3051 5414,3051 5414,3333 5246,3333 5246,3051"/>
+        <Baseline points="5331,3053 5331,3334"/>
+        <TextEquiv>
+          <Unicode>徒到</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138866" custom="structure {type:Commentary;}">
+        <Coords points="5142,3009 5282,3009 5282,3245 5142,3245 5142,3009"/>
+        <Baseline points="5198,3010 5198,3248"/>
+        <TextEquiv>
+          <Unicode>反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138867" custom="structure {type:Text;}">
+        <Coords points="5131,3328 5412,3328 5412,4153 5131,4153 5131,3328"/>
+        <Baseline points="5241,3334 5279,4152"/>
+        <TextEquiv>
+          <Unicode>如四時之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138868" custom="structure {type:Text;}">
+        <Coords points="4867,843 5134,843 5134,4164 4867,4164 4867,843"/>
+        <Baseline points="4988,846 5031,4166"/>
+        <TextEquiv>
+          <Unicode>錯行如日月之代明家語曰昔哀公問何謂聖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138869" custom="structure {type:Text;}">
+        <Coords points="4579,843 4862,843 4862,4184 4579,4184 4579,843"/>
+        <Baseline points="4722,846 4755,4185"/>
+        <TextEquiv>
+          <Unicode>人孔子對曰所謂聖人者智通乎大道應變而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138870" custom="structure {type:Text;}">
+        <Coords points="4325,832 4579,832 4579,4184 4325,4184 4325,832"/>
+        <Baseline points="4460,4185 4465,836"/>
+        <TextEquiv>
+          <Unicode>不窮測物之情性者也六韜曰夫聖人者與天</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138871" custom="structure {type:Text;}">
+        <Coords points="4037,848 4322,848 4322,4213 4037,4213 4037,848"/>
+        <Baseline points="4165,851 4208,4214"/>
+        <TextEquiv>
+          <Unicode>下之人皆安樂管子曰聖人若天然無私覆也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138872" custom="structure {type:Text;}">
+        <Coords points="3741,827 4034,827 4034,4208 3741,4208 3741,827"/>
+        <Baseline points="3870,832 3927,4209"/>
+        <TextEquiv>
+          <Unicode>若地然無私載也私者亂天下也老子曰聖人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138873" custom="structure {type:Text;}">
+        <Coords points="3479,850 3756,850 3756,4197 3479,4197 3479,850"/>
+        <Baseline points="3604,855 3651,4200"/>
+        <TextEquiv>
+          <Unicode>無常心以百姓心為心善者吾善之不善者吾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138874" custom="structure {type:Text;}">
+        <Coords points="3209,843 3471,843 3471,4208 3209,4208 3209,843"/>
+        <Baseline points="3337,846 3356,4209"/>
+        <TextEquiv>
+          <Unicode>亦善之莊子曰夫卜梁倚者有聖人之才而無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138875" custom="structure {type:Text;}">
+        <Coords points="2916,848 3204,848 3204,4231 2916,4231 2916,848"/>
+        <Baseline points="3042,851 3080,4233"/>
+        <TextEquiv>
+          <Unicode>聖人之道我有聖人之道而無聖人之才吾教</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>如天地之無不持載無不覆燾
+徒到
+反
+如四時之
+錯行如日月之代明家語曰昔哀公問何謂聖
+人孔子對曰所謂聖人者智通乎大道應變而
+不窮測物之情性者也六韜曰夫聖人者與天
+下之人皆安樂管子曰聖人若天然無私覆也
+若地然無私載也私者亂天下也老子曰聖人
+無常心以百姓心為心善者吾善之不善者吾
+亦善之莊子曰夫卜梁倚者有聖人之才而無
+聖人之道我有聖人之道而無聖人之才吾教
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121051" custom="structure {type:MainText_Left;}">
+      <Coords points="307,904 2785,880 2828,4177 307,4191 307,904"/>
+      <TextLine id="1138876" custom="structure {type:Text;}">
+        <Coords points="2527,861 2778,861 2778,4208 2527,4208 2527,861"/>
+        <Baseline points="2643,865 2667,4209"/>
+        <TextEquiv>
+          <Unicode>之其果為聖人也孫卿子曰天下無二道聖人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138877" custom="structure {type:Text;}">
+        <Coords points="2236,827 2506,827 2506,4192 2236,4192 2236,827"/>
+        <Baseline points="2376,4195 2386,832"/>
+        <TextEquiv>
+          <Unicode>者天下利器也說苑曰聖人之於百姓其猶赤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138878" custom="structure {type:Text;}">
+        <Coords points="1964,874 2228,874 2228,4213 1964,4213 1964,874"/>
+        <Baseline points="2086,879 2119,4214"/>
+        <TextEquiv>
+          <Unicode>子乎餒者食之寒者衣之將之養之育之長之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138879" custom="structure {type:Text;}">
+        <Coords points="1689,843 1953,843 1953,2296 1689,2296 1689,843"/>
+        <Baseline points="1834,846 1843,2297"/>
+        <TextEquiv>
+          <Unicode>唯恐其不至於大也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138880" custom="structure {type:Title;}">
+        <Coords points="1785,2319 1992,2319 1992,2747 1785,2747 1785,2319"/>
+        <Baseline points="1820,2325 1829,2749"/>
+        <TextEquiv>
+          <Unicode>事對</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138881" custom="structure {type:Text;}">
+        <Coords points="1704,2776 1945,2776 1945,3175 1704,3175 1704,2776"/>
+        <Baseline points="1820,2782 1834,3177"/>
+        <TextEquiv>
+          <Unicode>受圖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138882" custom="structure {type:Text;}">
+        <Coords points="1730,3271 1953,3271 1953,3616 1730,3616 1730,3271"/>
+        <Baseline points="1829,3272 1829,3619"/>
+        <TextEquiv>
+          <Unicode>加算</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138883" custom="structure {type:Commentary;}">
+        <Coords points="1805,3611 1969,3611 1969,4208 1805,4208 1805,3611"/>
+        <Baseline points="1872,3619 1896,4209"/>
+        <TextEquiv>
+          <Unicode>尚書考曜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138884" custom="structure {type:Commentary;}">
+        <Coords points="1683,3611 1836,3611 1836,4179 1683,4179 1683,3611"/>
+        <Baseline points="1753,3614 1753,4180"/>
+        <TextEquiv>
+          <Unicode>靈曰四千</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138885" custom="structure {type:Commentary;}">
+        <Coords points="1520,884 1686,884 1686,4197 1520,4197 1520,884"/>
+        <Baseline points="1606,889 1625,4200"/>
+        <TextEquiv>
+          <Unicode>五百六十歲精反初握命几起河圖聖受思鄭玄注曰聖謂堯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138886" custom="structure {type:Commentary;}">
+        <Coords points="1382,866 1551,866 1551,4184 1382,4184 1382,866"/>
+        <Baseline points="1487,870 1491,4185"/>
+        <TextEquiv>
+          <Unicode>也天握命人當起者河乃出圖黃帝堯受而思之以受曆數也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138887" custom="structure {type:Commentary;}">
+        <Coords points="1253,850 1411,850 1411,4208 1253,4208 1253,850"/>
+        <Baseline points="1334,855 1344,4209"/>
+        <TextEquiv>
+          <Unicode>河圖曰黃帝曰凡人生一日天帝賜算三萬六千入賜紀二十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138888" custom="structure {type:Commentary;}">
+        <Coords points="1102,850 1286,850 1286,4197 1102,4197 1102,850"/>
+        <Baseline points="1187,855 1225,4200"/>
+        <TextEquiv>
+          <Unicode>聖人得三萬六千七百二十月人得三萬六千一紀主一歲聖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138889" custom="structure {type:Commentary;}">
+        <Coords points="996,863 1136,863 1136,1320 996,1320 996,863"/>
+        <Baseline points="1054,870 1073,1322"/>
+        <TextEquiv>
+          <Unicode>人加七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138890" custom="structure {type:Commentary;}">
+        <Coords points="871,869 996,869 996,1302 871,1302 871,869"/>
+        <Baseline points="920,870 920,1303"/>
+        <TextEquiv>
+          <Unicode>百二十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138891" custom="structure {type:Text;}">
+        <Coords points="879,1281 1110,1281 1110,1686 879,1686 879,1281"/>
+        <Baseline points="1011,1284 1011,1688"/>
+        <TextEquiv>
+          <Unicode>燭遠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138892" custom="structure {type:Text;}">
+        <Coords points="941,1784 1110,1784 1110,2181 941,2181 941,1784"/>
+        <Baseline points="1011,1788 1016,2183"/>
+        <TextEquiv>
+          <Unicode>照微</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138893" custom="structure {type:Commentary;}">
+        <Coords points="983,2246 1136,2246 1136,4208 983,4208 983,2246"/>
+        <Baseline points="1068,4209 1073,2249"/>
+        <TextEquiv>
+          <Unicode>屍子曰聖人之身猶日也天日圜尺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138894" custom="structure {type:Commentary;}">
+        <Coords points="856,2226 1006,2226 1006,4192 856,4192 856,2226"/>
+        <Baseline points="920,2230 930,4195"/>
+        <TextEquiv>
+          <Unicode>光盈天地聖人之身小其所燭遠顏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138895" custom="structure {type:Commentary;}">
+        <Coords points="713,848 861,848 861,1987 713,1987 713,848"/>
+        <Baseline points="782,851 787,1988"/>
+        <TextEquiv>
+          <Unicode>延之論檢曰聖人者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138896" custom="structure {type:Commentary;}">
+        <Coords points="547,858 729,858 729,1971 547,1971 547,858"/>
+        <Baseline points="635,865 659,1973"/>
+        <TextEquiv>
+          <Unicode>靈照燭微理絕功外</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138897" custom="structure {type:Text;}">
+        <Coords points="591,1961 835,1961 835,2345 591,2345 591,1961"/>
+        <Baseline points="697,2344 706,1969"/>
+        <TextEquiv>
+          <Unicode>虛心</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138898" custom="structure {type:Text;}">
+        <Coords points="604,2438 853,2438 853,2781 604,2781 604,2438"/>
+        <Baseline points="702,2449 721,2782"/>
+        <TextEquiv>
+          <Unicode>正己</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138899" custom="structure {type:Commentary;}">
+        <Coords points="703,2770 861,2770 861,4187 703,4187 703,2770"/>
+        <Baseline points="806,2772 806,4190"/>
+        <TextEquiv>
+          <Unicode>老子曰聖人虛其心而實</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138900" custom="structure {type:Commentary;}">
+        <Coords points="581,2763 729,2763 729,4213 581,4213 581,2763"/>
+        <Baseline points="635,2768 664,4214"/>
+        <TextEquiv>
+          <Unicode>其腹屍子曰聖人中一正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138901" custom="structure {type:Commentary;}">
+        <Coords points="422,861 581,861 581,1424 422,1424 422,861"/>
+        <Baseline points="516,865 521,1426"/>
+        <TextEquiv>
+          <Unicode>己也故曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138902" custom="structure {type:Commentary;}">
+        <Coords points="282,879 451,879 451,1406 282,1406 282,879"/>
+        <Baseline points="373,1407 378,884"/>
+        <TextEquiv>
+          <Unicode>天地之府</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138903" custom="structure {type:Text;}">
+        <Coords points="319,1395 555,1395 555,1787 319,1787 319,1395"/>
+        <Baseline points="435,1398 435,1788"/>
+        <TextEquiv>
+          <Unicode>參天</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138904" custom="structure {type:Text;}">
+        <Coords points="321,1932 581,1932 581,2353 321,2353 321,1932"/>
+        <Baseline points="421,1935 421,2354"/>
+        <TextEquiv>
+          <Unicode>配地</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138905" custom="structure {type:Commentary;}">
+        <Coords points="422,2363 591,2363 591,4184 422,4184 422,2363"/>
+        <Baseline points="487,2368 521,4185"/>
+        <TextEquiv>
+          <Unicode>易曰昔者聖人之作易也幽贊於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138906" custom="structure {type:Commentary;}">
+        <Coords points="262,2376 454,2376 454,4179 262,4179 262,2376"/>
+        <Baseline points="378,2378 378,4180"/>
+        <TextEquiv>
+          <Unicode>神明而生蓍參天兩地而倚數大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之其果為聖人也孫卿子曰天下無二道聖人
+者天下利器也說苑曰聖人之於百姓其猶赤
+子乎餒者食之寒者衣之將之養之育之長之
+唯恐其不至於大也
+事對
+受圖
+加算
+尚書考曜
+靈曰四千
+五百六十歲精反初握命几起河圖聖受思鄭玄注曰聖謂堯
+也天握命人當起者河乃出圖黃帝堯受而思之以受曆數也
+河圖曰黃帝曰凡人生一日天帝賜算三萬六千入賜紀二十
+聖人得三萬六千七百二十月人得三萬六千一紀主一歲聖
+人加七
+百二十
+燭遠
+照微
+屍子曰聖人之身猶日也天日圜尺
+光盈天地聖人之身小其所燭遠顏
+延之論檢曰聖人者
+靈照燭微理絕功外
+虛心
+正己
+老子曰聖人虛其心而實
+其腹屍子曰聖人中一正
+己也故曰
+天地之府
+參天
+配地
+易曰昔者聖人之作易也幽贊於
+神明而生蓍參天兩地而倚數大
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121052" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="183,899 311,895 307,4172 212,4191 183,899"/>
+      <TextLine id="1138907" custom="structure {type:Marginalia;}">
+        <Coords points="124,882 295,882 295,1346 124,1346 124,882"/>
+        <Baseline points="226,889 250,1345"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138908" custom="structure {type:Section;}">
+        <Coords points="145,1816 337,1816 337,2451 145,2451 145,1816"/>
+        <Baseline points="226,1821 235,2454"/>
+        <TextEquiv>
+          <Unicode>初學記卷十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138909" custom="structure {type:Page_Number;}">
+        <Coords points="124,3108 282,3108 282,3261 124,3261 124,3108"/>
+        <Baseline points="245,3110 245,3262"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷十七
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

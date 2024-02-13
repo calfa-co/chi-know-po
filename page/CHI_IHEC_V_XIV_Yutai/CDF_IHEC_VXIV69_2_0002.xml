@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:05:50+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VXIV69_2_0002.jpg" imageHeight="4123" imageWidth="4683">
+    <TextRegion id="121089" custom="structure {type:MainText_Left;}">
+      <Coords points="281,908 2276,858 2330,3650 331,3693 281,908"/>
+      <TextLine id="1139398" custom="structure {type:Text;}">
+        <Coords points="2084,849 2284,849 2284,1706 2084,1706 2084,849"/>
+        <Baseline points="2185,855 2212,1706"/>
+        <TextEquiv>
+          <Unicode>玉臺新詠卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139399" custom="structure {type:Author_name;}">
+        <Coords points="1901,1234 2126,1234 2126,3575 1901,3575 1901,1234"/>
+        <Baseline points="1986,1238 2033,3576"/>
+        <TextEquiv>
+          <Unicode>陳尚書左僕射太子少傅東海徐陵孝穆編</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139400" custom="structure {type:Author_name;}">
+        <Coords points="1702,2276 1926,2276 1926,3570 1702,3570 1702,2276"/>
+        <Baseline points="1801,2281 1859,3569"/>
+        <TextEquiv>
+          <Unicode>吳江吳兆宜顯令原注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139401" custom="structure {type:Author_name;}">
+        <Coords points="1509,2290 1702,2290 1702,2753 1509,2753 1509,2290"/>
+        <Baseline points="1610,2294 1623,2755"/>
+        <TextEquiv>
+          <Unicode>長洲程</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139402" custom="structure {type:Author_name;}">
+        <Coords points="1507,2849 1718,2849 1718,3600 1507,3600 1507,2849"/>
+        <Baseline points="1620,2853 1650,3599"/>
+        <TextEquiv>
+          <Unicode>琰東冶删補</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139403" custom="structure {type:Author_name;}">
+        <Coords points="1283,973 1484,973 1484,1404 1283,1404 1283,973"/>
+        <Baseline points="1377,976 1381,1406"/>
+        <TextEquiv>
+          <Unicode>魏文帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139404" custom="structure {type:Commentary;}">
+        <Coords points="1388,1399 1507,1399 1533,3282 1419,3277 1388,1399"/>
+        <Baseline points="1425,1383 1475,3286"/>
+        <TextEquiv>
+          <Unicode>（魏志）文帝性曹氏諱丕字子桓武帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139405" custom="structure {type:Commentary;}">
+        <Coords points="1284,1413 1391,1410 1425,3167 1318,3164 1284,1413"/>
+        <Baseline points="1334,1393 1374,3169"/>
+        <TextEquiv>
+          <Unicode>長子嗣位為魏王受漢禪即帝位</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139406" custom="structure {type:Title;}">
+        <Coords points="1088,1104 1266,1104 1266,1294 1088,1294 1088,1104"/>
+        <Baseline points="1176,1295 1182,1107"/>
+        <TextEquiv>
+          <Unicode>於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139407" custom="structure {type:Commentary;}">
+        <Coords points="1173,1314 1289,1314 1292,1554 1176,1537 1173,1314"/>
+        <Baseline points="1226,1315 1243,1578"/>
+        <TextEquiv>
+          <Unicode>一無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139408" custom="structure {type:Commentary;}">
+        <Coords points="1085,1257 1198,1257 1198,1422 1085,1422 1085,1257"/>
+        <Baseline points="1125,1262 1132,1423"/>
+        <TextEquiv>
+          <Unicode>於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139409" custom="structure {type:Title;}">
+        <Coords points="1091,1529 1292,1560 1305,3309 1099,3309 1091,1529"/>
+        <Baseline points="1199,1507 1226,3310"/>
+        <TextEquiv>
+          <Unicode>清河見輓船士新婚與妻别一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139410" custom="structure {type:Commentary;}">
+        <Coords points="1227,3297 1340,3288 1349,3684 1224,3678 1227,3297"/>
+        <Baseline points="1273,3263 1283,3670"/>
+        <TextEquiv>
+          <Unicode>（案）藝文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139411" custom="structure {type:Commentary;}">
+        <Coords points="1092,3280 1225,3280 1225,3696 1092,3696 1092,3280"/>
+        <Baseline points="1165,3283 1176,3697"/>
+        <TextEquiv>
+          <Unicode>作徐幹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139412" custom="structure {type:Commentary;}">
+        <Coords points="978,1264 1104,1264 1104,1452 978,1452 978,1264"/>
+        <Baseline points="1038,1268 1041,1453"/>
+        <TextEquiv>
+          <Unicode>詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139413" custom="structure {type:Text;}">
+        <Coords points="685,863 879,863 879,2233 685,2233 685,863"/>
+        <Baseline points="775,868 799,2234"/>
+        <TextEquiv>
+          <Unicode>與君結新婚宿昔當別離</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139414" custom="structure {type:Commentary;}">
+        <Coords points="794,2239 905,2239 922,2756 811,2751 794,2239"/>
+        <Baseline points="846,2203 873,2768"/>
+        <TextEquiv>
+          <Unicode>（古詩）千裏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139415" custom="structure {type:Commentary;}">
+        <Coords points="692,2239 797,2233 813,2615 687,2615 692,2239"/>
+        <Baseline points="745,2207 768,2614"/>
+        <TextEquiv>
+          <Unicode>遠結婚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139416" custom="structure {type:Text;}">
+        <Coords points="726,2744 943,2744 943,3703 726,3703 726,2744"/>
+        <Baseline points="822,2748 839,3704"/>
+        <TextEquiv>
+          <Unicode>凉風動秋草蟋蟀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139417" custom="structure {type:Text;}">
+        <Coords points="485,877 694,877 694,2650 509,2646 485,877"/>
+        <Baseline points="577,881 600,2651"/>
+        <TextEquiv>
+          <Unicode>鳴相隨冽冽寒蟬吟蟬吟抱枯枝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139418" custom="structure {type:Commentary;}">
+        <Coords points="608,2640 721,2626 735,3695 627,3701 608,2640"/>
+        <Baseline points="647,2610 688,3697"/>
+        <TextEquiv>
+          <Unicode>（蔡邕月令章句）寒蟬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139419" custom="structure {type:Commentary;}">
+        <Coords points="511,2660 608,2640 633,3707 523,3707 511,2660"/>
+        <Baseline points="550,2617 590,3710"/>
+        <TextEquiv>
+          <Unicode>應陰而鳴鳴則天涼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139420" custom="structure {type:Commentary;}">
+        <Coords points="364,884 483,884 520,3042 404,3042 364,884"/>
+        <Baseline points="415,875 472,3054"/>
+        <TextEquiv>
+          <Unicode>（後漢黨錮傳）杜密答王昱曰劉勝隱情惜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139421" custom="structure {type:Commentary;}">
+        <Coords points="263,890 367,890 410,2923 322,2932 263,890"/>
+        <Baseline points="311,888 378,2927"/>
+        <TextEquiv>
+          <Unicode>已白同寒蟬（曹攄感舊詩）棲鳥去枯枝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139422" custom="structure {type:Text;}">
+        <Coords points="328,3025 520,3039 526,3693 356,3710 328,3025"/>
+        <Baseline points="412,3017 442,3690"/>
+        <TextEquiv>
+          <Unicode>枯枝時飛揚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>玉臺新詠卷二
+陳尚書左僕射太子少傅東海徐陵孝穆編
+吳江吳兆宜顯令原注
+長洲程
+琰東冶删補
+魏文帝
+（魏志）文帝性曹氏諱丕字子桓武帝
+長子嗣位為魏王受漢禪即帝位
+於
+一無
+於
+清河見輓船士新婚與妻别一首
+（案）藝文
+作徐幹
+詩
+與君結新婚宿昔當別離
+（古詩）千裏
+遠結婚
+凉風動秋草蟋蟀
+鳴相隨冽冽寒蟬吟蟬吟抱枯枝
+（蔡邕月令章句）寒蟬
+應陰而鳴鳴則天涼
+（後漢黨錮傳）杜密答王昱曰劉勝隱情惜
+已白同寒蟬（曹攄感舊詩）棲鳥去枯枝
+枯枝時飛揚
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121090" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="153,915 287,915 341,3714 223,3704 153,915"/>
+      <TextLine id="1139423" custom="structure {type:Section;}">
+        <Coords points="164,898 265,898 282,1682 175,1696 164,898"/>
+        <Baseline points="203,881 234,1682"/>
+        <TextEquiv>
+          <Unicode>玉臺新詠卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139424" custom="structure {type:Page_Number;}">
+        <Coords points="203,2918 302,2913 302,3014 206,3022 203,2918"/>
+        <Baseline points="254,2916 257,3014"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>玉臺新詠卷二
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121091" custom="structure {type:Image_Stamp;}">
+      <Coords points="1145,781 1145,448 1737,448 1737,781 1145,781"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

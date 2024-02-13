@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:23+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0009.jpg" imageHeight="4528" imageWidth="2575">
+    <TextRegion id="79193" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="195,3995 2435,4057 2416,1041 180,998 195,3995"/>
+      <TextLine id="867188" custom="structure {type:Title;}">
+        <Coords points="2212,1220 2416,1220 2416,1479 2212,1479 2212,1220"/>
+        <Baseline points="2323,1221 2323,1481"/>
+        <TextEquiv>
+          <Unicode>藥物</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867189" custom="structure {type:Title;}">
+        <Coords points="2036,1232 2217,1232 2217,1479 2036,1479 2036,1232"/>
+        <Baseline points="2139,1233 2139,1481"/>
+        <TextEquiv>
+          <Unicode>藥論</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867190" custom="structure {type:Title;}">
+        <Coords points="1867,1232 2043,1232 2043,1486 1867,1486 1867,1232"/>
+        <Baseline points="1956,1233 1956,1489"/>
+        <TextEquiv>
+          <Unicode>食忌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867191" custom="structure {type:Title;}">
+        <Coords points="1656,1225 1855,1225 1855,1491 1656,1491 1656,1225"/>
+        <Baseline points="1764,1493 1768,1229"/>
+        <TextEquiv>
+          <Unicode>藥術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867192" custom="structure {type:Title;}">
+        <Coords points="1464,1235 1673,1235 1673,1499 1464,1499 1464,1235"/>
+        <Baseline points="1580,1237 1580,1501"/>
+        <TextEquiv>
+          <Unicode>戲術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867193" custom="structure {type:Title;}">
+        <Coords points="1281,1111 1482,1111 1482,1370 1281,1370 1281,1111"/>
+        <Baseline points="1404,1113 1404,1373"/>
+        <TextEquiv>
+          <Unicode>卷五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867194" custom="structure {type:Title;}">
+        <Coords points="1115,1227 1301,1227 1301,1491 1115,1491 1115,1227"/>
+        <Baseline points="1216,1229 1216,1493"/>
+        <TextEquiv>
+          <Unicode>方士</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867195" custom="structure {type:Title;}">
+        <Coords points="948,1235 1115,1235 1115,1491 948,1491 948,1235"/>
+        <Baseline points="1024,1237 1024,1493"/>
+        <TextEquiv>
+          <Unicode>服術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867196" custom="structure {type:Title;}">
+        <Coords points="750,1237 933,1237 933,1622 750,1622 750,1237"/>
+        <Baseline points="836,1241 844,1625"/>
+        <TextEquiv>
+          <Unicode>辯方士</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867197" custom="structure {type:Title;}">
+        <Coords points="553,1096 740,1096 740,1360 553,1360 553,1096"/>
+        <Baseline points="648,1101 652,1361"/>
+        <TextEquiv>
+          <Unicode>卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867198" custom="structure {type:Title;}">
+        <Coords points="370,1237 556,1237 556,1627 370,1627 370,1237"/>
+        <Baseline points="456,1245 468,1629"/>
+        <TextEquiv>
+          <Unicode>人名攷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867199" custom="structure {type:Title;}">
+        <Coords points="151,1232 362,1232 362,1627 151,1627 151,1232"/>
+        <Baseline points="277,1629 281,1237"/>
+        <TextEquiv>
+          <Unicode>文籍攷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藥物
+藥論
+食忌
+藥術
+戲術
+卷五
+方士
+服術
+辯方士
+卷六
+人名攷
+文籍攷
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79213" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="111,191 111,90 195,90 195,191 111,191"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79214" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="80,3519 90,1730 180,1735 176,3514 80,3519"/>
+      <TextLine id="869014" custom="structure {type:Title;}">
+        <Coords points="55,1778 173,1778 173,2105 55,2105 55,1778"/>
+        <Baseline points="102,1783 117,2106"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869015" custom="structure {type:Title;}">
+        <Coords points="45,2286 213,2286 213,2814 45,2814 45,2286"/>
+        <Baseline points="121,2815 136,2292"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869016" custom="structure {type:Page_Number;}">
+        <Coords points="47,3081 148,3081 148,3302 47,3302 47,3081"/>
+        <Baseline points="112,3086 117,3305"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>目錄
+博物志
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

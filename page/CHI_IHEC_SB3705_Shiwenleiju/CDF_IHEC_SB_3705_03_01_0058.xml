@@ -1,0 +1,297 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:15+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB_3705_03_01_0058.jpg" imageHeight="4585" imageWidth="5844">
+    <TextRegion id="128502" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5161,825 5308,830 5289,4183 5156,4174 5161,825"/>
+      <TextLine id="1176339" custom="structure {type:Title;}">
+        <Coords points="5156,823 5249,811 5243,1745 5156,1748 5156,823"/>
+        <Baseline points="5224,799 5232,1751"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176340" custom="structure {type:Section;}">
+        <Coords points="5161,1937 5246,1861 5261,2406 5158,2411 5161,1937"/>
+        <Baseline points="5244,1867 5256,2395"/>
+        <TextEquiv>
+          <Unicode>卷之十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176341" custom="structure {type:Page_Number;}">
+        <Coords points="5158,2857 5239,2858 5237,3169 5158,3166 5158,2857"/>
+        <Baseline points="5232,2859 5232,3167"/>
+        <TextEquiv>
+          <Unicode>十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176342" custom="structure {type:Marginalia;}">
+        <Coords points="5154,3410 5244,3410 5251,4080 5146,4068 5154,3410"/>
+        <Baseline points="5228,3411 5244,4071"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之十六
+十一
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128503" custom="structure {type:MainText_Right;}">
+      <Coords points="2931,849 3059,830 5156,830 5147,4183 3477,4193 3073,4183 2945,4174 2931,849"/>
+      <TextLine id="1176343" custom="structure {type:Text;}">
+        <Coords points="4944,792 5138,792 5138,3665 4944,3665 4944,792"/>
+        <Baseline points="5020,795 5052,3667"/>
+        <TextEquiv>
+          <Unicode>竹以為犍天子既臨河悼功之不成乃作瓠子之歌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176344" custom="structure {type:Title;}">
+        <Coords points="4758,1299 4924,1299 4924,2004 4758,2004 4758,1299"/>
+        <Baseline points="4836,2007 4840,1303"/>
+        <TextEquiv>
+          <Unicode>張騫窮河</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176345" custom="structure {type:Text;}">
+        <Coords points="4554,787 4728,787 4728,3094 4554,3094 4554,787"/>
+        <Baseline points="4632,791 4636,3095"/>
+        <TextEquiv>
+          <Unicode>張騫使大夏窮河源惡覩所謂崑崙者乎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176346" custom="structure {type:Text;}">
+        <Coords points="4623,3096 4733,3041 4740,3348 4623,3355 4623,3096"/>
+        <Baseline points="4684,3331 4688,3047"/>
+        <TextEquiv>
+          <Unicode>本傳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176347" custom="structure {type:Title;}">
+        <Coords points="4348,1304 4519,1304 4519,1994 4348,1994 4348,1304"/>
+        <Baseline points="4432,1307 4456,1995"/>
+        <TextEquiv>
+          <Unicode>投之黄河</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176348" custom="structure {type:Text;}">
+        <Coords points="4128,822 4318,815 4318,4177 4112,4183 4128,822"/>
+        <Baseline points="4232,819 4240,4179"/>
+        <TextEquiv>
+          <Unicode>唐哀帝天祐二年獨孤損裴摳崔遠並罷政事栁璨李振譖於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176349" custom="structure {type:Text;}">
+        <Coords points="3907,774 4106,774 4106,4192 3907,4192 3907,774"/>
+        <Baseline points="4008,4195 4036,779"/>
+        <TextEquiv>
+          <Unicode>朱全忠再貶摳損遠為瀧瓊白三州司户全忠聚樞等及朝士</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176350" custom="structure {type:Text;}">
+        <Coords points="3719,803 3905,798 3892,4202 3719,4202 3719,803"/>
+        <Baseline points="3808,4203 3816,799"/>
+        <TextEquiv>
+          <Unicode>貶官者三十餘人於白馬驛一夕盡殺之投屍於河初李振屢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176351" custom="structure {type:Text;}">
+        <Coords points="3500,794 3698,794 3698,4233 3500,4233 3500,794"/>
+        <Baseline points="3604,4235 3616,799"/>
+        <TextEquiv>
+          <Unicode>舉不中第故深疾搢紳之士言於全忠曰此輩常自謂清流宜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176352" custom="structure {type:Text;}">
+        <Coords points="3304,792 3490,792 3490,2781 3304,2781 3304,792"/>
+        <Baseline points="3408,2783 3412,795"/>
+        <TextEquiv>
+          <Unicode>投之黄河使為濁流全忠笑而從之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176353" custom="structure {type:Title;}">
+        <Coords points="3106,846 3298,848 3304,1436 3103,1435 3106,846"/>
+        <Baseline points="3212,819 3212,1439"/>
+        <TextEquiv>
+          <Unicode>古今文集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176354" custom="structure {type:Title;}">
+        <Coords points="2927,841 3063,829 3058,1145 2930,1152 2927,841"/>
+        <Baseline points="3004,807 3004,1119"/>
+        <TextEquiv>
+          <Unicode>雜著</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>竹以為犍天子既臨河悼功之不成乃作瓠子之歌
+張騫窮河
+張騫使大夏窮河源惡覩所謂崑崙者乎
+本傳
+投之黄河
+唐哀帝天祐二年獨孤損裴摳崔遠並罷政事栁璨李振譖於
+朱全忠再貶摳損遠為瀧瓊白三州司户全忠聚樞等及朝士
+貶官者三十餘人於白馬驛一夕盡殺之投屍於河初李振屢
+舉不中第故深疾搢紳之士言於全忠曰此輩常自謂清流宜
+投之黄河使為濁流全忠笑而從之
+古今文集
+雜著
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128504" custom="structure {type:MainText_Left;}">
+      <Coords points="689,815 1533,811 2880,811 2916,4127 2748,4139 717,4163 689,815"/>
+      <TextLine id="1176355" custom="structure {type:Title;}">
+        <Coords points="2741,1319 2901,1319 2901,1795 2741,1795 2741,1319"/>
+        <Baseline points="2812,1327 2836,1795"/>
+        <TextEquiv>
+          <Unicode>大河賦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176356" custom="structure {type:Author_name;}">
+        <Coords points="2774,3285 2904,3291 2908,3916 2774,3909 2774,3285"/>
+        <Baseline points="2844,3911 2848,3291"/>
+        <TextEquiv>
+          <Unicode>晉成公綏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176357" custom="structure {type:Text;}">
+        <Coords points="2523,803 2706,803 2763,4125 2578,4130 2523,803"/>
+        <Baseline points="2600,799 2684,4131"/>
+        <TextEquiv>
+          <Unicode>覽百川之弘壯兮莫尚美於黄河潛崑崙之峻極兮出積石之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176358" custom="structure {type:Text;}">
+        <Coords points="2321,791 2521,800 2575,4169 2364,4166 2321,791"/>
+        <Baseline points="2400,755 2496,4171"/>
+        <TextEquiv>
+          <Unicode>嵯峩登龍門而南遊兮拂華隂與曲阿凌砥柱而激湍兮踰汭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176359" custom="structure {type:Text;}">
+        <Coords points="2127,764 2343,764 2343,4182 2127,4182 2127,764"/>
+        <Baseline points="2216,767 2272,4183"/>
+        <TextEquiv>
+          <Unicode>洛而揚波體委蛇於后土兮配靈漢於穹蒼貫中夏之畿甸兮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176360" custom="structure {type:Text;}">
+        <Coords points="1914,803 2116,784 2147,4175 1950,4168 1914,803"/>
+        <Baseline points="2008,779 2092,4179"/>
+        <TextEquiv>
+          <Unicode>經朔狄之遐荒歴二周之北境兮流三晉之南鄉秦自西而起</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176361" custom="structure {type:Text;}">
+        <Coords points="1722,794 1928,794 1928,4174 1722,4174 1722,794"/>
+        <Baseline points="1813,799 1849,4175"/>
+        <TextEquiv>
+          <Unicode>壤兮齊據東而畫疆殷徒涉而永固衛遷濟而遂強趙决流而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176362" custom="structure {type:Text;}">
+        <Coords points="1497,781 1722,781 1722,3678 1497,3678 1497,781"/>
+        <Baseline points="1605,787 1657,3679"/>
+        <TextEquiv>
+          <Unicode>却魏嬴引溝而滅梁思先哲之攸歎何水徳之難量</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176363" custom="structure {type:Title;}">
+        <Coords points="1327,805 1493,796 1496,1155 1324,1153 1327,805"/>
+        <Baseline points="1401,1155 1421,779"/>
+        <TextEquiv>
+          <Unicode>古詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176364" custom="structure {type:Title;}">
+        <Coords points="1115,1306 1345,1306 1345,1821 1115,1821 1115,1306"/>
+        <Baseline points="1209,1823 1213,1311"/>
+        <TextEquiv>
+          <Unicode>瓠子歌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176365" custom="structure {type:Author_name;}">
+        <Coords points="1133,3273 1304,3273 1304,3792 1133,3792 1133,3273"/>
+        <Baseline points="1221,3279 1249,3795"/>
+        <TextEquiv>
+          <Unicode>漢武帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176366" custom="structure {type:Text;}">
+        <Coords points="901,807 1105,807 1105,4179 901,4179 901,807"/>
+        <Baseline points="997,811 1027,4181"/>
+        <TextEquiv>
+          <Unicode>瓠子決兮將奈何皓皓旰旰閭殫為河為我謂河伯兮何不仁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176367" custom="structure {type:Text;}">
+        <Coords points="703,792 889,792 889,1897 703,1897 703,792"/>
+        <Baseline points="797,795 813,1899"/>
+        <TextEquiv>
+          <Unicode>宣房塞兮萬福來</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>大河賦
+晉成公綏
+覽百川之弘壯兮莫尚美於黄河潛崑崙之峻極兮出積石之
+嵯峩登龍門而南遊兮拂華隂與曲阿凌砥柱而激湍兮踰汭
+洛而揚波體委蛇於后土兮配靈漢於穹蒼貫中夏之畿甸兮
+經朔狄之遐荒歴二周之北境兮流三晉之南鄉秦自西而起
+壤兮齊據東而畫疆殷徒涉而永固衛遷濟而遂強趙决流而
+却魏嬴引溝而滅梁思先哲之攸歎何水徳之難量
+古詩
+瓠子歌
+漢武帝
+瓠子決兮將奈何皓皓旰旰閭殫為河為我謂河伯兮何不仁
+宣房塞兮萬福來
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128505" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="581,811 681,807 721,4163 609,4163 581,811"/>
+      <TextLine id="1176368" custom="structure {type:Title;}">
+        <Coords points="587,796 684,796 700,1701 596,1695 587,796"/>
+        <Baseline points="629,771 629,1703"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176369" custom="structure {type:Section;}">
+        <Coords points="596,1885 692,1925 694,2401 589,2394 596,1885"/>
+        <Baseline points="629,2339 641,1859"/>
+        <TextEquiv>
+          <Unicode>卷之十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176370" custom="structure {type:Page_Number;}">
+        <Coords points="606,2879 680,2878 680,3178 604,3181 606,2879"/>
+        <Baseline points="637,2879 637,3179"/>
+        <TextEquiv>
+          <Unicode>十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176371" custom="structure {type:Marginalia;}">
+        <Coords points="608,3398 694,3398 701,4097 608,4090 608,3398"/>
+        <Baseline points="637,3399 665,4091"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之十六
+十二
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

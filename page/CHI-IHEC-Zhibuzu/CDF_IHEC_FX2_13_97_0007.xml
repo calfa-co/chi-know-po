@@ -1,0 +1,289 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:56+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_13_97_0007.jpg" imageHeight="3102" imageWidth="3520">
+    <TextRegion id="115955" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3273,1166 3338,1166 3343,1726 3276,1743 3273,1166"/>
+      <TextLine id="1093732" custom="structure {type:Section;}">
+        <Coords points="3263,1144 3353,1151 3351,1693 3286,1736 3263,1144"/>
+        <Baseline points="3309,1146 3309,1671"/>
+        <TextEquiv>
+          <Unicode>經傳沿革例</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>經傳沿革例
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115954" custom="structure {type:MainText_Right;}">
+      <Coords points="1843,671 3269,671 3269,2641 1843,2641 1843,671"/>
+      <TextLine id="1093716" custom="structure {type:Text;}">
+        <Coords points="3104,785 3239,785 3239,2622 3104,2622 3104,785"/>
+        <Baseline points="3171,2624 3175,789"/>
+        <TextEquiv>
+          <Unicode>證以許愼說文毛晃韻略非敢有所增損於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093717" custom="structure {type:Text;}">
+        <Coords points="2947,789 3082,789 3082,2624 2947,2624 2947,789"/>
+        <Baseline points="3018,2626 3025,792"/>
+        <TextEquiv>
+          <Unicode>前偏旁必辨圈點必校不使有毫釐訛錯視</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093718" custom="structure {type:Text;}">
+        <Coords points="2792,787 2927,787 2927,2624 2792,2624 2792,787"/>
+        <Baseline points="2859,2626 2864,791"/>
+        <TextEquiv>
+          <Unicode>廖氏世綵堂本加詳焉舊有總例存以為證</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093719" custom="structure {type:Title;}">
+        <Coords points="2640,684 2778,684 2778,908 2640,908 2640,684"/>
+        <Baseline points="2709,687 2713,909"/>
+        <TextEquiv>
+          <Unicode>書本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093720" custom="structure {type:Text;}">
+        <Coords points="2480,791 2615,791 2615,2626 2480,2626 2480,791"/>
+        <Baseline points="2549,2628 2552,794"/>
+        <TextEquiv>
+          <Unicode>九經本行於世多矣率以見行監本爲宗而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093722" custom="structure {type:Text;}">
+        <Coords points="2330,797 2458,797 2457,1773 2329,1770 2330,797"/>
+        <Baseline points="2396,799 2396,1764"/>
+        <TextEquiv>
+          <Unicode>不能無誘謬脫略之患</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093721" custom="structure {type:Commentary;}">
+        <Coords points="2388,1769 2476,1778 2467,2635 2387,2632 2388,1769"/>
+        <Baseline points="2430,1776 2430,2622"/>
+        <TextEquiv>
+          <Unicode>監中大小本凡三歲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093723" custom="structure {type:Commentary;}">
+        <Coords points="2310,1772 2388,1774 2391,2636 2306,2636 2310,1772"/>
+        <Baseline points="2346,2626 2351,1776"/>
+        <TextEquiv>
+          <Unicode>久磨減散落未有能</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093724" custom="structure {type:Commentary;}">
+        <Coords points="2233,799 2323,799 2321,1001 2233,1006 2233,799"/>
+        <Baseline points="2277,799 2280,1004"/>
+        <TextEquiv>
+          <Unicode>條補</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093726" custom="structure {type:Commentary;}">
+        <Coords points="2156,797 2238,796 2231,1004 2157,1009 2156,797"/>
+        <Baseline points="2194,797 2197,996"/>
+        <TextEquiv>
+          <Unicode>之者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093725" custom="structure {type:Text;}">
+        <Coords points="2167,1007 2297,1013 2293,2635 2172,2633 2167,1007"/>
+        <Baseline points="2234,2628 2237,1008"/>
+        <TextEquiv>
+          <Unicode>蓋京師胄監經史多仍五季之舊今故</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093728" custom="structure {type:Text;}">
+        <Coords points="2009,787 2142,787 2142,2192 2009,2192 2009,787"/>
+        <Baseline points="2073,791 2077,2193"/>
+        <TextEquiv>
+          <Unicode>家往往有之寶與俗本無大相遠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093727" custom="structure {type:Commentary;}">
+        <Coords points="2071,2203 2151,2202 2151,2625 2076,2632 2071,2203"/>
+        <Baseline points="2116,2619 2116,2205"/>
+        <TextEquiv>
+          <Unicode>晃公武云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094121" custom="structure {type:Commentary;}">
+        <Coords points="2002,2202 2071,2199 2071,2631 1998,2629 2002,2202"/>
+        <Baseline points="2033,2200 2037,2634"/>
+        <TextEquiv>
+          <Unicode>公武守三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093729" custom="structure {type:Commentary;}">
+        <Coords points="1916,799 1998,798 1999,2633 1917,2640 1916,799"/>
+        <Baseline points="1959,2602 1961,796"/>
+        <TextEquiv>
+          <Unicode>榮嘗對國子監所模長與版本讀之其差誤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093730" custom="structure {type:Commentary;}">
+        <Coords points="1842,795 1916,789 1920,2649 1837,2645 1842,795"/>
+        <Baseline points="1876,791 1886,2651"/>
+        <TextEquiv>
+          <Unicode>蓋多昔議者謂太和石本授寫非真時人弗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>證以許愼說文毛晃韻略非敢有所增損於
+前偏旁必辨圈點必校不使有毫釐訛錯視
+廖氏世綵堂本加詳焉舊有總例存以為證
+書本
+九經本行於世多矣率以見行監本爲宗而
+不能無誘謬脫略之患
+監中大小本凡三歲
+久磨減散落未有能
+條補
+之者
+蓋京師胄監經史多仍五季之舊今故
+家往往有之寶與俗本無大相遠
+晃公武云
+公武守三
+榮嘗對國子監所模長與版本讀之其差誤
+蓋多昔議者謂太和石本授寫非真時人弗
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115984" custom="structure {type:MainText_Left;}">
+      <Coords points="304,664 1696,644 1715,2627 315,2624 304,664"/>
+      <TextLine id="1094122" custom="structure {type:Commentary;}">
+        <Coords points="1621,754 1698,745 1715,2627 1634,2634 1621,754"/>
+        <Baseline points="1659,746 1679,2627"/>
+        <TextEquiv>
+          <Unicode>之許而以長與版本為便宋朝初遂頒布天</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094123" custom="structure {type:Commentary;}">
+        <Coords points="1547,752 1621,754 1629,2632 1555,2624 1547,752"/>
+        <Baseline points="1588,751 1595,2635"/>
+        <TextEquiv>
+          <Unicode>下收向日民閒寫本不用然有訛舛無由參</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094124" custom="structure {type:Commentary;}">
+        <Coords points="1465,753 1545,747 1555,2503 1478,2504 1465,753"/>
+        <Baseline points="1498,754 1532,2511"/>
+        <TextEquiv>
+          <Unicode>校判知其謬獨以爲官既刊定難於獨改</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094125" custom="structure {type:Commentary;}">
+        <Coords points="1385,747 1463,747 1480,2512 1394,2506 1385,747"/>
+        <Baseline points="1418,751 1427,2499"/>
+        <TextEquiv>
+          <Unicode>由是而觀石經固脫錯而監本亦難盡從</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094126" custom="structure {type:Text;}">
+        <Coords points="1409,2513 1537,2511 1537,2627 1409,2631 1409,2513"/>
+        <Baseline points="1484,2505 1489,2613"/>
+        <TextEquiv>
+          <Unicode>紹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094127" custom="structure {type:Text;}">
+        <Coords points="1239,742 1375,742 1375,2626 1239,2626 1239,742"/>
+        <Baseline points="1317,746 1325,2627"/>
+        <TextEquiv>
+          <Unicode>典初僅取刻版於江南諸州視京師承平監</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094128" custom="structure {type:Text;}">
+        <Coords points="1080,734 1222,734 1222,2636 1080,2636 1080,734"/>
+        <Baseline points="1150,737 1172,2638"/>
+        <TextEquiv>
+          <Unicode>本又相遠甚與潭撫閩蜀諸本互為異同柯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094129" custom="structure {type:Text;}">
+        <Coords points="929,741 1065,741 1065,2631 929,2631 929,741"/>
+        <Baseline points="997,743 1003,2632"/>
+        <TextEquiv>
+          <Unicode>山毛居正該父以其父晃所增註禮部韻乾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094130" custom="structure {type:Text;}">
+        <Coords points="768,730 915,730 915,2648 768,2648 768,730"/>
+        <Baseline points="836,734 858,2649"/>
+        <TextEquiv>
+          <Unicode>淳閒進之朝後又校訂增盆申明於嘉定之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094131" custom="structure {type:Text;}">
+        <Coords points="610,737 760,737 760,2631 610,2631 610,737"/>
+        <Baseline points="672,740 708,2632"/>
+        <TextEquiv>
+          <Unicode>初其於經傳亦既博攬精擇辛巳春朝廷命</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094132" custom="structure {type:Text;}">
+        <Coords points="458,730 599,730 599,2631 458,2631 458,730"/>
+        <Baseline points="522,734 542,2632"/>
+        <TextEquiv>
+          <Unicode>胄監刊正經籍司成謂無以易訪父遂取六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094133" custom="structure {type:Text;}">
+        <Coords points="298,735 448,735 446,2638 328,2635 298,735"/>
+        <Baseline points="352,740 392,2618"/>
+        <TextEquiv>
+          <Unicode>經三傳諸本參以子史字書選粹文集研究</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之許而以長與版本為便宋朝初遂頒布天
+下收向日民閒寫本不用然有訛舛無由參
+校判知其謬獨以爲官既刊定難於獨改
+由是而觀石經固脫錯而監本亦難盡從
+紹
+典初僅取刻版於江南諸州視京師承平監
+本又相遠甚與潭撫閩蜀諸本互為異同柯
+山毛居正該父以其父晃所增註禮部韻乾
+淳閒進之朝後又校訂增盆申明於嘉定之
+初其於經傳亦既博攬精擇辛巳春朝廷命
+胄監刊正經籍司成謂無以易訪父遂取六
+經三傳諸本參以子史字書選粹文集研究
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115952" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="206,1111 299,1111 299,2627 206,2627 206,1111"/>
+      <TextLine id="1093703" custom="structure {type:Section;}">
+        <Coords points="186,1107 289,1090 289,1645 186,1651 186,1107"/>
+        <Baseline points="235,1093 237,1647"/>
+        <TextEquiv>
+          <Unicode>經傳沿革例</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093702" custom="structure {type:Page_Number;}">
+        <Coords points="227,2049 293,2049 293,2136 227,2136 227,2049"/>
+        <Baseline points="265,2050 265,2137"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1130532" custom="structure {type:Title;}">
+        <Coords points="217,2157 308,2151 311,2618 226,2615 217,2157"/>
+        <Baseline points="251,2157 268,2615"/>
+        <TextEquiv>
+          <Unicode>桐華館訂正本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>經傳沿革例
+二
+桐華館訂正本
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

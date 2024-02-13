@@ -1,0 +1,617 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:26+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB3701_2_07_0048.jpg" imageHeight="4667" imageWidth="5738">
+    <TextRegion id="121057" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5374,925 5512,906 5488,4183 5379,4193 5374,925"/>
+      <TextLine id="1138975" custom="structure {type:Marginalia;}">
+        <Coords points="5385,894 5613,894 5613,1337 5385,1337 5385,894"/>
+        <Baseline points="5435,896 5435,1340"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138976" custom="structure {type:Section;}">
+        <Coords points="5385,1856 5616,1856 5616,2447 5385,2447 5385,1856"/>
+        <Baseline points="5439,1864 5443,2448"/>
+        <TextEquiv>
+          <Unicode>初學記卷十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138977" custom="structure {type:Page_Number;}">
+        <Coords points="5390,3082 5603,3082 5603,3295 5390,3295 5390,3082"/>
+        <Baseline points="5447,3084 5447,3298"/>
+        <TextEquiv>
+          <Unicode>一十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷十八
+一十六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121058" custom="structure {type:MainText_Right;}">
+      <Coords points="2881,949 5374,901 5398,4183 2947,4221 2881,949"/>
+      <TextLine id="1138978" custom="structure {type:Text;}">
+        <Coords points="5118,899 5380,899 5380,4205 5118,4205 5118,899"/>
+        <Baseline points="5247,904 5259,4208"/>
+        <TextEquiv>
+          <Unicode>則憂淺識遠則患浮昔有琴歌於編蓬之中用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138979" custom="structure {type:Text;}">
+        <Coords points="4846,884 5118,884 5118,4179 4846,4179 4846,884"/>
+        <Baseline points="4979,888 5011,4180"/>
+        <TextEquiv>
+          <Unicode>此道也毛詩曰出自北門憂心殷殷終窶且貧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138980" custom="structure {type:Text;}">
+        <Coords points="4578,915 4864,915 4864,4205 4578,4205 4578,915"/>
+        <Baseline points="4695,920 4735,4208"/>
+        <TextEquiv>
+          <Unicode>莫知我艱又曰自我徂爾三歲食貧論語曰貧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138981" custom="structure {type:Text;}">
+        <Coords points="4317,907 4578,907 4578,4195 4317,4195 4317,907"/>
+        <Baseline points="4455,912 4479,4196"/>
+        <TextEquiv>
+          <Unicode>與賤是人之所惡不以其道得之不去也又曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138982" custom="structure {type:Text;}">
+        <Coords points="4029,910 4298,910 4298,1890 4029,1890 4029,910"/>
+        <Baseline points="4154,916 4182,1888"/>
+        <TextEquiv>
+          <Unicode>貧而無怨難</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138983" custom="structure {type:Commentary;}">
+        <Coords points="4156,1884 4322,1884 4322,2839 4156,2839 4156,1884"/>
+        <Baseline points="4238,1888 4266,2840"/>
+        <TextEquiv>
+          <Unicode>列子曰凡為名者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138984" custom="structure {type:Commentary;}">
+        <Coords points="4018,1900 4179,1900 4179,2714 4018,2714 4018,1900"/>
+        <Baseline points="4098,1904 4102,2716"/>
+        <TextEquiv>
+          <Unicode>必廉廉斯貧矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138985" custom="structure {type:Title;}">
+        <Coords points="4021,2810 4280,2810 4280,3207 4021,3207 4021,2810"/>
+        <Baseline points="4162,2820 4186,3204"/>
+        <TextEquiv>
+          <Unicode>事對</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138986" custom="structure {type:Text;}">
+        <Coords points="4151,3238 4319,3238 4319,3606 4151,3606 4151,3238"/>
+        <Baseline points="4186,3248 4214,3604"/>
+        <TextEquiv>
+          <Unicode>六極</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138987" custom="structure {type:Text;}">
+        <Coords points="4073,3710 4322,3710 4322,4197 4073,4197 4073,3710"/>
+        <Baseline points="4178,3716 4206,4196"/>
+        <TextEquiv>
+          <Unicode>十盜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138988" custom="structure {type:Commentary;}">
+        <Coords points="3873,915 4055,915 4055,4218 3873,4218 3873,915"/>
+        <Baseline points="3958,920 3986,4220"/>
+        <TextEquiv>
+          <Unicode>尚書六極一曰凶短折二曰疾三曰憂四曰貧五曰惡六曰弱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138989" custom="structure {type:Commentary;}">
+        <Coords points="3723,912 3930,912 3930,4202 3723,4202 3723,912"/>
+        <Baseline points="3818,916 3878,4204"/>
+        <TextEquiv>
+          <Unicode>太公六韜曰武王問太公曰夫貧富豈有命乎將治生不得其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138990" custom="structure {type:Commentary;}">
+        <Coords points="3588,923 3798,923 3798,4226 3588,4226 3588,923"/>
+        <Baseline points="3678,924 3730,4228"/>
+        <TextEquiv>
+          <Unicode>意太公曰盜在其室計之不熟一盜收種不時二盜取婦無能</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138991" custom="structure {type:Commentary;}">
+        <Coords points="3445,930 3658,930 3658,4226 3445,4226 3445,930"/>
+        <Baseline points="3526,936 3586,4228"/>
+        <TextEquiv>
+          <Unicode>三盜養女太多四盜棄事就酒五盜衣服過度六盜封藏不謹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138992" custom="structure {type:Commentary;}">
+        <Coords points="3316,920 3489,920 3489,2574 3316,2574 3316,920"/>
+        <Baseline points="3398,924 3418,2576"/>
+        <TextEquiv>
+          <Unicode>七盜井竈不便八盜舉息就利</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138993" custom="structure {type:Commentary;}">
+        <Coords points="3176,912 3357,912 3357,2582 3176,2582 3176,912"/>
+        <Baseline points="3242,916 3278,2584"/>
+        <TextEquiv>
+          <Unicode>九盜無事燒火十盜安得富也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138994" custom="structure {type:Text;}">
+        <Coords points="3222,2579 3477,2579 3477,2994 3222,2994 3222,2579"/>
+        <Baseline points="3338,2996 3346,2584"/>
+        <TextEquiv>
+          <Unicode>杼空</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138995" custom="structure {type:Text;}">
+        <Coords points="3246,3082 3487,3082 3487,3505 3246,3505 3246,3082"/>
+        <Baseline points="3346,3088 3350,3508"/>
+        <TextEquiv>
+          <Unicode>壁立</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138996" custom="structure {type:Commentary;}">
+        <Coords points="3368,3500 3523,3500 3523,4223 3368,4223 3368,3500"/>
+        <Baseline points="3434,3504 3458,4224"/>
+        <TextEquiv>
+          <Unicode>毛詩曰小東</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138997" custom="structure {type:Commentary;}">
+        <Coords points="3217,3513 3404,3513 3404,4226 3217,4226 3217,3513"/>
+        <Baseline points="3294,3516 3318,4228"/>
+        <TextEquiv>
+          <Unicode>大東杼軸其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138998" custom="structure {type:Commentary;}">
+        <Coords points="3023,923 3222,923 3222,3554 3023,3554 3023,923"/>
+        <Baseline points="3118,928 3162,3556"/>
+        <TextEquiv>
+          <Unicode>空箋云謂無他貨唯絲麻耳今盡杼軸不作也漢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138999" custom="structure {type:Commentary;}">
+        <Coords points="2885,920 3077,920 3077,3383 2885,3383 2885,920"/>
+        <Baseline points="2974,924 3014,3384"/>
+        <TextEquiv>
+          <Unicode>書曰梁孝王薨司馬相如歸而家貧徒四壁立</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139000" custom="structure {type:Text;}">
+        <Coords points="2940,3502 3217,3502 3217,3953 2940,3953 2940,3502"/>
+        <Baseline points="3090,3504 3090,3956"/>
+        <TextEquiv>
+          <Unicode>圭窬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139001" custom="structure {type:Text;}">
+        <Coords points="2981,4034 3178,4034 3178,4205 2981,4205 2981,4034"/>
+        <Baseline points="3090,4036 3090,4208"/>
+        <TextEquiv>
+          <Unicode>蓽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>則憂淺識遠則患浮昔有琴歌於編蓬之中用
+此道也毛詩曰出自北門憂心殷殷終窶且貧
+莫知我艱又曰自我徂爾三歲食貧論語曰貧
+與賤是人之所惡不以其道得之不去也又曰
+貧而無怨難
+列子曰凡為名者
+必廉廉斯貧矣
+事對
+六極
+十盜
+尚書六極一曰凶短折二曰疾三曰憂四曰貧五曰惡六曰弱
+太公六韜曰武王問太公曰夫貧富豈有命乎將治生不得其
+意太公曰盜在其室計之不熟一盜收種不時二盜取婦無能
+三盜養女太多四盜棄事就酒五盜衣服過度六盜封藏不謹
+七盜井竈不便八盜舉息就利
+九盜無事燒火十盜安得富也
+杼空
+壁立
+毛詩曰小東
+大東杼軸其
+空箋云謂無他貨唯絲麻耳今盡杼軸不作也漢
+書曰梁孝王薨司馬相如歸而家貧徒四壁立
+圭窬
+蓽
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121059" custom="structure {type:MainText_Left;}">
+      <Coords points="335,934 2814,934 2800,4155 369,4155 335,934"/>
+      <TextLine id="1139002" custom="structure {type:Text;}">
+        <Coords points="2600,910 2813,910 2813,1094 2600,1094 2600,910"/>
+        <Baseline points="2686,912 2686,1096"/>
+        <TextEquiv>
+          <Unicode>戶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139003" custom="structure {type:Commentary;}">
+        <Coords points="2649,1171 2805,1171 2805,4187 2649,4187 2649,1171"/>
+        <Baseline points="2734,4188 2742,1176"/>
+        <TextEquiv>
+          <Unicode>禮記曰儒有一畝之宮環堵之室草戶圭窬又左傳曰蓽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139004" custom="structure {type:Commentary;}">
+        <Coords points="2502,1179 2688,1179 2688,4171 2502,4171 2502,1179"/>
+        <Baseline points="2582,4172 2622,1184"/>
+        <TextEquiv>
+          <Unicode>戶圭窬符子曰楚之交子魯之周子齊之狂子相與居乎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139005" custom="structure {type:Commentary;}">
+        <Coords points="2388,897 2546,897 2546,2499 2388,2499 2388,897"/>
+        <Baseline points="2462,900 2490,2500"/>
+        <TextEquiv>
+          <Unicode>泰山之陽處乎環堵之室蓽戶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139006" custom="structure {type:Commentary;}">
+        <Coords points="2258,907 2419,907 2419,2411 2258,2411 2258,907"/>
+        <Baseline points="2330,2412 2350,912"/>
+        <TextEquiv>
+          <Unicode>不扉蓋茨不翳而高歌不輟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139007" custom="structure {type:Text;}">
+        <Coords points="2362,2514 2517,2514 2517,2966 2362,2966 2362,2514"/>
+        <Baseline points="2378,2524 2394,2968"/>
+        <TextEquiv>
+          <Unicode>緼袍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139008" custom="structure {type:Text;}">
+        <Coords points="2354,3087 2499,3087 2499,3466 2354,3466 2354,3087"/>
+        <Baseline points="2390,3088 2390,3468"/>
+        <TextEquiv>
+          <Unicode>短褐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139009" custom="structure {type:Commentary;}">
+        <Coords points="2364,3463 2515,3463 2515,4179 2364,4179 2364,3463"/>
+        <Baseline points="2446,3468 2458,4180"/>
+        <TextEquiv>
+          <Unicode>論語曰衣敝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139010" custom="structure {type:Commentary;}">
+        <Coords points="2248,3487 2398,3487 2398,4171 2248,4171 2248,3487"/>
+        <Baseline points="2314,3488 2314,4172"/>
+        <TextEquiv>
+          <Unicode>緼袍淮南子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139011" custom="structure {type:Commentary;}">
+        <Coords points="2107,904 2273,904 2273,2963 2107,2963 2107,904"/>
+        <Baseline points="2190,2964 2206,908"/>
+        <TextEquiv>
+          <Unicode>曰貧人夏則被褐帶索含菽飲水以支</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139012" custom="structure {type:Commentary;}">
+        <Coords points="1980,907 2141,907 2141,2922 1980,2922 1980,907"/>
+        <Baseline points="2054,2924 2070,912"/>
+        <TextEquiv>
+          <Unicode>暑熱冬則羊裘短褐不掩形而煬竈口</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139013" custom="structure {type:Text;}">
+        <Coords points="2004,2922 2232,2922 2232,3326 2004,3326 2004,2922"/>
+        <Baseline points="2098,2924 2098,3328"/>
+        <TextEquiv>
+          <Unicode>蓬室</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139014" custom="structure {type:Text;}">
+        <Coords points="2014,3482 2235,3482 2235,3845 2014,3845 2014,3482"/>
+        <Baseline points="2102,3488 2114,3844"/>
+        <TextEquiv>
+          <Unicode>棘庭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139015" custom="structure {type:Commentary;}">
+        <Coords points="2105,3865 2237,3865 2237,4153 2105,4153 2105,3865"/>
+        <Baseline points="2162,3868 2162,4156"/>
+        <TextEquiv>
+          <Unicode>皇甫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139016" custom="structure {type:Commentary;}">
+        <Coords points="1978,3855 2126,3855 2126,4166 1978,4166 1978,3855"/>
+        <Baseline points="2046,3856 2046,4168"/>
+        <TextEquiv>
+          <Unicode>謐高</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139017" custom="structure {type:Commentary;}">
+        <Coords points="1827,907 1986,907 1986,4187 1827,4187 1827,907"/>
+        <Baseline points="1914,4188 1926,912"/>
+        <TextEquiv>
+          <Unicode>士傳曰老萊子楚人也耕蒙山之陽以雚葭為牆蓬蒿為室杞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139018" custom="structure {type:Commentary;}">
+        <Coords points="1693,904 1861,904 1861,4171 1693,4171 1693,904"/>
+        <Baseline points="1774,4172 1798,908"/>
+        <TextEquiv>
+          <Unicode>木為床蓍艾為席抱樸子曰洪貧無僮僕離落頹決荊棘叢生</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139019" custom="structure {type:Commentary;}">
+        <Coords points="1581,917 1729,917 1729,1109 1581,1109 1581,917"/>
+        <Baseline points="1666,920 1666,1112"/>
+        <TextEquiv>
+          <Unicode>庭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139020" custom="structure {type:Commentary;}">
+        <Coords points="1464,907 1597,907 1597,1078 1464,1078 1464,907"/>
+        <Baseline points="1526,908 1526,1080"/>
+        <TextEquiv>
+          <Unicode>宇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139021" custom="structure {type:Text;}">
+        <Coords points="1475,1068 1700,1068 1700,1506 1475,1506 1475,1068"/>
+        <Baseline points="1578,1072 1586,1508"/>
+        <TextEquiv>
+          <Unicode>牛衣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139022" custom="structure {type:Text;}">
+        <Coords points="1470,1607 1703,1607 1703,2019 1470,2019 1470,1607"/>
+        <Baseline points="1594,1608 1594,2020"/>
+        <TextEquiv>
+          <Unicode>蝸廬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139023" custom="structure {type:Commentary;}">
+        <Coords points="1560,2001 1711,2001 1711,4161 1560,4161 1560,2001"/>
+        <Baseline points="1634,2004 1634,4164"/>
+        <TextEquiv>
+          <Unicode>漢書曰王章家貧常臥牛衣中魚豢魏略</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139024" custom="structure {type:Commentary;}">
+        <Coords points="1415,2011 1584,2011 1584,4189 1415,4189 1415,2011"/>
+        <Baseline points="1482,4192 1526,2016"/>
+        <TextEquiv>
+          <Unicode>曰楊沛前後宰曆城守不以私計介意故</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139025" custom="structure {type:Commentary;}">
+        <Coords points="1311,910 1459,910 1459,2286 1311,2286 1311,910"/>
+        <Baseline points="1390,912 1390,2288"/>
+        <TextEquiv>
+          <Unicode>身退之後家無餘積蝸牛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139026" custom="structure {type:Commentary;}">
+        <Coords points="1161,904 1332,904 1332,2177 1161,2177 1161,904"/>
+        <Baseline points="1246,2180 1262,908"/>
+        <TextEquiv>
+          <Unicode>廬居止其中妻子凍餒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139027" custom="structure {type:Text;}">
+        <Coords points="1184,2299 1413,2299 1413,3103 1184,3103 1184,2299"/>
+        <Baseline points="1302,2304 1322,3104"/>
+        <TextEquiv>
+          <Unicode>並日而食</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139028" custom="structure {type:Text;}">
+        <Coords points="1169,3199 1400,3199 1400,3946 1169,3946 1169,3199"/>
+        <Baseline points="1290,3948 1310,3204"/>
+        <TextEquiv>
+          <Unicode>同衣而出</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139029" custom="structure {type:Commentary;}">
+        <Coords points="1273,3961 1418,3961 1418,4171 1273,4171 1273,3961"/>
+        <Baseline points="1346,3964 1346,4172"/>
+        <TextEquiv>
+          <Unicode>論</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139030" custom="structure {type:Commentary;}">
+        <Coords points="1120,3974 1286,3974 1286,4182 1120,4182 1120,3974"/>
+        <Baseline points="1202,3980 1214,4180"/>
+        <TextEquiv>
+          <Unicode>語</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139031" custom="structure {type:Commentary;}">
+        <Coords points="1006,923 1184,923 1184,4174 1006,4174 1006,923"/>
+        <Baseline points="1082,4176 1122,928"/>
+        <TextEquiv>
+          <Unicode>曰端木賜結駟連騎以從原憲居蓬蒿之中幷日而食子貢曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139032" custom="structure {type:Commentary;}">
+        <Coords points="876,915 1052,915 1052,4166 876,4166 876,915"/>
+        <Baseline points="962,4168 982,920"/>
+        <TextEquiv>
+          <Unicode>甚矣子之病也謝氶後漢書曰李元字大遜陳留人也事母至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139033" custom="structure {type:Commentary;}">
+        <Coords points="783,910 923,910 923,1739 783,1739 783,910"/>
+        <Baseline points="862,912 862,1740"/>
+        <TextEquiv>
+          <Unicode>孝家貧兄弟六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139034" custom="structure {type:Commentary;}">
+        <Coords points="643,917 780,917 780,1615 643,1615 643,917"/>
+        <Baseline points="710,920 710,1616"/>
+        <TextEquiv>
+          <Unicode>人同衣而出</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139035" custom="structure {type:Text;}">
+        <Coords points="658,1719 897,1719 897,2154 658,2154 658,1719"/>
+        <Baseline points="786,1720 786,2156"/>
+        <TextEquiv>
+          <Unicode>蓬霤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139036" custom="structure {type:Text;}">
+        <Coords points="643,2232 873,2232 873,2686 643,2686 643,2232"/>
+        <Baseline points="758,2236 774,2684"/>
+        <TextEquiv>
+          <Unicode>桑樞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139037" custom="structure {type:Commentary;}">
+        <Coords points="728,2639 894,2639 894,4189 728,4189 728,2639"/>
+        <Baseline points="810,4192 822,2644"/>
+        <TextEquiv>
+          <Unicode>抱樸子曰洪家貧荊棘叢於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139038" custom="structure {type:Commentary;}">
+        <Coords points="588,2652 762,2652 762,4153 588,4153 588,2652"/>
+        <Baseline points="674,4156 694,2656"/>
+        <TextEquiv>
+          <Unicode>庭宇蓬莠塞乎階霤莊子曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139039" custom="structure {type:Commentary;}">
+        <Coords points="482,915 637,915 637,1923 482,1923 482,915"/>
+        <Baseline points="566,920 574,1924"/>
+        <TextEquiv>
+          <Unicode>原憲居環堵之室</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139040" custom="structure {type:Commentary;}">
+        <Coords points="360,920 508,920 508,1905 360,1905 360,920"/>
+        <Baseline points="418,924 430,1908"/>
+        <TextEquiv>
+          <Unicode>桑為樞而甕為牖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139041" custom="structure {type:Text;}">
+        <Coords points="479,1903 617,1903 617,2266 479,2266 479,1903"/>
+        <Baseline points="510,1904 510,2268"/>
+        <TextEquiv>
+          <Unicode>枯鮒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139042" custom="structure {type:Text;}">
+        <Coords points="370,2393 497,2393 497,2789 370,2789 370,2393"/>
+        <Baseline points="486,2792 490,2396"/>
+        <TextEquiv>
+          <Unicode>懸鶉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139043" custom="structure {type:Commentary;}">
+        <Coords points="464,2807 619,2807 619,4171 464,4171 464,2807"/>
+        <Baseline points="542,2812 554,4172"/>
+        <TextEquiv>
+          <Unicode>莊子曰莊周家貧故往貸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139044" custom="structure {type:Commentary;}">
+        <Coords points="308,2784 487,2784 487,4151 308,4151 308,2784"/>
+        <Baseline points="414,2788 422,4152"/>
+        <TextEquiv>
+          <Unicode>粟於河監侯監侯曰待我</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>戶
+禮記曰儒有一畝之宮環堵之室草戶圭窬又左傳曰蓽
+戶圭窬符子曰楚之交子魯之周子齊之狂子相與居乎
+泰山之陽處乎環堵之室蓽戶
+不扉蓋茨不翳而高歌不輟
+緼袍
+短褐
+論語曰衣敝
+緼袍淮南子
+曰貧人夏則被褐帶索含菽飲水以支
+暑熱冬則羊裘短褐不掩形而煬竈口
+蓬室
+棘庭
+皇甫
+謐高
+士傳曰老萊子楚人也耕蒙山之陽以雚葭為牆蓬蒿為室杞
+木為床蓍艾為席抱樸子曰洪貧無僮僕離落頹決荊棘叢生
+庭
+宇
+牛衣
+蝸廬
+漢書曰王章家貧常臥牛衣中魚豢魏略
+曰楊沛前後宰曆城守不以私計介意故
+身退之後家無餘積蝸牛
+廬居止其中妻子凍餒
+並日而食
+同衣而出
+論
+語
+曰端木賜結駟連騎以從原憲居蓬蒿之中幷日而食子貢曰
+甚矣子之病也謝氶後漢書曰李元字大遜陳留人也事母至
+孝家貧兄弟六
+人同衣而出
+蓬霤
+桑樞
+抱樸子曰洪家貧荊棘叢於
+庭宇蓬莠塞乎階霤莊子曰
+原憲居環堵之室
+桑為樞而甕為牖
+枯鮒
+懸鶉
+莊子曰莊周家貧故往貸
+粟於河監侯監侯曰待我
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121060" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="226,944 345,939 364,4179 259,4169 226,944"/>
+      <TextLine id="1139045" custom="structure {type:Marginalia;}">
+        <Coords points="142,923 334,923 334,1363 142,1363 142,923"/>
+        <Baseline points="278,928 282,1364"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139046" custom="structure {type:Section;}">
+        <Coords points="147,1887 344,1887 344,2426 147,2426 147,1887"/>
+        <Baseline points="282,1888 282,2428"/>
+        <TextEquiv>
+          <Unicode>初學記卷十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139047" custom="structure {type:Page_Number;}">
+        <Coords points="127,3038 331,3038 331,3290 127,3290 127,3038"/>
+        <Baseline points="294,3292 298,3044"/>
+        <TextEquiv>
+          <Unicode>十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷十八
+十七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,281 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:28:56+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI111_1_5_0057.jpg" imageHeight="4091" imageWidth="4908">
+    <TextRegion id="118012" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4489,676 4593,666 4603,3625 4484,3639 4489,676"/>
+      <TextLine id="1112681" custom="structure {type:Title;}">
+        <Coords points="4488,659 4580,667 4588,1247 4489,1245 4488,659"/>
+        <Baseline points="4538,639 4558,1247"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112682" custom="structure {type:Section;}">
+        <Coords points="4494,1561 4576,1563 4592,1883 4494,1877 4494,1561"/>
+        <Baseline points="4534,1575 4550,1879"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112683" custom="structure {type:Page_Number;}">
+        <Coords points="4494,2790 4596,2791 4584,3019 4494,3018 4494,2790"/>
+        <Baseline points="4542,2799 4562,3019"/>
+        <TextEquiv>
+          <Unicode>十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注
+卷一
+十六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118013" custom="structure {type:MainText_Right;}">
+      <Coords points="2543,685 4493,666 4489,3620 2548,3611 2543,685"/>
+      <TextLine id="1112684" custom="structure {type:Text;}">
+        <Coords points="4285,652 4466,652 4466,3629 4285,3629 4285,652"/>
+        <Baseline points="4378,655 4414,3631"/>
+        <TextEquiv>
+          <Unicode>為定其論至為精詳賈疏引王肅四尺孔君八尺之說非</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112685" custom="structure {type:Text;}">
+        <Coords points="4123,634 4257,634 4257,859 4123,859 4123,634"/>
+        <Baseline points="4186,643 4222,855"/>
+        <TextEquiv>
+          <Unicode>也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112686" custom="structure {type:Text;}">
+        <Coords points="3910,638 4073,638 4073,2693 3910,2693 3910,638"/>
+        <Baseline points="3986,643 3998,2695"/>
+        <TextEquiv>
+          <Unicode>韋當注直心背之衣曰當以丹韋為之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112687" custom="structure {type:Text;}">
+        <Coords points="3898,2770 4064,2770 4064,3634 3898,3634 3898,2770"/>
+        <Baseline points="3982,3635 3990,2775"/>
+        <TextEquiv>
+          <Unicode>案聶氏引舊圖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112688" custom="structure {type:Text;}">
+        <Coords points="3712,638 3875,638 3875,3640 3712,3640 3712,638"/>
+        <Baseline points="3802,643 3818,3643"/>
+        <TextEquiv>
+          <Unicode>楅長二尺有足置韋當於背韋當長二尺廣一尺置楅之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112689" custom="structure {type:Text;}">
+        <Coords points="3519,636 3687,636 3687,3650 3519,3650 3519,636"/>
+        <Baseline points="3606,639 3622,3651"/>
+        <TextEquiv>
+          <Unicode>背上以藉前釋名釋衣服裲襠其一當胸其一當背也與</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112690" custom="structure {type:Text;}">
+        <Coords points="3323,647 3484,647 3484,2361 3323,2361 3323,647"/>
+        <Baseline points="3406,651 3414,2363"/>
+        <TextEquiv>
+          <Unicode>鄭說合作當為正後人加衣旁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112691" custom="structure {type:Text;}">
+        <Coords points="3123,643 3298,643 3298,2434 3123,2434 3123,643"/>
+        <Baseline points="3218,647 3238,2435"/>
+        <TextEquiv>
+          <Unicode>侯道五十弓注今文改弓為肱也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112692" custom="structure {type:Text;}">
+        <Coords points="3125,2538 3296,2538 3296,3640 3125,3640 3125,2538"/>
+        <Baseline points="3214,2543 3226,3643"/>
+        <TextEquiv>
+          <Unicode>案左傳昭三十一年</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112693" custom="structure {type:Text;}">
+        <Coords points="2937,654 3103,654 3103,3134 2937,3134 2937,654"/>
+        <Baseline points="3014,659 3026,3135"/>
+        <TextEquiv>
+          <Unicode>黑肱以濫來奔公羊作黑弓古肱弓聲近通用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112694" custom="structure {type:Text;}">
+        <Coords points="2748,643 2914,643 2914,2840 2748,2840 2748,643"/>
+        <Baseline points="2826,2843 2834,647"/>
+        <TextEquiv>
+          <Unicode>則皮樹中注皮樹獸名今文皮樹為繁豎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112695" custom="structure {type:Text;}">
+        <Coords points="2748,2906 2909,2906 2909,3645 2748,3645 2748,2906"/>
+        <Baseline points="2834,2911 2838,3647"/>
+        <TextEquiv>
+          <Unicode>案小雅蕃維</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112696" custom="structure {type:Text;}">
+        <Coords points="2546,647 2721,647 2721,3638 2546,3638 2546,647"/>
+        <Baseline points="2630,651 2658,3639"/>
+        <TextEquiv>
+          <Unicode>司徒漢書古今人表蕃作皮字音婆漢書繁延壽亦音婆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>為定其論至為精詳賈疏引王肅四尺孔君八尺之說非
+也
+韋當注直心背之衣曰當以丹韋為之
+案聶氏引舊圖
+楅長二尺有足置韋當於背韋當長二尺廣一尺置楅之
+背上以藉前釋名釋衣服裲襠其一當胸其一當背也與
+鄭說合作當為正後人加衣旁
+侯道五十弓注今文改弓為肱也
+案左傳昭三十一年
+黑肱以濫來奔公羊作黑弓古肱弓聲近通用
+則皮樹中注皮樹獸名今文皮樹為繁豎
+案小雅蕃維
+司徒漢書古今人表蕃作皮字音婆漢書繁延壽亦音婆
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118014" custom="structure {type:MainText_Left;}">
+      <Coords points="345,718 2281,714 2296,3634 359,3649 345,718"/>
+      <TextLine id="1112697" custom="structure {type:Text;}">
+        <Coords points="2105,695 2280,695 2280,2877 2105,2877 2105,695"/>
+        <Baseline points="2178,699 2218,2879"/>
+        <TextEquiv>
+          <Unicode>徐鍇繫傳曰樹之言豎也樹豎亦聲相近</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112698" custom="structure {type:Text;}">
+        <Coords points="1914,670 2086,670 2086,3661 1914,3661 1914,670"/>
+        <Baseline points="1998,3663 2006,675"/>
+        <TextEquiv>
+          <Unicode>於郊則閭中注閭獸名如驢一角或曰如驢岐蹄周書曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112699" custom="structure {type:Text;}">
+        <Coords points="1725,677 1889,677 1889,1265 1725,1265 1725,677"/>
+        <Baseline points="1794,683 1818,1267"/>
+        <TextEquiv>
+          <Unicode>北唐以閭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112700" custom="structure {type:Text;}">
+        <Coords points="1725,1375 1882,1375 1882,3656 1725,3656 1725,1375"/>
+        <Baseline points="1810,3659 1814,1379"/>
+        <TextEquiv>
+          <Unicode>案周書王會解孔晁注北唐戎之在西北射</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112701" custom="structure {type:Text;}">
+        <Coords points="1527,679 1698,679 1698,3661 1527,3661 1527,679"/>
+        <Baseline points="1606,3663 1622,683"/>
+        <TextEquiv>
+          <Unicode>禮以閭象為射器山海經縣雍之山其獸多閭郭注閭即</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112702" custom="structure {type:Text;}">
+        <Coords points="1343,681 1500,681 1500,3665 1343,3665 1343,681"/>
+        <Baseline points="1418,683 1418,3667"/>
+        <TextEquiv>
+          <Unicode>羭也似驢而岐蹄角如羚羊一名山驢引周書曰北唐以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112703" custom="structure {type:Text;}">
+        <Coords points="1148,681 1309,681 1309,3654 1148,3654 1148,681"/>
+        <Baseline points="1234,683 1234,3655"/>
+        <TextEquiv>
+          <Unicode>閭亦見鄉射禮又荊山其獸多閭綸山其獸多閭女几之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112704" custom="structure {type:Text;}">
+        <Coords points="947,679 1120,679 1120,1986 947,1986 947,679"/>
+        <Baseline points="1038,683 1054,1987"/>
+        <TextEquiv>
+          <Unicode>山多閭即谷之山多閭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112705" custom="structure {type:Title;}">
+        <Coords points="757,663 925,663 925,1050 757,1050 757,663"/>
+        <Baseline points="850,667 858,1051"/>
+        <TextEquiv>
+          <Unicode>燕禮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112706" custom="structure {type:Text;}">
+        <Coords points="559,684 741,684 741,2218 559,2218 559,684"/>
+        <Baseline points="638,687 662,2219"/>
+        <TextEquiv>
+          <Unicode>冪用綌若錫注今文錫為裼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112707" custom="structure {type:Text;}">
+        <Coords points="577,2293 729,2293 729,3681 577,3681 577,2293"/>
+        <Baseline points="662,2295 662,3683"/>
+        <TextEquiv>
+          <Unicode>案大射注今文錫或作緆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112708" custom="structure {type:Text;}">
+        <Coords points="354,704 552,704 552,3681 354,3681 354,704"/>
+        <Baseline points="442,707 486,3683"/>
+        <TextEquiv>
+          <Unicode>媵觚於賓注媵送也讀或為揚揚舉也今文媵皆作騰疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>徐鍇繫傳曰樹之言豎也樹豎亦聲相近
+於郊則閭中注閭獸名如驢一角或曰如驢岐蹄周書曰
+北唐以閭
+案周書王會解孔晁注北唐戎之在西北射
+禮以閭象為射器山海經縣雍之山其獸多閭郭注閭即
+羭也似驢而岐蹄角如羚羊一名山驢引周書曰北唐以
+閭亦見鄉射禮又荊山其獸多閭綸山其獸多閭女几之
+山多閭即谷之山多閭
+燕禮
+冪用綌若錫注今文錫為裼
+案大射注今文錫或作緆
+媵觚於賓注媵送也讀或為揚揚舉也今文媵皆作騰疏
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118015" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="221,733 359,728 364,3668 236,3663 221,733"/>
+      <TextLine id="1112709" custom="structure {type:Title;}">
+        <Coords points="259,703 338,700 338,1290 267,1291 259,703"/>
+        <Baseline points="286,703 290,1291"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112710" custom="structure {type:Section;}">
+        <Coords points="267,1647 340,1645 340,1927 263,1927 267,1647"/>
+        <Baseline points="294,1651 314,1919"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112711" custom="structure {type:Page_Number;}">
+        <Coords points="259,2823 343,2829 343,3018 267,3019 259,2823"/>
+        <Baseline points="298,2831 298,3019"/>
+        <TextEquiv>
+          <Unicode>十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注
+卷一
+十七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

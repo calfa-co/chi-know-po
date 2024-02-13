@@ -1,0 +1,457 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:10+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_01_0026.jpg" imageHeight="4146" imageWidth="4645">
+    <TextRegion id="117743" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4333,744 4485,749 4500,3656 4352,3660 4333,744"/>
+      <TextLine id="1109618" custom="structure {type:Title;}">
+        <Coords points="4345,745 4433,748 4436,1300 4345,1308 4345,745"/>
+        <Baseline points="4409,1310 4419,725"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109619" custom="structure {type:Section;}">
+        <Coords points="4359,1714 4443,1683 4446,1966 4359,1963 4359,1714"/>
+        <Baseline points="4419,1681 4424,1872"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109620" custom="structure {type:Page_Number;}">
+        <Coords points="4370,2916 4460,2921 4453,3143 4370,3141 4370,2916"/>
+        <Baseline points="4438,2918 4438,3142"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷一
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117744" custom="structure {type:MainText_Right;}">
+      <Coords points="2469,763 4347,763 4352,3675 2483,3675 2469,763"/>
+      <TextLine id="1109621" custom="structure {type:Text;}">
+        <Coords points="4138,707 4333,707 4333,2397 4138,2397 4138,707"/>
+        <Baseline points="4219,711 4252,2400"/>
+        <TextEquiv>
+          <Unicode>之月蟄蟲咸俯在內皆墐其戶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109622" custom="structure {type:Commentary;}">
+        <Coords points="4244,2393 4369,2390 4376,3083 4238,3099 4244,2393"/>
+        <Baseline points="4276,2395 4305,3123"/>
+        <TextEquiv>
+          <Unicode>墐謂塗閉之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109623" custom="structure {type:Commentary;}">
+        <Coords points="4137,2410 4244,2413 4251,3086 4137,3086 4137,2410"/>
+        <Baseline points="4181,2362 4200,3128"/>
+        <TextEquiv>
+          <Unicode>此避殺氣也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109624" custom="structure {type:Text;}">
+        <Coords points="4149,3081 4354,3081 4354,3680 4149,3680 4149,3081"/>
+        <Baseline points="4238,3089 4267,3679"/>
+        <TextEquiv>
+          <Unicode>孟冬之月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109625" custom="structure {type:Text;}">
+        <Coords points="3930,718 4147,718 4147,3726 3930,3726 3930,718"/>
+        <Baseline points="4019,721 4048,3727"/>
+        <TextEquiv>
+          <Unicode>天氣上騰地氣下降天地不通閉塞而成冬勞農以休</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109626" custom="structure {type:Text;}">
+        <Coords points="3739,702 3907,702 3907,1048 3739,1048 3739,702"/>
+        <Baseline points="3829,706 3834,1049"/>
+        <TextEquiv>
+          <Unicode>息之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109627" custom="structure {type:Commentary;}">
+        <Coords points="3817,1013 3958,1013 3958,1865 3817,1865 3817,1013"/>
+        <Baseline points="3877,1016 3891,1867"/>
+        <TextEquiv>
+          <Unicode>黨正屬民飲酒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109628" custom="structure {type:Commentary;}">
+        <Coords points="3721,1013 3845,1013 3845,1771 3721,1771 3721,1013"/>
+        <Baseline points="3777,1016 3791,1772"/>
+        <TextEquiv>
+          <Unicode>正齒位是也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109629" custom="structure {type:Text;}">
+        <Coords points="3748,1801 3944,1801 3944,3692 3748,3692 3748,1801"/>
+        <Baseline points="3820,1805 3839,3694"/>
+        <TextEquiv>
+          <Unicode>仲冬之月土事無作慎無發蓋無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109630" custom="structure {type:Text;}">
+        <Coords points="3525,718 3737,718 3737,3703 3525,3703 3525,718"/>
+        <Baseline points="3612,722 3652,3706"/>
+        <TextEquiv>
+          <Unicode>發室屋地氣沮泄是謂發天地之房諸蟄則死民必疾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109631" custom="structure {type:Text;}">
+        <Coords points="3340,716 3502,716 3502,921 3340,921 3340,716"/>
+        <Baseline points="3412,722 3420,922"/>
+        <TextEquiv>
+          <Unicode>疫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109632" custom="structure {type:Commentary;}">
+        <Coords points="3410,877 3552,877 3552,3528 3410,3528 3410,877"/>
+        <Baseline points="3476,882 3492,3530"/>
+        <TextEquiv>
+          <Unicode>大陰用事尤重閉藏案今世有十月十一月耕者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109633" custom="structure {type:Commentary;}">
+        <Coords points="3297,893 3444,893 3444,3404 3297,3404 3297,893"/>
+        <Baseline points="3364,898 3388,3406"/>
+        <TextEquiv>
+          <Unicode>匪直逆天道害蟄蟲地亦無膏潤收必薄少也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109634" custom="structure {type:Text;}">
+        <Coords points="3338,3471 3529,3471 3529,3689 3338,3689 3338,3471"/>
+        <Baseline points="3428,3474 3432,3690"/>
+        <TextEquiv>
+          <Unicode>季</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109635" custom="structure {type:Text;}">
+        <Coords points="3119,730 3308,730 3308,2296 3119,2296 3119,730"/>
+        <Baseline points="3212,734 3228,2298"/>
+        <TextEquiv>
+          <Unicode>冬之月命田官告人出五種</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109636" custom="structure {type:Commentary;}">
+        <Coords points="3229,2279 3326,2262 3329,3385 3225,3372 3229,2279"/>
+        <Baseline points="3268,2266 3288,3386"/>
+        <TextEquiv>
+          <Unicode>命田官告民出種大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109637" custom="structure {type:Commentary;}">
+        <Coords points="3108,2261 3246,2261 3246,3256 3108,3256 3108,2261"/>
+        <Baseline points="3172,2266 3204,3258"/>
+        <TextEquiv>
+          <Unicode>寒過農事將起也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109638" custom="structure {type:Text;}">
+        <Coords points="3126,3342 3308,3342 3308,3696 3126,3696 3126,3342"/>
+        <Baseline points="3220,3346 3224,3698"/>
+        <TextEquiv>
+          <Unicode>命農</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109639" custom="structure {type:Text;}">
+        <Coords points="2916,730 3110,730 3110,2144 2916,2144 2916,730"/>
+        <Baseline points="3004,734 3028,2146"/>
+        <TextEquiv>
+          <Unicode>計耦耕事脩耒耜具田器</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109640" custom="structure {type:Commentary;}">
+        <Coords points="2999,2123 3133,2123 3133,3247 2999,3247 2999,2123"/>
+        <Baseline points="3068,2126 3092,3250"/>
+        <TextEquiv>
+          <Unicode>耜者耒之金耜廣五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109641" custom="structure {type:Commentary;}">
+        <Coords points="2905,2109 3034,2109 3034,3127 2905,3127 2905,2109"/>
+        <Baseline points="2968,2114 2980,3130"/>
+        <TextEquiv>
+          <Unicode>寸田器鎡基之屬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109642" custom="structure {type:Text;}">
+        <Coords points="2937,3229 3122,3229 3122,3696 2937,3696 2937,3229"/>
+        <Baseline points="3020,3230 3020,3698"/>
+        <TextEquiv>
+          <Unicode>是月也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109643" custom="structure {type:Text;}">
+        <Coords points="2714,750 2905,750 2905,2973 2714,2973 2714,750"/>
+        <Baseline points="2804,754 2824,2974"/>
+        <TextEquiv>
+          <Unicode>日窮于次月窮于紀星迴于天數將幾終</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109644" custom="structure {type:Commentary;}">
+        <Coords points="2799,2957 2944,2957 2944,3696 2799,3696 2799,2957"/>
+        <Baseline points="2872,2962 2884,3698"/>
+        <TextEquiv>
+          <Unicode>言日月星辰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109645" custom="structure {type:Commentary;}">
+        <Coords points="2707,2945 2829,2945 2829,3680 2707,3680 2707,2945"/>
+        <Baseline points="2772,2946 2772,3682"/>
+        <TextEquiv>
+          <Unicode>運行至此月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109646" custom="structure {type:Commentary;}">
+        <Coords points="2601,730 2730,730 2730,1612 2601,1612 2601,730"/>
+        <Baseline points="2660,734 2668,1614"/>
+        <TextEquiv>
+          <Unicode>皆匝於故會次</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109647" custom="structure {type:Commentary;}">
+        <Coords points="2490,718 2619,718 2619,1596 2490,1596 2490,718"/>
+        <Baseline points="2536,722 2568,1598"/>
+        <TextEquiv>
+          <Unicode>舍也紀紀合也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109648" custom="structure {type:Text;}">
+        <Coords points="2513,1582 2702,1582 2702,3240 2513,3240 2513,1582"/>
+        <Baseline points="2604,1586 2628,3242"/>
+        <TextEquiv>
+          <Unicode>歲且更始專而農民毋有所使</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109649" custom="structure {type:Commentary;}">
+        <Coords points="2598,3222 2730,3222 2730,3680 2598,3680 2598,3222"/>
+        <Baseline points="2668,3226 2676,3682"/>
+        <TextEquiv>
+          <Unicode>而猶汝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109650" custom="structure {type:Commentary;}">
+        <Coords points="2495,3201 2619,3201 2619,3676 2495,3676 2495,3201"/>
+        <Baseline points="2556,3202 2556,3678"/>
+        <TextEquiv>
+          <Unicode>也言專</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之月蟄蟲咸俯在內皆墐其戶
+墐謂塗閉之
+此避殺氣也
+孟冬之月
+天氣上騰地氣下降天地不通閉塞而成冬勞農以休
+息之
+黨正屬民飲酒
+正齒位是也
+仲冬之月土事無作慎無發蓋無
+發室屋地氣沮泄是謂發天地之房諸蟄則死民必疾
+疫
+大陰用事尤重閉藏案今世有十月十一月耕者
+匪直逆天道害蟄蟲地亦無膏潤收必薄少也
+季
+冬之月命田官告人出五種
+命田官告民出種大
+寒過農事將起也
+命農
+計耦耕事脩耒耜具田器
+耜者耒之金耜廣五
+寸田器鎡基之屬
+是月也
+日窮于次月窮于紀星迴于天數將幾終
+言日月星辰
+運行至此月
+皆匝於故會次
+舍也紀紀合也
+歲且更始專而農民毋有所使
+而猶汝
+也言專
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117745" custom="structure {type:MainText_Left;}">
+      <Coords points="339,763 2203,778 2203,3708 339,3675 339,763"/>
+      <TextLine id="1109651" custom="structure {type:Commentary;}">
+        <Coords points="2099,760 2216,785 2209,2733 2095,2699 2099,760"/>
+        <Baseline points="2152,762 2152,2730"/>
+        <TextEquiv>
+          <Unicode>一汝農民之心令人預有志於辦稼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109652" custom="structure {type:Commentary;}">
+        <Coords points="1979,746 2115,746 2115,2600 1979,2600 1979,746"/>
+        <Baseline points="2036,750 2040,2602"/>
+        <TextEquiv>
+          <Unicode>之事不可徭役則志散失其業也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109653" custom="structure {type:Text;}">
+        <Coords points="1986,2681 2163,2681 2163,3701 1986,3701 1986,2681"/>
+        <Baseline points="2068,2686 2116,3702"/>
+        <TextEquiv>
+          <Unicode>孟子曰士之仕也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109654" custom="structure {type:Text;}">
+        <Coords points="1817,725 1986,725 1986,1623 1817,1623 1817,725"/>
+        <Baseline points="1908,726 1908,1626"/>
+        <TextEquiv>
+          <Unicode>猶農夫之耕也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109655" custom="structure {type:Commentary;}">
+        <Coords points="1875,1577 2004,1577 2004,2713 1875,2713 1875,1577"/>
+        <Baseline points="1948,2714 1956,1582"/>
+        <TextEquiv>
+          <Unicode>趙岐注曰言仕之爲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109656" custom="structure {type:Commentary;}">
+        <Coords points="1767,1575 1907,1575 1907,2713 1767,2713 1767,1575"/>
+        <Baseline points="1832,1578 1844,2714"/>
+        <TextEquiv>
+          <Unicode>急若農夫不可不耕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109657" custom="structure {type:Text;}">
+        <Coords points="1787,2690 1976,2690 1976,3692 1787,3692 1787,2690"/>
+        <Baseline points="1876,2694 1892,3694"/>
+        <TextEquiv>
+          <Unicode>魏文侯曰民春以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109658" custom="structure {type:Text;}">
+        <Coords points="1589,725 1778,725 1778,3703 1589,3703 1589,725"/>
+        <Baseline points="1688,730 1692,3706"/>
+        <TextEquiv>
+          <Unicode>力耕夏以鋤耘秋以收斂雜陰陽書曰亥為天倉耕之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109659" custom="structure {type:Text;}">
+        <Coords points="1389,741 1564,741 1564,3692 1389,3692 1389,741"/>
+        <Baseline points="1492,3694 1496,746"/>
+        <TextEquiv>
+          <Unicode>始呂氏春秋曰冬至後五旬七日菖者百草之先</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109660" custom="structure {type:Text;}">
+        <Coords points="1191,732 1375,732 1375,1612 1191,1612 1191,732"/>
+        <Baseline points="1288,734 1288,1614"/>
+        <TextEquiv>
+          <Unicode>生也於是始耕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109661" custom="structure {type:Commentary;}">
+        <Coords points="1267,1586 1398,1586 1398,2307 1267,2307 1267,1586"/>
+        <Baseline points="1332,1590 1336,2310"/>
+        <TextEquiv>
+          <Unicode>高誘注曰菖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109662" custom="structure {type:Commentary;}">
+        <Coords points="1154,1593 1283,1593 1283,2301 1154,2301 1154,1593"/>
+        <Baseline points="1212,2302 1220,1598"/>
+        <TextEquiv>
+          <Unicode>菖蒲水草也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109663" custom="structure {type:Text;}">
+        <Coords points="1172,2266 1370,2266 1370,3703 1172,3703 1172,2266"/>
+        <Baseline points="1260,2270 1272,3706"/>
+        <TextEquiv>
+          <Unicode>淮南子曰耕之為事也勞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109664" custom="structure {type:Text;}">
+        <Coords points="970,739 1158,739 1158,3689 970,3689 970,739"/>
+        <Baseline points="1069,3690 1077,742"/>
+        <TextEquiv>
+          <Unicode>織之為事也擾擾勞之事而民不舍者知其可以衣食</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109665" custom="structure {type:Text;}">
+        <Coords points="762,746 963,746 963,3673 762,3673 762,746"/>
+        <Baseline points="861,3674 885,750"/>
+        <TextEquiv>
+          <Unicode>也人之情不能無衣食衣食之道必始於耕織物之若</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109666" custom="structure {type:Text;}">
+        <Coords points="571,716 744,716 744,3703 571,3703 571,716"/>
+        <Baseline points="685,718 685,3706"/>
+        <TextEquiv>
+          <Unicode>耕織者始初甚勞終必利也衆又曰不能耕而欲黍粱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109667" custom="structure {type:Text;}">
+        <Coords points="350,714 548,714 548,3676 350,3676 350,714"/>
+        <Baseline points="457,3678 473,718"/>
+        <TextEquiv>
+          <Unicode>不能織而喜縫裳無其事而求其功難矣氾勝之書曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>一汝農民之心令人預有志於辦稼
+之事不可徭役則志散失其業也
+孟子曰士之仕也
+猶農夫之耕也
+趙岐注曰言仕之爲
+急若農夫不可不耕
+魏文侯曰民春以
+力耕夏以鋤耘秋以收斂雜陰陽書曰亥為天倉耕之
+始呂氏春秋曰冬至後五旬七日菖者百草之先
+生也於是始耕
+高誘注曰菖
+菖蒲水草也
+淮南子曰耕之為事也勞
+織之為事也擾擾勞之事而民不舍者知其可以衣食
+也人之情不能無衣食衣食之道必始於耕織物之若
+耕織者始初甚勞終必利也衆又曰不能耕而欲黍粱
+不能織而喜縫裳無其事而求其功難矣氾勝之書曰
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117746" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="196,763 334,759 334,3670 215,3675 196,763"/>
+      <TextLine id="1109668" custom="structure {type:Title;}">
+        <Coords points="235,755 356,782 359,1324 232,1334 235,755"/>
+        <Baseline points="285,1326 293,730"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109669" custom="structure {type:Section;}">
+        <Coords points="235,1704 332,1737 331,1990 235,1983 235,1704"/>
+        <Baseline points="269,1686 277,1990"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109670" custom="structure {type:Page_Number;}">
+        <Coords points="223,2932 327,2932 327,3125 223,3125 223,2932"/>
+        <Baseline points="269,2934 269,3126"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷一
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

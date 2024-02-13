@@ -1,0 +1,545 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:49+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB_3705_01_01_0059.jpg" imageHeight="4643" imageWidth="5836">
+    <TextRegion id="117974" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5174,836 5327,825 5366,4179 5219,4191 5174,836"/>
+      <TextLine id="1112420" custom="structure {type:Title;}">
+        <Coords points="5187,838 5311,821 5314,1681 5187,1690 5187,838"/>
+        <Baseline points="5240,814 5264,1670"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112421" custom="structure {type:Section;}">
+        <Coords points="5187,1958 5294,1913 5303,2255 5190,2258 5187,1958"/>
+        <Baseline points="5254,1922 5254,2260"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112422" custom="structure {type:Page_Number;}">
+        <Coords points="5214,2870 5332,2870 5332,3213 5214,3213 5214,2870"/>
+        <Baseline points="5269,2873 5269,3216"/>
+        <TextEquiv>
+          <Unicode>四八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+目錄
+四八
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117975" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="2968,859 5174,836 5214,4191 3024,4179 2968,859"/>
+      <TextLine id="1112424" custom="structure {type:Title;}">
+        <Coords points="4994,1042 5185,1042 5185,2914 4994,2914 4994,1042"/>
+        <Baseline points="5093,1047 5112,2916"/>
+        <TextEquiv>
+          <Unicode>公安送李十二弟入蜀余下鸿鄂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112426" custom="structure {type:Author_name;}">
+        <Coords points="5088,2920 5193,2909 5198,3225 5087,3219 5088,2920"/>
+        <Baseline points="5145,2912 5155,3221"/>
+        <TextEquiv>
+          <Unicode>杜甫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112428" custom="structure {type:Title;}">
+        <Coords points="4791,1098 4992,1098 5010,1692 4791,1692 4791,1098"/>
+        <Baseline points="4881,1096 4888,1694"/>
+        <TextEquiv>
+          <Unicode>卷之十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112429" custom="structure {type:Title;}">
+        <Coords points="4590,949 4788,940 4788,1432 4589,1436 4590,949"/>
+        <Baseline points="4684,1437 4686,943"/>
+        <TextEquiv>
+          <Unicode>地理部</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112430" custom="structure {type:Title;}">
+        <Coords points="4197,1220 4542,1226 4539,1560 4200,1557 4197,1220"/>
+        <Baseline points="4374,1218 4374,1551"/>
+        <TextEquiv>
+          <Unicode>湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112431" custom="structure {type:Title;}">
+        <Coords points="3898,822 4187,822 4187,1478 3898,1478 3898,822"/>
+        <Baseline points="4041,1480 4046,828"/>
+        <TextEquiv>
+          <Unicode>古今事實</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112432" custom="structure {type:Title;}">
+        <Coords points="3756,1073 3931,1073 3931,1681 3756,1681 3756,1073"/>
+        <Baseline points="3846,1075 3846,1684"/>
+        <TextEquiv>
+          <Unicode>扁丹五湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112434" custom="structure {type:Title;}">
+        <Coords points="3756,1890 3939,1890 3939,2571 3756,2571 3756,1890"/>
+        <Baseline points="3846,1894 3851,2574"/>
+        <TextEquiv>
+          <Unicode>城陷爲湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112435" custom="structure {type:Title;}">
+        <Coords points="3751,2760 3939,2760 3939,3428 3751,3428 3751,2760"/>
+        <Baseline points="3846,3430 3851,2764"/>
+        <TextEquiv>
+          <Unicode>詔賜鑑湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112436" custom="structure {type:Title;}">
+        <Coords points="3777,3616 3947,3616 3947,3967 3777,3967 3777,3616"/>
+        <Baseline points="3851,3620 3861,3968"/>
+        <TextEquiv>
+          <Unicode>西湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112438" custom="structure {type:Title;}">
+        <Coords points="3546,850 3733,841 3739,1441 3555,1444 3546,850"/>
+        <Baseline points="3642,1442 3651,842"/>
+        <TextEquiv>
+          <Unicode>古今文集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112439" custom="structure {type:Title;}">
+        <Coords points="3328,820 3521,820 3521,1189 3328,1189 3328,820"/>
+        <Baseline points="3432,823 3442,1190"/>
+        <TextEquiv>
+          <Unicode>雜著</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112440" custom="structure {type:Title;}">
+        <Coords points="3134,1047 3328,1047 3328,1836 3134,1836 3134,1047"/>
+        <Baseline points="3214,1052 3223,1837"/>
+        <TextEquiv>
+          <Unicode>奏脩西湖状</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112441" custom="structure {type:Author_name;}">
+        <Coords points="3204,1797 3348,1797 3348,2277 3204,2277 3204,1797"/>
+        <Baseline points="3275,2279 3280,1803"/>
+        <TextEquiv>
+          <Unicode>蘇子瞻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112443" custom="structure {type:Title;}">
+        <Coords points="3147,2226 3317,2226 3317,2842 3147,2842 3147,2226"/>
+        <Baseline points="3228,2227 3228,2845"/>
+        <TextEquiv>
+          <Unicode>臨湖閣記</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112444" custom="structure {type:Author_name;}">
+        <Coords points="3219,2809 3359,2809 3359,3301 3219,3301 3219,2809"/>
+        <Baseline points="3275,2812 3280,3302"/>
+        <TextEquiv>
+          <Unicode>洪景盧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112445" custom="structure {type:Title;}">
+        <Coords points="2982,799 3132,799 3132,1202 2982,1202 2982,799"/>
+        <Baseline points="3033,804 3038,1204"/>
+        <TextEquiv>
+          <Unicode>古詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>公安送李十二弟入蜀余下鸿鄂
+杜甫
+卷之十七
+地理部
+湖
+古今事實
+扁丹五湖
+城陷爲湖
+詔賜鑑湖
+西湖
+古今文集
+雜著
+奏脩西湖状
+蘇子瞻
+臨湖閣記
+洪景盧
+古詩
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117976" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="693,847 2860,825 2911,4151 2255,4174 733,4191 693,847"/>
+      <TextLine id="1112453" custom="structure {type:Title;}">
+        <Coords points="2703,1016 2889,1016 2889,1501 2703,1501 2703,1016"/>
+        <Baseline points="2790,1023 2810,1499"/>
+        <TextEquiv>
+          <Unicode>岳陽樓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112454" custom="structure {type:Author_name;}">
+        <Coords points="2781,1498 2904,1503 2904,1803 2781,1803 2781,1498"/>
+        <Baseline points="2842,1511 2870,1799"/>
+        <TextEquiv>
+          <Unicode>韓愈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112455" custom="structure {type:Title;}">
+        <Coords points="2734,1888 2899,1888 2907,2337 2735,2346 2734,1888"/>
+        <Baseline points="2822,1891 2838,2323"/>
+        <TextEquiv>
+          <Unicode>彭蠡湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112456" custom="structure {type:Author_name;}">
+        <Coords points="2799,2349 2913,2354 2910,2764 2799,2765 2799,2349"/>
+        <Baseline points="2862,2355 2882,2767"/>
+        <TextEquiv>
+          <Unicode>王介甫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112457" custom="structure {type:Title;}">
+        <Coords points="2747,2739 2905,2739 2905,3482 2747,3482 2747,2739"/>
+        <Baseline points="2826,2743 2834,3483"/>
+        <TextEquiv>
+          <Unicode>思故山鏡湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112458" custom="structure {type:Author_name;}">
+        <Coords points="2796,3459 2916,3469 2916,3899 2796,3894 2796,3459"/>
+        <Baseline points="2854,3467 2874,3895"/>
+        <TextEquiv>
+          <Unicode>陸務觀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112459" custom="structure {type:Title;}">
+        <Coords points="2512,807 2688,807 2688,1142 2512,1142 2512,807"/>
+        <Baseline points="2614,815 2642,1139"/>
+        <TextEquiv>
+          <Unicode>律詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112460" custom="structure {type:Title;}">
+        <Coords points="2311,1060 2507,1060 2507,1661 2311,1661 2311,1060"/>
+        <Baseline points="2398,1067 2434,1659"/>
+        <TextEquiv>
+          <Unicode>過洞庭湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112461" custom="structure {type:Author_name;}">
+        <Coords points="2386,1656 2559,1656 2559,1919 2386,1919 2386,1656"/>
+        <Baseline points="2458,1667 2486,1915"/>
+        <TextEquiv>
+          <Unicode>杜甫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112462" custom="structure {type:Title;}">
+        <Coords points="2332,1919 2512,1919 2512,2522 2332,2522 2332,1919"/>
+        <Baseline points="2434,2523 2442,1923"/>
+        <TextEquiv>
+          <Unicode>登岳陽樓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112463" custom="structure {type:Title;}">
+        <Coords points="2363,2723 2533,2723 2537,3353 2361,3356 2363,2723"/>
+        <Baseline points="2446,2727 2450,3331"/>
+        <TextEquiv>
+          <Unicode>宿青草湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112464" custom="structure {type:Commentary;}">
+        <Coords points="2430,3327 2582,3327 2582,3833 2430,3833 2430,3327"/>
+        <Baseline points="2498,3331 2510,3835"/>
+        <TextEquiv>
+          <Unicode>並同上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112465" custom="structure {type:Title;}">
+        <Coords points="2110,1026 2296,1026 2296,1625 2110,1625 2110,1026"/>
+        <Baseline points="2198,1031 2214,1627"/>
+        <TextEquiv>
+          <Unicode>渡青草湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112466" custom="structure {type:Author_name;}">
+        <Coords points="2182,1609 2347,1609 2347,1911 2182,1911 2182,1609"/>
+        <Baseline points="2254,1619 2274,1911"/>
+        <TextEquiv>
+          <Unicode>陰鑑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112467" custom="structure {type:Title;}">
+        <Coords points="2128,1903 2322,1903 2322,2463 2128,2463 2128,1903"/>
+        <Baseline points="2222,1911 2250,2463"/>
+        <TextEquiv>
+          <Unicode>泛宫亭湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112469" custom="structure {type:Author_name;}">
+        <Coords points="2193,2455 2355,2455 2355,2736 2193,2736 2193,2455"/>
+        <Baseline points="2274,2739 2278,2459"/>
+        <TextEquiv>
+          <Unicode>劉刪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112470" custom="structure {type:Title;}">
+        <Coords points="2131,2729 2324,2729 2324,3186 2135,3186 2131,2729"/>
+        <Baseline points="2234,2735 2250,3159"/>
+        <TextEquiv>
+          <Unicode>题太湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112471" custom="structure {type:Author_name;}">
+        <Coords points="2200,3177 2381,3177 2381,3608 2200,3608 2200,3177"/>
+        <Baseline points="2290,3187 2318,3611"/>
+        <TextEquiv>
+          <Unicode>羅處約</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112472" custom="structure {type:Title;}">
+        <Coords points="2160,3599 2339,3610 2341,3887 2160,3896 2160,3599"/>
+        <Baseline points="2234,3583 2240,3882"/>
+        <TextEquiv>
+          <Unicode>太湖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112473" custom="structure {type:Author_name;}">
+        <Coords points="2231,3892 2383,3892 2383,4160 2231,4160 2231,3892"/>
+        <Baseline points="2288,3899 2302,4163"/>
+        <TextEquiv>
+          <Unicode>蘇子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1127718" custom="structure {type:Author_name;}">
+        <Coords points="2138,3900 2239,3900 2239,4078 2138,4078 2138,3900"/>
+        <Baseline points="2184,3904 2189,4080"/>
+        <TextEquiv>
+          <Unicode>美</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112476" custom="structure {type:Title;}">
+        <Coords points="1745,1192 2084,1178 2098,2052 1750,2057 1745,1192"/>
+        <Baseline points="1902,1183 1922,2067"/>
+        <TextEquiv>
+          <Unicode>衆水附</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112475" custom="structure {type:Title;}">
+        <Coords points="1924,2055 2094,2055 2094,2373 1924,2373 1924,2055"/>
+        <Baseline points="1994,2063 2010,2371"/>
+        <TextEquiv>
+          <Unicode>水神</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112477" custom="structure {type:Title;}">
+        <Coords points="1728,2058 1898,2058 1898,2385 1728,2385 1728,2058"/>
+        <Baseline points="1842,2063 1846,2387"/>
+        <TextEquiv>
+          <Unicode>水惟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112478" custom="structure {type:Title;}">
+        <Coords points="1496,841 1677,830 1685,1463 1510,1469 1496,841"/>
+        <Baseline points="1590,831 1606,1467"/>
+        <TextEquiv>
+          <Unicode>古今事實</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112479" custom="structure {type:Title;}">
+        <Coords points="1305,1047 1483,1047 1496,1667 1306,1670 1305,1047"/>
+        <Baseline points="1406,1051 1410,1635"/>
+        <TextEquiv>
+          <Unicode>禹平浲水</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112480" custom="structure {type:Title;}">
+        <Coords points="1323,1919 1488,1919 1488,2538 1323,2538 1323,1919"/>
+        <Baseline points="1414,2539 1418,1923"/>
+        <TextEquiv>
+          <Unicode>溺水沉羽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112481" custom="structure {type:Title;}">
+        <Coords points="1315,2731 1501,2731 1501,3371 1315,3371 1315,2731"/>
+        <Baseline points="1398,3371 1430,2739"/>
+        <TextEquiv>
+          <Unicode>濯足濯纓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112482" custom="structure {type:Title;}">
+        <Coords points="1318,3551 1506,3551 1506,4222 1318,4222 1318,3551"/>
+        <Baseline points="1402,3555 1422,4223"/>
+        <TextEquiv>
+          <Unicode>瘴水杂腳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112483" custom="structure {type:Title;}">
+        <Coords points="1088,1060 1282,1060 1282,1674 1088,1674 1088,1060"/>
+        <Baseline points="1178,1063 1190,1675"/>
+        <TextEquiv>
+          <Unicode>無支初神</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112484" custom="structure {type:Commentary;}">
+        <Coords points="1166,1637 1344,1637 1344,2373 1166,2373 1166,1637"/>
+        <Baseline points="1242,1643 1254,2375"/>
+        <TextEquiv>
+          <Unicode>以下係水神</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112485" custom="structure {type:Title;}">
+        <Coords points="1109,2721 1284,2721 1284,3092 1109,3092 1109,2721"/>
+        <Baseline points="1198,2727 1226,3095"/>
+        <TextEquiv>
+          <Unicode>陽侯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112486" custom="structure {type:Title;}">
+        <Coords points="1130,3546 1346,3546 1346,3946 1130,3946 1130,3546"/>
+        <Baseline points="1218,3551 1222,3947"/>
+        <TextEquiv>
+          <Unicode>靈夷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112487" custom="structure {type:Title;}">
+        <Coords points="913,1075 1075,1075 1075,1398 913,1398 913,1075"/>
+        <Baseline points="974,1079 978,1399"/>
+        <TextEquiv>
+          <Unicode>馮夷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112488" custom="structure {type:Title;}">
+        <Coords points="900,1895 1081,1895 1081,2540 900,2540 900,1895"/>
+        <Baseline points="994,2543 1014,1903"/>
+        <TextEquiv>
+          <Unicode>河伯娶婦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112489" custom="structure {type:Title;}">
+        <Coords points="918,2767 1088,2767 1088,3345 918,3345 918,2767"/>
+        <Baseline points="990,2771 994,3347"/>
+        <TextEquiv>
+          <Unicode>燃犀照水</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112490" custom="structure {type:Commentary;}">
+        <Coords points="962,3353 1145,3353 1145,4049 962,4049 962,3353"/>
+        <Baseline points="1042,3355 1042,4051"/>
+        <TextEquiv>
+          <Unicode>以下係水恠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112491" custom="structure {type:Title;}">
+        <Coords points="706,1044 877,1044 877,1689 706,1689 706,1044"/>
+        <Baseline points="794,1047 794,1691"/>
+        <TextEquiv>
+          <Unicode>蜃精水害</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112492" custom="structure {type:Title;}">
+        <Coords points="714,1913 877,1913 877,2277 714,2277 714,1913"/>
+        <Baseline points="798,1919 806,2279"/>
+        <TextEquiv>
+          <Unicode>天吳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112493" custom="structure {type:Title;}">
+        <Coords points="699,2695 882,2695 882,3082 699,3082 699,2695"/>
+        <Baseline points="794,2703 826,3079"/>
+        <TextEquiv>
+          <Unicode>含沙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>岳陽樓
+韓愈
+彭蠡湖
+王介甫
+思故山鏡湖
+陸務觀
+律詩
+過洞庭湖
+杜甫
+登岳陽樓
+宿青草湖
+並同上
+渡青草湖
+陰鑑
+泛宫亭湖
+劉刪
+题太湖
+羅處約
+太湖
+蘇子
+美
+衆水附
+水神
+水惟
+古今事實
+禹平浲水
+溺水沉羽
+濯足濯纓
+瘴水杂腳
+無支初神
+以下係水神
+陽侯
+靈夷
+馮夷
+河伯娶婦
+燃犀照水
+以下係水恠
+蜃精水害
+天吳
+含沙
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117977" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="552,847 716,847 716,4202 591,4202 552,847"/>
+      <TextLine id="1112494" custom="structure {type:Title;}">
+        <Coords points="582,841 694,835 694,1717 579,1724 582,841"/>
+        <Baseline points="622,839 630,1719"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112495" custom="structure {type:Section;}">
+        <Coords points="596,1913 670,1913 670,2306 599,2312 596,1913"/>
+        <Baseline points="626,1915 626,2307"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112496" custom="structure {type:Page_Number;}">
+        <Coords points="599,2897 681,2899 681,3216 605,3214 599,2897"/>
+        <Baseline points="614,2903 622,3219"/>
+        <TextEquiv>
+          <Unicode>四九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112497" custom="structure {type:Marginalia;}">
+        <Coords points="608,3423 737,3420 737,4090 610,4094 608,3423"/>
+        <Baseline points="630,3427 654,4091"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+目錄
+四九
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

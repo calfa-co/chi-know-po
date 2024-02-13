@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:06+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0054.jpg" imageHeight="4227" imageWidth="5057">
+    <TextRegion id="121073" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4631,846 4790,835 4801,3709 4693,3709 4631,846"/>
+      <TextLine id="1139208" custom="structure {type:Title;}">
+        <Coords points="4690,821 4770,821 4770,1308 4690,1308 4690,821"/>
+        <Baseline points="4744,824 4744,1310"/>
+        <TextEquiv>
+          <Unicode>尸子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139209" custom="structure {type:Page_Number;}">
+        <Coords points="4681,2839 4779,2839 4779,3045 4681,3045 4681,2839"/>
+        <Baseline points="4750,2843 4756,2987"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>尸子
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121074" custom="structure {type:MainText_Right;}">
+      <Coords points="2611,880 4631,846 4682,3697 2685,3737 2611,880"/>
+      <TextLine id="1139211" custom="structure {type:Text;}">
+        <Coords points="4432,1134 4676,1134 4676,3703 4432,3703 4432,1134"/>
+        <Baseline points="4507,1140 4583,3704"/>
+        <TextEquiv>
+          <Unicode>書經籍志尸子二十卷其九篙丛魏黄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139212" custom="structure {type:Text;}">
+        <Coords points="4223,1171 4425,1171 4425,3698 4223,3698 4223,1171"/>
+        <Baseline points="4307,1176 4355,3700"/>
+        <TextEquiv>
+          <Unicode>初中續是唐時已闕宋尤袤遂初堂尚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139213" custom="structure {type:Text;}">
+        <Coords points="3995,1143 4190,1143 4190,3715 3995,3715 3995,1143"/>
+        <Baseline points="4087,1148 4119,3716"/>
+        <TextEquiv>
+          <Unicode>有傅木元明日來絕無著錄盇全本久</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139214" custom="structure {type:Text;}">
+        <Coords points="3760,1136 3974,1136 3974,3731 3760,3731 3760,1136"/>
+        <Baseline points="3831,1140 3915,3732"/>
+        <TextEquiv>
+          <Unicode>佚世所見者歐陽氏蘭文頻聚虞氏北</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139215" custom="structure {type:Text;}">
+        <Coords points="3537,1141 3739,1141 3739,3747 3537,3747 3537,1141"/>
+        <Baseline points="3619,1144 3671,3748"/>
+        <TextEquiv>
+          <Unicode>堂書鈔諸書所引而已余家舊藏子書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139216" custom="structure {type:Text;}">
+        <Coords points="3304,1160 3513,1160 3513,3733 3304,3733 3304,1160"/>
+        <Baseline points="3386,1164 3454,3736"/>
+        <TextEquiv>
+          <Unicode>雑錄數種内有尸子三篇乃先世來青</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139217" custom="structure {type:Text;}">
+        <Coords points="3086,1153 3288,1153 3288,3747 3086,3747 3086,1153"/>
+        <Baseline points="3170,1156 3218,3748"/>
+        <TextEquiv>
+          <Unicode>樓所遺本既聞諸舊友余處士蕭客云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139218" custom="structure {type:Text;}">
+        <Coords points="2856,1183 3051,1183 3051,3750 2856,3750 2856,1183"/>
+        <Baseline points="2942,1188 2982,3752"/>
+        <TextEquiv>
+          <Unicode>紅豆惠先生嚮冇手鈔本後偏訪之今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139219" custom="structure {type:Text;}">
+        <Coords points="2635,1195 2792,1195 2792,1563 2635,1563 2635,1195"/>
+        <Baseline points="2714,1200 2730,1564"/>
+        <TextEquiv>
+          <Unicode>得亏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139220" custom="structure {type:Text;}">
+        <Coords points="2663,2200 2849,2200 2849,3759 2663,3759 2663,2200"/>
+        <Baseline points="2746,2204 2774,3760"/>
+        <TextEquiv>
+          <Unicode>處亦止會萃諸書而爲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>書經籍志尸子二十卷其九篙丛魏黄
+初中續是唐時已闕宋尤袤遂初堂尚
+有傅木元明日來絕無著錄盇全本久
+佚世所見者歐陽氏蘭文頻聚虞氏北
+堂書鈔諸書所引而已余家舊藏子書
+雑錄數種内有尸子三篇乃先世來青
+樓所遺本既聞諸舊友余處士蕭客云
+紅豆惠先生嚮冇手鈔本後偏訪之今
+得亏
+處亦止會萃諸書而爲
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121075" custom="structure {type:MainText_Left;}">
+      <Coords points="382,886 2430,886 2425,3737 416,3697 382,886"/>
+      <TextLine id="1139221" custom="structure {type:Title;}">
+        <Coords points="2240,1169 2412,1169 2412,3754 2240,3754 2240,1169"/>
+        <Baseline points="2310,1172 2318,3756"/>
+        <TextEquiv>
+          <Unicode>之乃取余家舊本所未見者錄之别附</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139222" custom="structure {type:Title;}">
+        <Coords points="2012,1192 2186,1192 2186,3738 2012,3738 2012,1192"/>
+        <Baseline points="2094,3740 2110,1196"/>
+        <TextEquiv>
+          <Unicode>于後云乾隆五十有二年夏四月震澤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139223" custom="structure {type:Title;}">
+        <Coords points="1787,1169 1961,1169 1961,2907 1787,2907 1787,1169"/>
+        <Baseline points="1870,2908 1890,1172"/>
+        <TextEquiv>
+          <Unicode>任兆麟交田氏校畢併記</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139224" custom="structure {type:Author_name;}">
+        <Coords points="1329,2003 1500,2003 1500,3193 1329,3193 1329,2003"/>
+        <Baseline points="1418,2004 1430,3196"/>
+        <TextEquiv>
+          <Unicode>迂窗學人張犀芊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139225" custom="structure {type:Author_name;}">
+        <Coords points="1336,3358 1507,3358 1507,3531 1336,3531 1336,3358"/>
+        <Baseline points="1402,3360 1402,3532"/>
+        <TextEquiv>
+          <Unicode>訂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139226" custom="structure {type:Text;}">
+        <Coords points="873,847 1061,847 1061,3691 873,3691 873,847"/>
+        <Baseline points="962,3692 994,852"/>
+        <TextEquiv>
+          <Unicode>乾隆戊申仲夏月堅嘉定錢大昕觀于吳門</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139227" custom="structure {type:Text;}">
+        <Coords points="667,845 826,845 826,1246 667,1246 667,845"/>
+        <Baseline points="754,1248 758,848"/>
+        <TextEquiv>
+          <Unicode>寓齋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之乃取余家舊本所未見者錄之别附
+于後云乾隆五十有二年夏四月震澤
+任兆麟交田氏校畢併記
+迂窗學人張犀芊
+訂
+乾隆戊申仲夏月堅嘉定錢大昕觀于吳門
+寓齋
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121076" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="235,874 365,874 410,3714 297,3720 235,874"/>
+      <TextLine id="1139228" custom="structure {type:Title;}">
+        <Coords points="228,870 332,856 326,1218 238,1223 228,870"/>
+        <Baseline points="266,1220 282,852"/>
+        <TextEquiv>
+          <Unicode>尸子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139229" custom="structure {type:Section;}">
+        <Coords points="274,1834 400,1835 403,2192 274,2190 274,1834"/>
+        <Baseline points="346,1836 346,2192"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139230" custom="structure {type:Page_Number;}">
+        <Coords points="272,2871 380,2867 380,3085 272,3086 272,2871"/>
+        <Baseline points="320,3031 324,2875"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>尸子
+目錄
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

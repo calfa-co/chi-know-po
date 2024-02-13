@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:02+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB_3705_01_03_0013.jpg" imageHeight="4624" imageWidth="5898">
+    <TextRegion id="128482" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5152,822 5292,814 5316,4154 5208,4154 5152,822"/>
+      <TextLine id="1176143" custom="structure {type:Title;}">
+        <Coords points="5170,806 5299,806 5299,1664 5170,1664 5170,806"/>
+        <Baseline points="5244,1666 5248,810"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176144" custom="structure {type:Section;}">
+        <Coords points="5173,1841 5330,1841 5330,2340 5173,2340 5173,1841"/>
+        <Baseline points="5240,1846 5244,2342"/>
+        <TextEquiv>
+          <Unicode>卷之一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176145" custom="structure {type:Page_Number;}">
+        <Coords points="5188,2895 5270,2895 5270,3149 5188,3149 5188,2895"/>
+        <Baseline points="5244,3150 5248,2898"/>
+        <TextEquiv>
+          <Unicode>十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176146" custom="structure {type:Marginalia;}">
+        <Coords points="5192,3362 5334,3379 5328,4058 5204,4058 5192,3362"/>
+        <Baseline points="5256,3370 5272,4054"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之一
+十一
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128483" custom="structure {type:MainText_Right;}">
+      <Coords points="2920,858 4268,846 5144,826 5192,4150 3416,4182 2968,4170 2920,858"/>
+      <TextLine id="1176147" custom="structure {type:Text;}">
+        <Coords points="4977,798 5173,798 5173,4164 4977,4164 4977,798"/>
+        <Baseline points="5084,802 5100,4166"/>
+        <TextEquiv>
+          <Unicode>字下靣必不更着真體字正是架屋下之屋虚见之舆實见其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176148" custom="structure {type:Text;}">
+        <Coords points="4774,804 4952,804 4952,1687 4774,1687 4774,804"/>
+        <Baseline points="4876,806 4876,1690"/>
+        <TextEquiv>
+          <Unicode>言固自不同也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176149" custom="structure {type:Commentary;}">
+        <Coords points="4561,899 4777,899 4777,4177 4561,4177 4561,899"/>
+        <Baseline points="4676,902 4716,4178"/>
+        <TextEquiv>
+          <Unicode>某亦谓老兄正爲未識太極之本無極而有真體故也以中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176150" custom="structure {type:Commentary;}">
+        <Coords points="4348,935 4574,935 4574,4179 4348,4179 4348,935"/>
+        <Baseline points="4440,938 4488,4182"/>
+        <TextEquiv>
+          <Unicode>訓極而又以陰陽爲形而上者之道虚見之與實見其言果</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176151" custom="structure {type:Commentary;}">
+        <Coords points="4140,929 4317,929 4317,1464 4140,1464 4140,929"/>
+        <Baseline points="4248,934 4272,1466"/>
+        <TextEquiv>
+          <Unicode>不同也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176152" custom="structure {type:Text;}">
+        <Coords points="3926,834 4147,834 4147,4179 3926,4179 3926,834"/>
+        <Baseline points="4032,838 4068,4182"/>
+        <TextEquiv>
+          <Unicode>來書云老氏以無爲天地之始以有爲萬物之終以常無觀玅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176153" custom="structure {type:Text;}">
+        <Coords points="3734,827 3931,827 3931,4076 3734,4076 3734,827"/>
+        <Baseline points="3840,830 3864,4078"/>
+        <TextEquiv>
+          <Unicode>以常有觀徼直将無字搭在上靣正是老氏之學豈可諱也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176154" custom="structure {type:Commentary;}">
+        <Coords points="3515,927 3734,927 3734,4200 3515,4200 3515,927"/>
+        <Baseline points="3616,930 3660,4202"/>
+        <TextEquiv>
+          <Unicode>其詳老氏之言有無以有無爲二周子之言有無以有無爲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176155" custom="structure {type:Commentary;}">
+        <Coords points="3325,1007 3518,1007 3518,4200 3325,4200 3325,1007"/>
+        <Baseline points="3424,1010 3444,4202"/>
+        <TextEquiv>
+          <Unicode>一正如南北水火之相反更請子細着眼未可容易詳評也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176156" custom="structure {type:Text;}">
+        <Coords points="3117,822 3312,822 3312,4215 3117,4215 3117,822"/>
+        <Baseline points="3228,826 3244,4218"/>
+        <TextEquiv>
+          <Unicode>來書云此理乃宇宙之所固有豈可言無若以爲無則君不君</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176157" custom="structure {type:Text;}">
+        <Coords points="2898,827 3099,827 3099,2304 2898,2304 2898,827"/>
+        <Baseline points="2984,830 3036,2302"/>
+        <TextEquiv>
+          <Unicode>臣不臣父不父子不子矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>字下靣必不更着真體字正是架屋下之屋虚见之舆實见其
+言固自不同也
+某亦谓老兄正爲未識太極之本無極而有真體故也以中
+訓極而又以陰陽爲形而上者之道虚見之與實見其言果
+不同也
+來書云老氏以無爲天地之始以有爲萬物之終以常無觀玅
+以常有觀徼直将無字搭在上靣正是老氏之學豈可諱也
+其詳老氏之言有無以有無爲二周子之言有無以有無爲
+一正如南北水火之相反更請子細着眼未可容易詳評也
+來書云此理乃宇宙之所固有豈可言無若以爲無則君不君
+臣不臣父不父子不子矣
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128484" custom="structure {type:MainText_Left;}">
+      <Coords points="637,814 2856,838 2828,4186 2616,4186 625,4166 637,814"/>
+      <TextLine id="1176158" custom="structure {type:Commentary;}">
+        <Coords points="2695,919 2868,919 2868,2969 2695,2969 2695,919"/>
+        <Baseline points="2772,926 2820,2970"/>
+        <TextEquiv>
+          <Unicode>更請詳看某前書曾有無理二字否</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176159" custom="structure {type:Text;}">
+        <Coords points="2505,806 2708,806 2708,4200 2505,4200 2505,806"/>
+        <Baseline points="2600,810 2620,4202"/>
+        <TextEquiv>
+          <Unicode>來書云極亦此理也中亦此理也五居九畴之中而曰皇極豈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176160" custom="structure {type:Text;}">
+        <Coords points="2294,791 2505,791 2505,4207 2294,4207 2294,791"/>
+        <Baseline points="2380,794 2424,4210"/>
+        <TextEquiv>
+          <Unicode>非以其中而命之乎民受天地之中以生而詩言立我烝民莫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176161" custom="structure {type:Text;}">
+        <Coords points="2076,793 2271,793 2271,4205 2076,4205 2076,793"/>
+        <Baseline points="2177,798 2193,4206"/>
+        <TextEquiv>
+          <Unicode>匪爾極豈非以其中而命之乎中庸曰中也者天下之大本也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176162" custom="structure {type:Text;}">
+        <Coords points="1870,801 2053,801 2053,4177 1870,4177 1870,801"/>
+        <Baseline points="1969,4178 1973,806"/>
+        <TextEquiv>
+          <Unicode>和也者天下之達道也致中和天地位焉萬物育焉此理至矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176163" custom="structure {type:Text;}">
+        <Coords points="1673,801 1858,801 1858,2011 1673,2011 1673,801"/>
+        <Baseline points="1785,2014 1789,806"/>
+        <TextEquiv>
+          <Unicode>此豈更復有太極哉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176164" custom="structure {type:Commentary;}">
+        <Coords points="1454,922 1655,922 1655,4192 1454,4192 1454,922"/>
+        <Baseline points="1549,926 1577,4194"/>
+        <TextEquiv>
+          <Unicode>極是各此理之至極中是狀此理之不偏雖然同是此理然</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176165" custom="structure {type:Commentary;}">
+        <Coords points="1248,914 1439,914 1439,4205 1248,4205 1248,914"/>
+        <Baseline points="1357,4206 1377,918"/>
+        <TextEquiv>
+          <Unicode>其名義各有攸當難聖賢言之亦未嘗敢有所差互也若皇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176166" custom="structure {type:Commentary;}">
+        <Coords points="1045,942 1238,942 1238,4200 1045,4200 1045,942"/>
+        <Baseline points="1149,946 1161,4202"/>
+        <TextEquiv>
+          <Unicode>極之極民極之極乃爲標准之意猶曰立於此而示於彼使</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176167" custom="structure {type:Commentary;}">
+        <Coords points="848,929 1035,929 1035,4184 848,4184 848,929"/>
+        <Baseline points="949,934 961,4186"/>
+        <TextEquiv>
+          <Unicode>其有所向望而取正焉而非以其中而命之也立我蒸民立</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176168" custom="structure {type:Commentary;}">
+        <Coords points="624,929 822,929 822,4169 624,4169 624,929"/>
+        <Baseline points="737,4170 757,934"/>
+        <TextEquiv>
+          <Unicode>與粒通師書所謂蒸民乃粒莫匪爾極則而指后稷而言蓋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>更請詳看某前書曾有無理二字否
+來書云極亦此理也中亦此理也五居九畴之中而曰皇極豈
+非以其中而命之乎民受天地之中以生而詩言立我烝民莫
+匪爾極豈非以其中而命之乎中庸曰中也者天下之大本也
+和也者天下之達道也致中和天地位焉萬物育焉此理至矣
+此豈更復有太極哉
+極是各此理之至極中是狀此理之不偏雖然同是此理然
+其名義各有攸當難聖賢言之亦未嘗敢有所差互也若皇
+極之極民極之極乃爲標准之意猶曰立於此而示於彼使
+其有所向望而取正焉而非以其中而命之也立我蒸民立
+與粒通師書所謂蒸民乃粒莫匪爾極則而指后稷而言蓋
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128485" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="513,822 625,822 633,4190 525,4194 513,822"/>
+      <TextLine id="1176169" custom="structure {type:Title;}">
+        <Coords points="524,791 627,791 627,1713 524,1713 524,791"/>
+        <Baseline points="573,794 577,1714"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176170" custom="structure {type:Section;}">
+        <Coords points="493,1880 629,1880 629,2319 493,2319 493,1880"/>
+        <Baseline points="557,1886 573,2322"/>
+        <TextEquiv>
+          <Unicode>卷之一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176171" custom="structure {type:Page_Number;}">
+        <Coords points="537,2887 614,2887 614,3182 537,3182 537,2887"/>
+        <Baseline points="557,2894 589,3182"/>
+        <TextEquiv>
+          <Unicode>十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176172" custom="structure {type:Marginalia;}">
+        <Coords points="509,3444 613,3415 616,4017 509,4072 509,3444"/>
+        <Baseline points="557,4018 581,3418"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之一
+十七
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

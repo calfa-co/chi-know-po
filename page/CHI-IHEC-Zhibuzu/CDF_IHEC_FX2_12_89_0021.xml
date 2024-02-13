@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:50+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_12_89_0021.jpg" imageHeight="3095" imageWidth="3494">
+    <TextRegion id="115940" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3155,1137 3243,1140 3236,1601 3162,1596 3155,1137"/>
+      <TextLine id="1093586" custom="structure {type:Section;}">
+        <Coords points="3156,1142 3229,1142 3234,1596 3150,1585 3156,1142"/>
+        <Baseline points="3198,1121 3205,1587"/>
+        <TextEquiv>
+          <Unicode>詩義指南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩義指南
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115939" custom="structure {type:MainText_Right;}">
+      <Coords points="1747,647 3149,647 3149,2646 1747,2646 1747,647"/>
+      <TextLine id="1093576" custom="structure {type:Text;}">
+        <Coords points="2998,772 3138,772 3141,2643 2999,2645 2998,772"/>
+        <Baseline points="3069,775 3072,2625"/>
+        <TextEquiv>
+          <Unicode>因時物之異有以惑行役之勞歌時物之異</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093577" custom="structure {type:Text;}">
+        <Coords points="2847,773 2981,773 2981,1547 2847,1547 2847,773"/>
+        <Baseline points="2919,1549 2919,775"/>
+        <TextEquiv>
+          <Unicode>所以慰行役之勞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093578" custom="structure {type:Title;}">
+        <Coords points="2685,661 2828,661 2827,2638 2685,2643 2685,661"/>
+        <Baseline points="2759,2625 2768,665"/>
+        <TextEquiv>
+          <Unicode>春日遲遲卉木萋萋倉庚階階采蘩祁祁執訊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093579" custom="structure {type:Title;}">
+        <Coords points="2536,658 2675,658 2675,1339 2535,1334 2536,658"/>
+        <Baseline points="2606,661 2613,1318"/>
+        <TextEquiv>
+          <Unicode>獲醜薄言還歸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093580" custom="structure {type:Text;}">
+        <Coords points="2379,768 2519,768 2519,2309 2379,2309 2379,768"/>
+        <Baseline points="2450,772 2455,2310"/>
+        <TextEquiv>
+          <Unicode>時物之美固可樂武功之成尢可榮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093582" custom="structure {type:Title;}">
+        <Coords points="2223,658 2359,658 2361,2088 2226,2107 2223,658"/>
+        <Baseline points="2293,2080 2298,661"/>
+        <TextEquiv>
+          <Unicode>魚麗于置羀鱨鯊君子有酒旨且多</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093581" custom="structure {type:Commentary;}">
+        <Coords points="2271,2087 2386,2087 2386,2305 2271,2305 2271,2087"/>
+        <Baseline points="2333,2307 2336,2090"/>
+        <TextEquiv>
+          <Unicode>魚麗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093583" custom="structure {type:Text;}">
+        <Coords points="2061,778 2206,778 2207,2640 2054,2640 2061,778"/>
+        <Baseline points="2135,2627 2140,782"/>
+        <TextEquiv>
+          <Unicode>人之取物固所以備莊燕禮之盛人之有德斯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093584" custom="structure {type:Text;}">
+        <Coords points="1913,766 2053,766 2057,1563 1909,1558 1913,766"/>
+        <Baseline points="1982,770 1986,1537"/>
+        <TextEquiv>
+          <Unicode>足以為燕禮之美</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093585" custom="structure {type:Text;}">
+        <Coords points="1750,772 1891,772 1895,2643 1750,2643 1750,772"/>
+        <Baseline points="1817,775 1822,2632"/>
+        <TextEquiv>
+          <Unicode>知禮之因物而後行當知物之因人而後重</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>因時物之異有以惑行役之勞歌時物之異
+所以慰行役之勞
+春日遲遲卉木萋萋倉庚階階采蘩祁祁執訊
+獲醜薄言還歸
+時物之美固可樂武功之成尢可榮
+魚麗于置羀鱨鯊君子有酒旨且多
+魚麗
+人之取物固所以備莊燕禮之盛人之有德斯
+足以為燕禮之美
+知禮之因物而後行當知物之因人而後重
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115938" custom="structure {type:MainText_Left;}">
+      <Coords points="246,674 1672,674 1672,2663 287,2659 246,674"/>
+      <TextLine id="1093567" custom="structure {type:Title;}">
+        <Coords points="1511,674 1654,674 1660,2669 1510,2669 1511,674"/>
+        <Baseline points="1581,677 1600,2646"/>
+        <TextEquiv>
+          <Unicode>物其多矣維其嘉矣物其旨矣維其偕矣物其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093568" custom="structure {type:Title;}">
+        <Coords points="1353,679 1506,679 1510,1370 1360,1368 1353,679"/>
+        <Baseline points="1428,682 1437,1336"/>
+        <TextEquiv>
+          <Unicode>有矣維其時矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093569" custom="structure {type:Text;}">
+        <Coords points="1201,775 1353,775 1362,2662 1205,2666 1201,775"/>
+        <Baseline points="1275,778 1289,2641"/>
+        <TextEquiv>
+          <Unicode>燕享之盛固足以見君子之禮物類之盛尢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093570" custom="structure {type:Text;}">
+        <Coords points="1045,785 1183,785 1196,1572 1046,1577 1045,785"/>
+        <Baseline points="1121,789 1126,1542"/>
+        <TextEquiv>
+          <Unicode>足以見君子之仁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093571" custom="structure {type:Text;}">
+        <Coords points="885,785 1040,785 1040,2675 885,2675 885,785"/>
+        <Baseline points="961,789 982,2676"/>
+        <TextEquiv>
+          <Unicode>觀君子之用物以禮當觀君子之成物以仁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093572" custom="structure {type:Title;}">
+        <Coords points="730,691 882,691 896,2674 737,2664 730,691"/>
+        <Baseline points="804,694 821,2642"/>
+        <TextEquiv>
+          <Unicode>南有嘉魚烝然罩罩君子有酒嘉賓式燕以樂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093573" custom="structure {type:Commentary;}">
+        <Coords points="639,691 754,691 754,1115 639,1115 639,691"/>
+        <Baseline points="691,694 694,1117"/>
+        <TextEquiv>
+          <Unicode>南有嘉魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093574" custom="structure {type:Text;}">
+        <Coords points="422,792 569,792 580,2569 432,2569 422,792"/>
+        <Baseline points="498,796 510,2553"/>
+        <TextEquiv>
+          <Unicode>燕享固貴乎得物之美尢貴乎得人之賢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093575" custom="structure {type:Text;}">
+        <Coords points="263,789 419,789 420,2657 283,2659 263,789"/>
+        <Baseline points="333,792 349,2066 362,2639"/>
+        <TextEquiv>
+          <Unicode>觀君子取物之不一尢當觀君子取人之不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>物其多矣維其嘉矣物其旨矣維其偕矣物其
+有矣維其時矣
+燕享之盛固足以見君子之禮物類之盛尢
+足以見君子之仁
+觀君子之用物以禮當觀君子之成物以仁
+南有嘉魚烝然罩罩君子有酒嘉賓式燕以樂
+南有嘉魚
+燕享固貴乎得物之美尢貴乎得人之賢
+觀君子取物之不一尢當觀君子取人之不
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115937" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="177,1152 256,1152 280,2666 197,2678 177,1152"/>
+      <TextLine id="1093566" custom="structure {type:Section;}">
+        <Coords points="180,1147 245,1146 245,1609 175,1603 180,1147"/>
+        <Baseline points="204,1149 211,1610"/>
+        <TextEquiv>
+          <Unicode>詩義指南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093565" custom="structure {type:Page_Number;}">
+        <Coords points="195,2077 271,2077 275,2193 190,2188 195,2077"/>
+        <Baseline points="235,2080 237,2186"/>
+        <TextEquiv>
+          <Unicode>十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1131345" custom="structure {type:Title;}">
+        <Coords points="202,2183 256,2183 278,2656 202,2651 202,2183"/>
+        <Baseline points="230,2185 240,2654"/>
+        <TextEquiv>
+          <Unicode>知不足齋叢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩義指南
+十六
+知不足齋叢書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,317 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:30+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-14_0018.jpg" imageHeight="3500" imageWidth="1869">
+    <TextRegion id="117235" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1755,1288 1807,1288 1802,2384 1750,2382 1755,1288"/>
+      <TextLine id="1104824" custom="structure {type:Section;}">
+        <Coords points="1749,1380 1801,1382 1802,1643 1749,1644 1749,1380"/>
+        <Baseline points="1776,1640 1779,1385"/>
+        <TextEquiv>
+          <Unicode>文三十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104825" custom="structure {type:Page_Number;}">
+        <Coords points="1760,2312 1794,2302 1799,2361 1746,2358 1760,2312"/>
+        <Baseline points="1781,2301 1781,2360"/>
+        <TextEquiv>
+          <Unicode>七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文三十九
+七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117236" custom="structure {type:MainText;}">
+      <Coords points="202,850 1748,836 1740,3169 235,3202 202,850"/>
+      <TextLine id="1104826" custom="structure {type:Commentary;}">
+        <Coords points="1670,846 1749,846 1742,1269 1671,1269 1670,846"/>
+        <Baseline points="1699,844 1714,1257"/>
+        <TextEquiv>
+          <Unicode>晉書注以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104827" custom="structure {type:Commentary;}">
+        <Coords points="1599,851 1670,851 1670,1192 1597,1192 1599,851"/>
+        <Baseline points="1634,852 1634,1186"/>
+        <TextEquiv>
+          <Unicode>瑋為諱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104828" custom="structure {type:Text;}">
+        <Coords points="1597,2620 1596,2168 1597,1276 1742,1276 1740,1725 1740,2174 1749,3062 1599,3062 1597,2620"/>
+        <Baseline points="1668,1279 1685,3059"/>
+        <TextEquiv>
+          <Unicode>卒仆濟北囚弟於雍者豈非象新垣等哉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104829" custom="structure {type:Commentary;}">
+        <Coords points="1678,3066 1750,3062 1749,3167 1678,3172 1678,3066"/>
+        <Baseline points="1708,3061 1725,3163"/>
+        <TextEquiv>
+          <Unicode>善</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104830" custom="structure {type:Commentary;}">
+        <Coords points="1616,3079 1680,3072 1680,3157 1614,3160 1616,3079"/>
+        <Baseline points="1648,3073 1648,3158"/>
+        <TextEquiv>
+          <Unicode>曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104831" custom="structure {type:Commentary;}">
+        <Coords points="1516,2003 1515,1424 1518,844 1592,846 1602,3153 1525,3160 1516,2003"/>
+        <Baseline points="1552,844 1564,3155"/>
+        <TextEquiv>
+          <Unicode>漢書曰濟北王興居聞帝之代乃反棘蒱侯擊之興居</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104832" custom="structure {type:Commentary;}">
+        <Coords points="1442,2006 1439,851 1518,846 1516,2004 1528,3157 1451,3163 1442,2006"/>
+        <Baseline points="1487,855 1496,3158"/>
+        <TextEquiv>
+          <Unicode>自殺又曰淮南王道死雍應劭曰二國有姦臣如新垣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104833" custom="structure {type:Commentary;}">
+        <Coords points="1365,851 1439,847 1434,1274 1360,1276 1365,851"/>
+        <Baseline points="1400,1279 1402,850"/>
+        <TextEquiv>
+          <Unicode>平等勸王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104834" custom="structure {type:Commentary;}">
+        <Coords points="1298,854 1362,849 1365,1169 1293,1174 1298,854"/>
+        <Baseline points="1323,850 1323,1169"/>
+        <TextEquiv>
+          <Unicode>共反也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104835" custom="structure {type:Text;}">
+        <Coords points="1294,1868 1296,1281 1441,1281 1439,2443 1298,2452 1294,1868"/>
+        <Baseline points="1360,1285 1371,2448"/>
+        <TextEquiv>
+          <Unicode>今天子新據先帝之遺業</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104836" custom="structure {type:Commentary;}">
+        <Coords points="1374,2810 1368,2445 1442,2443 1452,3169 1375,3173 1374,2810"/>
+        <Baseline points="1405,2446 1419,3170"/>
+        <TextEquiv>
+          <Unicode>善曰今天子景帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104837" custom="structure {type:Commentary;}">
+        <Coords points="1293,2450 1370,2453 1377,3052 1296,3057 1293,2450"/>
+        <Baseline points="1332,2454 1337,3054"/>
+        <TextEquiv>
+          <Unicode>也先帝文帝也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104838" custom="structure {type:Text;}">
+        <Coords points="1136,852 1288,847 1298,3177 1163,3183 1136,852"/>
+        <Baseline points="1213,844 1233,3175"/>
+        <TextEquiv>
+          <Unicode>左規山東右制關中變權易勢大臣難知大王弗察臣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104839" custom="structure {type:Text;}">
+        <Coords points="988,849 1139,851 1138,1666 988,1675 988,849"/>
+        <Baseline points="1057,855 1069,1661"/>
+        <TextEquiv>
+          <Unicode>恐周鼎復起於漢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104840" custom="structure {type:Commentary;}">
+        <Coords points="1072,2793 1067,2415 1062,2050 1056,1675 1141,1670 1155,3163 1072,3167 1072,2793"/>
+        <Baseline points="1094,1673 1114,3160"/>
+        <TextEquiv>
+          <Unicode>如湻曰新垣平詐言周鼎在泗水中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104841" custom="structure {type:Commentary;}">
+        <Coords points="988,2423 983,2045 988,1681 1057,1671 1059,2045 1069,2423 1072,3177 993,3178 988,2423"/>
+        <Baseline points="1023,1673 1038,3175"/>
+        <TextEquiv>
+          <Unicode>臣望東北汾陰有金寶氣鼎在其中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104842" custom="structure {type:Commentary;}">
+        <Coords points="909,1458 903,849 985,847 987,2076 906,2075 909,1458"/>
+        <Baseline points="944,850 947,2077"/>
+        <TextEquiv>
+          <Unicode>弗迎則不至為吳計者猶新</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104843" custom="structure {type:Commentary;}">
+        <Coords points="829,1459 829,851 904,852 908,2070 829,2067 829,1459"/>
+        <Baseline points="865,852 868,2071"/>
+        <TextEquiv>
+          <Unicode>垣平之言周鼎終不可得也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104844" custom="structure {type:Text;}">
+        <Coords points="830,2072 988,2080 988,2754 829,2751 830,2072"/>
+        <Baseline points="907,2066 922,2756"/>
+        <TextEquiv>
+          <Unicode>新垣過計於朝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104845" custom="structure {type:Commentary;}">
+        <Coords points="921,2763 992,2760 993,3044 923,3042 921,2763"/>
+        <Baseline points="953,2762 964,3044"/>
+        <TextEquiv>
+          <Unicode>服虔曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104846" custom="structure {type:Commentary;}">
+        <Coords points="834,2758 919,2761 916,3045 839,3045 834,2758"/>
+        <Baseline points="879,2753 885,3050"/>
+        <TextEquiv>
+          <Unicode>過誤也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104847" custom="structure {type:Text;}">
+        <Coords points="853,3050 984,3050 984,3179 853,3179 853,3050"/>
+        <Baseline points="924,3056 930,3180"/>
+        <TextEquiv>
+          <Unicode>則</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104848" custom="structure {type:Text;}">
+        <Coords points="679,1922 682,1384 686,854 827,854 824,2993 694,2997 679,1922"/>
+        <Baseline points="752,850 769,3002"/>
+        <TextEquiv>
+          <Unicode>我吳遺嗣不可期於世矣高皇帝燒棧道灌章邯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104849" custom="structure {type:Commentary;}">
+        <Coords points="755,2998 839,2993 840,3185 753,3185 755,2998"/>
+        <Baseline points="797,2988 808,3186"/>
+        <TextEquiv>
+          <Unicode>應劭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104850" custom="structure {type:Commentary;}">
+        <Coords points="697,3000 756,3000 756,3185 694,3185 697,3000"/>
+        <Baseline points="729,3002 729,3186"/>
+        <TextEquiv>
+          <Unicode>曰章</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104851" custom="structure {type:Commentary;}">
+        <Coords points="608,2581 600,2003 598,1424 605,1305 605,1138 602,847 679,852 684,2003 686,3160 612,3160 608,2581"/>
+        <Baseline points="633,850 656,3160"/>
+        <TextEquiv>
+          <Unicode>邯為雍王高祖以水灌其城破之燒棧道言高祖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104852" custom="structure {type:Commentary;}">
+        <Coords points="526,1964 519,1404 514,847 605,854 607,1123 603,1402 600,1681 605,1961 612,3079 534,3079 526,1964"/>
+        <Baseline points="560,847 579,3081"/>
+        <TextEquiv>
+          <Unicode>涉所燒之棧道也史記曰張良說漢王燒絕棧道也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104853" custom="structure {type:Text;}">
+        <Coords points="371,854 509,851 509,1337 364,1338 371,854"/>
+        <Baseline points="441,1339 449,855"/>
+        <TextEquiv>
+          <Unicode>兵不留行</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104854" custom="structure {type:Commentary;}">
+        <Coords points="447,1345 514,1342 521,1956 438,1956 447,1345"/>
+        <Baseline points="478,1344 478,1958"/>
+        <TextEquiv>
+          <Unicode>善曰言攻之易</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104855" custom="structure {type:Commentary;}">
+        <Coords points="369,1350 447,1347 442,1860 371,1855 369,1350"/>
+        <Baseline points="401,1853 412,1352"/>
+        <TextEquiv>
+          <Unicode>故不稽留也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104856" custom="structure {type:Text;}">
+        <Coords points="383,2581 373,1962 519,1964 536,3186 395,3187 383,2581"/>
+        <Baseline points="435,1963 466,3188"/>
+        <TextEquiv>
+          <Unicode>收弊人之倦東馳函谷西楚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104857" custom="structure {type:Text;}">
+        <Coords points="210,854 355,853 356,1081 203,1084 210,854"/>
+        <Baseline points="271,1073 282,858"/>
+        <TextEquiv>
+          <Unicode>大破</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104858" custom="structure {type:Commentary;}">
+        <Coords points="284,1084 361,1086 363,1734 282,1734 284,1084"/>
+        <Baseline points="322,1735 325,1087"/>
+        <TextEquiv>
+          <Unicode>張晏曰項羽自</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104859" custom="structure {type:Commentary;}">
+        <Coords points="203,1089 284,1091 279,1369 277,1483 282,1621 201,1621 203,1089"/>
+        <Baseline points="243,1079 246,1622"/>
+        <TextEquiv>
+          <Unicode>號西楚霸王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104860" custom="structure {type:Text;}">
+        <Coords points="232,2830 221,2469 210,1745 361,1749 368,2470 383,3197 242,3197 232,2830"/>
+        <Baseline points="280,1749 316,3194"/>
+        <TextEquiv>
+          <Unicode>水攻則章邯以亡其城陸擊則荊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>晉書注以
+瑋為諱
+卒仆濟北囚弟於雍者豈非象新垣等哉
+善
+曰
+漢書曰濟北王興居聞帝之代乃反棘蒱侯擊之興居
+自殺又曰淮南王道死雍應劭曰二國有姦臣如新垣
+平等勸王
+共反也
+今天子新據先帝之遺業
+善曰今天子景帝
+也先帝文帝也
+左規山東右制關中變權易勢大臣難知大王弗察臣
+恐周鼎復起於漢
+如湻曰新垣平詐言周鼎在泗水中
+臣望東北汾陰有金寶氣鼎在其中
+弗迎則不至為吳計者猶新
+垣平之言周鼎終不可得也
+新垣過計於朝
+服虔曰
+過誤也
+則
+我吳遺嗣不可期於世矣高皇帝燒棧道灌章邯
+應劭
+曰章
+邯為雍王高祖以水灌其城破之燒棧道言高祖
+涉所燒之棧道也史記曰張良說漢王燒絕棧道也
+兵不留行
+善曰言攻之易
+故不稽留也
+收弊人之倦東馳函谷西楚
+大破
+張晏曰項羽自
+號西楚霸王
+水攻則章邯以亡其城陸擊則荊
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

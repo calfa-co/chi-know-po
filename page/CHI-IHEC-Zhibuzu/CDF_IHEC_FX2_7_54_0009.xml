@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:19+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_7_54_0009.jpg" imageHeight="3144" imageWidth="3581">
+    <TextRegion id="116637" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3329,1208 3424,1208 3420,1778 3333,1771 3329,1208"/>
+      <TextLine id="1098901" custom="structure {type:Section;}">
+        <Coords points="3327,1205 3434,1207 3422,1785 3332,1778 3327,1205"/>
+        <Baseline points="3380,1210 3390,1771"/>
+        <TextEquiv>
+          <Unicode>離騷草木疏卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>離騷草木疏卷一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116636" custom="structure {type:MainText_Right;}">
+      <Coords points="1916,761 3326,761 3326,2684 1916,2684 1916,761"/>
+      <TextLine id="1098893" custom="structure {type:Text;}">
+        <Coords points="3175,2696 3151,765 3284,767 3303,2677 3175,2696"/>
+        <Baseline points="3221,768 3229,1739 3250,2660"/>
+        <TextEquiv>
+          <Unicode>淵明愛菊世人愛牡丹子獨愛蓮之出淤泥而不染濯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098894" custom="structure {type:Text;}">
+        <Coords points="2994,765 3151,765 3163,2694 3011,2701 2994,765"/>
+        <Baseline points="3060,768 3088,2660"/>
+        <TextEquiv>
+          <Unicode>清漣而不妖中通外直不蔓不枝香遠盛淸亭亭淨植</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098895" custom="structure {type:Text;}">
+        <Coords points="2840,763 2994,763 3001,2696 2854,2703 2840,763"/>
+        <Baseline points="2910,766 2934,2665"/>
+        <TextEquiv>
+          <Unicode>可遠觀而不可褻玩焉菊花之隱逸者也牡丹花之富</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098896" custom="structure {type:Text;}">
+        <Coords points="2684,761 2828,761 2830,1700 2699,1697 2684,761"/>
+        <Baseline points="2754,765 2770,1668"/>
+        <TextEquiv>
+          <Unicode>贵者也蓮花之君子者也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098932" custom="structure {type:Title;}">
+        <Coords points="2531,1180 2658,1180 2658,1334 2531,1334 2531,1180"/>
+        <Baseline points="2595,1186 2609,1331"/>
+        <TextEquiv>
+          <Unicode>菊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098897" custom="structure {type:Text;}">
+        <Coords points="2372,766 2532,766 2540,2680 2399,2692 2372,766"/>
+        <Baseline points="2442,770 2473,2663"/>
+        <TextEquiv>
+          <Unicode>夕餐秋菊之落英又春蘭兮秋菊王逸汪英華也言己</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098898" custom="structure {type:Text;}">
+        <Coords points="2218,763 2379,763 2385,2687 2238,2689 2218,763"/>
+        <Baseline points="2284,766 2316,2668"/>
+        <TextEquiv>
+          <Unicode>食菊之落英以香淨自潤澤也五臣云取其香潔以合</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098899" custom="structure {type:Text;}">
+        <Coords points="2064,770 2221,770 2221,2694 2085,2701 2064,770"/>
+        <Baseline points="2134,773 2139,1568 2157,2668"/>
+        <TextEquiv>
+          <Unicode>己之德洪慶善引魏文帝云芳菊含乾坤之純和體芬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098900" custom="structure {type:Text;}">
+        <Coords points="1907,768 2052,765 2069,2694 1933,2696 1907,768"/>
+        <Baseline points="1975,772 2003,2670"/>
+        <TextEquiv>
+          <Unicode>芳之淑氣故屈原悲冉冉之將老思餐秋菊之落英輔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>淵明愛菊世人愛牡丹子獨愛蓮之出淤泥而不染濯
+清漣而不妖中通外直不蔓不枝香遠盛淸亭亭淨植
+可遠觀而不可褻玩焉菊花之隱逸者也牡丹花之富
+贵者也蓮花之君子者也
+菊
+夕餐秋菊之落英又春蘭兮秋菊王逸汪英華也言己
+食菊之落英以香淨自潤澤也五臣云取其香潔以合
+己之德洪慶善引魏文帝云芳菊含乾坤之純和體芬
+芳之淑氣故屈原悲冉冉之將老思餐秋菊之落英輔
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116635" custom="structure {type:MainText_Left;}">
+      <Coords points="252,775 1661,775 1661,2688 252,2688 252,775"/>
+      <TextLine id="1098884" custom="structure {type:Text;}">
+        <Coords points="1512,787 1652,787 1650,2711 1512,2699 1512,787"/>
+        <Baseline points="1584,2688 1594,791"/>
+        <TextEquiv>
+          <Unicode>體延年莫斯之貴仁傑按山海經女几之山其草多菊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098885" custom="structure {type:Text;}">
+        <Coords points="1357,789 1498,789 1493,2696 1360,2701 1357,789"/>
+        <Baseline points="1430,2686 1441,792"/>
+        <TextEquiv>
+          <Unicode>爾雅蘜一名治蘠郭云今之秋華菊本草云菊一名日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098886" custom="structure {type:Text;}">
+        <Coords points="1201,780 1341,780 1336,2696 1203,2694 1201,780"/>
+        <Baseline points="1273,2686 1285,784"/>
+        <TextEquiv>
+          <Unicode>精一名女節一名女華一名女莖一名更生一名周盈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098887" custom="structure {type:Text;}">
+        <Coords points="1048,789 1193,786 1186,2696 1048,2692 1048,789"/>
+        <Baseline points="1121,2686 1131,810"/>
+        <TextEquiv>
+          <Unicode>一名傅延年一名脍成陶隱居云菊有雨種一種莖紫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098888" custom="structure {type:Text;}">
+        <Coords points="896,775 1032,775 1032,2684 899,2684 896,775"/>
+        <Baseline points="967,2675 972,779"/>
+        <TextEquiv>
+          <Unicode>氣香而味甘葉可作羹食一種青莖而大作蒿艾氣味</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098889" custom="structure {type:Text;}">
+        <Coords points="735,770 878,770 877,2699 734,2694 735,770"/>
+        <Baseline points="808,2674 819,773"/>
+        <TextEquiv>
+          <Unicode>苦不堪食者名苦薏圖經云南陽亦有兩種白菊葉大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098890" custom="structure {type:Text;}">
+        <Coords points="578,782 721,782 727,2696 580,2684 578,782"/>
+        <Baseline points="653,2675 663,786"/>
+        <TextEquiv>
+          <Unicode>似艾莖青根細花白藥黄其黄菊葉似茼蒿花薬都黃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098891" custom="structure {type:Text;}">
+        <Coords points="422,758 572,758 570,2703 418,2687 422,758"/>
+        <Baseline points="499,2663 508,761"/>
+        <TextEquiv>
+          <Unicode>然今服餌家多用白者南京又有一種開小花花瓣下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098892" custom="structure {type:Text;}">
+        <Coords points="265,780 408,780 406,2696 271,2699 265,780"/>
+        <Baseline points="338,2670 345,784"/>
+        <TextEquiv>
+          <Unicode>如小珠子謂之珠子菊入藥亦佳正月採根三月採葉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>體延年莫斯之貴仁傑按山海經女几之山其草多菊
+爾雅蘜一名治蘠郭云今之秋華菊本草云菊一名日
+精一名女節一名女華一名女莖一名更生一名周盈
+一名傅延年一名脍成陶隱居云菊有雨種一種莖紫
+氣香而味甘葉可作羹食一種青莖而大作蒿艾氣味
+苦不堪食者名苦薏圖經云南陽亦有兩種白菊葉大
+似艾莖青根細花白藥黄其黄菊葉似茼蒿花薬都黃
+然今服餌家多用白者南京又有一種開小花花瓣下
+如小珠子謂之珠子菊入藥亦佳正月採根三月採葉
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116634" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="182,984 262,984 265,2683 168,2676 182,984"/>
+      <TextLine id="1098883" custom="structure {type:Section;}">
+        <Coords points="180,1224 252,1243 247,1762 173,1755 180,1224"/>
+        <Baseline points="209,1696 216,1264"/>
+        <TextEquiv>
+          <Unicode>離騷草木疏卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234241" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="227,2101 237,2232"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098882" custom="structure {type:Title;}">
+        <Coords points="180,2118 277,2120 277,2667 176,2687 180,2118"/>
+        <Baseline points="221,2225 230,2668"/>
+        <TextEquiv>
+          <Unicode>知不足斎樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>離騷草木疏卷一
+五
+知不足斎樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,265 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T16:51:59+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_C_III_5-7_02_01_0048.jpg" imageHeight="4627" imageWidth="6241">
+    <TextRegion id="118069" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5649,896 5750,896 5757,4125 5683,4125 5649,896"/>
+      <TextLine id="1113445" custom="structure {type:Title;}">
+        <Coords points="5644,902 5795,902 5795,1408 5644,1408 5644,902"/>
+        <Baseline points="5703,908 5707,1409"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113446" custom="structure {type:Section;}">
+        <Coords points="5654,1647 5799,1647 5799,2367 5654,2367 5654,1647"/>
+        <Baseline points="5717,1650 5717,2370"/>
+        <TextEquiv>
+          <Unicode>帝王部卷之十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113447" custom="structure {type:Page_Number;}">
+        <Coords points="5662,3174 5770,3174 5770,3339 5662,3339 5662,3174"/>
+        <Baseline points="5710,3179 5714,3340"/>
+        <TextEquiv>
+          <Unicode>九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+帝王部卷之十二
+九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116898" custom="structure {type:MainText_Right;}">
+      <Coords points="3536,4103 3536,921 5648,921 5648,4103 3536,4103"/>
+      <TextLine id="1101169" custom="structure {type:Text;}">
+        <Coords points="5428,884 5672,884 5672,4141 5428,4141 5428,884"/>
+        <Baseline points="5545,888 5583,4142"/>
+        <TextEquiv>
+          <Unicode>與武庚作亂周公奉成王命誅武庚殺管叔放蔡叔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101170" custom="structure {type:Text;}">
+        <Coords points="5220,897 5443,897 5443,4136 5220,4136 5220,897"/>
+        <Baseline points="5316,902 5359,4137"/>
+        <TextEquiv>
+          <Unicode>以微子啟代殷後國於宋周公行政七年成王長周</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101171" custom="structure {type:Text;}">
+        <Coords points="5014,894 5248,894 5248,4146 5014,4146 5014,894"/>
+        <Baseline points="5112,898 5155,4147"/>
+        <TextEquiv>
+          <Unicode>公反政成王北面就羣臣之位成王在豐使召公復</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101172" custom="structure {type:Text;}">
+        <Coords points="4813,884 5022,884 5022,4136 4813,4136 4813,884"/>
+        <Baseline points="4902,888 4922,4137"/>
+        <TextEquiv>
+          <Unicode>營洛邑如武王之意卒營築居九鼎焉曰此天下之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101173" custom="structure {type:Text;}">
+        <Coords points="4600,907 4808,907 4808,2256 4600,2256 4600,907"/>
+        <Baseline points="4703,912 4741,2258"/>
+        <TextEquiv>
+          <Unicode>中四方入貢道理均</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101174" custom="structure {type:Text;}">
+        <Coords points="4389,855 4613,855 4613,4115 4389,4115 4389,855"/>
+        <Baseline points="4479,860 4531,4118"/>
+        <TextEquiv>
+          <Unicode>帝王世紀曰成王元年周公為冢宰攝政王生少未</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101175" custom="structure {type:Text;}">
+        <Coords points="4188,907 4412,907 4412,4125 4188,4125 4188,907"/>
+        <Baseline points="4270,912 4317,4128"/>
+        <TextEquiv>
+          <Unicode>能治事故號曰孺子八年春正月朔王始躬政事以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101176" custom="structure {type:Text;}">
+        <Coords points="3980,897 4196,897 4196,4146 3980,4146 3980,897"/>
+        <Baseline points="4084,902 4108,4147"/>
+        <TextEquiv>
+          <Unicode>周公為太師封伯禽于魯父子並命周公拜於前魯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101177" custom="structure {type:Text;}">
+        <Coords points="3774,912 3988,912 3988,4125 3774,4125 3774,912"/>
+        <Baseline points="3870,917 3899,4128"/>
+        <TextEquiv>
+          <Unicode>公拜於後王以周公有勳勞於天下故加魯以四等</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101178" custom="structure {type:Text;}">
+        <Coords points="3571,912 3785,912 3785,4141 3571,4141 3571,912"/>
+        <Baseline points="3651,917 3680,4142"/>
+        <TextEquiv>
+          <Unicode>之上兼二十四附庸地方七百里既營都洛邑復居</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>與武庚作亂周公奉成王命誅武庚殺管叔放蔡叔
+以微子啟代殷後國於宋周公行政七年成王長周
+公反政成王北面就羣臣之位成王在豐使召公復
+營洛邑如武王之意卒營築居九鼎焉曰此天下之
+中四方入貢道理均
+帝王世紀曰成王元年周公為冢宰攝政王生少未
+能治事故號曰孺子八年春正月朔王始躬政事以
+周公為太師封伯禽于魯父子並命周公拜於前魯
+公拜於後王以周公有勳勞於天下故加魯以四等
+之上兼二十四附庸地方七百里既營都洛邑復居
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116899" custom="structure {type:MainText_Left;}">
+      <Coords points="670,4096 670,921 2789,921 2789,4096 670,4096"/>
+      <TextLine id="1101179" custom="structure {type:Text;}">
+        <Coords points="2535,907 2748,907 2748,4112 2535,4112 2535,907"/>
+        <Baseline points="2652,912 2686,4113"/>
+        <TextEquiv>
+          <Unicode>酆鎬淮夷徐戎及䣍叛王乃大搜於岐陽東伐淮夷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101180" custom="structure {type:Text;}">
+        <Coords points="2334,902 2545,902 2545,4107 2334,4107 2334,902"/>
+        <Baseline points="2448,907 2457,4109"/>
+        <TextEquiv>
+          <Unicode>贊魏陳王曹植周成王贊曰成王繼武賢聖保傅年</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101181" custom="structure {type:Text;}">
+        <Coords points="2126,902 2329,902 2329,4097 2126,4097 2126,902"/>
+        <Baseline points="2234,907 2262,4099"/>
+        <TextEquiv>
+          <Unicode>雖幼稚岐嶷有素初疑周公終焉克寤旦奭佐治遂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101182" custom="structure {type:Text;}">
+        <Coords points="1920,907 2121,907 2121,4115 1920,4115 1920,907"/>
+        <Baseline points="2039,4118 2043,912"/>
+        <TextEquiv>
+          <Unicode>至刑錯又周公贊曰成王即位年尚幼稚周公居攝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101183" custom="structure {type:Text;}">
+        <Coords points="1715,897 1915,897 1915,3755 1715,3755 1715,897"/>
+        <Baseline points="1824,3757 1829,902"/>
+        <TextEquiv>
+          <Unicode>四海慕利罰叛柔服祥應仍至誦長反政達天</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101184" custom="structure {type:Commentary;}">
+        <Coords points="1825,3760 1920,3760 1920,3968 1825,3968 1825,3760"/>
+        <Baseline points="1863,3771 1886,3971"/>
+        <TextEquiv>
+          <Unicode>忠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101185" custom="structure {type:Commentary;}">
+        <Coords points="1704,3740 1818,3740 1818,3953 1704,3953 1704,3740"/>
+        <Baseline points="1763,3747 1786,3952"/>
+        <TextEquiv>
+          <Unicode>義</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101186" custom="structure {type:Text;}">
+        <Coords points="1514,909 1704,909 1704,4112 1514,4112 1514,909"/>
+        <Baseline points="1625,912 1625,4113"/>
+        <TextEquiv>
+          <Unicode>周庾信成王刻桐葉封虞叔贊曰虞叔百里居河之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101187" custom="structure {type:Text;}">
+        <Coords points="1272,907 1501,907 1501,4115 1272,4115 1272,907"/>
+        <Baseline points="1406,4118 1411,912"/>
+        <TextEquiv>
+          <Unicode>汾帝刻桐葉天書掌文禮以成德樂以歌勳天子無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101188" custom="structure {type:Text;}">
+        <Coords points="1092,907 1293,907 1293,1786 1092,1786 1092,907"/>
+        <Baseline points="1192,1787 1197,912"/>
+        <TextEquiv>
+          <Unicode>戲唐其有君</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101189" custom="structure {type:Title;}">
+        <Coords points="902,1236 1087,1236 1087,1771 902,1771 902,1236"/>
+        <Baseline points="992,1240 1006,1773"/>
+        <TextEquiv>
+          <Unicode>漢高帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101190" custom="structure {type:Text;}">
+        <Coords points="686,922 889,922 889,4097 686,4097 686,922"/>
+        <Baseline points="792,926 797,4099"/>
+        <TextEquiv>
+          <Unicode>河圖提劉曰帝季日角戴勝斗胸龜背龍股長七尺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>酆鎬淮夷徐戎及䣍叛王乃大搜於岐陽東伐淮夷
+贊魏陳王曹植周成王贊曰成王繼武賢聖保傅年
+雖幼稚岐嶷有素初疑周公終焉克寤旦奭佐治遂
+至刑錯又周公贊曰成王即位年尚幼稚周公居攝
+四海慕利罰叛柔服祥應仍至誦長反政達天
+忠
+義
+周庾信成王刻桐葉封虞叔贊曰虞叔百里居河之
+汾帝刻桐葉天書掌文禮以成德樂以歌勳天子無
+戲唐其有君
+漢高帝
+河圖提劉曰帝季日角戴勝斗胸龜背龍股長七尺
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116900" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="542,4109 542,914 697,914 697,4109 542,4109"/>
+      <TextLine id="1101191" custom="structure {type:Title;}">
+        <Coords points="524,902 681,902 681,1418 524,1418 524,902"/>
+        <Baseline points="607,907 616,1421"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101192" custom="structure {type:Section;}">
+        <Coords points="511,1650 681,1650 681,2442 511,2442 511,1650"/>
+        <Baseline points="592,1654 611,2444"/>
+        <TextEquiv>
+          <Unicode>帝王部卷之十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231418" custom="structure {type:Page_Number;}">
+        <Coords points="581,3079 658,3079 658,3380 581,3380 581,3079"/>
+        <Baseline points="598,3086 618,3382"/>
+        <TextEquiv>
+          <Unicode>十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1101193" custom="structure {type:Marginalia;}">
+        <Coords points="576,3434 707,3434 707,4120 576,4120 576,3434"/>
+        <Baseline points="630,3438 645,4123"/>
+        <TextEquiv>
+          <Unicode>宏達堂校梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+帝王部卷之十二
+十
+宏達堂校梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

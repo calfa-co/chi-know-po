@@ -1,0 +1,373 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:47+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-2_0069.jpg" imageHeight="3500" imageWidth="1976">
+    <TextRegion id="136046" custom="structure {type:MainText;}">
+      <Coords points="231,821 1779,796 1770,3186 200,3175 231,821"/>
+      <TextLine id="1233816" custom="structure {type:Commentary;}">
+        <Coords points="1670,799 1775,799 1775,1250 1670,1250 1670,799"/>
+        <Baseline points="1729,803 1733,1251"/>
+        <TextEquiv>
+          <Unicode>以載幷所</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233817" custom="structure {type:Commentary;}">
+        <Coords points="1602,806 1692,806 1692,1141 1602,1141 1602,806"/>
+        <Baseline points="1645,812 1652,1143"/>
+        <TextEquiv>
+          <Unicode>以覆邦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233818" custom="structure {type:Text;}">
+        <Coords points="1606,1236 1779,1236 1779,2698 1606,2698 1606,1236"/>
+        <Baseline points="1686,1240 1695,2700"/>
+        <TextEquiv>
+          <Unicode>陛水作於覆霜昇木起於達</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233819" custom="structure {type:Commentary;}">
+        <Coords points="1682,2696 1773,2696 1773,2796 1682,2796 1682,2696"/>
+        <Baseline points="1719,2706 1731,2794"/>
+        <TextEquiv>
+          <Unicode>魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233820" custom="structure {type:Commentary;}">
+        <Coords points="1596,2708 1688,2708 1688,2792 1596,2792 1596,2708"/>
+        <Baseline points="1650,2711 1652,2794"/>
+        <TextEquiv>
+          <Unicode>竭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233821" custom="structure {type:Text;}">
+        <Coords points="1596,2801 1769,2801 1769,2936 1596,2936 1596,2801"/>
+        <Baseline points="1683,2808 1693,2934"/>
+        <TextEquiv>
+          <Unicode>越</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233822" custom="structure {type:Commentary;}">
+        <Coords points="1688,2934 1767,2934 1767,3169 1688,3169 1688,2934"/>
+        <Baseline points="1724,2937 1726,3170"/>
+        <TextEquiv>
+          <Unicode>言事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233823" custom="structure {type:Commentary;}">
+        <Coords points="1592,2936 1693,2936 1693,3157 1592,3157 1592,2936"/>
+        <Baseline points="1636,2939 1638,3158"/>
+        <TextEquiv>
+          <Unicode>皆從</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233824" custom="structure {type:Commentary;}">
+        <Coords points="1513,808 1622,808 1622,3163 1513,3163 1513,808"/>
+        <Baseline points="1560,810 1562,3165"/>
+        <TextEquiv>
+          <Unicode>微至著不可不慎之於初所以尊木起於于羕洪波出</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233825" custom="structure {type:Commentary;}">
+        <Coords points="1439,801 1540,801 1540,3155 1439,3155 1439,801"/>
+        <Baseline points="1486,805 1499,3157"/>
+        <TextEquiv>
+          <Unicode>於消枲善曰周易曰復霜聖水至說文曰畢八凡也山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233826" custom="structure {type:Commentary;}">
+        <Coords points="1351,805 1458,805 1458,3181 1351,3181 1351,805"/>
+        <Baseline points="1402,3183 1411,807"/>
+        <TextEquiv>
+          <Unicode>陛下郯子不圜十曰罪下華梁面士子曰踞身</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233827" custom="structure {type:Commentary;}">
+        <Coords points="1283,812 1384,812 1384,3175 1283,3175 1283,812"/>
+        <Baseline points="1334,815 1335,3177"/>
+        <TextEquiv>
+          <Unicode>孔安國尚書傳曰用生棣制韋昭曰林生曰漢鄭玄禮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233828" custom="structure {type:Commentary;}">
+        <Coords points="1211,808 1314,808 1314,1448 1211,1448 1211,808"/>
+        <Baseline points="1255,812 1267,1450"/>
+        <TextEquiv>
+          <Unicode>記注曰我桓也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233829" custom="structure {type:Commentary;}">
+        <Coords points="1141,808 1229,808 1229,1464 1141,1464 1141,808"/>
+        <Baseline points="1191,812 1193,1466"/>
+        <TextEquiv>
+          <Unicode>藁與林古字同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233830" custom="structure {type:Text;}">
+        <Coords points="1139,1458 1306,1458 1306,2415 1139,2415 1139,1458"/>
+        <Baseline points="1227,2416 1229,1461"/>
+        <TextEquiv>
+          <Unicode>與冊努百</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233831" custom="structure {type:Commentary;}">
+        <Coords points="1198,2415 1293,2415 1293,3173 1198,3173 1198,2415"/>
+        <Baseline points="1248,2418 1251,3175"/>
+        <TextEquiv>
+          <Unicode>休卑也至大也顯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233832" custom="structure {type:Commentary;}">
+        <Coords points="1122,2426 1219,2426 1219,3169 1122,3169 1122,2426"/>
+        <Baseline points="1179,2428 1179,3171"/>
+        <TextEquiv>
+          <Unicode>明也怠解也謂起</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233833" custom="structure {type:Commentary;}">
+        <Coords points="1052,808 1161,808 1161,2520 1052,2520 1052,808"/>
+        <Baseline points="1096,812 1109,2521"/>
+        <TextEquiv>
+          <Unicode>行大明之道後世子孫猶尚解魚善曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233834" custom="structure {type:Commentary;}">
+        <Coords points="980,814 1079,814 1079,2516 980,2516 980,814"/>
+        <Baseline points="1032,817 1034,2518"/>
+        <TextEquiv>
+          <Unicode>左氏傳讒鼎之錄曰休旦不顯後世猶怠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233835" custom="structure {type:Text;}">
+        <Coords points="980,2514 1135,2514 1135,3173 980,3173 980,2514"/>
+        <Baseline points="1058,2516 1058,3175"/>
+        <TextEquiv>
+          <Unicode>況初制於甚泰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233836" custom="structure {type:Text;}">
+        <Coords points="836,808 1001,808 1001,1522 836,1522 836,808"/>
+        <Baseline points="910,812 927,1523"/>
+        <TextEquiv>
+          <Unicode>服者焉能改敖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233837" custom="structure {type:Commentary;}">
+        <Coords points="896,1530 997,1530 997,3163 896,3163 896,1530"/>
+        <Baseline points="953,1534 956,3165"/>
+        <TextEquiv>
+          <Unicode>去聲付誨譬如為人歲衣始制之洪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233838" custom="structure {type:Commentary;}">
+        <Coords points="826,1530 919,1530 919,3175 826,3175 826,1530"/>
+        <Baseline points="876,1534 882,3177"/>
+        <TextEquiv>
+          <Unicode>大服者得而衣之何能更小之乎善曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233839" custom="structure {type:Commentary;}">
+        <Coords points="746,814 855,814 855,1365 746,1365 746,814"/>
+        <Baseline points="796,817 811,1366"/>
+        <TextEquiv>
+          <Unicode>賈逵國語注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233840" custom="structure {type:Commentary;}">
+        <Coords points="676,828 776,828 776,1248 676,1248 676,828"/>
+        <Baseline points="727,831 732,1250"/>
+        <TextEquiv>
+          <Unicode>曰歲制也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233841" custom="structure {type:Text;}">
+        <Coords points="674,1347 844,1347 844,3169 674,3169 674,1347"/>
+        <Baseline points="761,1350 777,3171"/>
+        <TextEquiv>
+          <Unicode>故相如非上林之觀楊雄聘羽獵之辭雖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233842" custom="structure {type:Text;}">
+        <Coords points="548,812 643,812 643,962 548,962 548,812"/>
+        <Baseline points="608,964 611,815"/>
+        <TextEquiv>
+          <Unicode>景</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233843" custom="structure {type:Commentary;}">
+        <Coords points="628,956 682,956 682,1057 628,1057 628,956"/>
+        <Baseline points="642,957 642,1059"/>
+        <TextEquiv>
+          <Unicode>十1</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233844" custom="structure {type:Text;}">
+        <Coords points="530,1061 692,1061 692,1656 530,1656 530,1061"/>
+        <Baseline points="620,1064 625,1658"/>
+        <TextEquiv>
+          <Unicode>以償赭項壁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233845" custom="structure {type:Commentary;}">
+        <Coords points="614,1652 688,1652 688,1732 614,1732 614,1652"/>
+        <Baseline points="656,1655 658,1733"/>
+        <TextEquiv>
+          <Unicode>七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233846" custom="structure {type:Commentary;}">
+        <Coords points="538,1656 634,1656 634,1736 538,1736 538,1656"/>
+        <Baseline points="582,1738 587,1662"/>
+        <TextEquiv>
+          <Unicode>少</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233847" custom="structure {type:Text;}">
+        <Coords points="534,1746 684,1746 684,2185 534,2185 534,1746"/>
+        <Baseline points="613,1747 613,2187"/>
+        <TextEquiv>
+          <Unicode>亂以收置</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233848" custom="structure {type:Commentary;}">
+        <Coords points="585,2193 688,2193 688,2292 585,2292 585,2193"/>
+        <Baseline points="649,2199 656,2290"/>
+        <TextEquiv>
+          <Unicode>嗟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233849" custom="structure {type:Text;}">
+        <Coords points="523,2263 682,2263 682,2535 523,2535 523,2263"/>
+        <Baseline points="598,2268 611,2535"/>
+        <TextEquiv>
+          <Unicode>解梁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233850" custom="structure {type:Commentary;}">
+        <Coords points="583,2535 682,2535 682,3175 583,3175 583,2535"/>
+        <Baseline points="645,3177 649,2539"/>
+        <TextEquiv>
+          <Unicode>圜平鄒易嵇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233851" custom="structure {type:Commentary;}">
+        <Coords points="507,2537 610,2537 610,3175 507,3175 507,2537"/>
+        <Baseline points="561,2541 565,3177"/>
+        <TextEquiv>
+          <Unicode>理也司馬相如</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233852" custom="structure {type:Commentary;}">
+        <Coords points="437,818 544,818 544,2910 437,2910 437,818"/>
+        <Baseline points="491,2911 494,822"/>
+        <TextEquiv>
+          <Unicode>子下郎康軒縣融因安班公曰注頸下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233853" custom="structure {type:Commentary;}">
+        <Coords points="371,806 468,806 468,2811 371,2811 371,806"/>
+        <Baseline points="409,2812 413,809"/>
+        <TextEquiv>
+          <Unicode>高多新梁曰羊茸酒繫出朝解皇玉畝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233854" custom="structure {type:Text;}">
+        <Coords points="353,2905 521,2905 521,3175 353,3175 353,2905"/>
+        <Baseline points="440,2910 447,3176"/>
+        <TextEquiv>
+          <Unicode>卒無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233855" custom="structure {type:Text;}">
+        <Coords points="188,818 385,818 385,2045 188,2045 188,818"/>
+        <Baseline points="297,819 297,2047"/>
+        <TextEquiv>
+          <Unicode>補於風規林以昭其慰左</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233856" custom="structure {type:Commentary;}">
+        <Coords points="274,2055 381,2055 381,3171 274,3171 274,2055"/>
+        <Baseline points="332,3173 337,2059"/>
+        <TextEquiv>
+          <Unicode>函四平娶無所雖鼎雖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233857" custom="structure {type:Commentary;}">
+        <Coords points="180,2059 299,2059 299,3177 180,3177 180,2059"/>
+        <Baseline points="242,2063 249,3179"/>
+        <TextEquiv>
+          <Unicode>九過也言不能補其烈過</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>以載幷所
+以覆邦
+陛水作於覆霜昇木起於達
+魚
+竭
+越
+言事
+皆從
+微至著不可不慎之於初所以尊木起於于羕洪波出
+於消枲善曰周易曰復霜聖水至說文曰畢八凡也山
+陛下郯子不圜十曰罪下華梁面士子曰踞身
+孔安國尚書傳曰用生棣制韋昭曰林生曰漢鄭玄禮
+記注曰我桓也
+藁與林古字同
+與冊努百
+休卑也至大也顯
+明也怠解也謂起
+行大明之道後世子孫猶尚解魚善曰
+左氏傳讒鼎之錄曰休旦不顯後世猶怠
+況初制於甚泰
+服者焉能改敖
+去聲付誨譬如為人歲衣始制之洪
+大服者得而衣之何能更小之乎善曰
+賈逵國語注
+曰歲制也
+故相如非上林之觀楊雄聘羽獵之辭雖
+景
+十1
+以償赭項壁
+七
+少
+亂以收置
+嗟
+解梁
+圜平鄒易嵇
+理也司馬相如
+子下郎康軒縣融因安班公曰注頸下
+高多新梁曰羊茸酒繫出朝解皇玉畝
+卒無
+補於風規林以昭其慰左
+函四平娶無所雖鼎雖
+九過也言不能補其烈過
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="136047" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="171,1255 216,1255 202,2369 166,2366 171,1255"/>
+      <TextLine id="1233858" custom="structure {type:Commentary;}">
+        <Coords points="128,1328 219,1328 219,1475 128,1475 128,1328"/>
+        <Baseline points="187,1476 190,1331"/>
+        <TextEquiv>
+          <Unicode>斗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233859" custom="structure {type:Commentary;}">
+        <Coords points="128,2123 211,2123 211,2337 128,2337 128,2123"/>
+        <Baseline points="185,2127 187,2338"/>
+        <TextEquiv>
+          <Unicode>三十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>斗
+三十三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

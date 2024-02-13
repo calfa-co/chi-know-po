@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:35+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0031.jpg" imageHeight="4479" imageWidth="2527">
+    <TextRegion id="79203" custom="structure {type:MainText;}">
+      <Coords points="228,3979 199,1781 196,987 2382,987 2387,3970 228,3979"/>
+      <TextLine id="867280" custom="structure {type:Text;}">
+        <Coords points="2185,995 2402,995 2402,3948 2185,3948 2185,995"/>
+        <Baseline points="2295,998 2315,3951"/>
+        <TextEquiv>
+          <Unicode>臨邛火井一所從廣五尺深二三丈井在縣南百里昔時人以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867281" custom="structure {type:Text;}">
+        <Coords points="2009,990 2220,990 2220,3953 2009,3953 2009,990"/>
+        <Baseline points="2107,995 2131,3956"/>
+        <TextEquiv>
+          <Unicode>竹木投以取火諸葛丞相往視之後火轉盛熱盆蓋井上煮鹽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867282" custom="structure {type:Text;}">
+        <Coords points="1824,990 2031,990 2031,3948 1824,3948 1824,990"/>
+        <Baseline points="1932,995 1948,3951"/>
+        <TextEquiv>
+          <Unicode>得鹽入以家火即滅訖今不復燃也酒泉延壽縣南山名火泉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867283" custom="structure {type:Text;}">
+        <Coords points="1645,995 1834,995 1834,1493 1645,1493 1645,995"/>
+        <Baseline points="1752,998 1764,1494"/>
+        <TextEquiv>
+          <Unicode>火出如炬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867284" custom="structure {type:Text;}">
+        <Coords points="1461,990 1690,990 1690,3958 1461,3958 1461,990"/>
+        <Baseline points="1560,994 1580,3959"/>
+        <TextEquiv>
+          <Unicode>徐公曰西域使王暢說石流黃出足彌山去高昌八百里有石</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867285" custom="structure {type:Text;}">
+        <Coords points="1274,992 1491,992 1491,3953 1274,3953 1274,992"/>
+        <Baseline points="1384,996 1408,3955"/>
+        <TextEquiv>
+          <Unicode>流黃數十丈從廣五六十畝有取流黃晝視孔中上狀如煙而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867286" custom="structure {type:Text;}">
+        <Coords points="1078,990 1312,990 1312,3953 1078,3953 1078,990"/>
+        <Baseline points="1200,995 1224,3955"/>
+        <TextEquiv>
+          <Unicode>高數尺夜視皆如燈光明高尺餘暢所親見之也言時氣不和</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867287" custom="structure {type:Text;}">
+        <Coords points="908,992 1117,992 1117,1607 908,1607 908,992"/>
+        <Baseline points="1008,1000 1024,1608"/>
+        <TextEquiv>
+          <Unicode>皆往保此山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867288" custom="structure {type:Title;}">
+        <Coords points="169,995 393,995 393,1734 169,1734 169,995"/>
+        <Baseline points="273,1000 289,1736"/>
+        <TextEquiv>
+          <Unicode>博物志卷二終</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>臨邛火井一所從廣五尺深二三丈井在縣南百里昔時人以
+竹木投以取火諸葛丞相往視之後火轉盛熱盆蓋井上煮鹽
+得鹽入以家火即滅訖今不復燃也酒泉延壽縣南山名火泉
+火出如炬
+徐公曰西域使王暢說石流黃出足彌山去高昌八百里有石
+流黃數十丈從廣五六十畝有取流黃晝視孔中上狀如煙而
+高數尺夜視皆如燈光明高尺餘暢所親見之也言時氣不和
+皆往保此山
+博物志卷二終
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79231" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="134,187 134,77 267,77 267,187 134,187"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79232" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="96,3449 96,1728 191,1728 191,3449 96,3449"/>
+      <TextLine id="869038" custom="structure {type:Page_Number;}">
+        <Coords points="57,1766 219,1766 219,2057 57,2057 57,1766"/>
+        <Baseline points="112,1777 136,2057"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869039" custom="structure {type:Title;}">
+        <Coords points="67,2306 231,2306 231,2764 67,2764 67,2306"/>
+        <Baseline points="140,2309 140,2766"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869040" custom="structure {type:Page_Number;}">
+        <Coords points="57,3033 176,3033 176,3249 57,3249 57,3033"/>
+        <Baseline points="136,3037 145,3251"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷二
+博物志
+五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

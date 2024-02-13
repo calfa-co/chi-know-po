@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:54+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0006.jpg" imageHeight="4212" imageWidth="5004">
+    <TextRegion id="119191" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4668,917 4821,912 4759,3712 4657,3712 4668,917"/>
+      <TextLine id="1126523" custom="structure {type:Title;}">
+        <Coords points="4690,933 4836,932 4819,1426 4690,1418 4690,933"/>
+        <Baseline points="4753,1420 4757,936"/>
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126524" custom="structure {type:Page_Number;}">
+        <Coords points="4678,2908 4793,2906 4782,3038 4678,3034 4678,2908"/>
+        <Baseline points="4717,3016 4733,2920"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117733" custom="structure {type:MainText_Right;}">
+      <Coords points="2619,914 4647,914 4647,3724 2619,3724 2619,914"/>
+      <TextLine id="1109532" custom="structure {type:Text;}">
+        <Coords points="4423,933 4631,933 4641,3717 4419,3704 4423,933"/>
+        <Baseline points="4519,3694 4540,936"/>
+        <TextEquiv>
+          <Unicode>非藝苑只恨事與震澤任生文田篤志好古</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109533" custom="structure {type:Text;}">
+        <Coords points="4196,926 4390,926 4386,3707 4197,3710 4196,926"/>
+        <Baseline points="4290,3694 4311,931"/>
+        <TextEquiv>
+          <Unicode>孜孜不倦愛補注是篇刻以問世而求序於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126516" custom="structure {type:Text;}">
+        <Coords points="3974,933 4156,933 4157,3717 3975,3720 3974,933"/>
+        <Baseline points="4049,3704 4069,936"/>
+        <TextEquiv>
+          <Unicode>予予歸田二十五年念史學之無人也杜門</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126517" custom="structure {type:Text;}">
+        <Coords points="3756,933 3934,933 3934,3701 3756,3701 3756,933"/>
+        <Baseline points="3833,3704 3837,936"/>
+        <TextEquiv>
+          <Unicode>掃軌覃思攷史篤務輟經不復治重交田樸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126518" custom="structure {type:Text;}">
+        <Coords points="3527,926 3707,926 3707,3706 3527,3706 3527,926"/>
+        <Baseline points="3609,3708 3625,928"/>
+        <TextEquiv>
+          <Unicode>學乃暫庋史業盡一日功觀之觀竟益歎其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126519" custom="structure {type:Text;}">
+        <Coords points="3302,936 3496,936 3496,3727 3302,3727 3302,936"/>
+        <Baseline points="3384,940 3392,3728"/>
+        <TextEquiv>
+          <Unicode>善其疏通證明實事求是是兼采前這賢語</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126520" custom="structure {type:Text;}">
+        <Coords points="3073,947 3260,947 3260,3711 3073,3711 3073,947"/>
+        <Baseline points="3156,3712 3172,952"/>
+        <TextEquiv>
+          <Unicode>皆有裁斷若主火出火一節舊本錯簡在九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126521" custom="structure {type:Text;}">
+        <Coords points="2860,947 3035,947 3035,3722 2860,3722 2860,947"/>
+        <Baseline points="2948,3724 2956,952"/>
+        <TextEquiv>
+          <Unicode>文交田據漢鄭仲師周禮司爟注移在三月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126522" custom="structure {type:Text;}">
+        <Coords points="2630,947 2815,947 2815,3701 2630,3701 2630,947"/>
+        <Baseline points="2696,952 2712,3704"/>
+        <TextEquiv>
+          <Unicode>確當絕倫此條之誤以前輩盧召弓吾友戴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>非藝苑只恨事與震澤任生文田篤志好古
+孜孜不倦愛補注是篇刻以問世而求序於
+予予歸田二十五年念史學之無人也杜門
+掃軌覃思攷史篤務輟經不復治重交田樸
+學乃暫庋史業盡一日功觀之觀竟益歎其
+善其疏通證明實事求是是兼采前這賢語
+皆有裁斷若主火出火一節舊本錯簡在九
+文交田據漢鄭仲師周禮司爟注移在三月
+確當絕倫此條之誤以前輩盧召弓吾友戴
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117732" custom="structure {type:MainText_Left;}">
+      <Coords points="293,894 2360,894 2360,3724 293,3724 293,894"/>
+      <TextLine id="1109523" custom="structure {type:Text;}">
+        <Coords points="2129,875 2338,875 2351,3697 2139,3700 2129,875"/>
+        <Baseline points="2232,879 2232,1738 2260,3669"/>
+        <TextEquiv>
+          <Unicode>東原兩先生之博且精亦疏漏未及駁正今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109524" custom="structure {type:Text;}">
+        <Coords points="1884,877 2113,877 2129,3717 1903,3707 1884,877"/>
+        <Baseline points="1982,882 2043,3683"/>
+        <TextEquiv>
+          <Unicode>賴文田正之其善讀書如此實爲後生中僅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109525" custom="structure {type:Text;}">
+        <Coords points="1664,889 1893,889 1897,3731 1671,3727 1664,889"/>
+        <Baseline points="1762,893 1816,3680"/>
+        <TextEquiv>
+          <Unicode>見者至於時有見稊始收一節據文田以爲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109526" custom="structure {type:Text;}">
+        <Coords points="1437,896 1650,896 1651,3717 1436,3724 1437,896"/>
+        <Baseline points="1528,900 1577,3697"/>
+        <TextEquiv>
+          <Unicode>傳氏本以此錯簡移在二月今文田則定在</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109527" custom="structure {type:Text;}">
+        <Coords points="1217,905 1425,905 1426,3720 1220,3727 1217,905"/>
+        <Baseline points="1303,910 1343,3676"/>
+        <TextEquiv>
+          <Unicode>五月予攷盧戴本已在二月而不言從傅予</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109528" custom="structure {type:Text;}">
+        <Coords points="985,917 1195,917 1194,3714 985,3714 985,917"/>
+        <Baseline points="1069,921 1109,3706"/>
+        <TextEquiv>
+          <Unicode>固未暇覔傅本也據理推之稊之收自當在</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109529" custom="structure {type:Text;}">
+        <Coords points="741,917 966,917 966,3706 741,3706 741,917"/>
+        <Baseline points="826,921 865,2201 884,3708"/>
+        <TextEquiv>
+          <Unicode>五月則亦以文田爲是矣嘻以文田之善讀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109530" custom="structure {type:Text;}">
+        <Coords points="519,905 730,905 729,3707 524,3724 519,905"/>
+        <Baseline points="608,910 655,3694"/>
+        <TextEquiv>
+          <Unicode>書其拾殘補缺訂疑攷誤爲功於經者甚多</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109531" custom="structure {type:Text;}">
+        <Coords points="290,919 517,919 517,3714 292,3720 290,919"/>
+        <Baseline points="383,924 430,3706"/>
+        <TextEquiv>
+          <Unicode>兹特吉光片羽耳文田勉乎哉他日滙爲鉅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>東原兩先生之博且精亦疏漏未及駁正今
+賴文田正之其善讀書如此實爲後生中僅
+見者至於時有見稊始收一節據文田以爲
+傳氏本以此錯簡移在二月今文田則定在
+五月予攷盧戴本已在二月而不言從傅予
+固未暇覔傅本也據理推之稊之收自當在
+五月則亦以文田爲是矣嘻以文田之善讀
+書其拾殘補缺訂疑攷誤爲功於經者甚多
+兹特吉光片羽耳文田勉乎哉他日滙爲鉅
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119187" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="156,914 288,914 288,3724 156,3724 156,914"/>
+      <TextLine id="1126512" custom="structure {type:Title;}">
+        <Coords points="148,956 241,957 241,1401 151,1400 148,956"/>
+        <Baseline points="187,958 187,1402"/>
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126513" custom="structure {type:Section;}">
+        <Coords points="164,1743 285,1736 285,1965 168,1961 164,1743"/>
+        <Baseline points="207,1966 215,1742"/>
+        <TextEquiv>
+          <Unicode>序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126514" custom="structure {type:Page_Number;}">
+        <Coords points="151,2890 259,2896 259,3067 148,3065 151,2890"/>
+        <Baseline points="191,2902 199,3066"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1126515" custom="structure {type:Marginalia;}">
+        <Coords points="164,3081 311,3081 311,3708 178,3710 164,3081"/>
+        <Baseline points="235,3086 247,3710"/>
+        <TextEquiv>
+          <Unicode>忠敏家塾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+序
+二
+忠敏家塾
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

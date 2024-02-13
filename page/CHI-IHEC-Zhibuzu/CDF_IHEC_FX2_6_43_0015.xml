@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:16+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_6_43_0015.jpg" imageHeight="3144" imageWidth="3605">
+    <TextRegion id="116622" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3312,1213 3403,1217 3426,1798 3318,1805 3312,1213"/>
+      <TextLine id="1098813" custom="structure {type:Section;}">
+        <Coords points="3317,1222 3386,1217 3386,1793 3320,1797 3317,1222"/>
+        <Baseline points="3366,1203 3396,1802"/>
+        <TextEquiv>
+          <Unicode>愧郯錄卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>愧郯錄卷一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116623" custom="structure {type:MainText_Right;}">
+      <Coords points="1875,762 3302,756 3318,2666 1912,2649 1875,762"/>
+      <TextLine id="1098816" custom="structure {type:Text;}">
+        <Coords points="3164,737 3302,737 3302,2696 3164,2696 3164,737"/>
+        <Baseline points="3231,739 3248,2697"/>
+        <TextEquiv>
+          <Unicode>之祥閏月乙亥復加二字 親廟亦衍而四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098817" custom="structure {type:Text;}">
+        <Coords points="3002,749 3147,749 3147,2672 3002,2672 3002,749"/>
+        <Baseline points="3076,752 3096,2673"/>
+        <TextEquiv>
+          <Unicode>焉真宗既諡 仁皇以澶淵之功不著 詔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098818" custom="structure {type:Text;}">
+        <Coords points="2850,744 2998,744 2998,2672 2850,2672 2850,744"/>
+        <Baseline points="2918,746 2952,2673"/>
+        <TextEquiv>
+          <Unicode>益以武定為八字始用 天聖二年初郊奉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098819" custom="structure {type:Text;}">
+        <Coords points="2705,749 2830,749 2830,2665 2705,2665 2705,749"/>
+        <Baseline points="2780,752 2784,2666"/>
+        <TextEquiv>
+          <Unicode>冊因郊増諡蓋昉于此 慶歴七年十一月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098820" custom="structure {type:Text;}">
+        <Coords points="2542,749 2680,749 2680,2689 2542,2689 2542,749"/>
+        <Baseline points="2609,752 2632,2690"/>
+        <TextEquiv>
+          <Unicode>又郊遂再增八字於是十六字之制定為不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098821" custom="structure {type:Text;}">
+        <Coords points="2388,770 2525,770 2525,2679 2388,2679 2388,770"/>
+        <Baseline points="2461,773 2477,2680"/>
+        <TextEquiv>
+          <Unicode>刋弗復可增益矣然 仁宗 英宗之諡增</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098822" custom="structure {type:Text;}">
+        <Coords points="2229,749 2373,749 2373,2684 2229,2684 2229,749"/>
+        <Baseline points="2299,752 2326,2686"/>
+        <TextEquiv>
+          <Unicode>於 元豐六年屢郊之後 神宗之諡増於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098823" custom="structure {type:Text;}">
+        <Coords points="2077,745 2212,745 2212,2679 2077,2679 2077,745"/>
+        <Baseline points="2144,749 2161,2680"/>
+        <TextEquiv>
+          <Unicode>紹聖二年大饗之餘 哲宗之諡増於 崇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098824" custom="structure {type:Text;}">
+        <Coords points="1913,744 2056,744 2056,2689 1913,2689 1913,744"/>
+        <Baseline points="1973,746 2003,2690"/>
+        <TextEquiv>
+          <Unicode>寧三年再郊之際類皆因時制宜而初郊舉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之祥閏月乙亥復加二字 親廟亦衍而四
+焉真宗既諡 仁皇以澶淵之功不著 詔
+益以武定為八字始用 天聖二年初郊奉
+冊因郊増諡蓋昉于此 慶歴七年十一月
+又郊遂再增八字於是十六字之制定為不
+刋弗復可增益矣然 仁宗 英宗之諡增
+於 元豐六年屢郊之後 神宗之諡増於
+紹聖二年大饗之餘 哲宗之諡増於 崇
+寧三年再郊之際類皆因時制宜而初郊舉
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116624" custom="structure {type:MainText_Left;}">
+      <Coords points="224,766 1650,769 1657,2683 234,2676 224,766"/>
+      <TextLine id="1098825" custom="structure {type:Text;}">
+        <Coords points="1480,756 1626,756 1626,2721 1480,2721 1480,756"/>
+        <Baseline points="1552,759 1566,2723"/>
+        <TextEquiv>
+          <Unicode>典禮猶未為永制也 徽祖以 紹興五年</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098826" custom="structure {type:Text;}">
+        <Coords points="1326,738 1467,738 1467,2709 1326,2709 1326,738"/>
+        <Baseline points="1398,742 1421,2710"/>
+        <TextEquiv>
+          <Unicode>有陟方之哀七年 諱問始至龍輴未還緜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098827" custom="structure {type:Text;}">
+        <Coords points="1172,738 1307,738 1307,2702 1172,2702 1172,738"/>
+        <Baseline points="1246,742 1250,2703"/>
+        <TextEquiv>
+          <Unicode>蕞廟祔五十二年既安禹宂之棲其冬 詔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098828" custom="structure {type:Text;}">
+        <Coords points="1022,782 1148,782 1148,2581 1022,2581 1022,782"/>
+        <Baseline points="1088,786 1092,2582"/>
+        <TextEquiv>
+          <Unicode>加諡明年正月戊戌奉冊己亥 上親饗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098829" custom="structure {type:Text;}">
+        <Coords points="863,754 992,754 992,2696 863,2696 863,754"/>
+        <Baseline points="930,756 930,2697"/>
+        <TextEquiv>
+          <Unicode>太廟蓋清祏甫寧因山適畢遂躬款謁追用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098830" custom="structure {type:Text;}">
+        <Coords points="702,752 838,752 838,2578 702,2578 702,752"/>
+        <Baseline points="782,756 789,2579"/>
+        <TextEquiv>
+          <Unicode>祥符典故固有不必俟郊報者従變禮也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098831" custom="structure {type:Text;}">
+        <Coords points="543,744 681,744 681,2668 543,2668 543,744"/>
+        <Baseline points="614,2670 621,746"/>
+        <TextEquiv>
+          <Unicode>孝宗以後始定用升祔後遇郊即前 詔議</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098832" custom="structure {type:Text;}">
+        <Coords points="387,738 527,738 527,2679 387,2679 387,738"/>
+        <Baseline points="456,2680 469,742"/>
+        <TextEquiv>
+          <Unicode>徽號 詔書若曰 某廟宜加上十字為十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098833" custom="structure {type:Text;}">
+        <Coords points="234,763 372,763 372,2691 234,2691 234,763"/>
+        <Baseline points="304,2693 318,766"/>
+        <TextEquiv>
+          <Unicode>六字如 祖宗故事將郊攝太傅先以冊告</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>典禮猶未為永制也 徽祖以 紹興五年
+有陟方之哀七年 諱問始至龍輴未還緜
+蕞廟祔五十二年既安禹宂之棲其冬 詔
+加諡明年正月戊戌奉冊己亥 上親饗
+太廟蓋清祏甫寧因山適畢遂躬款謁追用
+祥符典故固有不必俟郊報者従變禮也
+孝宗以後始定用升祔後遇郊即前 詔議
+徽號 詔書若曰 某廟宜加上十字為十
+六字如 祖宗故事將郊攝太傅先以冊告
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116625" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="123,1210 230,1217 240,2693 146,2690 123,1210"/>
+      <TextLine id="1098814" custom="structure {type:Section;}">
+        <Coords points="149,1219 211,1217 214,1762 137,1762 149,1219"/>
+        <Baseline points="170,1206 170,1741"/>
+        <TextEquiv>
+          <Unicode>愧郯錄卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234239" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="203,2101 203,2232"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098815" custom="structure {type:Title;}">
+        <Coords points="149,2123 237,2126 240,2682 159,2680 149,2123"/>
+        <Baseline points="193,2697 195,2219"/>
+        <TextEquiv>
+          <Unicode>知不足齋樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>愧郯錄卷一
+二
+知不足齋樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

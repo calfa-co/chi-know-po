@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:18+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-13_0006.jpg" imageHeight="3500" imageWidth="1816">
+    <TextRegion id="117204" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1702,1283 1748,1283 1748,2605 1698,2598 1702,1283"/>
+      <TextLine id="1104510" custom="structure {type:Section;}">
+        <Coords points="1695,1364 1749,1360 1756,1654 1701,1654 1695,1364"/>
+        <Baseline points="1730,1362 1730,1656"/>
+        <TextEquiv>
+          <Unicode>文三十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文三十六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117205" custom="structure {type:MainText;}">
+      <Coords points="187,798 1698,795 1681,3167 192,3172 187,798"/>
+      <TextLine id="1104511" custom="structure {type:Title;}">
+        <Coords points="1545,1124 1691,1123 1690,2486 1545,2488 1545,1124"/>
+        <Baseline points="1612,2479 1614,1126"/>
+        <TextEquiv>
+          <Unicode>永明十一年策秀才文五首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104512" custom="structure {type:Title;}">
+        <Coords points="1399,1116 1537,1114 1537,2724 1391,2728 1399,1116"/>
+        <Baseline points="1456,2725 1465,1118"/>
+        <TextEquiv>
+          <Unicode>任彥昇天監三年策秀才三首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104513" custom="structure {type:Title;}">
+        <Coords points="1253,996 1324,978 1395,995 1395,1139 1255,1142 1253,996"/>
+        <Baseline points="1323,999 1329,1141"/>
+        <TextEquiv>
+          <Unicode>令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104514" custom="structure {type:Title;}">
+        <Coords points="1101,1088 1243,1088 1247,1910 1105,1910 1101,1088"/>
+        <Baseline points="1168,1903 1173,1091"/>
+        <TextEquiv>
+          <Unicode>宣德皇后令一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104515" custom="structure {type:Commentary;}">
+        <Coords points="1179,2542 1165,1914 1250,1920 1250,3168 1175,3166 1179,2542"/>
+        <Baseline points="1202,1916 1219,3152"/>
+        <TextEquiv>
+          <Unicode>蕭子顯齊書曰文安王皇后</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104516" custom="structure {type:Commentary;}">
+        <Coords points="1095,2542 1097,1924 1170,1922 1180,3158 1099,3160 1095,2542"/>
+        <Baseline points="1134,1924 1139,3146"/>
+        <TextEquiv>
+          <Unicode>諱寶明琅邪臨沂人也父曄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104517" custom="structure {type:Commentary;}">
+        <Coords points="1023,2972 1025,2730 1025,2298 1015,1442 1104,1438 1100,3162 1025,3164 1023,2972"/>
+        <Baseline points="1049,1446 1066,3149"/>
+        <TextEquiv>
+          <Unicode>之齊世祖為文惠太子納后鬱林即位</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104518" custom="structure {type:Commentary;}">
+        <Coords points="951,2374 951,1448 1014,1440 1030,3170 951,3174 951,2374"/>
+        <Baseline points="984,1444 989,3163"/>
+        <TextEquiv>
+          <Unicode>尊為皇太后稱宣德宮梁王蕭衍定京</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104519" custom="structure {type:Commentary;}">
+        <Coords points="867,2298 871,1860 870,1768 868,1646 869,1550 865,1432 950,1434 950,2300 952,3160 879,3158 867,2298"/>
+        <Baseline points="899,1436 916,3142"/>
+        <TextEquiv>
+          <Unicode>邑迎后入宮稱制至禪位梁王於荊州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104520" custom="structure {type:Commentary;}">
+        <Coords points="795,2320 791,1450 870,1450 872,2314 881,3169 795,3178 795,2320"/>
+        <Baseline points="831,1453 840,3170"/>
+        <TextEquiv>
+          <Unicode>立蕭穎冑為帝進梁王為相國封十郡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104521" custom="structure {type:Commentary;}">
+        <Coords points="713,2380 717,2046 713,1452 786,1458 798,2609 700,2609 713,2380"/>
+        <Baseline points="743,1462 749,2610"/>
+        <TextEquiv>
+          <Unicode>為梁公表讓不受詔斷表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104522" custom="structure {type:Commentary;}">
+        <Coords points="631,1452 718,1452 714,2370 641,2366 631,1452"/>
+        <Baseline points="678,1456 684,2350"/>
+        <TextEquiv>
+          <Unicode>宣德皇后勸令受封</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104523" custom="structure {type:Author_name;}">
+        <Coords points="499,1212 634,1219 628,1658 495,1666 499,1212"/>
+        <Baseline points="554,1222 560,1660"/>
+        <TextEquiv>
+          <Unicode>任彥昇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104524" custom="structure {type:Text;}">
+        <Coords points="333,804 404,790 484,786 484,1711 345,1724 333,804"/>
+        <Baseline points="407,1712 412,799"/>
+        <TextEquiv>
+          <Unicode>宣德皇后敬問具位</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104525" custom="structure {type:Text;}">
+        <Coords points="399,1722 486,1708 496,2132 405,2124 399,1722"/>
+        <Baseline points="444,1712 446,2125"/>
+        <TextEquiv>
+          <Unicode>言梁武故</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104526" custom="structure {type:Text;}">
+        <Coords points="341,1732 408,1724 410,2024 343,2034 341,1732"/>
+        <Baseline points="367,2026 376,1738"/>
+        <TextEquiv>
+          <Unicode>曰具也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104527" custom="structure {type:Text;}">
+        <Coords points="343,2110 394,2110 492,2134 500,3165 345,3166 343,2110"/>
+        <Baseline points="401,2117 412,3166"/>
+        <TextEquiv>
+          <Unicode>夫功在不賞故庸勳之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104528" custom="structure {type:Text;}">
+        <Coords points="189,794 332,793 332,1164 189,1152 189,794"/>
+        <Baseline points="263,1144 268,796"/>
+        <TextEquiv>
+          <Unicode>典蓋闕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104529" custom="structure {type:Text;}">
+        <Coords points="261,2672 260,2164 258,1659 264,1160 348,1166 348,3159 265,3168 261,2672"/>
+        <Baseline points="302,1170 308,3161"/>
+        <TextEquiv>
+          <Unicode>言功績既高在乎不賞故庸勳之典蓋闕而不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104530" custom="structure {type:Text;}">
+        <Coords points="183,1160 270,1160 260,1660 262,2158 268,3160 193,3170 183,1160"/>
+        <Baseline points="229,1161 229,3155"/>
+        <TextEquiv>
+          <Unicode>論周書曰平州之臣功大弗賞諂臣日貴史記</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>永明十一年策秀才文五首
+任彥昇天監三年策秀才三首
+令
+宣德皇后令一首
+蕭子顯齊書曰文安王皇后
+諱寶明琅邪臨沂人也父曄
+之齊世祖為文惠太子納后鬱林即位
+尊為皇太后稱宣德宮梁王蕭衍定京
+邑迎后入宮稱制至禪位梁王於荊州
+立蕭穎冑為帝進梁王為相國封十郡
+為梁公表讓不受詔斷表
+宣德皇后勸令受封
+任彥昇
+宣德皇后敬問具位
+言梁武故
+曰具也
+夫功在不賞故庸勳之
+典蓋闕
+言功績既高在乎不賞故庸勳之典蓋闕而不
+論周書曰平州之臣功大弗賞諂臣日貴史記
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:39+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0039.jpg" imageHeight="4479" imageWidth="2526">
+    <TextRegion id="79206" custom="structure {type:MainText;}">
+      <Coords points="181,1023 2397,1004 2402,3989 928,3986 214,4003 204,1815 181,1023"/>
+      <TextLine id="867301" custom="structure {type:Text;}">
+        <Coords points="2204,1002 2396,1002 2396,1876 2204,1876 2204,1002"/>
+        <Baseline points="2315,1006 2319,1878"/>
+        <TextEquiv>
+          <Unicode>海上有草焉名蒒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867302" custom="structure {type:Commentary;}">
+        <Coords points="2294,1891 2401,1891 2401,2122 2294,2122 2294,1891"/>
+        <Baseline points="2351,1898 2360,2123"/>
+        <TextEquiv>
+          <Unicode>蒒音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867303" custom="structure {type:Commentary;}">
+        <Coords points="2172,1903 2309,1903 2309,1988 2172,1988 2172,1903"/>
+        <Baseline points="2271,1906 2271,1990"/>
+        <TextEquiv>
+          <Unicode>師</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867304" custom="structure {type:Text;}">
+        <Coords points="2165,2115 2409,2115 2409,3958 2165,3958 2165,2115"/>
+        <Baseline points="2303,2118 2331,3960"/>
+        <TextEquiv>
+          <Unicode>其實食之如大麥七月稔俗名曰自然</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867305" custom="structure {type:Text;}">
+        <Coords points="2025,1015 2204,1015 2204,1771 2025,1771 2025,1015"/>
+        <Baseline points="2119,1022 2139,1774"/>
+        <TextEquiv>
+          <Unicode>谷或曰禹餘糧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867306" custom="structure {type:Text;}">
+        <Coords points="1844,1015 2048,1015 2048,3851 1844,3851 1844,1015"/>
+        <Baseline points="1940,1018 1956,3852"/>
+        <TextEquiv>
+          <Unicode>堯時有屈佚草生於庭佞人入朝則屈而指之一名指佞草</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867307" custom="structure {type:Text;}">
+        <Coords points="1642,1015 1844,1015 1844,3968 1642,3968 1642,1015"/>
+        <Baseline points="1760,1018 1772,3969"/>
+        <TextEquiv>
+          <Unicode>右詹山帝女化為詹草其葉鬱茂其華黃實如豆服者媚於人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867308" custom="structure {type:Text;}">
+        <Coords points="1475,1022 1669,1022 1669,3346 1475,3346 1475,1022"/>
+        <Baseline points="1572,1026 1584,3347"/>
+        <TextEquiv>
+          <Unicode>止些山多竹長千仞鳳食其實去九疑萬八千里</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867309" custom="structure {type:Text;}">
+        <Coords points="1291,1030 1503,1030 1503,3961 1291,3961 1291,1030"/>
+        <Baseline points="1396,1033 1408,3963"/>
+        <TextEquiv>
+          <Unicode>江南諸山郡中大樹斷倒者經春夏生菌謂之椹食之有味而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867310" custom="structure {type:Text;}">
+        <Coords points="1092,1022 1311,1022 1311,3966 1092,3966 1092,1022"/>
+        <Baseline points="1212,3967 1216,1026"/>
+        <TextEquiv>
+          <Unicode>忽毒殺人云此物往往自有毒者或云蛇所著之楓樹生者啖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867311" custom="structure {type:Title;}">
+        <Coords points="883,1015 1124,1015 1124,2754 883,2754 883,1015"/>
+        <Baseline points="1020,1019 1044,2755"/>
+        <TextEquiv>
+          <Unicode>之令人笑不得止治之飲土漿即愈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867312" custom="structure {type:Title;}">
+        <Coords points="191,1027 423,1027 423,1781 191,1781 191,1027"/>
+        <Baseline points="289,1031 301,1783"/>
+        <TextEquiv>
+          <Unicode>博物志卷三終</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>海上有草焉名蒒
+蒒音
+師
+其實食之如大麥七月稔俗名曰自然
+谷或曰禹餘糧
+堯時有屈佚草生於庭佞人入朝則屈而指之一名指佞草
+右詹山帝女化為詹草其葉鬱茂其華黃實如豆服者媚於人
+止些山多竹長千仞鳳食其實去九疑萬八千里
+江南諸山郡中大樹斷倒者經春夏生菌謂之椹食之有味而
+忽毒殺人云此物往往自有毒者或云蛇所著之楓樹生者啖
+之令人笑不得止治之飲土漿即愈
+博物志卷三終
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79236" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="144,186 144,94 252,94 252,186 144,186"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79237" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="98,3460 98,1759 200,1759 200,3460 98,3460"/>
+      <TextLine id="869044" custom="structure {type:Page_Number;}">
+        <Coords points="67,1796 236,1796 236,2080 67,2080 67,1796"/>
+        <Baseline points="121,1805 136,2081"/>
+        <TextEquiv>
+          <Unicode>卷三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869045" custom="structure {type:Title;}">
+        <Coords points="57,2329 238,2329 238,2749 57,2749 57,2329"/>
+        <Baseline points="140,2333 150,2752"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869046" custom="structure {type:Page_Number;}">
+        <Coords points="64,3060 181,3060 181,3254 64,3254 64,3060"/>
+        <Baseline points="140,3061 140,3256"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷三
+博物志
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

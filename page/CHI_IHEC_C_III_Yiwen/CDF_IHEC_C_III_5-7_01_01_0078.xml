@@ -1,0 +1,297 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T16:51:41+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_C_III_5-7_01_01_0078.jpg" imageHeight="4562" imageWidth="6352">
+    <TextRegion id="116826" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5662,3432 5662,835 5803,835 5803,3432 5662,3432"/>
+      <TextLine id="1100640" custom="structure {type:Title;}">
+        <Coords points="5672,831 5775,828 5761,1346 5672,1340 5672,831"/>
+        <Baseline points="5726,1342 5745,837"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100641" custom="structure {type:Section;}">
+        <Coords points="5673,1677 5769,1665 5769,2268 5673,2270 5673,1677"/>
+        <Baseline points="5730,2269 5749,1670"/>
+        <TextEquiv>
+          <Unicode>天部卷之二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100642" custom="structure {type:Page_Number;}">
+        <Coords points="5677,3162 5770,3164 5781,3382 5677,3398 5677,3162"/>
+        <Baseline points="5749,3168 5759,3401"/>
+        <TextEquiv>
+          <Unicode>十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+天部卷之二
+十一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116827" custom="structure {type:MainText_Right;}">
+      <Coords points="3603,4078 3603,842 5696,842 5696,4078 3603,4078"/>
+      <TextLine id="1100643" custom="structure {type:Text;}">
+        <Coords points="5469,811 5667,811 5667,3109 5469,3109 5469,811"/>
+        <Baseline points="5559,814 5569,3111"/>
+        <TextEquiv>
+          <Unicode>列仙傳曰赤松子者神農時雨師也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100644" custom="structure {type:Commentary;}">
+        <Coords points="5558,3081 5677,3081 5677,3444 5558,3444 5558,3081"/>
+        <Baseline points="5616,3087 5640,3444"/>
+        <TextEquiv>
+          <Unicode>事具</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100645" custom="structure {type:Commentary;}">
+        <Coords points="5462,3089 5594,3089 5594,3431 5462,3431 5462,3089"/>
+        <Baseline points="5526,3097 5564,3425"/>
+        <TextEquiv>
+          <Unicode>仙部</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100646" custom="structure {type:Text;}">
+        <Coords points="5244,818 5464,818 5464,4100 5244,4100 5244,818"/>
+        <Baseline points="5340,823 5383,4101"/>
+        <TextEquiv>
+          <Unicode>謝承後漢書曰百里嵩為徐州刺史境遭旱嵩行部</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100647" custom="structure {type:Text;}">
+        <Coords points="5041,813 5257,813 5257,2164 5041,2164 5041,813"/>
+        <Baseline points="5145,818 5169,2165"/>
+        <TextEquiv>
+          <Unicode>傳車所經甘雨輒至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100648" custom="structure {type:Commentary;}">
+        <Coords points="5159,2163 5259,2151 5259,2800 5153,2799 5159,2163"/>
+        <Baseline points="5207,2155 5216,2802"/>
+        <TextEquiv>
+          <Unicode>事具職官</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100649" custom="structure {type:Commentary;}">
+        <Coords points="5026,2152 5153,2169 5168,2785 5021,2785 5026,2152"/>
+        <Baseline points="5102,2131 5131,2783"/>
+        <TextEquiv>
+          <Unicode>部刺史篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100650" custom="structure {type:Text;}">
+        <Coords points="4843,813 5046,813 5046,4103 4843,4103 4843,813"/>
+        <Baseline points="4945,4105 4955,818"/>
+        <TextEquiv>
+          <Unicode>管輅別傳曰輅過清河太守時天旱輅曰今夕當雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100651" custom="structure {type:Text;}">
+        <Coords points="4643,813 4838,813 4838,4133 4643,4133 4643,813"/>
+        <Baseline points="4736,814 4736,4134"/>
+        <TextEquiv>
+          <Unicode>樹中已有少女微風樹間又有陰鳥和鳴又少男風</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100652" custom="structure {type:Text;}">
+        <Coords points="4425,823 4641,823 4641,4113 4425,4113 4425,823"/>
+        <Baseline points="4522,828 4541,4115"/>
+        <TextEquiv>
+          <Unicode>起眾鳥亂翔其應至矣須臾風雲興元氣四合大雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100653" custom="structure {type:Text;}">
+        <Coords points="4248,848 4409,853 4420,1226 4231,1224 4248,848"/>
+        <Baseline points="4322,804 4327,1228"/>
+        <TextEquiv>
+          <Unicode>注傾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100654" custom="structure {type:Text;}">
+        <Coords points="4014,805 4230,805 4230,2354 4014,2354 4014,805"/>
+        <Baseline points="4127,2355 4141,809"/>
+        <TextEquiv>
+          <Unicode>風俗通曰元冥雨師也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100655" custom="structure {type:Text;}">
+        <Coords points="3790,851 4016,842 4017,4100 3794,4100 3790,851"/>
+        <Baseline points="3899,799 3937,4101"/>
+        <TextEquiv>
+          <Unicode>論衡曰道至天者祥風起甘雨降雨霽而陰曀者謂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100656" custom="structure {type:Text;}">
+        <Coords points="3601,818 3791,818 3791,1378 3601,1378 3601,818"/>
+        <Baseline points="3704,823 3718,1380"/>
+        <TextEquiv>
+          <Unicode>之甘雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>列仙傳曰赤松子者神農時雨師也
+事具
+仙部
+謝承後漢書曰百里嵩為徐州刺史境遭旱嵩行部
+傳車所經甘雨輒至
+事具職官
+部刺史篇
+管輅別傳曰輅過清河太守時天旱輅曰今夕當雨
+樹中已有少女微風樹間又有陰鳥和鳴又少男風
+起眾鳥亂翔其應至矣須臾風雲興元氣四合大雨
+注傾
+風俗通曰元冥雨師也
+論衡曰道至天者祥風起甘雨降雨霽而陰曀者謂
+之甘雨
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116828" custom="structure {type:MainText_Left;}">
+      <Coords points="737,4098 737,869 2789,869 2789,4098 737,4098"/>
+      <TextLine id="1100657" custom="structure {type:Text;}">
+        <Coords points="2562,828 2821,828 2821,3018 2562,3018 2562,828"/>
+        <Baseline points="2681,833 2705,3021"/>
+        <TextEquiv>
+          <Unicode>風土記曰六月有大雨名濯枝雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100658" custom="structure {type:Text;}">
+        <Coords points="2367,826 2562,826 2562,4133 2367,4133 2367,826"/>
+        <Baseline points="2471,828 2471,4134"/>
+        <TextEquiv>
+          <Unicode>益部耆舊傳曰趙瑤為閬中令遭旱請雨於靈星應</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100659" custom="structure {type:Text;}">
+        <Coords points="2177,862 2353,868 2352,1393 2180,1402 2177,862"/>
+        <Baseline points="2276,828 2286,1394"/>
+        <TextEquiv>
+          <Unicode>時大雨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100660" custom="structure {type:Text;}">
+        <Coords points="1941,838 2174,838 2174,4100 1941,4100 1941,838"/>
+        <Baseline points="2034,842 2072,4101"/>
+        <TextEquiv>
+          <Unicode>楚國先賢傳曰樊英忽謂學者曰成都市火甚盛因</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100661" custom="structure {type:Text;}">
+        <Coords points="1746,843 1941,843 1941,4133 1746,4133 1746,843"/>
+        <Baseline points="1843,847 1863,4134"/>
+        <TextEquiv>
+          <Unicode>含水西向噀之後有從蜀郡來者云是日大火須臾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100662" custom="structure {type:Text;}">
+        <Coords points="1533,851 1736,851 1736,1687 1533,1687 1533,851"/>
+        <Baseline points="1629,1689 1639,856"/>
+        <TextEquiv>
+          <Unicode>大雨火遂滅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100663" custom="structure {type:Commentary;}">
+        <Coords points="1634,1696 1750,1691 1750,2022 1640,2030 1634,1696"/>
+        <Baseline points="1696,1665 1725,2027"/>
+        <TextEquiv>
+          <Unicode>事具</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100664" custom="structure {type:Commentary;}">
+        <Coords points="1533,1691 1646,1685 1650,2012 1533,2012 1533,1691"/>
+        <Baseline points="1577,1656 1601,2012"/>
+        <TextEquiv>
+          <Unicode>火部</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100665" custom="structure {type:Text;}">
+        <Coords points="1318,851 1525,851 1525,4090 1318,4090 1318,851"/>
+        <Baseline points="1415,856 1449,4091"/>
+        <TextEquiv>
+          <Unicode>詩魏陳王曹植喜雨詩曰天覆何彌廣苞育此羣生</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100667" custom="structure {type:Text;}">
+        <Coords points="1130,851 1320,851 1320,4113 1130,4113 1130,851"/>
+        <Baseline points="1239,856 1244,4115"/>
+        <TextEquiv>
+          <Unicode>棄之必憔悴惠之則滋榮慶雲從北來鬱述西南征</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100668" custom="structure {type:Text;}">
+        <Coords points="909,828 1125,828 1125,4128 909,4128 909,828"/>
+        <Baseline points="1020,833 1049,4129"/>
+        <TextEquiv>
+          <Unicode>時雨中夜降長雷周我庭嘉種獲膏壤登秋畢有成</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100669" custom="structure {type:Text;}">
+        <Coords points="704,828 922,828 922,4103 704,4103 704,828"/>
+        <Baseline points="835,833 859,4105"/>
+        <TextEquiv>
+          <Unicode>魏阮瑀詩曰苦雨滋元冬引日彌且長丹墀自殲殪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>風土記曰六月有大雨名濯枝雨
+益部耆舊傳曰趙瑤為閬中令遭旱請雨於靈星應
+時大雨
+楚國先賢傳曰樊英忽謂學者曰成都市火甚盛因
+含水西向噀之後有從蜀郡來者云是日大火須臾
+大雨火遂滅
+事具
+火部
+詩魏陳王曹植喜雨詩曰天覆何彌廣苞育此羣生
+棄之必憔悴惠之則滋榮慶雲從北來鬱述西南征
+時雨中夜降長雷周我庭嘉種獲膏壤登秋畢有成
+魏阮瑀詩曰苦雨滋元冬引日彌且長丹墀自殲殪
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116829" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="629,4091 629,856 744,856 744,4091 629,4091"/>
+      <TextLine id="1100670" custom="structure {type:Title;}">
+        <Coords points="610,868 709,865 722,1386 605,1385 610,868"/>
+        <Baseline points="654,852 687,1384"/>
+        <TextEquiv>
+          <Unicode>藝文類聚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100671" custom="structure {type:Section;}">
+        <Coords points="613,1708 719,1708 719,2278 616,2282 613,1708"/>
+        <Baseline points="664,1713 668,2279"/>
+        <TextEquiv>
+          <Unicode>天部卷之二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112611" custom="structure {type:Page_Number;}">
+        <Coords points="611,3246 703,3258 703,3430 603,3422 611,3246"/>
+        <Baseline points="651,3230 659,3426"/>
+        <TextEquiv>
+          <Unicode>十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100672" custom="structure {type:Marginalia;}">
+        <Coords points="627,3441 709,3441 707,4095 625,4086 627,3441"/>
+        <Baseline points="672,3458 687,4115"/>
+        <TextEquiv>
+          <Unicode>宏達堂校梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藝文類聚
+天部卷之二
+十二
+宏達堂校梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

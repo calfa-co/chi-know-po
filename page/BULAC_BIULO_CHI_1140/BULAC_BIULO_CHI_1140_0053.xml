@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:44+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0053.jpg" imageHeight="4492" imageWidth="2535">
+    <TextRegion id="79208" custom="structure {type:MainText;}">
+      <Coords points="190,4011 1735,4016 2425,4003 2397,963 215,973 190,4011"/>
+      <TextLine id="867325" custom="structure {type:Text;}">
+        <Coords points="2217,963 2420,963 2420,3982 2217,3982 2217,963"/>
+        <Baseline points="2323,967 2347,3985"/>
+        <TextEquiv>
+          <Unicode>有甘始廬江有左慈陽城有郄儉始能行氣儉善辟穀悉號三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867326" custom="structure {type:Text;}">
+        <Coords points="2035,965 2242,965 2242,3990 2035,3990 2035,965"/>
+        <Baseline points="2139,970 2163,3992"/>
+        <TextEquiv>
+          <Unicode>百歲人自王與太子及余之兄弟咸以為調笑不全信之然嘗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867327" custom="structure {type:Text;}">
+        <Coords points="1863,963 2055,963 2055,3990 1863,3990 1863,963"/>
+        <Baseline points="1968,966 1972,3992"/>
+        <TextEquiv>
+          <Unicode>試郄儉辟穀百日猶與寢處行步起居自若也夫人不食七日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867328" custom="structure {type:Text;}">
+        <Coords points="1668,970 1875,970 1875,4002 1668,4002 1668,970"/>
+        <Baseline points="1776,975 1796,4004"/>
+        <TextEquiv>
+          <Unicode>則死而儉乃能如是左慈修房中之術可以終命然非有至情</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867329" custom="structure {type:Text;}">
+        <Coords points="1461,968 1693,968 1693,3995 1461,3995 1461,968"/>
+        <Baseline points="1588,971 1608,3996"/>
+        <TextEquiv>
+          <Unicode>莫能行也甘始老而少容自諸術士咸共歸之王使郄孟節主</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867330" custom="structure {type:Text;}">
+        <Coords points="1308,980 1501,980 1501,1362 1308,1362 1308,980"/>
+        <Baseline points="1404,983 1404,1363"/>
+        <TextEquiv>
+          <Unicode>領諸人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867331" custom="structure {type:Text;}">
+        <Coords points="1118,970 1336,970 1336,3997 1118,3997 1118,970"/>
+        <Baseline points="1220,975 1240,4000"/>
+        <TextEquiv>
+          <Unicode>近魏明帝時河東有焦生者裸而不衣處火不燋入水不凍杜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867332" custom="structure {type:Text;}">
+        <Coords points="931,980 1133,980 1133,2470 931,2470 931,980"/>
+        <Baseline points="1028,984 1040,2472"/>
+        <TextEquiv>
+          <Unicode>恕為太守親所呼見皆有實事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867333" custom="structure {type:Commentary;}">
+        <Coords points="1026,2488 1138,2488 1138,3995 1026,3995 1026,2488"/>
+        <Baseline points="1096,3996 1100,2492"/>
+        <TextEquiv>
+          <Unicode>周日用曰焦孝然居河東一庵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867334" custom="structure {type:Commentary;}">
+        <Coords points="914,2483 1051,2483 1051,3990 914,3990 914,2483"/>
+        <Baseline points="992,2485 992,3992"/>
+        <TextEquiv>
+          <Unicode>大雪庵倒人以為死而視之蒸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867335" custom="structure {type:Commentary;}">
+        <Coords points="831,978 946,978 946,2722 831,2722 831,978"/>
+        <Baseline points="896,983 908,2723"/>
+        <TextEquiv>
+          <Unicode>氣於雪略無變色時或析薪惠人而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867336" custom="structure {type:Commentary;}">
+        <Coords points="739,983 859,983 859,2722 739,2722 739,983"/>
+        <Baseline points="804,987 812,2723"/>
+        <TextEquiv>
+          <Unicode>已故魏書云自羲皇以來一人而已</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867337" custom="structure {type:Text;}">
+        <Coords points="564,975 769,975 769,3997 564,3997 564,975"/>
+        <Baseline points="656,979 668,4000"/>
+        <TextEquiv>
+          <Unicode>潁川陳元方韓元長時之通才者所以並信有仙者其父時所</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867338" custom="structure {type:Text;}">
+        <Coords points="382,980 579,980 579,3997 382,3997 382,980"/>
+        <Baseline points="484,984 488,4000"/>
+        <TextEquiv>
+          <Unicode>傳聞河南密縣有成公其人出行不知所至復來還語其家云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867339" custom="structure {type:Text;}">
+        <Coords points="197,975 394,975 394,3995 197,3995 197,975"/>
+        <Baseline points="293,980 305,3996"/>
+        <TextEquiv>
+          <Unicode>我得仙因與家人辭訣而去其步漸高良久乃沒而不見至今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>有甘始廬江有左慈陽城有郄儉始能行氣儉善辟穀悉號三
+百歲人自王與太子及余之兄弟咸以為調笑不全信之然嘗
+試郄儉辟穀百日猶與寢處行步起居自若也夫人不食七日
+則死而儉乃能如是左慈修房中之術可以終命然非有至情
+莫能行也甘始老而少容自諸術士咸共歸之王使郄孟節主
+領諸人
+近魏明帝時河東有焦生者裸而不衣處火不燋入水不凍杜
+恕為太守親所呼見皆有實事
+周日用曰焦孝然居河東一庵
+大雪庵倒人以為死而視之蒸
+氣於雪略無變色時或析薪惠人而
+已故魏書云自羲皇以來一人而已
+潁川陳元方韓元長時之通才者所以並信有仙者其父時所
+傳聞河南密縣有成公其人出行不知所至復來還語其家云
+我得仙因與家人辭訣而去其步漸高良久乃沒而不見至今
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79240" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="139,205 139,90 253,90 253,205 139,205"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79241" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="84,3483 84,1719 196,1719 196,3483 84,3483"/>
+      <TextLine id="869049" custom="structure {type:Page_Number;}">
+        <Coords points="54,1744 212,1744 212,2076 54,2076 54,1744"/>
+        <Baseline points="117,1752 136,2075"/>
+        <TextEquiv>
+          <Unicode>卷五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869050" custom="structure {type:Title;}">
+        <Coords points="49,2308 224,2308 224,2772 49,2772 49,2308"/>
+        <Baseline points="140,2774 145,2313"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869051" custom="structure {type:Page_Number;}">
+        <Coords points="49,3059 192,3059 192,3254 49,3254 49,3059"/>
+        <Baseline points="126,3064 131,3255"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷五
+博物志
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:40+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0533.jpg" imageHeight="4948" imageWidth="2875">
+    <TextRegion id="80227" custom="structure {type:MainText;}">
+      <Coords points="208,1443 2579,1432 2603,4388 215,4362 208,1443"/>
+      <TextLine id="876047" custom="structure {type:Text;}">
+        <Coords points="2404,1440 2575,1440 2575,1847 2404,1847 2404,1440"/>
+        <Baseline points="2502,1443 2502,1850"/>
+        <TextEquiv>
+          <Unicode>去私惡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876048" custom="structure {type:Commentary;}">
+        <Coords points="2478,1852 2594,1852 2594,4356 2478,4356 2478,1852"/>
+        <Baseline points="2536,1857 2556,4358"/>
+        <TextEquiv>
+          <Unicode>呂氏春秋云桓公行公去私惡用管仲而為五百</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876049" custom="structure {type:Commentary;}">
+        <Coords points="2390,1850 2509,1850 2509,4370 2390,4370 2390,1850"/>
+        <Baseline points="2452,1853 2462,4373"/>
+        <TextEquiv>
+          <Unicode>長行私惡用豎刀而蟲生於尸○今案近本呂春</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876050" custom="structure {type:Commentary;}">
+        <Coords points="2283,1443 2418,1443 2418,3576 2283,3576 2283,1443"/>
+        <Baseline points="2347,1446 2361,3579"/>
+        <TextEquiv>
+          <Unicode>秋孟春紀及陳俞本行私句作行私阿所</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876051" custom="structure {type:Commentary;}">
+        <Coords points="2189,1434 2302,1434 2302,3419 2189,3419 2189,1434"/>
+        <Baseline points="2256,1440 2260,3421"/>
+        <TextEquiv>
+          <Unicode>愛生於尸作出於刀惟俞本作出於尸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876052" custom="structure {type:Text;}">
+        <Coords points="2214,3554 2393,3554 2393,4236 2214,4236 2214,3554"/>
+        <Baseline points="2307,4238 2314,3559"/>
+        <TextEquiv>
+          <Unicode>不可於以私</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876053" custom="structure {type:Commentary;}">
+        <Coords points="2300,4241 2418,4241 2418,4370 2300,4370 2300,4241"/>
+        <Baseline points="2357,4248 2367,4369"/>
+        <TextEquiv>
+          <Unicode>漢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876054" custom="structure {type:Commentary;}">
+        <Coords points="2198,4225 2316,4225 2316,4373 2198,4373 2198,4225"/>
+        <Baseline points="2260,4231 2270,4373"/>
+        <TextEquiv>
+          <Unicode>書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876055" custom="structure {type:Commentary;}">
+        <Coords points="2096,1445 2217,1445 2217,4373 2096,4373 2096,1445"/>
+        <Baseline points="2145,1450 2162,4376"/>
+        <TextEquiv>
+          <Unicode>云尹翁歸字子兄為東海太守過辭於定國定國家在東</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876056" custom="structure {type:Commentary;}">
+        <Coords points="1983,1437 2118,1437 2118,4367 1983,4367 1983,1437"/>
+        <Baseline points="2048,1443 2061,4369"/>
+        <TextEquiv>
+          <Unicode>海欲屬托邑子兩人令坐後堂待見定國與翁歸語終日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876057" custom="structure {type:Commentary;}">
+        <Coords points="1890,1437 2002,1437 2002,4354 1890,4354 1890,1437"/>
+        <Baseline points="1954,1443 1960,4356"/>
+        <TextEquiv>
+          <Unicode>不敢見其邑子既去定國乃謂邑子曰此賢將往汝不任</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876058" custom="structure {type:Commentary;}">
+        <Coords points="1788,1434 1917,1434 1917,4362 1788,4362 1788,1434"/>
+        <Baseline points="1849,1440 1863,4363"/>
+        <TextEquiv>
+          <Unicode>事且不可干以私○今案漢書七十六本傳及陳俞本將</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876059" custom="structure {type:Commentary;}">
+        <Coords points="1694,1443 1813,1443 1813,1709 1694,1709 1694,1443"/>
+        <Baseline points="1755,1450 1762,1712"/>
+        <TextEquiv>
+          <Unicode>下無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876060" custom="structure {type:Commentary;}">
+        <Coords points="1590,1437 1708,1437 1708,1707 1590,1707 1590,1437"/>
+        <Baseline points="1651,1443 1661,1709"/>
+        <TextEquiv>
+          <Unicode>往字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876061" custom="structure {type:Text;}">
+        <Coords points="1603,1698 1802,1698 1802,2237 1603,2237 1603,1698"/>
+        <Baseline points="1705,1702 1715,2240"/>
+        <TextEquiv>
+          <Unicode>堯舜至公</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876062" custom="structure {type:Commentary;}">
+        <Coords points="1697,2256 1813,2256 1813,4367 1697,4367 1697,2256"/>
+        <Baseline points="1762,2260 1765,4369"/>
+        <TextEquiv>
+          <Unicode>呂氏春秋云堯有子十人不與其子而授</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876063" custom="structure {type:Commentary;}">
+        <Coords points="1592,2245 1716,2245 1716,4367 1592,4367 1592,2245"/>
+        <Baseline points="1661,2249 1671,4368"/>
+        <TextEquiv>
+          <Unicode>舜舜有子九人不與其子而授禹至公也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876064" custom="structure {type:Commentary;}">
+        <Coords points="1485,1465 1601,1465 1601,2243 1485,2243 1485,1465"/>
+        <Baseline points="1550,2244 1553,1470"/>
+        <TextEquiv>
+          <Unicode>○今案見呂氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876065" custom="structure {type:Commentary;}">
+        <Coords points="1381,1445 1510,1445 1510,2111 1381,2111 1381,1445"/>
+        <Baseline points="1449,1450 1456,2112"/>
+        <TextEquiv>
+          <Unicode>春秋孟春紀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876066" custom="structure {type:Text;}">
+        <Coords points="1405,2223 1592,2223 1592,2773 1405,2773 1405,2223"/>
+        <Baseline points="1513,2227 1520,2775"/>
+        <TextEquiv>
+          <Unicode>老耼至公</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876067" custom="structure {type:Commentary;}">
+        <Coords points="1493,2773 1612,2773 1612,4362 1493,4362 1493,2773"/>
+        <Baseline points="1557,4363 1560,2778"/>
+        <TextEquiv>
+          <Unicode>呂氏春秋云荊人有遺弓不肯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876068" custom="structure {type:Commentary;}">
+        <Coords points="1397,2762 1504,2762 1504,4356 1397,4356 1397,2762"/>
+        <Baseline points="1463,2768 1466,4359"/>
+        <TextEquiv>
+          <Unicode>索曰荊人遺弓荊人得之何索</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876069" custom="structure {type:Commentary;}">
+        <Coords points="1293,1440 1403,1440 1403,4354 1293,4354 1293,1440"/>
+        <Baseline points="1362,1443 1362,4356"/>
+        <TextEquiv>
+          <Unicode>焉孔子聞之曰去其荊而可矣老耼聞之曰去其人而可</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876070" custom="structure {type:Commentary;}">
+        <Coords points="1191,1443 1312,1443 1312,4236 1191,4236 1191,1443"/>
+        <Baseline points="1247,1446 1254,4238"/>
+        <TextEquiv>
+          <Unicode>矣老耼則至公矣○孫氏校公改弓今案亦見孟春紀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876071" custom="structure {type:Text;}">
+        <Coords points="998,1437 1185,1437 1184,1998 1003,2013 998,1437"/>
+        <Baseline points="1093,1968 1099,1443"/>
+        <TextEquiv>
+          <Unicode>解狐舉讎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876072" custom="structure {type:Commentary;}">
+        <Coords points="1086,1976 1218,1976 1212,4367 1084,4367 1086,1976"/>
+        <Baseline points="1143,1981 1157,4353"/>
+        <TextEquiv>
+          <Unicode>韓子云解狐薦讎於趙簡子以為相其讎往拜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876073" custom="structure {type:Commentary;}">
+        <Coords points="984,1981 1111,1981 1111,4324 984,4324 984,1981"/>
+        <Baseline points="1046,1985 1059,4326"/>
+        <TextEquiv>
+          <Unicode>解狐引弓迎而射曰不為怨汝故推於吾君○</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876074" custom="structure {type:Commentary;}">
+        <Coords points="894,1434 1009,1434 1009,2754 894,2754 894,1434"/>
+        <Baseline points="951,1440 965,2755"/>
+        <TextEquiv>
+          <Unicode>今案韓子外儲說左篇簡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876075" custom="structure {type:Commentary;}">
+        <Coords points="789,1432 913,1432 913,2754 789,2754 789,1432"/>
+        <Baseline points="861,1436 864,2755"/>
+        <TextEquiv>
+          <Unicode>于誤簡主迎作送推誤擁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876076" custom="structure {type:Text;}">
+        <Coords points="806,2746 1001,2746 998,3316 803,3321 806,2746"/>
+        <Baseline points="911,2751 918,3293"/>
+        <TextEquiv>
+          <Unicode>謝安舉親</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876077" custom="structure {type:Commentary;}">
+        <Coords points="894,3312 1012,3312 1012,4348 894,4348 894,3312"/>
+        <Baseline points="961,3317 965,4349"/>
+        <TextEquiv>
+          <Unicode>晉中興書云上言賊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876078" custom="structure {type:Commentary;}">
+        <Coords points="803,3301 924,3301 924,4348 803,4348 803,3301"/>
+        <Baseline points="857,3306 871,4349"/>
+        <TextEquiv>
+          <Unicode>強盛朝廷求文武良</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876079" custom="structure {type:Commentary;}">
+        <Coords points="685,1456 817,1456 814,4365 684,4371 685,1456"/>
+        <Baseline points="750,1460 766,4349"/>
+        <TextEquiv>
+          <Unicode>將可以鎮遏北方者安曰惟有兄子玄卻超聞而喜曰安</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876080" custom="structure {type:Commentary;}">
+        <Coords points="588,1434 715,1434 713,4358 589,4358 588,1434"/>
+        <Baseline points="659,1440 665,4339"/>
+        <TextEquiv>
+          <Unicode>違眾舉親明也玄不負所舉才也○孫氏校此改北今案</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876081" custom="structure {type:Commentary;}">
+        <Coords points="486,1443 613,1443 613,4222 486,4222 486,1443"/>
+        <Baseline points="554,1446 565,4225"/>
+        <TextEquiv>
+          <Unicode>御覽五百十二引上言作時氐喜作嘆餘同文選注三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876082" custom="structure {type:Commentary;}">
+        <Coords points="385,1437 511,1437 511,4230 385,4230 385,1437"/>
+        <Baseline points="450,1443 457,4231"/>
+        <TextEquiv>
+          <Unicode>十引上言作時盜無卻超以下陳俞本已改注今晉書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1017499" custom="structure {type:Text;}">
+        <Coords points="409,4230 591,4230 591,4362 409,4362 409,4230"/>
+        <Baseline points="506,4232 506,4363"/>
+        <TextEquiv>
+          <Unicode>內</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876083" custom="structure {type:Text;}">
+        <Coords points="198,1434 401,1434 401,1976 198,1976 198,1434"/>
+        <Baseline points="302,1440 312,1978"/>
+        <TextEquiv>
+          <Unicode>舉不失親</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876084" custom="structure {type:Commentary;}">
+        <Coords points="283,1976 415,1976 415,4348 283,4348 283,1976"/>
+        <Baseline points="356,1981 376,4349"/>
+        <TextEquiv>
+          <Unicode>呂氏春秋云孔子曰祁黃羊云云外舉不避讎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876085" custom="structure {type:Commentary;}">
+        <Coords points="176,1976 319,1976 318,4367 247,4381 209,4381 176,4345 176,1976"/>
+        <Baseline points="245,1981 272,4346"/>
+        <TextEquiv>
+          <Unicode>可謂公也矣親謂舉子祁午讎謂解狐也○今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>去私惡
+呂氏春秋云桓公行公去私惡用管仲而為五百
+長行私惡用豎刀而蟲生於尸○今案近本呂春
+秋孟春紀及陳俞本行私句作行私阿所
+愛生於尸作出於刀惟俞本作出於尸
+不可於以私
+漢
+書
+云尹翁歸字子兄為東海太守過辭於定國定國家在東
+海欲屬托邑子兩人令坐後堂待見定國與翁歸語終日
+不敢見其邑子既去定國乃謂邑子曰此賢將往汝不任
+事且不可干以私○今案漢書七十六本傳及陳俞本將
+下無
+往字
+堯舜至公
+呂氏春秋云堯有子十人不與其子而授
+舜舜有子九人不與其子而授禹至公也
+○今案見呂氏
+春秋孟春紀
+老耼至公
+呂氏春秋云荊人有遺弓不肯
+索曰荊人遺弓荊人得之何索
+焉孔子聞之曰去其荊而可矣老耼聞之曰去其人而可
+矣老耼則至公矣○孫氏校公改弓今案亦見孟春紀
+解狐舉讎
+韓子云解狐薦讎於趙簡子以為相其讎往拜
+解狐引弓迎而射曰不為怨汝故推於吾君○
+今案韓子外儲說左篇簡
+于誤簡主迎作送推誤擁
+謝安舉親
+晉中興書云上言賊
+強盛朝廷求文武良
+將可以鎮遏北方者安曰惟有兄子玄卻超聞而喜曰安
+違眾舉親明也玄不負所舉才也○孫氏校此改北今案
+御覽五百十二引上言作時氐喜作嘆餘同文選注三
+十引上言作時盜無卻超以下陳俞本已改注今晉書
+內
+舉不失親
+呂氏春秋云孔子曰祁黃羊云云外舉不避讎
+可謂公也矣親謂舉子祁午讎謂解狐也○今
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80228" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="107,2082 198,2082 195,3670 134,3670 107,2082"/>
+      <TextLine id="876087" custom="structure {type:Section;}">
+        <Coords points="90,2102 195,2102 195,2861 90,2861 90,2102"/>
+        <Baseline points="147,2106 154,2862"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第三十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876088" custom="structure {type:Page_Number;}">
+        <Coords points="88,3515 203,3515 203,3642 88,3642 88,3515"/>
+        <Baseline points="137,3528 161,3636"/>
+        <TextEquiv>
+          <Unicode>七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷第三十七
+七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80230" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="178,145 326,145 326,266 191,269 178,145"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

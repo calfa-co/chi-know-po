@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:49+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0069.jpg" imageHeight="4492" imageWidth="2547">
+    <TextRegion id="79245" custom="structure {type:MainText;}">
+      <Coords points="186,994 2392,966 2420,4014 218,4007 186,994"/>
+      <TextLine id="867358" custom="structure {type:Text;}">
+        <Coords points="2202,970 2439,970 2439,3995 2202,3995 2202,970"/>
+        <Baseline points="2311,974 2351,3997"/>
+        <TextEquiv>
+          <Unicode>徐偃王志云徐君宮人娠而生卵以為不祥棄之水濱獨孤母</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867359" custom="structure {type:Text;}">
+        <Coords points="2020,973 2242,973 2242,4007 2020,4007 2020,973"/>
+        <Baseline points="2119,976 2159,4008"/>
+        <TextEquiv>
+          <Unicode>有犬名鵠蒼獵於水濱得所棄卵銜以東歸獨孤母以為異覆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867360" custom="structure {type:Text;}">
+        <Coords points="1847,973 2050,973 2050,3997 1847,3997 1847,973"/>
+        <Baseline points="1952,978 1967,4000"/>
+        <TextEquiv>
+          <Unicode>煖之遂孵成兒生時正偃故以為名徐君宮中聞之乃更錄取</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867361" custom="structure {type:Text;}">
+        <Coords points="1658,983 1870,983 1870,3995 1658,3995 1658,983"/>
+        <Baseline points="1772,987 1788,3996"/>
+        <TextEquiv>
+          <Unicode>長而仁智襲君徐國後鵠蒼臨死生角而九尾實黃龍也偃王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867362" custom="structure {type:Text;}">
+        <Coords points="1468,988 1683,988 1683,3995 1468,3995 1468,988"/>
+        <Baseline points="1568,993 1596,3996"/>
+        <TextEquiv>
+          <Unicode>又葬之徐界中今見存偃王既襲其國仁義著聞欲舟行上國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867363" custom="structure {type:Text;}">
+        <Coords points="1293,998 1495,998 1495,4002 1293,4002 1293,998"/>
+        <Baseline points="1396,1001 1412,4004"/>
+        <TextEquiv>
+          <Unicode>乃通溝陳蔡之間得朱弓矢以己得天瑞遂因名為弓自稱徐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867364" custom="structure {type:Text;}">
+        <Coords points="1103,990 1315,990 1315,3970 1103,3970 1103,990"/>
+        <Baseline points="1204,994 1232,3972"/>
+        <TextEquiv>
+          <Unicode>偃王江淮諸侯皆伏從伏從者三十六國周王聞遣使乘駟一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867365" custom="structure {type:Text;}">
+        <Coords points="916,998 1136,998 1136,3997 916,3997 916,998"/>
+        <Baseline points="1020,1003 1044,4000"/>
+        <TextEquiv>
+          <Unicode>日至楚使伐之偃王仁不忍鬥害其民為楚所敗逃走彭城武</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867366" custom="structure {type:Text;}">
+        <Coords points="729,990 946,990 946,3990 729,3990 729,990"/>
+        <Baseline points="848,995 860,3992"/>
+        <TextEquiv>
+          <Unicode>原縣東山下百姓隨之者以萬數後遂名其山為徐山山上立</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867367" custom="structure {type:Text;}">
+        <Coords points="544,993 756,993 756,2637 544,2637 544,993"/>
+        <Baseline points="648,997 668,2640"/>
+        <TextEquiv>
+          <Unicode>石室有神靈民人祈禱今皆見存</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867368" custom="structure {type:Text;}">
+        <Coords points="357,1000 589,1000 589,3995 357,3995 357,1000"/>
+        <Baseline points="468,1004 488,3997"/>
+        <TextEquiv>
+          <Unicode>海水西夸父與日相逐走渴飲水河謂不足北飲大澤未至渴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867369" custom="structure {type:Text;}">
+        <Coords points="172,1000 384,1000 384,2246 172,2246 172,1000"/>
+        <Baseline points="281,1007 301,2247"/>
+        <TextEquiv>
+          <Unicode>而死棄其策杖化為鄧林</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>徐偃王志云徐君宮人娠而生卵以為不祥棄之水濱獨孤母
+有犬名鵠蒼獵於水濱得所棄卵銜以東歸獨孤母以為異覆
+煖之遂孵成兒生時正偃故以為名徐君宮中聞之乃更錄取
+長而仁智襲君徐國後鵠蒼臨死生角而九尾實黃龍也偃王
+又葬之徐界中今見存偃王既襲其國仁義著聞欲舟行上國
+乃通溝陳蔡之間得朱弓矢以己得天瑞遂因名為弓自稱徐
+偃王江淮諸侯皆伏從伏從者三十六國周王聞遣使乘駟一
+日至楚使伐之偃王仁不忍鬥害其民為楚所敗逃走彭城武
+原縣東山下百姓隨之者以萬數後遂名其山為徐山山上立
+石室有神靈民人祈禱今皆見存
+海水西夸父與日相逐走渴飲水河謂不足北飲大澤未至渴
+而死棄其策杖化為鄧林
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79246" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="91,3500 202,3497 182,1740 111,1733 91,3500"/>
+      <TextLine id="869054" custom="structure {type:Page_Number;}">
+        <Coords points="69,1779 207,1779 207,2088 69,2088 69,1779"/>
+        <Baseline points="131,1780 131,2089"/>
+        <TextEquiv>
+          <Unicode>卷七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869055" custom="structure {type:Title;}">
+        <Coords points="64,2315 224,2315 224,2777 64,2777 64,2315"/>
+        <Baseline points="140,2318 140,2779"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869056" custom="structure {type:Page_Number;}">
+        <Coords points="62,3077 187,3077 187,3276 62,3276 62,3077"/>
+        <Baseline points="121,3083 131,3279"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷七
+博物志
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79247" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="181,181 181,91 311,91 311,181 181,181"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

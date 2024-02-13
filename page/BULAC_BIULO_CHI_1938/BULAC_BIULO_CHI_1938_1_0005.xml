@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:30+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1938_1_0005.jpg" imageHeight="5574" imageWidth="3918">
+    <TextRegion id="86000" custom="structure {type:Image_Stamp;}">
+      <Coords points="2992,2336 3128,2228 3258,2239 3382,2336 3394,2483 3320,2624 3173,2675 2992,2584 2992,2336"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="85999" custom="structure {type:Title;}">
+      <Coords points="514,788 2726,799 2749,3118 3626,3147 3637,5189 520,5144 514,788"/>
+      <TextLine id="915708" custom="structure {type:Title;}">
+        <Coords points=""/>
+        <Baseline points="3263,3396 3286,5099"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="915709" custom="structure {type:Title;}">
+        <Coords points=""/>
+        <Baseline points="2064,834 2104,5071"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="915710" custom="structure {type:Title;}">
+        <Coords points=""/>
+        <Baseline points="927,800 995,5122"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+
+
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="138471" custom="structure {type:Image_Stamp;}">
+      <Coords points="1811,5470 1811,5238 2286,5238 2286,5470 1811,5470"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

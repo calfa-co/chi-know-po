@@ -1,0 +1,433 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:28:51+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI111_1_5_0016.jpg" imageHeight="4091" imageWidth="4908">
+    <TextRegion id="117867" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4571,737 4652,732 4671,3639 4571,3643 4571,737"/>
+      <TextLine id="1111290" custom="structure {type:Title;}">
+        <Coords points="4567,695 4695,703 4687,1475 4567,1465 4567,695"/>
+        <Baseline points="4620,1467 4624,699"/>
+        <TextEquiv>
+          <Unicode>毛詩陸疏校正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111291" custom="structure {type:Page_Number;}">
+        <Coords points="4564,2965 4696,2965 4696,3109 4564,3109 4564,2965"/>
+        <Baseline points="4624,2967 4624,3111"/>
+        <TextEquiv>
+          <Unicode>十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>毛詩陸疏校正
+十一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117868" custom="structure {type:MainText_Right;}">
+      <Coords points="2517,713 4557,727 4538,3662 2502,3629 2517,713"/>
+      <TextLine id="1111292" custom="structure {type:Text;}">
+        <Coords points="4373,695 4571,695 4571,3671 4373,3672 4373,695"/>
+        <Baseline points="4473,3673 4497,700"/>
+        <TextEquiv>
+          <Unicode>故里語曰斫檀不諦得繫迷繫迷尚可得駮馬繫迷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111293" custom="structure {type:Commentary;}">
+        <Coords points="4324,699 4419,695 4387,2643 4308,2631 4324,699"/>
+        <Baseline points="4339,2631 4366,700"/>
+        <TextEquiv>
+          <Unicode>廣博物志引繫迷駮馬皆木也御</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111294" custom="structure {type:Commentary;}">
+        <Coords points="4203,688 4321,688 4321,2495 4203,2495 4203,688"/>
+        <Baseline points="4268,2496 4271,693"/>
+        <TextEquiv>
+          <Unicode>覽引作繫彌爾雅翼引作莢迷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111295" custom="structure {type:Text;}">
+        <Coords points="4207,2665 4380,2665 4380,3672 4207,3672 4207,2665"/>
+        <Baseline points="4288,2668 4288,3673"/>
+        <TextEquiv>
+          <Unicode>一名挈橀故齊人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111296" custom="structure {type:Text;}">
+        <Coords points="4046,695 4221,695 4221,2195 4046,2195 4046,695"/>
+        <Baseline points="4140,2197 4147,700"/>
+        <TextEquiv>
+          <Unicode>諺曰上山斫檀挈橀先殫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111297" custom="structure {type:Commentary;}">
+        <Coords points="4105,2179 4221,2179 4221,3652 4105,3652 4105,2179"/>
+        <Baseline points="4167,3653 4177,2183"/>
+        <TextEquiv>
+          <Unicode>爾雅魄榽橀郭注引齊諺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111298" custom="structure {type:Commentary;}">
+        <Coords points="4012,2170 4132,2170 4132,3638 4012,3638 4012,2170"/>
+        <Baseline points="4080,3640 4086,2173"/>
+        <TextEquiv>
+          <Unicode>榽橀先殫釋文榽兮計切</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111299" custom="structure {type:Commentary;}">
+        <Coords points="3962,706 4080,706 4080,1006 3962,1006 3962,706"/>
+        <Baseline points="4019,707 4019,1009"/>
+        <TextEquiv>
+          <Unicode>橀許</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111300" custom="structure {type:Commentary;}">
+        <Coords points="3875,695 3978,695 3978,1006 3875,1006 3875,695"/>
+        <Baseline points="3922,700 3925,1009"/>
+        <TextEquiv>
+          <Unicode>兮切</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111301" custom="structure {type:Text;}">
+        <Coords points="3855,1015 4053,1015 4053,3665 3855,3665 3855,1015"/>
+        <Baseline points="3949,3667 3972,1016"/>
+        <TextEquiv>
+          <Unicode>下章云山有枹棣隰有樹檖皆山隰木相配不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111302" custom="structure {type:Text;}">
+        <Coords points="3703,686 3887,686 3887,1156 3703,1156 3703,686"/>
+        <Baseline points="3797,690 3804,1157"/>
+        <TextEquiv>
+          <Unicode>宜謂獸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111303" custom="structure {type:Commentary;}">
+        <Coords points="3759,1147 3889,1147 3889,3647 3759,3647 3759,1147"/>
+        <Baseline points="3817,3650 3838,1151"/>
+        <TextEquiv>
+          <Unicode>詩晨風疏釋文引駮馬木名梓榆也晉崔豹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111304" custom="structure {type:Commentary;}">
+        <Coords points="3720,1139 3794,1140 3794,3647 3688,3647 3720,1139"/>
+        <Baseline points="3730,3650 3743,1144"/>
+        <TextEquiv>
+          <Unicode>古今注六駮山中有木葉似豫章皮多癬駮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111305" custom="structure {type:Title;}">
+        <Coords points="3532,970 3709,970 3709,1640 3532,1640 3532,970"/>
+        <Baseline points="3616,972 3616,1642"/>
+        <TextEquiv>
+          <Unicode>柞棫拔矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111306" custom="structure {type:Text;}">
+        <Coords points="3328,693 3544,693 3544,3659 3328,3659 3328,693"/>
+        <Baseline points="3411,3660 3461,700"/>
+        <TextEquiv>
+          <Unicode>柞棫三蒼説棫即柞也其材理全白無赤心者為白桵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111307" custom="structure {type:Text;}">
+        <Coords points="3200,691 3364,686 3364,2922 3176,2923 3200,691"/>
+        <Baseline points="3266,2923 3286,690"/>
+        <TextEquiv>
+          <Unicode>直理易破可為犢車軸又可為矛㦸鎩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111308" custom="structure {type:Commentary;}">
+        <Coords points="3246,2915 3350,2915 3350,3652 3246,3652 3246,2915"/>
+        <Baseline points="3289,3653 3293,2920"/>
+        <TextEquiv>
+          <Unicode>詩皇矣疏引</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111309" custom="structure {type:Commentary;}">
+        <Coords points="3164,2899 3257,2895 3257,3661 3160,3663 3164,2899"/>
+        <Baseline points="3209,3663 3212,2900"/>
+        <TextEquiv>
+          <Unicode>作矛㦸矜爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111310" custom="structure {type:Commentary;}">
+        <Coords points="3116,699 3209,700 3209,1593 3100,1603 3116,699"/>
+        <Baseline points="3145,1595 3158,703"/>
+        <TextEquiv>
+          <Unicode>雅釋文疏同御</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111311" custom="structure {type:Commentary;}">
+        <Coords points="3028,691 3114,688 3114,1468 3016,1471 3028,691"/>
+        <Baseline points="3064,1470 3071,693"/>
+        <TextEquiv>
+          <Unicode>覽柞引作鎩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111312" custom="structure {type:Title;}">
+        <Coords points="2834,938 3018,938 3018,1647 2834,1647 2834,938"/>
+        <Baseline points="2930,1649 2940,942"/>
+        <TextEquiv>
+          <Unicode>隰有杞夷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111313" custom="structure {type:Text;}">
+        <Coords points="2634,688 2852,688 2852,3647 2634,3647 2634,688"/>
+        <Baseline points="2735,3650 2778,693"/>
+        <TextEquiv>
+          <Unicode>梀葉如柞皮薄而白其木理赤者為赤梀一名桋白</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111314" custom="structure {type:Text;}">
+        <Coords points="2504,687 2675,688 2675,2763 2488,2763 2504,687"/>
+        <Baseline points="2573,2765 2604,693"/>
+        <TextEquiv>
+          <Unicode>者為梀其木皆堅韌今人以為車轂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111315" custom="structure {type:Commentary;}">
+        <Coords points="2566,2768 2663,2771 2647,3646 2563,3636 2566,2768"/>
+        <Baseline points="2604,3636 2614,2745"/>
+        <TextEquiv>
+          <Unicode>爾雅釋木桋赤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111316" custom="structure {type:Commentary;}">
+        <Coords points="2492,2780 2573,2775 2573,3490 2487,3489 2492,2780"/>
+        <Baseline points="2523,2745 2523,3492"/>
+        <TextEquiv>
+          <Unicode>梀白者梀疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>故里語曰斫檀不諦得繫迷繫迷尚可得駮馬繫迷
+廣博物志引繫迷駮馬皆木也御
+覽引作繫彌爾雅翼引作莢迷
+一名挈橀故齊人
+諺曰上山斫檀挈橀先殫
+爾雅魄榽橀郭注引齊諺
+榽橀先殫釋文榽兮計切
+橀許
+兮切
+下章云山有枹棣隰有樹檖皆山隰木相配不
+宜謂獸
+詩晨風疏釋文引駮馬木名梓榆也晉崔豹
+古今注六駮山中有木葉似豫章皮多癬駮
+柞棫拔矣
+柞棫三蒼説棫即柞也其材理全白無赤心者為白桵
+直理易破可為犢車軸又可為矛㦸鎩
+詩皇矣疏引
+作矛㦸矜爾
+雅釋文疏同御
+覽柞引作鎩
+隰有杞夷
+梀葉如柞皮薄而白其木理赤者為赤梀一名桋白
+者為梀其木皆堅韌今人以為車轂
+爾雅釋木桋赤
+梀白者梀疏
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117870" custom="structure {type:MainText_Left;}">
+      <Coords points="419,727 2455,713 2445,3648 372,3639 419,727"/>
+      <TextLine id="1111317" custom="structure {type:Title;}">
+        <Coords points="2314,977 2491,977 2491,1488 2314,1488 2314,977"/>
+        <Baseline points="2408,979 2408,1490"/>
+        <TextEquiv>
+          <Unicode>隰有杻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111318" custom="structure {type:Text;}">
+        <Coords points="2144,707 2305,700 2305,3661 2124,3663 2144,707"/>
+        <Baseline points="2197,3663 2220,703"/>
+        <TextEquiv>
+          <Unicode>杻檍也葉似杏而尖白色皮正赤為木多曲少直枝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111319" custom="structure {type:Text;}">
+        <Coords points="1972,699 2145,700 2145,3668 1944,3683 1972,699"/>
+        <Baseline points="2035,3670 2065,703"/>
+        <TextEquiv>
+          <Unicode>葉茂好二月中葉疏華如楝而細蕊正白蓋此樹今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111320" custom="structure {type:Text;}">
+        <Coords points="1768,700 1968,700 1968,3672 1768,3672 1768,700"/>
+        <Baseline points="1864,3673 1887,703"/>
+        <TextEquiv>
+          <Unicode>官園種之正名曰萬歲既取名於億萬其葉又好故</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111321" custom="structure {type:Text;}">
+        <Coords points="1636,683 1795,679 1795,3672 1596,3671 1636,683"/>
+        <Baseline points="1682,3673 1726,683"/>
+        <TextEquiv>
+          <Unicode>種共汲山下人或謂之牛筋或謂之檍材可為弓弩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111322" custom="structure {type:Text;}">
+        <Coords points="1450,709 1627,709 1627,1022 1450,1022 1450,709"/>
+        <Baseline points="1541,710 1541,1023"/>
+        <TextEquiv>
+          <Unicode>幹也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111323" custom="structure {type:Commentary;}">
+        <Coords points="1518,1025 1643,1025 1643,1779 1518,1779 1518,1025"/>
+        <Baseline points="1575,1026 1575,1780"/>
+        <TextEquiv>
+          <Unicode>詩山有樞疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111324" custom="structure {type:Commentary;}">
+        <Coords points="1418,1009 1541,1009 1541,1775 1418,1775 1418,1009"/>
+        <Baseline points="1484,1013 1494,1776"/>
+        <TextEquiv>
+          <Unicode>爾雅釋木疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111325" custom="structure {type:Title;}">
+        <Coords points="1270,995 1452,995 1452,1663 1270,1663 1270,995"/>
+        <Baseline points="1366,996 1366,1665"/>
+        <TextEquiv>
+          <Unicode>其灌其栵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111326" custom="structure {type:Text;}">
+        <Coords points="1108,711 1275,700 1275,3054 1084,3055 1108,711"/>
+        <Baseline points="1171,3055 1205,703"/>
+        <TextEquiv>
+          <Unicode>栵栭葉如榆也木理堅韌而赤可為車轅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111327" custom="structure {type:Commentary;}">
+        <Coords points="1152,3054 1258,3058 1252,3661 1152,3656 1152,3054"/>
+        <Baseline points="1191,3657 1201,3058"/>
+        <TextEquiv>
+          <Unicode>詩皇矣疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111328" custom="structure {type:Commentary;}">
+        <Coords points="1071,3061 1173,3052 1153,3669 1069,3666 1071,3061"/>
+        <Baseline points="1110,3055 1110,3670"/>
+        <TextEquiv>
+          <Unicode>爾雅釋木</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111329" custom="structure {type:Commentary;}">
+        <Coords points="1019,717 1123,720 1103,1783 1012,1780 1019,717"/>
+        <Baseline points="1050,1776 1067,703"/>
+        <TextEquiv>
+          <Unicode>栵栭疏釋文又引</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111330" custom="structure {type:Commentary;}">
+        <Coords points="921,703 1022,702 1022,1759 918,1770 921,703"/>
+        <Baseline points="969,703 969,1760"/>
+        <TextEquiv>
+          <Unicode>今人謂之芝栭也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111331" custom="structure {type:Title;}">
+        <Coords points="736,965 934,965 934,1622 736,1622 736,965"/>
+        <Baseline points="828,972 852,1625"/>
+        <TextEquiv>
+          <Unicode>其檉其椐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111332" custom="structure {type:Text;}">
+        <Coords points="585,720 746,727 729,3667 554,3668 585,720"/>
+        <Baseline points="653,3670 667,700"/>
+        <TextEquiv>
+          <Unicode>檉河栁生水旁皮正赤如絳一名雨師枝葉如松椐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111333" custom="structure {type:Text;}">
+        <Coords points="428,727 577,725 566,2485 392,2485 428,727"/>
+        <Baseline points="475,2500 492,710"/>
+        <TextEquiv>
+          <Unicode>樻節中腫似扶老今靈夀是也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111334" custom="structure {type:Commentary;}">
+        <Coords points="479,2487 566,2486 560,3187 475,3190 479,2487"/>
+        <Baseline points="512,3203 515,2489"/>
+        <TextEquiv>
+          <Unicode>詩疏無此五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111335" custom="structure {type:Commentary;}">
+        <Coords points="394,2488 476,2485 470,3188 387,3188 394,2488"/>
+        <Baseline points="431,2452 431,3213"/>
+        <TextEquiv>
+          <Unicode>字釋文引有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111336" custom="structure {type:Text;}">
+        <Coords points="386,3185 547,3188 547,3656 379,3646 386,3185"/>
+        <Baseline points="475,3192 488,3657"/>
+        <TextEquiv>
+          <Unicode>今人以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>隰有杻
+杻檍也葉似杏而尖白色皮正赤為木多曲少直枝
+葉茂好二月中葉疏華如楝而細蕊正白蓋此樹今
+官園種之正名曰萬歲既取名於億萬其葉又好故
+種共汲山下人或謂之牛筋或謂之檍材可為弓弩
+幹也
+詩山有樞疏
+爾雅釋木疏
+其灌其栵
+栵栭葉如榆也木理堅韌而赤可為車轅
+詩皇矣疏
+爾雅釋木
+栵栭疏釋文又引
+今人謂之芝栭也
+其檉其椐
+檉河栁生水旁皮正赤如絳一名雨師枝葉如松椐
+樻節中腫似扶老今靈夀是也
+詩疏無此五
+字釋文引有
+今人以
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117871" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="296,727 419,718 362,3677 296,3667 296,727"/>
+      <TextLine id="1111337" custom="structure {type:Title;}">
+        <Coords points="309,718 421,725 422,1456 307,1442 309,718"/>
+        <Baseline points="364,717 367,1457"/>
+        <TextEquiv>
+          <Unicode>毛詩陸疏校正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111338" custom="structure {type:Section;}">
+        <Coords points="320,1590 409,1590 409,1893 320,1893 320,1590"/>
+        <Baseline points="364,1591 364,1894"/>
+        <TextEquiv>
+          <Unicode>卷上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111339" custom="structure {type:Page_Number;}">
+        <Coords points="265,2973 388,2972 388,3131 264,3130 265,2973"/>
+        <Baseline points="337,2974 337,3132"/>
+        <TextEquiv>
+          <Unicode>十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>毛詩陸疏校正
+卷上
+十二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

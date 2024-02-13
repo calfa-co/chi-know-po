@@ -1,0 +1,513 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:19+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB3701_1_02_0062.jpg" imageHeight="4687" imageWidth="5752">
+    <TextRegion id="121041" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5298,855 5426,850 5417,4218 5312,4218 5298,855"/>
+      <TextLine id="1138763" custom="structure {type:Marginalia;}">
+        <Coords points="5309,838 5611,838 5611,1307 5309,1307 5309,838"/>
+        <Baseline points="5375,1304 5395,844"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138764" custom="structure {type:Section;}">
+        <Coords points="5288,1804 5611,1804 5611,2361 5288,2361 5288,1804"/>
+        <Baseline points="5351,1816 5367,2364"/>
+        <TextEquiv>
+          <Unicode>初學記卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138765" custom="structure {type:Page_Number;}">
+        <Coords points="5324,3083 5395,3083 5395,3304 5324,3304 5324,3083"/>
+        <Baseline points="5359,3088 5368,3306"/>
+        <TextEquiv>
+          <Unicode>八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷六
+八
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121042" custom="structure {type:MainText_Right;}">
+      <Coords points="2819,926 5288,869 5293,4218 3152,4251 2838,4232 2819,926"/>
+      <TextLine id="1138766" custom="structure {type:Commentary;}">
+        <Coords points="5158,841 5317,841 5317,3991 5158,3991 5158,841"/>
+        <Baseline points="5235,844 5243,3992"/>
+        <TextEquiv>
+          <Unicode>苗長三尺許人已死者以艸覆之皆活又曰聚窟洲在西海</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138767" custom="structure {type:Commentary;}">
+        <Coords points="5020,864 5186,864 5186,3978 5020,3978 5020,864"/>
+        <Baseline points="5099,868 5119,3980"/>
+        <TextEquiv>
+          <Unicode>中有大樹與楓木相似林芳花香聞數百里其名為反魂樹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138768" custom="structure {type:Text;}">
+        <Coords points="5114,3963 5296,3963 5296,4194 5114,4194 5114,3963"/>
+        <Baseline points="5175,3972 5199,4192"/>
+        <TextEquiv>
+          <Unicode>傾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138769" custom="structure {type:Text;}">
+        <Coords points="4809,874 5007,874 5007,1559 4809,1559 4809,874"/>
+        <Baseline points="4883,880 4891,1560"/>
+        <TextEquiv>
+          <Unicode>瀉百川</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138770" custom="structure {type:Text;}">
+        <Coords points="4783,1702 5033,1702 5033,2530 4783,2530 4783,1702"/>
+        <Baseline points="4903,1708 4911,2532"/>
+        <TextEquiv>
+          <Unicode>廻洑萬里</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138771" custom="structure {type:Commentary;}">
+        <Coords points="4892,2520 5067,2520 5067,4215 4892,4215 4892,2520"/>
+        <Baseline points="4975,2524 4991,4216"/>
+        <TextEquiv>
+          <Unicode>劉禎魯都賦曰巨海分焉傾瀉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138772" custom="structure {type:Commentary;}">
+        <Coords points="4754,2525 4929,2525 4929,4197 4754,4197 4754,2525"/>
+        <Baseline points="4827,2532 4859,4200"/>
+        <TextEquiv>
+          <Unicode>百川左思吳都賦曰百川派別</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138773" custom="structure {type:Commentary;}">
+        <Coords points="4608,872 4796,872 4796,1726 4608,1726 4608,872"/>
+        <Baseline points="4703,876 4711,1728"/>
+        <TextEquiv>
+          <Unicode>㱕海而會潮波</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138774" custom="structure {type:Commentary;}">
+        <Coords points="4481,874 4629,874 4629,1723 4481,1723 4481,874"/>
+        <Baseline points="4551,876 4551,1724"/>
+        <TextEquiv>
+          <Unicode>汨起廻洑萬里</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138775" custom="structure {type:Title;}">
+        <Coords points="4483,1723 4772,1723 4772,1947 4483,1947 4483,1723"/>
+        <Baseline points="4643,1724 4643,1948"/>
+        <TextEquiv>
+          <Unicode>賦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138776" custom="structure {type:Text;}">
+        <Coords points="4515,1963 4770,1963 4770,3351 4515,3351 4515,1963"/>
+        <Baseline points="4643,1964 4647,3352"/>
+        <TextEquiv>
+          <Unicode>後漢王粲遊海賦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138777" custom="structure {type:Commentary;}">
+        <Coords points="4632,3340 4788,3340 4788,4233 4632,4233 4632,3340"/>
+        <Baseline points="4699,3348 4747,4236"/>
+        <TextEquiv>
+          <Unicode>含精純之至道</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138778" custom="structure {type:Commentary;}">
+        <Coords points="4504,3335 4666,3335 4666,4218 4504,4218 4504,3335"/>
+        <Baseline points="4575,3340 4603,4220"/>
+        <TextEquiv>
+          <Unicode>將輕舉而高厲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138779" custom="structure {type:Commentary;}">
+        <Coords points="4335,872 4528,872 4528,4223 4335,4223 4335,872"/>
+        <Baseline points="4419,876 4463,4224"/>
+        <TextEquiv>
+          <Unicode>游余心以廣觀兮且彷徉乎西裔乘蘭桂之輕舟浮大江而遙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138780" custom="structure {type:Commentary;}">
+        <Coords points="4200,864 4403,864 4403,4215 4200,4215 4200,864"/>
+        <Baseline points="4278,868 4358,4216"/>
+        <TextEquiv>
+          <Unicode>逝翼驚風以長駈集會稽而一睨登陰隅以東望兮覽滄海之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138781" custom="structure {type:Commentary;}">
+        <Coords points="4056,867 4259,867 4259,4215 4056,4215 4056,867"/>
+        <Baseline points="4138,872 4198,4216"/>
+        <TextEquiv>
+          <Unicode>躰勢吐星出日天與水際其深不測其廣無臬尋之冥地不見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138782" custom="structure {type:Commentary;}">
+        <Coords points="3921,867 4129,867 4129,4207 3921,4207 3921,867"/>
+        <Baseline points="3990,872 4058,4208"/>
+        <TextEquiv>
+          <Unicode>涯洩章亥所不極盧敖所不屆洪洪洋洋誠不可度也處嵎夷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138783" custom="structure {type:Commentary;}">
+        <Coords points="3775,880 3981,880 3981,3241 3775,3241 3775,880"/>
+        <Baseline points="3854,884 3902,3244"/>
+        <TextEquiv>
+          <Unicode>之正位兮同色號於穹蒼苞納汙之弘量正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138784" custom="structure {type:Commentary;}">
+        <Coords points="3629,872 3835,872 3835,3262 3629,3262 3629,872"/>
+        <Baseline points="3698,876 3758,3264"/>
+        <TextEquiv>
+          <Unicode>宗廟之紀綱揔眾流而臣下為百谷之君王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138785" custom="structure {type:Text;}">
+        <Coords points="3702,3226 3978,3226 3978,4252 3702,4252 3702,3226"/>
+        <Baseline points="3826,3232 3870,4252"/>
+        <TextEquiv>
+          <Unicode>晉木玄虛海</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138786" custom="structure {type:Text;}">
+        <Coords points="3364,895 3624,895 3624,1150 3364,1150 3364,895"/>
+        <Baseline points="3502,1152 3506,900"/>
+        <TextEquiv>
+          <Unicode>賦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138787" custom="structure {type:Commentary;}">
+        <Coords points="3499,1158 3715,1158 3715,4249 3499,4249 3499,1158"/>
+        <Baseline points="3570,1164 3658,4252"/>
+        <TextEquiv>
+          <Unicode>昔在帝媯巨唐之世天綱浡潏為凋為瘵洪濤瀾汗萬里</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138788" custom="structure {type:Commentary;}">
+        <Coords points="3359,1184 3585,1184 3585,4239 3359,4239 3359,1184"/>
+        <Baseline points="3430,1188 3510,4240"/>
+        <TextEquiv>
+          <Unicode>無際江河既導萬穴俱流椅居豈切拔五岳竭涸九州其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138789" custom="structure {type:Commentary;}">
+        <Coords points="3218,880 3434,880 3434,4286 3218,4286 3218,880"/>
+        <Baseline points="3290,884 3370,4288"/>
+        <TextEquiv>
+          <Unicode>為廣也其為怪也則乃浟灤瀲灧浮大無岸波如連山乍合乍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138790" custom="structure {type:Commentary;}">
+        <Coords points="3067,880 3317,880 3317,4254 3067,4254 3067,880"/>
+        <Baseline points="3138,884 3234,4256"/>
+        <TextEquiv>
+          <Unicode>散噓吸百川洗滌淮漢若乃霾曀潛消莫振莫竦輕塵不飛纖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138791" custom="structure {type:Commentary;}">
+        <Coords points="2931,890 3161,890 3161,4239 2931,4239 2931,890"/>
+        <Baseline points="3002,896 3078,4240"/>
+        <TextEquiv>
+          <Unicode>羅不動猶尚呀呷餘波溢涌若乃偏荒速告王命急宣飛迅鼓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138792" custom="structure {type:Commentary;}">
+        <Coords points="2825,893 3004,893 3004,4259 2825,4259 2825,893"/>
+        <Baseline points="2886,896 2934,4260"/>
+        <TextEquiv>
+          <Unicode>楫汎海淩川於是候勁風揭百尺維長綃掛帆席望濤遠決炯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>苗長三尺許人已死者以艸覆之皆活又曰聚窟洲在西海
+中有大樹與楓木相似林芳花香聞數百里其名為反魂樹
+傾
+瀉百川
+廻洑萬里
+劉禎魯都賦曰巨海分焉傾瀉
+百川左思吳都賦曰百川派別
+㱕海而會潮波
+汨起廻洑萬里
+賦
+後漢王粲遊海賦
+含精純之至道
+將輕舉而高厲
+游余心以廣觀兮且彷徉乎西裔乘蘭桂之輕舟浮大江而遙
+逝翼驚風以長駈集會稽而一睨登陰隅以東望兮覽滄海之
+躰勢吐星出日天與水際其深不測其廣無臬尋之冥地不見
+涯洩章亥所不極盧敖所不屆洪洪洋洋誠不可度也處嵎夷
+之正位兮同色號於穹蒼苞納汙之弘量正
+宗廟之紀綱揔眾流而臣下為百谷之君王
+晉木玄虛海
+賦
+昔在帝媯巨唐之世天綱浡潏為凋為瘵洪濤瀾汗萬里
+無際江河既導萬穴俱流椅居豈切拔五岳竭涸九州其
+為廣也其為怪也則乃浟灤瀲灧浮大無岸波如連山乍合乍
+散噓吸百川洗滌淮漢若乃霾曀潛消莫振莫竦輕塵不飛纖
+羅不動猶尚呀呷餘波溢涌若乃偏荒速告王命急宣飛迅鼓
+楫汎海淩川於是候勁風揭百尺維長綃掛帆席望濤遠決炯
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121043" custom="structure {type:MainText_Left;}">
+      <Coords points="349,902 2486,902 2785,926 2776,4184 340,4184 349,902"/>
+      <TextLine id="1138793" custom="structure {type:Commentary;}">
+        <Coords points="2658,903 2791,903 2791,1861 2658,1861 2658,903"/>
+        <Baseline points="2738,908 2746,1864"/>
+        <TextEquiv>
+          <Unicode>然鳥逝一越三千</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138794" custom="structure {type:Commentary;}">
+        <Coords points="2530,874 2682,874 2682,1843 2530,1843 2530,874"/>
+        <Baseline points="2602,880 2606,1844"/>
+        <TextEquiv>
+          <Unicode>不終朝而濟所屆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138795" custom="structure {type:Text;}">
+        <Coords points="2533,1848 2778,1848 2778,3062 2533,3062 2533,1848"/>
+        <Baseline points="2650,1852 2670,3064"/>
+        <TextEquiv>
+          <Unicode>梁簡文帝海賦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138796" custom="structure {type:Commentary;}">
+        <Coords points="2637,3059 2775,3059 2775,4181 2637,4181 2637,3059"/>
+        <Baseline points="2722,4184 2742,3064"/>
+        <TextEquiv>
+          <Unicode>昔禹啟龍門羣山既</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138797" custom="structure {type:Commentary;}">
+        <Coords points="2507,3041 2674,3041 2674,4194 2507,4194 2507,3041"/>
+        <Baseline points="2570,3044 2582,4196"/>
+        <TextEquiv>
+          <Unicode>鑿高明澄氣而清浮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138798" custom="structure {type:Commentary;}">
+        <Coords points="2379,882 2544,882 2544,4181 2379,4181 2379,882"/>
+        <Baseline points="2466,884 2466,4184"/>
+        <TextEquiv>
+          <Unicode>厚載勢廣而盤礴坎德洊臻水源深博灌注百川控清引濁始</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138799" custom="structure {type:Commentary;}">
+        <Coords points="2234,893 2405,893 2405,4179 2234,4179 2234,893"/>
+        <Baseline points="2322,4180 2346,896"/>
+        <TextEquiv>
+          <Unicode>乎濫觴委輸大壑測之渺而無際望之杳而綿漠鬱沸冥茫往</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138800" custom="structure {type:Commentary;}">
+        <Coords points="2098,880 2257,880 2257,3359 2098,3359 2098,880"/>
+        <Baseline points="2190,3360 2198,884"/>
+        <TextEquiv>
+          <Unicode>來日月朏魄昏微乍明乍沒若夫長風鼓怒涌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138801" custom="structure {type:Commentary;}">
+        <Coords points="1976,867 2135,867 2135,3215 1976,3215 1976,867"/>
+        <Baseline points="2054,868 2054,3216"/>
+        <TextEquiv>
+          <Unicode>浪砰磕颺波於萬里之間漂沫於扶桑之外</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138802" custom="structure {type:Title;}">
+        <Coords points="2059,3385 2163,3385 2163,3595 2059,3595 2059,3385"/>
+        <Baseline points="2119,3388 2122,3597"/>
+        <TextEquiv>
+          <Unicode>詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138803" custom="structure {type:Text;}">
+        <Coords points="1999,3611 2223,3611 2223,4163 1999,4163 1999,3611"/>
+        <Baseline points="2098,3612 2098,4164"/>
+        <TextEquiv>
+          <Unicode>唐太宗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138804" custom="structure {type:Text;}">
+        <Coords points="1718,887 1973,887 1973,1853 1718,1853 1718,887"/>
+        <Baseline points="1850,1856 1858,892"/>
+        <TextEquiv>
+          <Unicode>春日望海詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138805" custom="structure {type:Commentary;}">
+        <Coords points="1799,1851 2007,1851 2007,4181 1799,4181 1799,1851"/>
+        <Baseline points="1894,4184 1922,1856"/>
+        <TextEquiv>
+          <Unicode>披襟眺滄海憑軾翫春芳積流橫地紀疏派</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138806" custom="structure {type:Commentary;}">
+        <Coords points="1689,1851 1843,1851 1843,4179 1689,4179 1689,1851"/>
+        <Baseline points="1770,1856 1778,4180"/>
+        <TextEquiv>
+          <Unicode>引天潢仙氣凝三嶺和風扇八荒拂潮雲布</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138807" custom="structure {type:Commentary;}">
+        <Coords points="1536,872 1715,872 1715,4210 1536,4210 1536,872"/>
+        <Baseline points="1630,4212 1654,876"/>
+        <TextEquiv>
+          <Unicode>色穿浪日舒光照岸花分彩迷雲鴈斷行懷卑運深廣持滿守</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138808" custom="structure {type:Commentary;}">
+        <Coords points="1387,874 1588,874 1588,4187 1387,4187 1387,874"/>
+        <Baseline points="1470,4188 1514,880"/>
+        <TextEquiv>
+          <Unicode>靈長有形非易測無源詎可量洪濤經變野翠島屢成桑之罘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138809" custom="structure {type:Commentary;}">
+        <Coords points="1288,874 1445,874 1445,2171 1288,2171 1288,874"/>
+        <Baseline points="1370,2172 1378,876"/>
+        <TextEquiv>
+          <Unicode>思漢帝碣石想秦皇霓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138810" custom="structure {type:Commentary;}">
+        <Coords points="1153,874 1320,874 1320,2135 1153,2135 1153,874"/>
+        <Baseline points="1222,2136 1250,880"/>
+        <TextEquiv>
+          <Unicode>裳非本意端拱是圖王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138811" custom="structure {type:Text;}">
+        <Coords points="1163,2124 1411,2124 1411,4194 1163,4194 1163,2124"/>
+        <Baseline points="1278,4196 1282,2128"/>
+        <TextEquiv>
+          <Unicode>宋謝靈運游赤石進帆海詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138812" custom="structure {type:Commentary;}">
+        <Coords points="979,880 1176,880 1176,4210 979,4210 979,880"/>
+        <Baseline points="1058,4212 1110,884"/>
+        <TextEquiv>
+          <Unicode>首夏猶清和芳艸亦未歇水宿淹晨暮陰霞屢興沒周覽倦瀛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138813" custom="structure {type:Commentary;}">
+        <Coords points="841,874 1057,874 1057,4207 841,4207 841,874"/>
+        <Baseline points="930,4208 990,880"/>
+        <TextEquiv>
+          <Unicode>壖況乃淩窮髮川后時安流天吳靜不發揚帆採石華掛席拾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138814" custom="structure {type:Commentary;}">
+        <Coords points="713,887 908,887 908,3754 713,3754 713,887"/>
+        <Baseline points="806,3756 850,892"/>
+        <TextEquiv>
+          <Unicode>明月溟漲無端倪虛舟有超越仲連輕齊組子牟眷魏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138815" custom="structure {type:Commentary;}">
+        <Coords points="588,887 775,887 775,3762 588,3762 588,887"/>
+        <Baseline points="666,3764 698,892"/>
+        <TextEquiv>
+          <Unicode>闕矜名道不足適已物可忽請附任公言終然謝天伐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138816" custom="structure {type:Text;}">
+        <Coords points="601,3720 760,3720 760,4174 601,4174 601,3720"/>
+        <Baseline points="714,4176 734,3728"/>
+        <TextEquiv>
+          <Unicode>北齊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138817" custom="structure {type:Text;}">
+        <Coords points="354,887 627,887 627,2023 354,2023 354,887"/>
+        <Baseline points="478,2024 498,892"/>
+        <TextEquiv>
+          <Unicode>祖孝徵望海詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138818" custom="structure {type:Commentary;}">
+        <Coords points="453,2012 624,2012 624,4189 453,4189 453,2012"/>
+        <Baseline points="534,4192 538,2016"/>
+        <TextEquiv>
+          <Unicode>登高臨巨壑不知千萬里雲島相接連風</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138819" custom="structure {type:Commentary;}">
+        <Coords points="286,1989 492,1989 492,4179 286,4179 286,1989"/>
+        <Baseline points="406,4180 422,1992"/>
+        <TextEquiv>
+          <Unicode>潮無極已時看遠鴻度但見驚鷗起不假</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>然鳥逝一越三千
+不終朝而濟所屆
+梁簡文帝海賦
+昔禹啟龍門羣山既
+鑿高明澄氣而清浮
+厚載勢廣而盤礴坎德洊臻水源深博灌注百川控清引濁始
+乎濫觴委輸大壑測之渺而無際望之杳而綿漠鬱沸冥茫往
+來日月朏魄昏微乍明乍沒若夫長風鼓怒涌
+浪砰磕颺波於萬里之間漂沫於扶桑之外
+詩
+唐太宗
+春日望海詩
+披襟眺滄海憑軾翫春芳積流橫地紀疏派
+引天潢仙氣凝三嶺和風扇八荒拂潮雲布
+色穿浪日舒光照岸花分彩迷雲鴈斷行懷卑運深廣持滿守
+靈長有形非易測無源詎可量洪濤經變野翠島屢成桑之罘
+思漢帝碣石想秦皇霓
+裳非本意端拱是圖王
+宋謝靈運游赤石進帆海詩
+首夏猶清和芳艸亦未歇水宿淹晨暮陰霞屢興沒周覽倦瀛
+壖況乃淩窮髮川后時安流天吳靜不發揚帆採石華掛席拾
+明月溟漲無端倪虛舟有超越仲連輕齊組子牟眷魏
+闕矜名道不足適已物可忽請附任公言終然謝天伐
+北齊
+祖孝徵望海詩
+登高臨巨壑不知千萬里雲島相接連風
+潮無極已時看遠鴻度但見驚鷗起不假
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121044" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="197,897 359,902 330,4184 231,4184 197,897"/>
+      <TextLine id="1138820" custom="structure {type:Marginalia;}">
+        <Coords points="124,882 346,882 346,1354 124,1354 124,882"/>
+        <Baseline points="262,1356 282,892"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138821" custom="structure {type:Section;}">
+        <Coords points="117,1856 338,1856 338,2374 117,2374 117,1856"/>
+        <Baseline points="282,2376 286,1860"/>
+        <TextEquiv>
+          <Unicode>初學記卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138822" custom="structure {type:Page_Number;}">
+        <Coords points="278,3122 335,3122 335,3299 278,3299 278,3122"/>
+        <Baseline points="298,3124 299,3301"/>
+        <TextEquiv>
+          <Unicode>九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷六
+九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

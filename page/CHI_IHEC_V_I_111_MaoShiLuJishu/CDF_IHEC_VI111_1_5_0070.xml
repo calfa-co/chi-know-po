@@ -1,0 +1,265 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:29:02+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI111_1_5_0070.jpg" imageHeight="4091" imageWidth="4826">
+    <TextRegion id="118025" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4470,742 4603,747 4584,3634 4465,3634 4470,742"/>
+      <TextLine id="1112814" custom="structure {type:Title;}">
+        <Coords points="4469,740 4553,739 4556,1299 4469,1306 4469,740"/>
+        <Baseline points="4533,744 4536,1309"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112815" custom="structure {type:Section;}">
+        <Coords points="4468,1661 4565,1644 4550,1952 4460,1950 4468,1661"/>
+        <Baseline points="4506,1639 4513,1952"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112816" custom="structure {type:Page_Number;}">
+        <Coords points="4450,2802 4550,2798 4548,3013 4450,3015 4450,2802"/>
+        <Baseline points="4523,2816 4536,3015"/>
+        <TextEquiv>
+          <Unicode>六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注
+卷二
+六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118026" custom="structure {type:MainText_Right;}">
+      <Coords points="2505,733 4465,737 4446,3634 2476,3639 2505,733"/>
+      <TextLine id="1112817" custom="structure {type:Text;}">
+        <Coords points="4262,729 4432,729 4432,1606 4262,1606 4262,729"/>
+        <Baseline points="4348,734 4354,1609"/>
+        <TextEquiv>
+          <Unicode>說文盫覆蓋也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112818" custom="structure {type:Text;}">
+        <Coords points="4057,720 4228,720 4228,3659 4057,3659 4057,720"/>
+        <Baseline points="4156,3660 4163,724"/>
+        <TextEquiv>
+          <Unicode>膷以東臐膮牛炙注膷臐膮今時臛也牛曰膷羊曰臐豕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112819" custom="structure {type:Text;}">
+        <Coords points="3862,720 4039,720 4039,2861 3862,2861 3862,720"/>
+        <Baseline points="3951,2863 3971,724"/>
+        <TextEquiv>
+          <Unicode>曰膮皆香美之名也古文膷作熏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112820" custom="structure {type:Text;}">
+        <Coords points="3859,2981 4041,2981 4041,3650 3859,3650 3859,2981"/>
+        <Baseline points="3944,2988 3971,3650"/>
+        <TextEquiv>
+          <Unicode>案內則膷臐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112821" custom="structure {type:Text;}">
+        <Coords points="3668,729 3841,729 3841,3652 3668,3652 3668,729"/>
+        <Baseline points="3762,3654 3772,734"/>
+        <TextEquiv>
+          <Unicode>膮釋文膷牛臛也臐羊臛也膮豕臛也字林云豕羹也說</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112822" custom="structure {type:Text;}">
+        <Coords points="3475,718 3643,718 3643,3656 3475,3656 3475,718"/>
+        <Baseline points="3574,3657 3581,721"/>
+        <TextEquiv>
+          <Unicode>文肉部膮豕肉羹也从肉堯聲臛肉羹也从肉寉聲玉篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112823" custom="structure {type:Text;}">
+        <Coords points="3275,720 3455,720 3455,3647 3275,3647 3275,720"/>
+        <Baseline points="3372,3650 3396,724"/>
+        <TextEquiv>
+          <Unicode>肉部臛羹臛也集韻十陽膷牛之美者古文作香如膷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112824" custom="structure {type:Text;}">
+        <Coords points="3105,713 3264,713 3264,2229 3105,2229 3105,713"/>
+        <Baseline points="3191,714 3191,2231"/>
+        <TextEquiv>
+          <Unicode>作香之例也薰即臐之假借</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112825" custom="structure {type:Text;}">
+        <Coords points="2896,704 3064,704 3064,3245 2896,3245 2896,704"/>
+        <Baseline points="2982,3247 2995,707"/>
+        <TextEquiv>
+          <Unicode>牛鮨注內則謂鮨為膾然則膾用鮨今文鮨作鰭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112826" custom="structure {type:Text;}">
+        <Coords points="2893,3347 3052,3347 3052,3663 2893,3663 2893,3347"/>
+        <Baseline points="2979,3664 2982,3351"/>
+        <TextEquiv>
+          <Unicode>案釋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112827" custom="structure {type:Text;}">
+        <Coords points="2698,704 2875,704 2875,3647 2698,3647 2698,704"/>
+        <Baseline points="2794,3650 2814,707"/>
+        <TextEquiv>
+          <Unicode>器魚謂之鮨注鮨鮓屬也見公食大夫禮說文魚陪鮨魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112828" custom="structure {type:Text;}">
+        <Coords points="2500,713 2696,713 2696,3656 2500,3656 2500,713"/>
+        <Baseline points="2592,3657 2629,717"/>
+        <TextEquiv>
+          <Unicode>䏽醬也出蜀中从魚旨聲釋名釋飲食鮓菹也以鹽米釀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>說文盫覆蓋也
+膷以東臐膮牛炙注膷臐膮今時臛也牛曰膷羊曰臐豕
+曰膮皆香美之名也古文膷作熏
+案內則膷臐
+膮釋文膷牛臛也臐羊臛也膮豕臛也字林云豕羹也說
+文肉部膮豕肉羹也从肉堯聲臛肉羹也从肉寉聲玉篇
+肉部臛羹臛也集韻十陽膷牛之美者古文作香如膷一
+作香之例也薰即臐之假借
+牛鮨注內則謂鮨為膾然則膾用鮨今文鮨作鰭
+案釋
+器魚謂之鮨注鮨鮓屬也見公食大夫禮說文魚陪鮨魚
+䏽醬也出蜀中从魚旨聲釋名釋飲食鮓菹也以鹽米釀
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118027" custom="structure {type:MainText_Left;}">
+      <Coords points="336,733 2300,747 2267,3682 331,3653 336,733"/>
+      <TextLine id="1112829" custom="structure {type:Text;}">
+        <Coords points="2073,739 2262,739 2248,3678 2073,3678 2073,739"/>
+        <Baseline points="2171,3704 2178,727"/>
+        <TextEquiv>
+          <Unicode>魚而為菹也鄭以內則魚膾當之蓋聶切為膾更細則為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112830" custom="structure {type:Text;}">
+        <Coords points="1873,722 2057,722 2057,3702 1873,3702 1873,722"/>
+        <Baseline points="1956,3704 2000,727"/>
+        <TextEquiv>
+          <Unicode>鮓醬也玉篇魚部鮨巨梨切魚名又鮓屬鰭同上鮨古文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112831" custom="structure {type:Text;}">
+        <Coords points="1691,718 1870,718 1866,2753 1691,2750 1691,718"/>
+        <Baseline points="1774,2735 1795,721"/>
+        <TextEquiv>
+          <Unicode>加萑席尋注萑細葦也今文萑皆為莞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112832" custom="structure {type:Text;}">
+        <Coords points="1684,2836 1843,2836 1843,3686 1684,3686 1684,2836"/>
+        <Baseline points="1774,2840 1778,3687"/>
+        <TextEquiv>
+          <Unicode>案莞正字古文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112833" custom="structure {type:Text;}">
+        <Coords points="1493,727 1668,727 1668,3686 1493,3686 1493,727"/>
+        <Baseline points="1589,3687 1613,731"/>
+        <TextEquiv>
+          <Unicode>假借作萑說文莞艸也可以作席从艸完聲周禮司几筵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112834" custom="structure {type:Text;}">
+        <Coords points="1302,722 1475,722 1475,3675 1302,3675 1302,722"/>
+        <Baseline points="1394,3677 1411,727"/>
+        <TextEquiv>
+          <Unicode>設莞筵禮器莞簟之安小雅上莞下簟箋云小蒲之席也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112835" custom="structure {type:Text;}">
+        <Coords points="1097,720 1295,720 1295,3534 1097,3534 1097,720"/>
+        <Baseline points="1186,3536 1226,724"/>
+        <TextEquiv>
+          <Unicode>鉶芼牛藿羊苦豕薇皆有滑注苦若荼也今文苦為芐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112836" custom="structure {type:Text;}">
+        <Coords points="918,700 1097,700 1097,3679 918,3679 918,700"/>
+        <Baseline points="1001,3681 1028,704"/>
+        <TextEquiv>
+          <Unicode>案士虞記鉶芼用苦若薇有滑注苦苦荼也古文苦為枯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112837" custom="structure {type:Text;}">
+        <Coords points="729,711 897,711 897,3672 729,3672 729,711"/>
+        <Baseline points="819,3674 836,714"/>
+        <TextEquiv>
+          <Unicode>今文或作芐特牲記鉶芼用苦若薇注苦苦荼也今文苦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112838" custom="structure {type:Text;}">
+        <Coords points="522,720 709,720 709,3668 522,3668 522,720"/>
+        <Baseline points="610,3670 644,724"/>
+        <TextEquiv>
+          <Unicode>為芐芐乃地黃非也說文艸部芐地黃也从艸下聲禮鈃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112839" custom="structure {type:Text;}">
+        <Coords points="334,713 518,713 518,3672 334,3672 334,713"/>
+        <Baseline points="425,3674 452,717"/>
+        <TextEquiv>
+          <Unicode>毛牛藿羊芐豕薇許从今文作芐故為地黃爾雅釋草茶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>魚而為菹也鄭以內則魚膾當之蓋聶切為膾更細則為
+鮓醬也玉篇魚部鮨巨梨切魚名又鮓屬鰭同上鮨古文
+加萑席尋注萑細葦也今文萑皆為莞
+案莞正字古文
+假借作萑說文莞艸也可以作席从艸完聲周禮司几筵
+設莞筵禮器莞簟之安小雅上莞下簟箋云小蒲之席也
+鉶芼牛藿羊苦豕薇皆有滑注苦若荼也今文苦為芐
+案士虞記鉶芼用苦若薇有滑注苦苦荼也古文苦為枯
+今文或作芐特牲記鉶芼用苦若薇注苦苦荼也今文苦
+為芐芐乃地黃非也說文艸部芐地黃也从艸下聲禮鈃
+毛牛藿羊芐豕薇許从今文作芐故為地黃爾雅釋草茶
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="118028" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="212,737 336,737 321,3644 198,3644 212,737"/>
+      <TextLine id="1112840" custom="structure {type:Title;}">
+        <Coords points="226,719 334,713 334,1277 234,1273 226,719"/>
+        <Baseline points="277,714 277,1279"/>
+        <TextEquiv>
+          <Unicode>儀禮釋注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112841" custom="structure {type:Section;}">
+        <Coords points="234,1618 316,1661 316,1935 237,1941 234,1618"/>
+        <Baseline points="267,1612 267,1918"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1112842" custom="structure {type:Page_Number;}">
+        <Coords points="246,2835 313,2831 313,3000 251,3007 246,2835"/>
+        <Baseline points="274,2833 274,3001"/>
+        <TextEquiv>
+          <Unicode>七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>儀禮釋注
+卷二
+七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

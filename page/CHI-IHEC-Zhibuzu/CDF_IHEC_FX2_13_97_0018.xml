@@ -1,0 +1,281 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:58+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_13_97_0018.jpg" imageHeight="3102" imageWidth="3520">
+    <TextRegion id="115948" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3176,1180 3255,1180 3258,1716 3193,1699 3176,1180"/>
+      <TextLine id="1094541" custom="structure {type:Section;}">
+        <Coords points="3168,1152 3263,1175 3275,1717 3168,1706 3168,1152"/>
+        <Baseline points="3212,1159 3226,1707"/>
+        <TextEquiv>
+          <Unicode>經傳沿革例</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>經傳沿革例
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115947" custom="structure {type:MainText_Right;}">
+      <Coords points="1756,697 3187,698 3187,2641 1770,2643 1756,697"/>
+      <TextLine id="1093665" custom="structure {type:Commentary;}">
+        <Coords points="3084,815 3173,822 3167,2642 3076,2642 3084,815"/>
+        <Baseline points="3125,2617 3128,823"/>
+        <TextEquiv>
+          <Unicode>之喪亂蔑資蕩之小大近喪桑柔雲漢之天</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093666" custom="structure {type:Commentary;}">
+        <Coords points="3006,822 3080,819 3090,2643 3004,2643 3006,822"/>
+        <Baseline points="3047,823 3049,2645"/>
+        <TextEquiv>
+          <Unicode>降喪亂召旻之天篤降喪釋文亦皆無音猶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093667" custom="structure {type:Commentary;}">
+        <Coords points="2940,815 3018,822 3007,2640 2928,2644 2940,815"/>
+        <Baseline points="2970,2612 2977,825"/>
+        <TextEquiv>
+          <Unicode>可曰喪有二音以義求之居然可見亦無假</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093668" custom="structure {type:Commentary;}">
+        <Coords points="2858,821 2936,821 2927,2645 2849,2645 2858,821"/>
+        <Baseline points="2888,2646 2894,834"/>
+        <TextEquiv>
+          <Unicode>於音也然頗弁之死喪無日釋文息浪反抑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093669" custom="structure {type:Commentary;}">
+        <Coords points="2780,819 2864,822 2843,2648 2770,2646 2780,819"/>
+        <Baseline points="2816,2607 2821,825"/>
+        <TextEquiv>
+          <Unicode>之日喪厥國亦音息浪反死喪喪國之喪與</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093671" custom="structure {type:Commentary;}">
+        <Coords points="2700,822 2777,820 2783,2645 2696,2645 2700,822"/>
+        <Baseline points="2732,2647 2744,792"/>
+        <TextEquiv>
+          <Unicode>喪亂喪亡之喪同義此有音而彼無音假日</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093672" custom="structure {type:Commentary;}">
+        <Coords points="2622,822 2699,820 2689,2640 2612,2634 2622,822"/>
+        <Baseline points="2656,2614 2664,823"/>
+        <TextEquiv>
+          <Unicode>前面出一音後不復出而二音乃閒出於諸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093673" custom="structure {type:Commentary;}">
+        <Coords points="2544,813 2627,818 2627,2641 2530,2652 2544,813"/>
+        <Baseline points="2574,2642 2580,822"/>
+        <TextEquiv>
+          <Unicode>詩之閒○又禮天官膳夫王之稍事設薦脯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093674" custom="structure {type:Commentary;}">
+        <Coords points="2460,816 2551,816 2535,2634 2458,2638 2460,816"/>
+        <Baseline points="2501,2616 2504,820"/>
+        <TextEquiv>
+          <Unicode>醢鄭司農云非日中大舉而閒食謂之稍事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093675" custom="structure {type:Commentary;}">
+        <Coords points="2390,830 2468,827 2468,2643 2377,2643 2390,830"/>
+        <Baseline points="2417,2644 2428,830"/>
+        <TextEquiv>
+          <Unicode>玄謂稍事有小事而飲酒漿人共賓客之稍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093677" custom="structure {type:Commentary;}">
+        <Coords points="2308,818 2388,816 2385,2654 2304,2644 2308,818"/>
+        <Baseline points="2346,820 2351,2607"/>
+        <TextEquiv>
+          <Unicode>禮註謂王稍所給賓客者釋文皆無音疑當</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093678" custom="structure {type:Commentary;}">
+        <Coords points="2230,812 2305,810 2302,2638 2227,2637 2230,812"/>
+        <Baseline points="2272,2632 2272,812"/>
+        <TextEquiv>
+          <Unicode>從上聲至於內宰均其稍食註謂吏祿廩此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093679" custom="structure {type:Commentary;}">
+        <Coords points="2150,822 2229,824 2228,2648 2147,2647 2150,822"/>
+        <Baseline points="2191,2650 2196,825"/>
+        <TextEquiv>
+          <Unicode>正廩稍之稍釋女無音但於大宰家削下云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093680" custom="structure {type:Commentary;}">
+        <Coords points="2073,817 2150,821 2147,2642 2066,2647 2073,817"/>
+        <Baseline points="2105,2642 2116,842"/>
+        <TextEquiv>
+          <Unicode>本亦作稍所教反若地官稍人及甸稍之稍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093681" custom="structure {type:Commentary;}">
+        <Coords points="1992,819 2071,820 2068,2647 1989,2651 1992,819"/>
+        <Baseline points="2029,2648 2037,823"/>
+        <TextEquiv>
+          <Unicode>與家削之義略同可以類推若稍食之稍則</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093682" custom="structure {type:Commentary;}">
+        <Coords points="1916,810 1992,816 1987,2647 1912,2647 1916,810"/>
+        <Baseline points="1954,2648 1958,806"/>
+        <TextEquiv>
+          <Unicode>與家削之義異亦無音何也今各隨文義合</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093683" custom="structure {type:Commentary;}">
+        <Coords points="1833,842 1913,840 1907,1790 1831,1786 1833,842"/>
+        <Baseline points="1878,1759 1882,844"/>
+        <TextEquiv>
+          <Unicode>加圈發者加圈發以別</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094542" custom="structure {type:Commentary;}">
+        <Coords points="1762,825 1833,827 1833,1792 1761,1793 1762,825"/>
+        <Baseline points="1795,806 1801,1796"/>
+        <TextEquiv>
+          <Unicode>之此類甚多不可悉舉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之喪亂蔑資蕩之小大近喪桑柔雲漢之天
+降喪亂召旻之天篤降喪釋文亦皆無音猶
+可曰喪有二音以義求之居然可見亦無假
+於音也然頗弁之死喪無日釋文息浪反抑
+之日喪厥國亦音息浪反死喪喪國之喪與
+喪亂喪亡之喪同義此有音而彼無音假日
+前面出一音後不復出而二音乃閒出於諸
+詩之閒○又禮天官膳夫王之稍事設薦脯
+醢鄭司農云非日中大舉而閒食謂之稍事
+玄謂稍事有小事而飲酒漿人共賓客之稍
+禮註謂王稍所給賓客者釋文皆無音疑當
+從上聲至於內宰均其稍食註謂吏祿廩此
+正廩稍之稍釋女無音但於大宰家削下云
+本亦作稍所教反若地官稍人及甸稍之稍
+與家削之義略同可以類推若稍食之稍則
+與家削之義異亦無音何也今各隨文義合
+加圈發者加圈發以別
+之此類甚多不可悉舉
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115946" custom="structure {type:MainText_Left;}">
+      <Coords points="289,702 1698,702 1698,2641 289,2641 289,702"/>
+      <TextLine id="1093656" custom="structure {type:Text;}">
+        <Coords points="1558,818 1677,818 1680,2632 1558,2636 1558,818"/>
+        <Baseline points="1625,820 1625,2622"/>
+        <TextEquiv>
+          <Unicode>有一音而前後自差雜者如書舜典朕聖議</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093657" custom="structure {type:Text;}">
+        <Coords points="1398,811 1534,811 1534,2653 1398,2653 1398,811"/>
+        <Baseline points="1466,815 1470,2235 1472,2654"/>
+        <TextEquiv>
+          <Unicode>說殄行殄訓絕凡書中殄字皆徒典反係上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093658" custom="structure {type:Text;}">
+        <Coords points="1246,809 1377,809 1378,2636 1241,2634 1246,809"/>
+        <Baseline points="1313,811 1313,2622"/>
+        <TextEquiv>
+          <Unicode>聲惟盆稷用殄厥世乃徒現反則去聲矣及</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093659" custom="structure {type:Text;}">
+        <Coords points="1085,806 1220,806 1215,2634 1086,2634 1085,806"/>
+        <Baseline points="1154,2626 1161,809"/>
+        <TextEquiv>
+          <Unicode>考監韻只收上聲不收去聲鳥有義同而音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093660" custom="structure {type:Text;}">
+        <Coords points="930,811 1061,811 1064,2632 925,2638 930,811"/>
+        <Baseline points="1001,2621 1004,815"/>
+        <TextEquiv>
+          <Unicode>異哉合改為徒典反○如記王制屏之四方</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093661" custom="structure {type:Text;}">
+        <Coords points="779,808 906,808 908,2638 777,2634 779,808"/>
+        <Baseline points="846,811 849,2624"/>
+        <TextEquiv>
+          <Unicode>屛必政反係去聲至屛之遠方則必郢反係</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093662" custom="structure {type:Text;}">
+        <Coords points="622,816 755,816 766,2642 613,2638 622,816"/>
+        <Baseline points="691,820 696,2612"/>
+        <TextEquiv>
+          <Unicode>上聲同一義而有上去之殊及以監韻参之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093663" custom="structure {type:Text;}">
+        <Coords points="467,808 599,808 602,2646 463,2640 467,808"/>
+        <Baseline points="537,809 537,2628"/>
+        <TextEquiv>
+          <Unicode>去聲訓除上聲為屏蔽之屏若是則去聲爲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093664" custom="structure {type:Text;}">
+        <Coords points="313,811 443,811 441,2644 314,2640 313,811"/>
+        <Baseline points="382,813 382,2628"/>
+        <TextEquiv>
+          <Unicode>是○又如檀弓註叔向之向香亮反案左傳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>有一音而前後自差雜者如書舜典朕聖議
+說殄行殄訓絕凡書中殄字皆徒典反係上
+聲惟盆稷用殄厥世乃徒現反則去聲矣及
+考監韻只收上聲不收去聲鳥有義同而音
+異哉合改為徒典反○如記王制屏之四方
+屛必政反係去聲至屛之遠方則必郢反係
+上聲同一義而有上去之殊及以監韻参之
+去聲訓除上聲為屏蔽之屏若是則去聲爲
+是○又如檀弓註叔向之向香亮反案左傳
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115945" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="220,1166 299,1166 299,2634 220,2634 220,1166"/>
+      <TextLine id="1093655" custom="structure {type:Section;}">
+        <Coords points="208,1178 287,1166 287,1723 216,1732 208,1178"/>
+        <Baseline points="246,1170 254,1724"/>
+        <TextEquiv>
+          <Unicode>經傳沿革例</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233289" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="254,2167 261,2050"/>
+        <TextEquiv>
+          <Unicode>十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093654" custom="structure {type:Title;}">
+        <Coords points="216,2055 305,2057 305,2642 224,2644 216,2055"/>
+        <Baseline points="266,2174 270,2624"/>
+        <TextEquiv>
+          <Unicode>桐華館訂正本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>經傳沿革例
+十三
+桐華館訂正本
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

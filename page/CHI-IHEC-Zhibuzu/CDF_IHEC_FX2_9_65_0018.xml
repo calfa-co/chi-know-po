@@ -1,0 +1,313 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:25+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_9_65_0018.jpg" imageHeight="3144" imageWidth="3649">
+    <TextRegion id="116653" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3325,1206 3456,1200 3460,1650 3362,1654 3325,1206"/>
+      <TextLine id="1099020" custom="structure {type:Section;}">
+        <Coords points="3350,1212 3430,1202 3437,1657 3360,1664 3350,1212"/>
+        <Baseline points="3419,1196 3419,1661"/>
+        <TextEquiv>
+          <Unicode>金樓子卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>金樓子卷一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116654" custom="structure {type:MainText_Right;}">
+      <Coords points="1892,773 3335,736 3359,2693 1936,2710 1892,773"/>
+      <TextLine id="1099023" custom="structure {type:Text;}">
+        <Coords points="3179,712 3320,717 3346,2702 3179,2702 3179,712"/>
+        <Baseline points="3261,715 3295,2703"/>
+        <TextEquiv>
+          <Unicode>母日慶都為嚳妃出觀河渚遇赤龍而孕寄伊長儒家</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099024" custom="structure {type:Text;}">
+        <Coords points="3023,719 3180,719 3180,2691 3023,2691 3023,719"/>
+        <Baseline points="3080,722 3120,2693"/>
+        <TextEquiv>
+          <Unicode>產甲申歲而生堯丹陵也堯眉八采日角方目足有元</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099025" custom="structure {type:Text;}">
+        <Coords points="2873,726 3021,726 3021,2728 2873,2728 2873,726"/>
+        <Baseline points="2945,729 2959,2730"/>
+        <TextEquiv>
+          <Unicode>武之字手有三河之文豐下銳上就之如日望之如雲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099026" custom="structure {type:Text;}">
+        <Coords points="2712,716 2838,716 2838,939 2712,939 2712,716"/>
+        <Baseline points="2777,941 2780,719"/>
+        <TextEquiv>
+          <Unicode>黃收</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099027" custom="structure {type:Commentary;}">
+        <Coords points="2786,943 2859,939 2872,1581 2794,1586 2786,943"/>
+        <Baseline points="2821,931 2837,1590"/>
+        <TextEquiv>
+          <Unicode>案收原本訛制作牧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099028" custom="structure {type:Commentary;}">
+        <Coords points="2705,939 2787,946 2795,1504 2719,1510 2705,939"/>
+        <Baseline points="2740,921 2760,1499"/>
+        <TextEquiv>
+          <Unicode>近依史記校改</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099029" custom="structure {type:Text;}">
+        <Coords points="2715,1585 2869,1586 2875,2709 2724,2709 2715,1585"/>
+        <Baseline points="2790,1563 2821,2710"/>
+        <TextEquiv>
+          <Unicode>純衣彤車白馬冬則鹿裘夏則</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099030" custom="structure {type:Text;}">
+        <Coords points="2561,738 2688,739 2721,2716 2548,2716 2561,738"/>
+        <Baseline points="2615,739 2669,2717"/>
+        <TextEquiv>
+          <Unicode>稀葛采椽不斲土階三等克明俊德以親九族九族既</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099031" custom="structure {type:Text;}">
+        <Coords points="2400,744 2537,751 2559,2712 2400,2712 2400,744"/>
+        <Baseline points="2474,746 2508,2713"/>
+        <TextEquiv>
+          <Unicode>睦平章百姓百姓昭明協和萬邦焦僥氏來獻沒羽常</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099032" custom="structure {type:Text;}">
+        <Coords points="2239,738 2410,738 2410,2728 2239,2728 2239,738"/>
+        <Baseline points="2299,742 2350,2730"/>
+        <TextEquiv>
+          <Unicode>年之人得神獸若羊名曰獬豸堯乃緝其皮以爲帳分</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099033" custom="structure {type:Text;}">
+        <Coords points="2083,752 2228,759 2248,2719 2083,2719 2083,752"/>
+        <Baseline points="2151,756 2192,2720"/>
+        <TextEquiv>
+          <Unicode>命羲仲和仲日中星鳥以殷仲春日永星火以定仲夏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099034" custom="structure {type:Text;}">
+        <Coords points="1914,775 2064,768 2087,2721 1926,2721 1914,775"/>
+        <Baseline points="1993,756 2027,2723"/>
+        <TextEquiv>
+          <Unicode>宵中星虚以正仲秋日短星昴以正仲冬時許耳之子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>母日慶都為嚳妃出觀河渚遇赤龍而孕寄伊長儒家
+產甲申歲而生堯丹陵也堯眉八采日角方目足有元
+武之字手有三河之文豐下銳上就之如日望之如雲
+黃收
+案收原本訛制作牧
+近依史記校改
+純衣彤車白馬冬則鹿裘夏則
+稀葛采椽不斲土階三等克明俊德以親九族九族既
+睦平章百姓百姓昭明協和萬邦焦僥氏來獻沒羽常
+年之人得神獸若羊名曰獬豸堯乃緝其皮以爲帳分
+命羲仲和仲日中星鳥以殷仲春日永星火以定仲夏
+宵中星虚以正仲秋日短星昴以正仲冬時許耳之子
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116655" custom="structure {type:MainText_Left;}">
+      <Coords points="311,769 1744,793 1721,2713 301,2680 311,769"/>
+      <TextLine id="1099035" custom="structure {type:Text;}">
+        <Coords points="1559,775 1704,775 1704,2712 1559,2712 1559,775"/>
+        <Baseline points="1633,2713 1650,779"/>
+        <TextEquiv>
+          <Unicode>名曰由字道開一字仲武仲武黄白色長八尺九寸兄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099036" custom="structure {type:Text;}">
+        <Coords points="1406,763 1547,763 1547,2728 1406,2728 1406,763"/>
+        <Baseline points="1478,2730 1492,766"/>
+        <TextEquiv>
+          <Unicode>弟七八十九而隱堯欲襌之由乃洗耳是後景星曜於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099037" custom="structure {type:Text;}">
+        <Coords points="1247,770 1397,770 1397,2499 1247,2499 1247,770"/>
+        <Baseline points="1317,2501 1340,773"/>
+        <TextEquiv>
+          <Unicode>天甘露降於地朱草生於囿鳳凰止於庭以翨莆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099038" custom="structure {type:Commentary;}">
+        <Coords points="1304,2494 1398,2497 1395,2719 1313,2711 1304,2494"/>
+        <Baseline points="1357,2495 1357,2720"/>
+        <TextEquiv>
+          <Unicode>案說</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099039" custom="structure {type:Commentary;}">
+        <Coords points="1234,2514 1305,2509 1306,2712 1231,2712 1234,2514"/>
+        <Baseline points="1263,2713 1277,2495"/>
+        <TextEquiv>
+          <Unicode>文翨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099040" custom="structure {type:Commentary;}">
+        <Coords points="1180,776 1257,770 1251,1603 1179,1596 1180,776"/>
+        <Baseline points="1229,1620 1236,773"/>
+        <TextEquiv>
+          <Unicode>作萐述異記莆作蒲宋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099041" custom="structure {type:Commentary;}">
+        <Coords points="1100,772 1179,772 1173,1546 1088,1546 1100,772"/>
+        <Baseline points="1132,1536 1155,759"/>
+        <TextEquiv>
+          <Unicode>書符瑞志又作萐脯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099042" custom="structure {type:Text;}">
+        <Coords points="1093,1582 1243,1605 1229,2719 1096,2719 1093,1582"/>
+        <Baseline points="1176,1583 1176,2720"/>
+        <TextEquiv>
+          <Unicode>萁英之瑞都於平陽命羲仲羲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099043" custom="structure {type:Text;}">
+        <Coords points="938,759 1077,759 1077,2721 938,2721 938,759"/>
+        <Baseline points="1014,2723 1028,762"/>
+        <TextEquiv>
+          <Unicode>叔和仲和叔掌四方在位四十一年洪水滔天懷山襄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099044" custom="structure {type:Text;}">
+        <Coords points="777,752 924,752 924,2716 777,2716 777,752"/>
+        <Baseline points="859,2717 880,756"/>
+        <TextEquiv>
+          <Unicode>陵四岳舉鯀治水九年績庸不成五十年乃更咨四岳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099045" custom="structure {type:Text;}">
+        <Coords points="618,756 770,756 770,2719 618,2719 618,756"/>
+        <Baseline points="685,2720 715,759"/>
+        <TextEquiv>
+          <Unicode>得舜乃在璿璣玉衡以齊七政類於上帝裡於六宗望</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099046" custom="structure {type:Text;}">
+        <Coords points="478,738 614,738 614,1142 478,1142 478,738"/>
+        <Baseline points="553,1143 560,742"/>
+        <TextEquiv>
+          <Unicode>於山川辨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099047" custom="structure {type:Commentary;}">
+        <Coords points="552,1132 627,1132 625,1405 544,1403 552,1132"/>
+        <Baseline points="590,1126 597,1408"/>
+        <TextEquiv>
+          <Unicode>案古字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099048" custom="structure {type:Commentary;}">
+        <Coords points="470,1136 543,1138 546,1411 466,1407 470,1136"/>
+        <Baseline points="493,1412 516,1119"/>
+        <TextEquiv>
+          <Unicode>辨徧通</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099049" custom="structure {type:Text;}">
+        <Coords points="474,1406 606,1400 606,1676 468,1676 474,1406"/>
+        <Baseline points="533,1677 547,1388"/>
+        <TextEquiv>
+          <Unicode>升羣瑞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099050" custom="structure {type:Commentary;}">
+        <Coords points="538,1677 618,1670 615,1943 531,1943 538,1677"/>
+        <Baseline points="580,1943 594,1671"/>
+        <TextEquiv>
+          <Unicode>案舜典</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099051" custom="structure {type:Commentary;}">
+        <Coords points="466,1676 534,1684 528,1868 463,1862 466,1676"/>
+        <Baseline points="489,1862 499,1654"/>
+        <TextEquiv>
+          <Unicode>作神</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099052" custom="structure {type:Text;}">
+        <Coords points="462,1939 602,1944 595,2691 457,2691 462,1939"/>
+        <Baseline points="526,2693 533,1920"/>
+        <TextEquiv>
+          <Unicode>堯崩乃葬濟陰城廟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099053" custom="structure {type:Text;}">
+        <Coords points="319,745 458,756 457,2698 289,2698 319,745"/>
+        <Baseline points="378,2700 412,762"/>
+        <TextEquiv>
+          <Unicode>居齊郡有柏樹死而更生焉舜攝政二十八年堯乃殂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>名曰由字道開一字仲武仲武黄白色長八尺九寸兄
+弟七八十九而隱堯欲襌之由乃洗耳是後景星曜於
+天甘露降於地朱草生於囿鳳凰止於庭以翨莆
+案說
+文翨
+作萐述異記莆作蒲宋
+書符瑞志又作萐脯
+萁英之瑞都於平陽命羲仲羲
+叔和仲和叔掌四方在位四十一年洪水滔天懷山襄
+陵四岳舉鯀治水九年績庸不成五十年乃更咨四岳
+得舜乃在璿璣玉衡以齊七政類於上帝裡於六宗望
+於山川辨
+案古字
+辨徧通
+升羣瑞
+案舜典
+作神
+堯崩乃葬濟陰城廟
+居齊郡有柏樹死而更生焉舜攝政二十八年堯乃殂
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116656" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="217,1223 308,1220 308,2693 214,2683 217,1223"/>
+      <TextLine id="1099021" custom="structure {type:Section;}">
+        <Coords points="217,1215 296,1199 296,1648 214,1656 217,1215"/>
+        <Baseline points="254,1203 257,1650"/>
+        <TextEquiv>
+          <Unicode>今樓子卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234248" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="267,2081 274,2215"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099022" custom="structure {type:Title;}">
+        <Coords points="209,2097 312,2097 312,2702 214,2714 209,2097"/>
+        <Baseline points="244,2703 265,2219"/>
+        <TextEquiv>
+          <Unicode>知不足斎樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>今樓子卷一
+四
+知不足斎樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

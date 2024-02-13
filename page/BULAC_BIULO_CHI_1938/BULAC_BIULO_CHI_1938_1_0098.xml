@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:59+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1938_1_0098.jpg" imageHeight="5604" imageWidth="3830">
+    <TextRegion id="86656" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3591,2093 3738,2098 3738,4215 3581,4220 3591,2093"/>
+      <TextLine id="918493" custom="structure {type:Title;}">
+        <Coords points="3689,2372 3605,2372 3624,3010 3749,3004 3749,2369 3689,2372"/>
+        <Baseline points="3691,2374 3696,3012"/>
+        <TextEquiv>
+          <Unicode>爾雅卷中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="918494" custom="structure {type:Title;}">
+        <Coords points="3689,3570 3612,3570 3593,3642 3612,3795 3745,3792 3749,3567 3689,3570"/>
+        <Baseline points="3691,3573 3696,3801"/>
+        <TextEquiv>
+          <Unicode>二十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>爾雅卷中
+二十六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86654" custom="structure {type:Image;}">
+      <Coords points="1357,1451 2048,1440 2144,4851 1266,4851 1357,1451"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86655" custom="structure {type:Marginalia_Caption;}">
+      <Coords points="3153,828 3386,828 3382,1670 3163,1646 3153,828"/>
+      <TextLine id="918492" custom="structure {type:Title;}">
+        <Coords points="3161,847 3155,1634 3350,1655 3370,834 3161,847"/>
+        <Baseline points="3267,1627 3277,833"/>
+        <TextEquiv>
+          <Unicode>注旄首曰旌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>注旄首曰旌
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="86657" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="3504,156 3634,153 3637,281 3504,275 3504,156"/>
+      <TextLine id="918669" custom="structure {type:Title;}">
+        <Coords points="3527,224 3524,267 3612,270 3618,52 3527,52 3527,224"/>
+        <Baseline points="3531,225 3619,229"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

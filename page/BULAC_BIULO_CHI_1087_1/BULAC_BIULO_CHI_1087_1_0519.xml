@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:38+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0519.jpg" imageHeight="4948" imageWidth="2875">
+    <TextRegion id="80221" custom="structure {type:MainText;}">
+      <Coords points="793,1409 2600,1409 2593,4363 1197,4366 1190,2550 797,2546 793,1409"/>
+      <TextLine id="876025" custom="structure {type:Commentary;}">
+        <Coords points="2495,1421 2663,1421 2663,4348 2495,4348 2495,1421"/>
+        <Baseline points="2552,1423 2552,4349"/>
+        <TextEquiv>
+          <Unicode>非語也使衣之而歸之○今案近本韓子外儲說右上篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876026" custom="structure {type:Commentary;}">
+        <Coords points="2385,1426 2514,1426 2514,4351 2385,4351 2385,1426"/>
+        <Baseline points="2448,1430 2465,4353"/>
+        <TextEquiv>
+          <Unicode>何取作何也又首句吳起誤作吳子蓋其沿上文吳子而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876027" custom="structure {type:Commentary;}">
+        <Coords points="2294,1426 2404,1426 2404,2212 2294,2212 2294,1426"/>
+        <Baseline points="2354,1430 2361,2213"/>
+        <TextEquiv>
+          <Unicode>誤陳俞本皆然</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876028" custom="structure {type:Commentary;}">
+        <Coords points="2189,1421 2316,1421 2316,2212 2189,2212 2189,1421"/>
+        <Baseline points="2253,1426 2260,2213"/>
+        <TextEquiv>
+          <Unicode>近本改之謬矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876029" custom="structure {type:Text;}">
+        <Coords points="2200,2223 2401,2223 2401,3290 2200,3290 2200,2223"/>
+        <Baseline points="2304,3293 2314,2227"/>
+        <TextEquiv>
+          <Unicode>帝至尚書陳矯跪問</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876030" custom="structure {type:Commentary;}">
+        <Coords points="2294,3287 2410,3287 2410,4348 2294,4348 2294,3287"/>
+        <Baseline points="2361,4349 2364,3293"/>
+        <TextEquiv>
+          <Unicode>魏志陳矯傳云明帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876031" custom="structure {type:Commentary;}">
+        <Coords points="2206,3295 2311,3295 2311,4348 2206,4348 2206,3295"/>
+        <Baseline points="2263,3296 2263,4349"/>
+        <TextEquiv>
+          <Unicode>車駕卒至尚書陳矯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876032" custom="structure {type:Commentary;}">
+        <Coords points="2085,1418 2206,1418 2206,4354 2085,4354 2085,1418"/>
+        <Baseline points="2152,4356 2156,1423"/>
+        <TextEquiv>
+          <Unicode>跪問曰陛下欲何之帝曰案行文書耳矯曰此自臣職分</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876033" custom="structure {type:Commentary;}">
+        <Coords points="1991,1415 2115,1415 2115,4340 2044,4368 1991,4340 1991,1415"/>
+        <Baseline points="2061,1419 2065,4342"/>
+        <TextEquiv>
+          <Unicode>非陛下所宜臨也若臣不稱其職則請就黜近陛下而還</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876034" custom="structure {type:Commentary;}">
+        <Coords points="1892,1421 2022,1421 2022,4356 1892,4356 1892,1421"/>
+        <Baseline points="1954,1426 1964,4359"/>
+        <TextEquiv>
+          <Unicode>帝慚回車而返○孫氏校平改卒升改陛補案字宜字今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876035" custom="structure {type:Commentary;}">
+        <Coords points="1799,1418 1914,1418 1916,4360 1800,4364 1799,1418"/>
+        <Baseline points="1866,1419 1866,4346"/>
+        <TextEquiv>
+          <Unicode>案魏志卷廿二陳矯傳書下有門字返作反陳俞本亦然</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876036" custom="structure {type:Text;}">
+        <Coords points="1598,1415 1804,1415 1804,2372 1598,2372 1598,1415"/>
+        <Baseline points="1701,1419 1715,2375"/>
+        <TextEquiv>
+          <Unicode>執技事上不移官</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876037" custom="structure {type:Commentary;}">
+        <Coords points="1694,2355 1813,2355 1812,4360 1696,4348 1694,2355"/>
+        <Baseline points="1762,4336 1765,2361"/>
+        <TextEquiv>
+          <Unicode>禮記王制云凡執技以事上者不移官</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876038" custom="structure {type:Commentary;}">
+        <Coords points="1601,2361 1713,2361 1712,4364 1600,4364 1601,2361"/>
+        <Baseline points="1668,2363 1668,4349"/>
+        <TextEquiv>
+          <Unicode>鄭玄注云欲專其事亦為不德○今案</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876039" custom="structure {type:Commentary;}">
+        <Coords points="1493,1421 1614,1421 1614,1951 1493,1951 1493,1421"/>
+        <Baseline points="1557,1954 1564,1426"/>
+        <TextEquiv>
+          <Unicode>本鈔技誤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876040" custom="structure {type:Commentary;}">
+        <Coords points="1403,1418 1513,1418 1513,1943 1403,1943 1403,1418"/>
+        <Baseline points="1456,1944 1459,1423"/>
+        <TextEquiv>
+          <Unicode>杖已照訂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876041" custom="structure {type:Text;}">
+        <Coords points="1408,1948 1606,1948 1600,3020 1408,3012 1408,1948"/>
+        <Baseline points="1513,1954 1520,3001"/>
+        <TextEquiv>
+          <Unicode>出納之吝謂之有司</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876042" custom="structure {type:Commentary;}">
+        <Coords points="1496,3012 1617,3012 1617,4359 1496,4359 1496,3012"/>
+        <Baseline points="1564,4360 1577,3018"/>
+        <TextEquiv>
+          <Unicode>論語堯曰孔安國注云謂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876043" custom="structure {type:Commentary;}">
+        <Coords points="1364,3023 1510,3023 1510,4348 1364,4348 1364,3023"/>
+        <Baseline points="1459,3028 1463,4349"/>
+        <TextEquiv>
+          <Unicode>財物當與人而吝於出納</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876044" custom="structure {type:Commentary;}">
+        <Coords points="1295,1421 1414,1421 1414,3812 1295,3812 1295,1421"/>
+        <Baseline points="1358,3814 1368,1426"/>
+        <TextEquiv>
+          <Unicode>惜難之此有司之任耳非人君之道也○今案</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876045" custom="structure {type:Commentary;}">
+        <Coords points="1180,1421 1301,1421 1301,3691 1180,3691 1180,1421"/>
+        <Baseline points="1261,1423 1261,3693"/>
+        <TextEquiv>
+          <Unicode>堯曰篇孔注當上有俱字於上有嗇字餘同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876046" custom="structure {type:Title;}">
+        <Coords points="775,1412 1004,1412 1004,2506 775,2506 775,1412"/>
+        <Baseline points="901,1416 911,2509"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第三十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>非語也使衣之而歸之○今案近本韓子外儲說右上篇
+何取作何也又首句吳起誤作吳子蓋其沿上文吳子而
+誤陳俞本皆然
+近本改之謬矣
+帝至尚書陳矯跪問
+魏志陳矯傳云明帝
+車駕卒至尚書陳矯
+跪問曰陛下欲何之帝曰案行文書耳矯曰此自臣職分
+非陛下所宜臨也若臣不稱其職則請就黜近陛下而還
+帝慚回車而返○孫氏校平改卒升改陛補案字宜字今
+案魏志卷廿二陳矯傳書下有門字返作反陳俞本亦然
+執技事上不移官
+禮記王制云凡執技以事上者不移官
+鄭玄注云欲專其事亦為不德○今案
+本鈔技誤
+杖已照訂
+出納之吝謂之有司
+論語堯曰孔安國注云謂
+財物當與人而吝於出納
+惜難之此有司之任耳非人君之道也○今案
+堯曰篇孔注當上有俱字於上有嗇字餘同
+北堂書鈔卷第三十六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80222" custom="structure {type:Image_Seal;}">
+      <Coords points="813,2614 1093,2617 1099,2923 790,2916 813,2614"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80223" custom="structure {type:Image_Seal;}">
+      <Coords points="272,2714 551,2708 548,3195 262,3189 272,2714"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80224" custom="structure {type:Image_Seal;}">
+      <Coords points="259,3397 541,3404 544,3818 255,3818 259,3397"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80225" custom="structure {type:Image_Seal;}">
+      <Coords points="292,4043 474,4043 474,4285 299,4299 292,4043"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80226" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="104,2075 225,2075 218,3666 121,3656 104,2075"/>
+      <TextLine id="876023" custom="structure {type:Section;}">
+        <Coords points="93,2097 200,2097 196,2848 92,2852 93,2097"/>
+        <Baseline points="164,2839 168,2102"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第三十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876024" custom="structure {type:Page_Number;}">
+        <Coords points="101,3477 209,3477 209,3628 101,3628 101,3477"/>
+        <Baseline points="151,3481 158,3629"/>
+        <TextEquiv>
+          <Unicode>十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷第三十六
+十二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80229" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="171,161 269,161 272,303 154,293 171,161"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:42+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_11_82_0007.jpg" imageHeight="3172" imageWidth="3486">
+    <TextRegion id="115820" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3201,1825 3201,1183 3315,1183 3315,1825 3201,1825"/>
+      <TextLine id="1092731" custom="structure {type:Section;}">
+        <Coords points="3207,1194 3308,1184 3292,1770 3203,1776 3207,1194"/>
+        <Baseline points="3258,1768 3263,1186"/>
+        <TextEquiv>
+          <Unicode>顏氏家訓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>顏氏家訓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115821" custom="structure {type:MainText_Left;}">
+      <Coords points="308,2677 308,660 1712,660 1712,2677 308,2677"/>
+      <TextLine id="1092732" custom="structure {type:Title;}">
+        <Coords points="1572,653 1705,653 1705,1437 1572,1437 1572,653"/>
+        <Baseline points="1641,656 1647,1439"/>
+        <TextEquiv>
+          <Unicode>顏氏家訓卷第一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092733" custom="structure {type:Title;}">
+        <Coords points="1577,1656 1691,1656 1691,2595 1577,2595 1577,1656"/>
+        <Baseline points="1637,1658 1637,2596"/>
+        <TextEquiv>
+          <Unicode>述古堂影宋本重鵰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092734" custom="structure {type:Author_name;}">
+        <Coords points="1413,1185 1554,1185 1554,2377 1413,2377 1413,1185"/>
+        <Baseline points="1479,1187 1479,2378"/>
+        <TextEquiv>
+          <Unicode>北齊黃門侍郎顏之推撰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092735" custom="structure {type:Title;}">
+        <Coords points="1256,960 1390,960 1390,1242 1256,1242 1256,960"/>
+        <Baseline points="1324,962 1324,1244"/>
+        <TextEquiv>
+          <Unicode>序致</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092736" custom="structure {type:Title;}">
+        <Coords points="1261,1517 1394,1517 1394,1797 1261,1797 1261,1517"/>
+        <Baseline points="1321,1520 1328,1799"/>
+        <TextEquiv>
+          <Unicode>教子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092737" custom="structure {type:Title;}">
+        <Coords points="1258,2089 1392,2089 1392,2389 1258,2389 1258,2089"/>
+        <Baseline points="1321,2095 1338,2388"/>
+        <TextEquiv>
+          <Unicode>兄弟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092738" custom="structure {type:Title;}">
+        <Coords points="1096,963 1230,963 1230,1247 1096,1247 1096,963"/>
+        <Baseline points="1176,965 1176,1248"/>
+        <TextEquiv>
+          <Unicode>後娶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092739" custom="structure {type:Title;}">
+        <Coords points="1106,1520 1235,1520 1235,1825 1106,1825 1106,1520"/>
+        <Baseline points="1173,1523 1176,1826"/>
+        <TextEquiv>
+          <Unicode>治家</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092740" custom="structure {type:Title;}">
+        <Coords points="942,1180 1075,1180 1075,1677 942,1677 942,1180"/>
+        <Baseline points="1008,1184 1012,1678"/>
+        <TextEquiv>
+          <Unicode>序致第一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092741" custom="structure {type:Text;}">
+        <Coords points="784,643 927,643 927,2685 784,2685 784,643"/>
+        <Baseline points="850,2687 864,646"/>
+        <TextEquiv>
+          <Unicode>夫聖賢之書教人誠孝慎言檢迹立身揚名亦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092742" custom="structure {type:Text;}">
+        <Coords points="627,655 773,655 774,2692 629,2690 627,655"/>
+        <Baseline points="692,659 716,2677"/>
+        <TextEquiv>
+          <Unicode>已備矣魏晉已來所著諸子理重事複遞相模</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092743" custom="structure {type:Text;}">
+        <Coords points="470,646 615,646 615,2158 470,2158 470,646"/>
+        <Baseline points="544,649 554,2159"/>
+        <TextEquiv>
+          <Unicode>斅猶屋下架屋牀上施牀尒吾今</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092744" custom="structure {type:Commentary;}">
+        <Coords points="534,2142 623,2142 623,2474 534,2474 534,2142"/>
+        <Baseline points="588,2146 591,2475"/>
+        <TextEquiv>
+          <Unicode>一本無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092745" custom="structure {type:Commentary;}">
+        <Coords points="451,2102 546,2102 546,2366 451,2366 451,2102"/>
+        <Baseline points="500,2368 504,2105"/>
+        <TextEquiv>
+          <Unicode>今字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092746" custom="structure {type:Text;}">
+        <Coords points="482,2440 609,2440 609,2685 482,2685 482,2440"/>
+        <Baseline points="541,2442 541,2687"/>
+        <TextEquiv>
+          <Unicode>所以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092747" custom="structure {type:Text;}">
+        <Coords points="315,643 459,643 459,2690 315,2690 315,643"/>
+        <Baseline points="383,646 399,2691"/>
+        <TextEquiv>
+          <Unicode>復爲此者非敢軌物範世也業以整齊門內提</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>顏氏家訓卷第一
+述古堂影宋本重鵰
+北齊黃門侍郎顏之推撰
+序致
+教子
+兄弟
+後娶
+治家
+序致第一
+夫聖賢之書教人誠孝慎言檢迹立身揚名亦
+已備矣魏晉已來所著諸子理重事複遞相模
+斅猶屋下架屋牀上施牀尒吾今
+一本無
+今字
+所以
+復爲此者非敢軌物範世也業以整齊門內提
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115822" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="204,2691 204,1131 303,1131 303,2691 204,2691"/>
+      <TextLine id="1092748" custom="structure {type:Section;}">
+        <Coords points="235,1140 302,1140 297,1691 233,1690 235,1140"/>
+        <Baseline points="255,1692 265,1123"/>
+        <TextEquiv>
+          <Unicode>顏氏家訓卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113449" custom="structure {type:Page_Number;}">
+        <Coords points="240,2126 304,2121 311,2176 244,2185 240,2126"/>
+        <Baseline points="275,2124 275,2188"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092749" custom="structure {type:Title;}">
+        <Coords points="240,2206 318,2211 318,2691 247,2693 240,2206"/>
+        <Baseline points="272,2694 275,2206"/>
+        <TextEquiv>
+          <Unicode>知不足齋叢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>顏氏家訓卷一
+一
+知不足齋叢書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

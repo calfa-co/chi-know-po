@@ -1,0 +1,259 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:45+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0771.jpg" imageHeight="4923" imageWidth="2787">
+    <TextRegion id="80245" custom="structure {type:MainText;}">
+      <Coords points="172,1410 2539,1393 2554,4329 183,4314 172,1410"/>
+      <TextLine id="876221" custom="structure {type:Title;}">
+        <Coords points="2322,1400 2546,1400 2546,2614 2322,2614 2322,1400"/>
+        <Baseline points="2445,1405 2458,2615"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第五十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876222" custom="structure {type:Title;}">
+        <Coords points="2338,2962 2557,2962 2557,3547 2338,3547 2338,2962"/>
+        <Baseline points="2445,2972 2485,3547"/>
+        <TextEquiv>
+          <Unicode>設官部四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876223" custom="structure {type:Author_name;}">
+        <Coords points="2149,2699 2363,2699 2363,4107 2149,4107 2149,2699"/>
+        <Baseline points="2256,2703 2283,4109"/>
+        <TextEquiv>
+          <Unicode>隋秘書郎虞世南撰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876224" custom="structure {type:Author_name;}">
+        <Coords points="1958,2704 2157,2704 2157,4091 1958,4091 1958,2704"/>
+        <Baseline points="2065,2706 2065,4092"/>
+        <TextEquiv>
+          <Unicode>南海孔廣陶校注</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876225" custom="structure {type:Title;}">
+        <Coords points="1747,1638 1950,1638 1950,2095 1747,2095 1747,1638"/>
+        <Baseline points="1843,1643 1849,2097"/>
+        <TextEquiv>
+          <Unicode>司徒八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876226" custom="structure {type:Title;}">
+        <Coords points="1764,2986 1955,2986 1955,3413 1764,3413 1764,2986"/>
+        <Baseline points="1856,2992 1860,3416"/>
+        <TextEquiv>
+          <Unicode>司空九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876227" custom="structure {type:Title;}">
+        <Coords points="1553,1641 1755,1641 1755,2086 1553,2086 1553,1641"/>
+        <Baseline points="1641,1647 1658,2087"/>
+        <TextEquiv>
+          <Unicode>太師十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876228" custom="structure {type:Title;}">
+        <Coords points="1558,2975 1758,2975 1758,3492 1558,3492 1558,2975"/>
+        <Baseline points="1658,2979 1664,3493"/>
+        <TextEquiv>
+          <Unicode>太傅十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876229" custom="structure {type:Title;}">
+        <Coords points="1353,1660 1553,1660 1553,2212 1353,2212 1353,1660"/>
+        <Baseline points="1449,1664 1456,2215"/>
+        <TextEquiv>
+          <Unicode>太保十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876230" custom="structure {type:Title;}">
+        <Coords points="1340,2986 1556,2986 1556,4061 1340,4061 1340,2986"/>
+        <Baseline points="1459,4062 1473,2992"/>
+        <TextEquiv>
+          <Unicode>開府儀同三司十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876231" custom="structure {type:Title;}">
+        <Coords points="1148,1651 1359,1651 1359,2226 1148,2226 1148,1651"/>
+        <Baseline points="1251,1660 1268,2229"/>
+        <TextEquiv>
+          <Unicode>特進十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876232" custom="structure {type:Title;}">
+        <Coords points="959,1783 1159,1783 1159,2212 959,2212 959,1783"/>
+        <Baseline points="1062,1788 1069,2215"/>
+        <TextEquiv>
+          <Unicode>司徒八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876233" custom="structure {type:Text;}">
+        <Coords points="754,1411 962,1411 962,2343 754,2343 754,1411"/>
+        <Baseline points="864,1415 867,2346"/>
+        <TextEquiv>
+          <Unicode>王者象地立司徒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876234" custom="structure {type:Commentary;}">
+        <Coords points="864,2354 995,2354 995,4313 864,4313 864,2354"/>
+        <Baseline points="921,2360 931,4314"/>
+        <TextEquiv>
+          <Unicode>晉百官表注司徒唐虞官也王者象地</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876235" custom="structure {type:Commentary;}">
+        <Coords points="749,2349 872,2349 872,4318 749,4318 749,2349"/>
+        <Baseline points="827,2353 837,4321"/>
+        <TextEquiv>
+          <Unicode>立司徒使掌邦教○今案俞本同陳本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876236" custom="structure {type:Commentary;}">
+        <Coords points="653,1413 793,1413 793,1679 653,1679 653,1413"/>
+        <Baseline points="726,1415 726,1680"/>
+        <TextEquiv>
+          <Unicode>脫邦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876237" custom="structure {type:Commentary;}">
+        <Coords points="560,1408 675,1408 675,1561 560,1561 560,1408"/>
+        <Baseline points="618,1411 618,1563"/>
+        <TextEquiv>
+          <Unicode>字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876238" custom="structure {type:Text;}">
+        <Coords points="571,1679 763,1679 763,2625 571,2625 571,1679"/>
+        <Baseline points="662,1684 672,2626"/>
+        <TextEquiv>
+          <Unicode>司徒之官以成德</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876239" custom="structure {type:Commentary;}">
+        <Coords points="653,2636 784,2636 784,4307 653,4307 653,2636"/>
+        <Baseline points="729,2640 739,4308"/>
+        <TextEquiv>
+          <Unicode>大戴禮云古之御天下者以六官</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876240" custom="structure {type:Commentary;}">
+        <Coords points="549,2611 686,2611 686,4310 549,4310 549,2611"/>
+        <Baseline points="618,2616 639,4312"/>
+        <TextEquiv>
+          <Unicode>治焉塚宰之官以成道司徒之官</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876241" custom="structure {type:Commentary;}">
+        <Coords points="456,1413 590,1413 590,4313 456,4313 456,1413"/>
+        <Baseline points="517,1418 528,4314"/>
+        <TextEquiv>
+          <Unicode>以成德宗伯之官以成聖司寇之官以成義司空之官以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876242" custom="structure {type:Commentary;}">
+        <Coords points="344,1413 481,1413 481,4304 344,4304 344,1413"/>
+        <Baseline points="427,1418 440,4307"/>
+        <TextEquiv>
+          <Unicode>成禮○今案俞本脫古之以下陳本改家語考大戴禮盛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876243" custom="structure {type:Commentary;}">
+        <Coords points="262,1416 391,1416 391,3525 262,3525 262,1416"/>
+        <Baseline points="326,1418 326,3527"/>
+        <TextEquiv>
+          <Unicode>德篇古之十一字作古之御政以治天下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876244" custom="structure {type:Commentary;}">
+        <Coords points="136,1413 278,1413 278,3533 136,3533 136,1413"/>
+        <Baseline points="225,1418 238,3534"/>
+        <TextEquiv>
+          <Unicode>者宗伯之官下有以成仁司馬之官七字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876245" custom="structure {type:Text;}">
+        <Coords points="175,3514 363,3514 363,4047 175,4047 175,3514"/>
+        <Baseline points="269,3520 282,4048"/>
+        <TextEquiv>
+          <Unicode>司徒主吏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876246" custom="structure {type:Commentary;}">
+        <Coords points="270,4050 382,4050 382,4318 270,4318 270,4050"/>
+        <Baseline points="326,4058 343,4317"/>
+        <TextEquiv>
+          <Unicode>晉百</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876247" custom="structure {type:Commentary;}">
+        <Coords points="153,4061 276,4061 276,4313 153,4313 153,4061"/>
+        <Baseline points="232,4062 232,4314"/>
+        <TextEquiv>
+          <Unicode>官表</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷第五十二
+設官部四
+隋秘書郎虞世南撰
+南海孔廣陶校注
+司徒八
+司空九
+太師十
+太傅十一
+太保十二
+開府儀同三司十三
+特進十四
+司徒八
+王者象地立司徒
+晉百官表注司徒唐虞官也王者象地
+立司徒使掌邦教○今案俞本同陳本
+脫邦
+字
+司徒之官以成德
+大戴禮云古之御天下者以六官
+治焉塚宰之官以成道司徒之官
+以成德宗伯之官以成聖司寇之官以成義司空之官以
+成禮○今案俞本脫古之以下陳本改家語考大戴禮盛
+德篇古之十一字作古之御政以治天下
+者宗伯之官下有以成仁司馬之官七字
+司徒主吏
+晉百
+官表
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80246" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="84,2066 161,2063 161,3633 98,3630 84,2066"/>
+      <TextLine id="876141" custom="structure {type:Section;}">
+        <Coords points="65,2073 172,2073 172,2841 65,2841 65,2073"/>
+        <Baseline points="124,2077 127,2844"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔卷第五十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="876142" custom="structure {type:Page_Number;}">
+        <Coords points="65,3503 175,3503 175,3566 65,3566 65,3503"/>
+        <Baseline points="130,3514 135,3562"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔卷第五十二
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="80247" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="138,134 296,112 333,245 135,262 138,134"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

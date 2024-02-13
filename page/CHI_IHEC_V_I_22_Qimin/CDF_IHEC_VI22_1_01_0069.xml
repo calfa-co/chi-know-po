@@ -1,0 +1,369 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:14+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_01_0069.jpg" imageHeight="4146" imageWidth="4683">
+    <TextRegion id="117888" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4324,730 4443,740 4466,3656 4371,3656 4324,730"/>
+      <TextLine id="1111549" custom="structure {type:Title;}">
+        <Coords points="4339,728 4460,715 4453,1307 4342,1308 4339,728"/>
+        <Baseline points="4404,710 4420,1310"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111550" custom="structure {type:Section;}">
+        <Coords points="4359,1700 4453,1670 4450,2006 4358,2001 4359,1700"/>
+        <Baseline points="4412,1666 4412,2002"/>
+        <TextEquiv>
+          <Unicode>卷三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111551" custom="structure {type:Page_Number;}">
+        <Coords points="4367,2929 4456,2935 4453,3113 4367,3109 4367,2929"/>
+        <Baseline points="4420,2930 4420,3110"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷三
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117889" custom="structure {type:MainText_Right;}">
+      <Coords points="2476,758 4320,754 4356,3654 2516,3666 2476,758"/>
+      <TextLine id="1111552" custom="structure {type:Text;}">
+        <Coords points="4134,730 4328,730 4328,2671 4134,2671 4134,730"/>
+        <Baseline points="4244,734 4272,2674"/>
+        <TextEquiv>
+          <Unicode>無雪臘月中汲井水普澆悉令徹澤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111553" custom="structure {type:Commentary;}">
+        <Coords points="4233,2683 4381,2683 4381,3121 4233,3121 4233,2683"/>
+        <Baseline points="4304,2686 4308,3122"/>
+        <TextEquiv>
+          <Unicode>有雪則</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111554" custom="structure {type:Commentary;}">
+        <Coords points="4114,2653 4254,2653 4254,2957 4114,2957 4114,2653"/>
+        <Baseline points="4192,2654 4192,2958"/>
+        <TextEquiv>
+          <Unicode>不荒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111555" custom="structure {type:Text;}">
+        <Coords points="4164,3070 4332,3070 4332,3676 4164,3676 4164,3070"/>
+        <Baseline points="4252,3074 4256,3678"/>
+        <TextEquiv>
+          <Unicode>正月地釋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111556" custom="structure {type:Text;}">
+        <Coords points="3941,730 4116,730 4116,1455 3941,1455 3941,730"/>
+        <Baseline points="4044,734 4048,1458"/>
+        <TextEquiv>
+          <Unicode>驅踏破地皮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111557" custom="structure {type:Commentary;}">
+        <Coords points="4021,1434 4157,1434 4157,2132 4021,2132 4021,1434"/>
+        <Baseline points="4084,1438 4092,2134"/>
+        <TextEquiv>
+          <Unicode>不踏即枯涸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111558" custom="structure {type:Commentary;}">
+        <Coords points="3929,1425 4047,1425 4047,2128 3929,2128 3929,1425"/>
+        <Baseline points="3980,1430 3988,2130"/>
+        <TextEquiv>
+          <Unicode>皮破即膏潤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111559" custom="structure {type:Text;}">
+        <Coords points="3952,2125 4123,2125 4123,3664 3952,3664 3952,2125"/>
+        <Baseline points="4044,2130 4052,3666"/>
+        <TextEquiv>
+          <Unicode>春暖草生葵亦俱生三月初</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111560" custom="structure {type:Text;}">
+        <Coords points="3724,711 3925,711 3925,2420 3724,2420 3724,711"/>
+        <Baseline points="3817,715 3841,2423"/>
+        <TextEquiv>
+          <Unicode>葉大如錢逐穊處拔大者賣之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111561" custom="structure {type:Commentary;}">
+        <Coords points="3834,2403 3968,2395 3968,3676 3834,3675 3834,2403"/>
+        <Baseline points="3898,2400 3918,3678"/>
+        <TextEquiv>
+          <Unicode>十手拔乃禁取兒女子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111562" custom="structure {type:Commentary;}">
+        <Coords points="3726,2410 3841,2413 3847,3658 3727,3659 3726,2410"/>
+        <Baseline points="3784,2373 3804,3661"/>
+        <TextEquiv>
+          <Unicode>七歲巳上皆得充事也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111563" custom="structure {type:Text;}">
+        <Coords points="3522,769 3722,769 3722,3664 3522,3664 3522,769"/>
+        <Baseline points="3616,772 3656,3665"/>
+        <TextEquiv>
+          <Unicode>一升葵還得一升米日日常拔看稀稠得所乃止有草</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111564" custom="structure {type:Text;}">
+        <Coords points="3319,734 3515,734 3515,3696 3319,3696 3319,734"/>
+        <Baseline points="3427,738 3461,3698"/>
+        <TextEquiv>
+          <Unicode>拔卻不得用鋤一畝得葵三載合收米九十車車准二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111565" custom="structure {type:Text;}">
+        <Coords points="3121,727 3328,727 3328,3687 3121,3687 3121,727"/>
+        <Baseline points="3199,731 3246,3688"/>
+        <TextEquiv>
+          <Unicode>十斛為米一千八百石自四月八日以後日日翦賣其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111566" custom="structure {type:Text;}">
+        <Coords points="2920,734 3098,734 3098,3111 2920,3111 2920,734"/>
+        <Baseline points="3017,3113 3024,738"/>
+        <TextEquiv>
+          <Unicode>翦處尋以手拌斫斸地令其起水澆糞覆之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111567" custom="structure {type:Commentary;}">
+        <Coords points="3008,3107 3114,3107 3114,3669 3008,3669 3008,3107"/>
+        <Baseline points="3064,3110 3074,3671"/>
+        <TextEquiv>
+          <Unicode>四月亢旱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111568" custom="structure {type:Commentary;}">
+        <Coords points="2897,3093 3031,3093 3031,3669 2897,3669 2897,3093"/>
+        <Baseline points="2957,3096 2977,3671"/>
+        <TextEquiv>
+          <Unicode>不澆則不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111569" custom="structure {type:Commentary;}">
+        <Coords points="2801,748 2909,742 2926,2548 2801,2555 2801,748"/>
+        <Baseline points="2856,742 2872,2555"/>
+        <TextEquiv>
+          <Unicode>長有雨則不須四月以前雖旱亦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111570" custom="structure {type:Commentary;}">
+        <Coords points="2677,731 2805,725 2808,2555 2690,2555 2677,731"/>
+        <Baseline points="2762,728 2775,2558"/>
+        <TextEquiv>
+          <Unicode>不須澆地實保澤雪勢未盡故也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111571" custom="structure {type:Text;}">
+        <Coords points="2720,2545 2900,2545 2900,3669 2720,3669 2720,2545"/>
+        <Baseline points="2819,2548 2832,3671"/>
+        <TextEquiv>
+          <Unicode>比及翦遍初者還復</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111572" custom="structure {type:Text;}">
+        <Coords points="2510,748 2692,748 2692,3669 2510,3669 2510,748"/>
+        <Baseline points="2614,752 2627,3671"/>
+        <TextEquiv>
+          <Unicode>周而復始日日無窮至八月社日止留作秋菜九月指</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>無雪臘月中汲井水普澆悉令徹澤
+有雪則
+不荒
+正月地釋
+驅踏破地皮
+不踏即枯涸
+皮破即膏潤
+春暖草生葵亦俱生三月初
+葉大如錢逐穊處拔大者賣之
+十手拔乃禁取兒女子
+七歲巳上皆得充事也
+一升葵還得一升米日日常拔看稀稠得所乃止有草
+拔卻不得用鋤一畝得葵三載合收米九十車車准二
+十斛為米一千八百石自四月八日以後日日翦賣其
+翦處尋以手拌斫斸地令其起水澆糞覆之
+四月亢旱
+不澆則不
+長有雨則不須四月以前雖旱亦
+不須澆地實保澤雪勢未盡故也
+比及翦遍初者還復
+周而復始日日無窮至八月社日止留作秋菜九月指
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117890" custom="structure {type:MainText_Left;}">
+      <Coords points="350,742 2183,765 2133,3688 324,3651 350,742"/>
+      <TextLine id="1111573" custom="structure {type:Text;}">
+        <Coords points="1962,750 2172,750 2172,3683 1962,3683 1962,750"/>
+        <Baseline points="2062,3685 2106,755"/>
+        <TextEquiv>
+          <Unicode>地賣兩畝得絹一疋收訖即急耕依去年法勝作十頃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111574" custom="structure {type:Text;}">
+        <Coords points="1780,727 1962,727 1962,2409 1780,2409 1780,727"/>
+        <Baseline points="1864,2410 1877,731"/>
+        <TextEquiv>
+          <Unicode>穀田止須一乘車牛專供此園</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111575" custom="structure {type:Commentary;}">
+        <Coords points="1847,2409 1987,2409 1987,3125 1847,3125 1847,2409"/>
+        <Baseline points="1917,2413 1924,3126"/>
+        <TextEquiv>
+          <Unicode>耕勞輦糞賣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111576" custom="structure {type:Commentary;}">
+        <Coords points="1729,2395 1870,2395 1870,3118 1729,3118 1729,2395"/>
+        <Baseline points="1793,2400 1810,3120"/>
+        <TextEquiv>
+          <Unicode>菜終歲不閑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111577" custom="structure {type:Text;}">
+        <Coords points="1769,3104 1946,3104 1946,3696 1769,3696 1769,3104"/>
+        <Baseline points="1847,3106 1847,3698"/>
+        <TextEquiv>
+          <Unicode>若糞不可</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111578" custom="structure {type:Text;}">
+        <Coords points="1550,725 1757,725 1757,3710 1550,3710 1550,725"/>
+        <Baseline points="1648,3712 1699,728"/>
+        <TextEquiv>
+          <Unicode>得者五六月中穊種菉豆至七月八月犂掩殺之如以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111579" custom="structure {type:Text;}">
+        <Coords points="1359,739 1561,739 1561,2687 1359,2687 1359,739"/>
+        <Baseline points="1460,2689 1484,742"/>
+        <TextEquiv>
+          <Unicode>糞糞田則良美與糞不殊又省功力</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111580" custom="structure {type:Commentary;}">
+        <Coords points="1456,2686 1577,2686 1567,3681 1442,3688 1456,2686"/>
+        <Baseline points="1480,3691 1501,2692"/>
+        <TextEquiv>
+          <Unicode>其井間之田犂不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111581" custom="structure {type:Commentary;}">
+        <Coords points="1338,2699 1456,2692 1449,3668 1328,3668 1338,2699"/>
+        <Baseline points="1400,3671 1403,2676"/>
+        <TextEquiv>
+          <Unicode>及者可作畦以種</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111582" custom="structure {type:Commentary;}">
+        <Coords points="1281,748 1382,745 1385,903 1274,906 1281,748"/>
+        <Baseline points="1339,705 1339,900"/>
+        <TextEquiv>
+          <Unicode>諸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111583" custom="structure {type:Commentary;}">
+        <Coords points="1167,748 1274,748 1271,900 1160,900 1167,748"/>
+        <Baseline points="1231,725 1231,879"/>
+        <TextEquiv>
+          <Unicode>菜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111584" custom="structure {type:Text;}">
+        <Coords points="946,725 1135,725 1135,3710 946,3710 946,725"/>
+        <Baseline points="1036,3712 1063,728"/>
+        <TextEquiv>
+          <Unicode>崔實曰正月可作種瓜瓠葵芥䪥大小葱蒜苜蓿及雜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111585" custom="structure {type:Text;}">
+        <Coords points="737,714 935,714 935,3687 737,3687 737,714"/>
+        <Baseline points="838,3688 868,718"/>
+        <TextEquiv>
+          <Unicode>蒜亦可種此二物皆不如秋六月六日可種葵中伏後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111586" custom="structure {type:Text;}">
+        <Coords points="555,727 734,727 734,2301 555,2301 555,727"/>
+        <Baseline points="650,2302 663,731"/>
+        <TextEquiv>
+          <Unicode>可種冬葵九月作葵葅乾葵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111587" custom="structure {type:Text;}">
+        <Coords points="345,725 532,725 532,1856 345,1856 345,725"/>
+        <Baseline points="445,1858 472,731"/>
+        <TextEquiv>
+          <Unicode>家政法曰正月種葵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>地賣兩畝得絹一疋收訖即急耕依去年法勝作十頃
+穀田止須一乘車牛專供此園
+耕勞輦糞賣
+菜終歲不閑
+若糞不可
+得者五六月中穊種菉豆至七月八月犂掩殺之如以
+糞糞田則良美與糞不殊又省功力
+其井間之田犂不
+及者可作畦以種
+諸
+菜
+崔實曰正月可作種瓜瓠葵芥䪥大小葱蒜苜蓿及雜
+蒜亦可種此二物皆不如秋六月六日可種葵中伏後
+可種冬葵九月作葵葅乾葵
+家政法曰正月種葵
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117891" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="178,735 350,738 324,3661 171,3661 178,735"/>
+      <TextLine id="1111588" custom="structure {type:Title;}">
+        <Coords points="221,721 329,725 329,1335 221,1337 221,721"/>
+        <Baseline points="260,728 273,1337"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111589" custom="structure {type:Section;}">
+        <Coords points="221,1690 322,1700 315,1996 215,1996 221,1690"/>
+        <Baseline points="246,1687 256,1996"/>
+        <TextEquiv>
+          <Unicode>卷三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111590" custom="structure {type:Page_Number;}">
+        <Coords points="205,2925 304,2922 304,3097 201,3096 205,2925"/>
+        <Baseline points="260,2925 260,3099"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷三
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

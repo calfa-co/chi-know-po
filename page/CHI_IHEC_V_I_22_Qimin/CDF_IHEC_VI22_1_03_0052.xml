@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:42+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_03_0052.jpg" imageHeight="4178" imageWidth="4696">
+    <TextRegion id="119633" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4371,3683 4371,738 4528,738 4528,3683 4371,3683"/>
+      <TextLine id="1129631" custom="structure {type:Title;}">
+        <Coords points="4384,741 4480,727 4483,1324 4371,1320 4384,741"/>
+        <Baseline points="4452,715 4466,1323"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129632" custom="structure {type:Section;}">
+        <Coords points="4389,1745 4491,1674 4497,2022 4386,2025 4389,1745"/>
+        <Baseline points="4466,1656 4485,2013"/>
+        <TextEquiv>
+          <Unicode>卷八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129633" custom="structure {type:Page_Number;}">
+        <Coords points="4398,2945 4491,2947 4483,3111 4398,3110 4398,2945"/>
+        <Baseline points="4462,2950 4466,3112"/>
+        <TextEquiv>
+          <Unicode>二十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷八
+二十
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119634" custom="structure {type:MainText_Right;}">
+      <Coords points="2526,3669 2526,738 4390,738 4390,3669 2526,3669"/>
+      <TextLine id="1129634" custom="structure {type:Text;}">
+        <Coords points="4169,714 4373,714 4373,3699 4169,3699 4169,714"/>
+        <Baseline points="4252,719 4300,3702"/>
+        <TextEquiv>
+          <Unicode>作酸羹法用羊腸二具餳六斤瓠葉六斤蔥頭二升小</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129635" custom="structure {type:Text;}">
+        <Coords points="3957,700 4162,700 4162,2892 3957,2892 3957,700"/>
+        <Baseline points="4034,705 4100,2893"/>
+        <TextEquiv>
+          <Unicode>蒜三升麵三斤豉汁生薑橘皮口調之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129636" custom="structure {type:Text;}">
+        <Coords points="3751,700 3974,700 3974,3685 3751,3685 3751,700"/>
+        <Baseline points="3843,705 3891,3688"/>
+        <TextEquiv>
+          <Unicode>作胡羹法用羊脇六斤又肉四斤水四升煮出脇切之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129637" custom="structure {type:Text;}">
+        <Coords points="3551,719 3755,719 3755,3282 3551,3282 3551,719"/>
+        <Baseline points="3653,724 3682,3283"/>
+        <TextEquiv>
+          <Unicode>蔥頭一斤胡荽一兩安石榴汁數合口調其味</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129638" custom="structure {type:Text;}">
+        <Coords points="3340,700 3567,700 3567,3685 3340,3685 3340,700"/>
+        <Baseline points="3420,705 3477,3688"/>
+        <TextEquiv>
+          <Unicode>作胡麻羹法用胡麻一斗擣煮令熟研取汁三升蔥頭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129639" custom="structure {type:Text;}">
+        <Coords points="3136,717 3349,717 3349,3140 3136,3140 3136,717"/>
+        <Baseline points="3230,724 3287,3141"/>
+        <TextEquiv>
+          <Unicode>二升米二合煮火上蔥頭米熟得二升半在</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129640" custom="structure {type:Text;}">
+        <Coords points="2927,719 3154,719 3154,3685 2927,3685 2927,719"/>
+        <Baseline points="3040,724 3092,3688"/>
+        <TextEquiv>
+          <Unicode>作瓠菜羹法用瓠葉五斤羊肉三斤蔥二升鹽蟻五合</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129641" custom="structure {type:Text;}">
+        <Coords points="2734,749 2910,749 2910,1364 2734,1364 2734,749"/>
+        <Baseline points="2830,1366 2835,753"/>
+        <TextEquiv>
+          <Unicode>口調其味</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129642" custom="structure {type:Text;}">
+        <Coords points="2520,749 2746,749 2746,3699 2520,3699 2520,749"/>
+        <Baseline points="2616,753 2693,3702"/>
+        <TextEquiv>
+          <Unicode>作鷄羹法鷄一頭解骨肉相離切肉琢骨煮使熟漉去</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>作酸羹法用羊腸二具餳六斤瓠葉六斤蔥頭二升小
+蒜三升麵三斤豉汁生薑橘皮口調之
+作胡羹法用羊脇六斤又肉四斤水四升煮出脇切之
+蔥頭一斤胡荽一兩安石榴汁數合口調其味
+作胡麻羹法用胡麻一斗擣煮令熟研取汁三升蔥頭
+二升米二合煮火上蔥頭米熟得二升半在
+作瓠菜羹法用瓠葉五斤羊肉三斤蔥二升鹽蟻五合
+口調其味
+作鷄羹法鷄一頭解骨肉相離切肉琢骨煮使熟漉去
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119635" custom="structure {type:MainText_Left;}">
+      <Coords points="324,743 2188,762 2146,3711 301,3649 324,743"/>
+      <TextLine id="1129643" custom="structure {type:Text;}">
+        <Coords points="1938,733 2147,733 2147,3186 1938,3186 1938,733"/>
+        <Baseline points="2046,3188 2084,738"/>
+        <TextEquiv>
+          <Unicode>骨以蔥頭二升棗三十枚合煮羹一斗五升</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129645" custom="structure {type:Text;}">
+        <Coords points="1727,749 1947,749 1947,3709 1727,3709 1727,749"/>
+        <Baseline points="1822,3711 1860,753"/>
+        <TextEquiv>
+          <Unicode>作筍𥰮鴨羹法肥鴨一隻淨治如糝羹法臠亦如此𥰮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129646" custom="structure {type:Text;}">
+        <Coords points="1525,733 1736,733 1736,3690 1525,3690 1525,733"/>
+        <Baseline points="1646,3692 1670,738"/>
+        <TextEquiv>
+          <Unicode>四升洗令極淨鹽盡別水煮數沸出之更洗小蒜白及</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129647" custom="structure {type:Text;}">
+        <Coords points="1348,742 1534,742 1534,2448 1348,2448 1348,742"/>
+        <Baseline points="1461,743 1461,2451"/>
+        <TextEquiv>
+          <Unicode>蔥白豉汁等下之令沸便熟也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129648" custom="structure {type:Text;}">
+        <Coords points="1126,1043 1136,733 1341,740 1352,1043 1126,1043"/>
+        <Baseline points="1266,743 1271,1043"/>
+        <TextEquiv>
+          <Unicode>肺𦠆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1131291" custom="structure {type:Commentary;}">
+        <Coords points="1247,1047 1362,1047 1365,1306 1244,1286 1247,1047"/>
+        <Baseline points="1301,1057 1301,1303"/>
+        <TextEquiv>
+          <Unicode>蘇本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1131292" custom="structure {type:Commentary;}">
+        <Coords points="1123,1041 1237,1041 1237,1195 1123,1199 1123,1041"/>
+        <Baseline points="1190,1179 1197,1051"/>
+        <TextEquiv>
+          <Unicode>反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1131293" custom="structure {type:Text;}">
+        <Coords points="1133,1303 1341,1303 1314,3662 1096,3662 1133,1303"/>
+        <Baseline points="1203,3660 1240,1316"/>
+        <TextEquiv>
+          <Unicode>法羊肺一具煮令熟細切別作羊肉臛以粳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129649" custom="structure {type:Text;}">
+        <Coords points="935,714 1123,714 1123,1650 935,1650 935,714"/>
+        <Baseline points="1038,719 1047,1652"/>
+        <TextEquiv>
+          <Unicode>米二合生煮之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129650" custom="structure {type:Text;}">
+        <Coords points="707,714 916,714 916,3690 707,3690 707,714"/>
+        <Baseline points="809,3692 847,719"/>
+        <TextEquiv>
+          <Unicode>作羊盤腸雌斛法取羊血五升去中脈麻跡裂之細切</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129651" custom="structure {type:Text;}">
+        <Coords points="492,712 714,712 714,3681 492,3681 492,712"/>
+        <Baseline points="605,3683 657,715"/>
+        <TextEquiv>
+          <Unicode>羊胳肪二升細切薑一斤橘皮三葉椒末一合豆醬一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129652" custom="structure {type:Text;}">
+        <Coords points="283,719 506,719 506,3653 283,3653 283,719"/>
+        <Baseline points="381,3654 429,724"/>
+        <TextEquiv>
+          <Unicode>升豉汁五合麵一升五合和米一升作糝都和合更以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>骨以蔥頭二升棗三十枚合煮羹一斗五升
+作筍𥰮鴨羹法肥鴨一隻淨治如糝羹法臠亦如此𥰮
+四升洗令極淨鹽盡別水煮數沸出之更洗小蒜白及
+蔥白豉汁等下之令沸便熟也
+肺𦠆
+蘇本
+反
+法羊肺一具煮令熟細切別作羊肉臛以粳
+米二合生煮之
+作羊盤腸雌斛法取羊血五升去中脈麻跡裂之細切
+羊胳肪二升細切薑一斤橘皮三葉椒末一合豆醬一
+升豉汁五合麵一升五合和米一升作糝都和合更以
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119636" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="182,743 320,753 286,3669 172,3669 182,743"/>
+      <TextLine id="1129653" custom="structure {type:Title;}">
+        <Coords points="214,730 304,714 304,1320 206,1321 214,730"/>
+        <Baseline points="248,715 248,1323"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129654" custom="structure {type:Section;}">
+        <Coords points="195,1688 299,1734 306,2007 189,2000 195,1688"/>
+        <Baseline points="239,1694 243,2008"/>
+        <TextEquiv>
+          <Unicode>卷八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129655" custom="structure {type:Page_Number;}">
+        <Coords points="181,2899 266,2896 266,3101 172,3106 181,2899"/>
+        <Baseline points="224,3102 229,2903"/>
+        <TextEquiv>
+          <Unicode>二十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷八
+二十一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

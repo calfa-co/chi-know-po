@@ -1,0 +1,465 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:11+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_01_0039.jpg" imageHeight="4146" imageWidth="4645">
+    <TextRegion id="117747" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4343,763 4485,759 4447,3689 4314,3689 4343,763"/>
+      <TextLine id="1109671" custom="structure {type:Title;}">
+        <Coords points="4335,754 4440,794 4444,1354 4329,1356 4335,754"/>
+        <Baseline points="4409,730 4424,1358"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109672" custom="structure {type:Section;}">
+        <Coords points="4343,1758 4460,1710 4456,2034 4327,2031 4343,1758"/>
+        <Baseline points="4400,2033 4409,1691"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109673" custom="structure {type:Page_Number;}">
+        <Coords points="4343,2950 4432,2934 4436,3162 4336,3164 4343,2950"/>
+        <Baseline points="4400,2928 4419,3166"/>
+        <TextEquiv>
+          <Unicode>十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷一
+十六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117748" custom="structure {type:MainText_Right;}">
+      <Coords points="2483,759 4347,759 4328,3708 2469,3689 2483,759"/>
+      <TextLine id="1109674" custom="structure {type:Text;}">
+        <Coords points="4119,732 4347,732 4347,3710 4119,3710 4119,732"/>
+        <Baseline points="4204,735 4251,3712"/>
+        <TextEquiv>
+          <Unicode>一端以概禾中去霜露日出乃止如此禾稼五穀不傷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109675" custom="structure {type:Text;}">
+        <Coords points="3926,734 4131,734 4131,3703 3926,3703 3926,734"/>
+        <Baseline points="4033,738 4056,3705"/>
+        <TextEquiv>
+          <Unicode>矣氾勝之書曰稗既堪水旱種無不熟之時又特滋茂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109676" custom="structure {type:Text;}">
+        <Coords points="3723,741 3919,741 3919,3706 3723,3706 3723,741"/>
+        <Baseline points="3817,745 3831,3708"/>
+        <TextEquiv>
+          <Unicode>盛易生蕪穢良田畝得二三十斛宜種之備凶年稗中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109677" custom="structure {type:Text;}">
+        <Coords points="3518,741 3707,741 3707,3392 3518,3392 3518,741"/>
+        <Baseline points="3612,3395 3619,745"/>
+        <TextEquiv>
+          <Unicode>有米熟時擣取米炊食之不減粱米又可釅作酒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109678" custom="structure {type:Commentary;}">
+        <Coords points="3638,3392 3739,3392 3739,3689 3638,3689 3638,3392"/>
+        <Baseline points="3669,3395 3669,3691"/>
+        <TextEquiv>
+          <Unicode>酒勢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109679" custom="structure {type:Commentary;}">
+        <Coords points="3516,3367 3631,3367 3631,3708 3516,3708 3516,3367"/>
+        <Baseline points="3575,3372 3592,3708"/>
+        <TextEquiv>
+          <Unicode>美釅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109680" custom="structure {type:Commentary;}">
+        <Coords points="3396,755 3541,755 3541,3521 3396,3521 3396,755"/>
+        <Baseline points="3478,758 3491,3523"/>
+        <TextEquiv>
+          <Unicode>尤踰黍秫魏武使典農種之頃收二千斛斛得米三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109681" custom="structure {type:Commentary;}">
+        <Coords points="3299,743 3437,743 3437,3411 3299,3411 3299,743"/>
+        <Baseline points="3360,748 3377,3412"/>
+        <TextEquiv>
+          <Unicode>四斗大儉可磨食之若值豐年可以飯牛馬豬羊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109682" custom="structure {type:Text;}">
+        <Coords points="3322,3494 3504,3494 3504,3712 3322,3712 3322,3494"/>
+        <Baseline points="3417,3503 3431,3712"/>
+        <TextEquiv>
+          <Unicode>蟲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109683" custom="structure {type:Text;}">
+        <Coords points="3103,741 3310,741 3310,3696 3103,3696 3103,741"/>
+        <Baseline points="3209,745 3236,3698"/>
+        <TextEquiv>
+          <Unicode>食桃者粟貴楊泉物理論曰種作曰稼稼猶種也收斂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109684" custom="structure {type:Text;}">
+        <Coords points="2910,743 3103,743 3103,3710 2910,3710 2910,743"/>
+        <Baseline points="3007,748 3024,3712"/>
+        <TextEquiv>
+          <Unicode>曰穡穡猶收也古今之言云耳稼農之本穡農之末本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109685" custom="structure {type:Text;}">
+        <Coords points="2702,732 2905,732 2905,3696 2702,3696 2702,732"/>
+        <Baseline points="2805,735 2832,3698"/>
+        <TextEquiv>
+          <Unicode>輕而末重前緩而後急稼欲熟收欲速此良農之務也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109686" custom="structure {type:Text;}">
+        <Coords points="2495,734 2698,734 2698,2989 2495,2989 2495,734"/>
+        <Baseline points="2583,738 2617,2992"/>
+        <TextEquiv>
+          <Unicode>漢書食貨志曰種穀必雜五種以備災害</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109687" custom="structure {type:Commentary;}">
+        <Coords points="2592,2950 2723,2950 2723,3694 2592,3694 2592,2950"/>
+        <Baseline points="2661,2955 2674,3695"/>
+        <TextEquiv>
+          <Unicode>師古曰歲田</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109688" custom="structure {type:Commentary;}">
+        <Coords points="2499,2962 2626,2962 2626,3696 2499,3696 2499,2962"/>
+        <Baseline points="2550,2965 2566,3698"/>
+        <TextEquiv>
+          <Unicode>有宜及水旱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>一端以概禾中去霜露日出乃止如此禾稼五穀不傷
+矣氾勝之書曰稗既堪水旱種無不熟之時又特滋茂
+盛易生蕪穢良田畝得二三十斛宜種之備凶年稗中
+有米熟時擣取米炊食之不減粱米又可釅作酒
+酒勢
+美釅
+尤踰黍秫魏武使典農種之頃收二千斛斛得米三
+四斗大儉可磨食之若值豐年可以飯牛馬豬羊
+蟲
+食桃者粟貴楊泉物理論曰種作曰稼稼猶種也收斂
+曰穡穡猶收也古今之言云耳稼農之本穡農之末本
+輕而末重前緩而後急稼欲熟收欲速此良農之務也
+漢書食貨志曰種穀必雜五種以備災害
+師古曰歲田
+有宜及水旱
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117749" custom="structure {type:MainText_Left;}">
+      <Coords points="339,744 2203,763 2184,3713 329,3660 339,744"/>
+      <TextLine id="1109689" custom="structure {type:Commentary;}">
+        <Coords points="2059,748 2200,762 2192,1730 2059,1736 2059,748"/>
+        <Baseline points="2135,751 2147,1739"/>
+        <TextEquiv>
+          <Unicode>之利也種即五穀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109690" custom="structure {type:Commentary;}">
+        <Coords points="1965,753 2085,753 2085,1739 1965,1739 1965,753"/>
+        <Baseline points="2031,757 2034,1741"/>
+        <TextEquiv>
+          <Unicode>謂黍稷麻麥豆也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109691" custom="structure {type:Text;}">
+        <Coords points="1965,1720 2156,1720 2156,3121 1965,3121 1965,1720"/>
+        <Baseline points="2076,3122 2079,1724"/>
+        <TextEquiv>
+          <Unicode>田中不得有樹用妨五穀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109692" custom="structure {type:Commentary;}">
+        <Coords points="2050,3102 2244,3102 2244,3664 2050,3664 2050,3102"/>
+        <Baseline points="2116,3110 2138,3665"/>
+        <TextEquiv>
+          <Unicode>五穀之田</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109693" custom="structure {type:Commentary;}">
+        <Coords points="1958,3093 2085,3093 2085,3685 1958,3685 1958,3093"/>
+        <Baseline points="2020,3096 2028,3687"/>
+        <TextEquiv>
+          <Unicode>不宜樹果</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109694" custom="structure {type:Commentary;}">
+        <Coords points="1847,732 1995,732 1995,3673 1847,3673 1847,732"/>
+        <Baseline points="1926,3676 1938,737"/>
+        <TextEquiv>
+          <Unicode>諺曰桃李不言下自成蹊匪直妨耕種損禾苗抑亦惰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109695" custom="structure {type:Commentary;}">
+        <Coords points="1753,748 1891,748 1891,3669 1753,3669 1753,748"/>
+        <Baseline points="1819,3670 1836,751"/>
+        <TextEquiv>
+          <Unicode>夫之所休息豎子之所嬉遊故齊桓公問于管子曰飢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109696" custom="structure {type:Commentary;}">
+        <Coords points="1642,746 1797,746 1797,3657 1642,3657 1642,746"/>
+        <Baseline points="1711,3659 1731,749"/>
+        <TextEquiv>
+          <Unicode>寒室屋漏而不治垣墻壞而不築為之奈何管子對曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109697" custom="structure {type:Commentary;}">
+        <Coords points="1552,746 1681,746 1681,3664 1552,3664 1552,746"/>
+        <Baseline points="1621,3665 1629,749"/>
+        <TextEquiv>
+          <Unicode>沐塗樹之枝公令左右沐塗樹之枝朞年民被布帛治</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109698" custom="structure {type:Commentary;}">
+        <Coords points="1440,727 1585,727 1585,3669 1440,3669 1440,727"/>
+        <Baseline points="1505,3670 1522,732"/>
+        <TextEquiv>
+          <Unicode>屋築垣墻公問此何故管子對曰齊夷萊之國也一樹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109699" custom="structure {type:Commentary;}">
+        <Coords points="1336,732 1481,732 1481,3678 1336,3678 1336,732"/>
+        <Baseline points="1409,3679 1426,737"/>
+        <TextEquiv>
+          <Unicode>而百乘息其下以其不稍也衆鳥居其上丁壯者挾丸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109700" custom="structure {type:Commentary;}">
+        <Coords points="1232,741 1380,741 1380,3659 1232,3659 1232,741"/>
+        <Baseline points="1307,3662 1327,746"/>
+        <TextEquiv>
+          <Unicode>操彈居其下終日不歸父老拊枝而論終日不去今吾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109701" custom="structure {type:Commentary;}">
+        <Coords points="1138,730 1276,730 1276,3666 1138,3666 1138,730"/>
+        <Baseline points="1197,3667 1214,734"/>
+        <TextEquiv>
+          <Unicode>沐塗樹之枝日方中無尺陰行者疾走父老歸而治產</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109702" custom="structure {type:Commentary;}">
+        <Coords points="1046,741 1168,741 1168,1183 1046,1183 1046,741"/>
+        <Baseline points="1115,743 1115,1184"/>
+        <TextEquiv>
+          <Unicode>丁壯歸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109703" custom="structure {type:Commentary;}">
+        <Coords points="946,727 1069,727 1069,1167 946,1167 946,727"/>
+        <Baseline points="1010,1170 1013,732"/>
+        <TextEquiv>
+          <Unicode>而有業</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109704" custom="structure {type:Text;}">
+        <Coords points="953,1160 1140,1160 1140,2701 953,2701 953,1160"/>
+        <Baseline points="1047,1164 1052,2703"/>
+        <TextEquiv>
+          <Unicode>力耕數耘收穫如寇盗之至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109705" custom="structure {type:Commentary;}">
+        <Coords points="1043,2685 1168,2685 1168,3646 1043,3646 1043,2685"/>
+        <Baseline points="1098,2686 1098,3648"/>
+        <TextEquiv>
+          <Unicode>師古曰力謂勤作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109706" custom="structure {type:Commentary;}">
+        <Coords points="933,2683 1064,2683 1064,3673 933,3673 933,2683"/>
+        <Baseline points="990,3676 1002,2686"/>
+        <TextEquiv>
+          <Unicode>之也如寇盗之至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109707" custom="structure {type:Commentary;}">
+        <Coords points="840,723 972,723 972,1593 840,1593 840,723"/>
+        <Baseline points="908,726 917,1594"/>
+        <TextEquiv>
+          <Unicode>謂促遽之甚恐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109708" custom="structure {type:Commentary;}">
+        <Coords points="744,723 857,723 857,1596 744,1596 744,723"/>
+        <Baseline points="804,726 806,1597"/>
+        <TextEquiv>
+          <Unicode>為風雨所損也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109709" custom="structure {type:Text;}">
+        <Coords points="758,1582 946,1582 946,2153 758,2153 758,1582"/>
+        <Baseline points="843,1586 852,2154"/>
+        <TextEquiv>
+          <Unicode>還廬樹桑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109710" custom="structure {type:Commentary;}">
+        <Coords points="845,2144 970,2144 970,2545 845,2545 845,2144"/>
+        <Baseline points="897,2151 917,2547"/>
+        <TextEquiv>
+          <Unicode>師古曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109711" custom="structure {type:Commentary;}">
+        <Coords points="739,2123 864,2123 864,2556 739,2556 739,2123"/>
+        <Baseline points="795,2126 804,2559"/>
+        <TextEquiv>
+          <Unicode>還繞也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109712" custom="structure {type:Text;}">
+        <Coords points="762,2547 937,2547 937,3100 762,3100 762,2547"/>
+        <Baseline points="855,2550 863,3102"/>
+        <TextEquiv>
+          <Unicode>菜茹有畦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109713" custom="structure {type:Commentary;}">
+        <Coords points="827,3093 953,3093 953,3664 827,3664 827,3093"/>
+        <Baseline points="880,3099 905,3665"/>
+        <TextEquiv>
+          <Unicode>爾雅曰菜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109714" custom="structure {type:Commentary;}">
+        <Coords points="718,3079 864,3079 864,3655 718,3655 718,3079"/>
+        <Baseline points="784,3082 795,3656"/>
+        <TextEquiv>
+          <Unicode>謂之蔬不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109715" custom="structure {type:Commentary;}">
+        <Coords points="631,720 769,720 769,2837 631,2837 631,720"/>
+        <Baseline points="702,723 702,2839"/>
+        <TextEquiv>
+          <Unicode>熟曰饉菜總名也凡草菜可食通名曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109716" custom="structure {type:Commentary;}">
+        <Coords points="523,725 658,725 658,2826 523,2826 523,725"/>
+        <Baseline points="594,2827 597,726"/>
+        <TextEquiv>
+          <Unicode>蔬案生曰菜熟曰茹猶生曰草死曰蘆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109717" custom="structure {type:Text;}">
+        <Coords points="555,2821 721,2821 721,3362 555,3362 555,2821"/>
+        <Baseline points="634,2825 645,3365"/>
+        <TextEquiv>
+          <Unicode>瓜瓠果蓏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109718" custom="structure {type:Commentary;}">
+        <Coords points="629,3365 748,3365 748,3657 629,3657 629,3365"/>
+        <Baseline points="682,3368 693,3659"/>
+        <TextEquiv>
+          <Unicode>郎果</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109719" custom="structure {type:Commentary;}">
+        <Coords points="543,3362 647,3362 647,3657 543,3657 543,3362"/>
+        <Baseline points="592,3365 592,3659"/>
+        <TextEquiv>
+          <Unicode>反應</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109720" custom="structure {type:Commentary;}">
+        <Coords points="423,727 552,727 552,3657 423,3657 423,727"/>
+        <Baseline points="490,3659 495,732"/>
+        <TextEquiv>
+          <Unicode>劭曰木實曰果草實曰蓏張晏曰有核曰果無核曰蓏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109721" custom="structure {type:Commentary;}">
+        <Coords points="285,737 458,737 458,3657 285,3657 285,737"/>
+        <Baseline points="382,3659 399,740"/>
+        <TextEquiv>
+          <Unicode>臣瓚案木上曰果地上曰蓏說文曰在木曰果在草曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之利也種即五穀
+謂黍稷麻麥豆也
+田中不得有樹用妨五穀
+五穀之田
+不宜樹果
+諺曰桃李不言下自成蹊匪直妨耕種損禾苗抑亦惰
+夫之所休息豎子之所嬉遊故齊桓公問于管子曰飢
+寒室屋漏而不治垣墻壞而不築為之奈何管子對曰
+沐塗樹之枝公令左右沐塗樹之枝朞年民被布帛治
+屋築垣墻公問此何故管子對曰齊夷萊之國也一樹
+而百乘息其下以其不稍也衆鳥居其上丁壯者挾丸
+操彈居其下終日不歸父老拊枝而論終日不去今吾
+沐塗樹之枝日方中無尺陰行者疾走父老歸而治產
+丁壯歸
+而有業
+力耕數耘收穫如寇盗之至
+師古曰力謂勤作
+之也如寇盗之至
+謂促遽之甚恐
+為風雨所損也
+還廬樹桑
+師古曰
+還繞也
+菜茹有畦
+爾雅曰菜
+謂之蔬不
+熟曰饉菜總名也凡草菜可食通名曰
+蔬案生曰菜熟曰茹猶生曰草死曰蘆
+瓜瓠果蓏
+郎果
+反應
+劭曰木實曰果草實曰蓏張晏曰有核曰果無核曰蓏
+臣瓚案木上曰果地上曰蓏說文曰在木曰果在草曰
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117750" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="186,740 329,730 301,3679 148,3689 186,740"/>
+      <TextLine id="1109722" custom="structure {type:Title;}">
+        <Coords points="231,766 327,753 327,1338 223,1330 231,766"/>
+        <Baseline points="272,754 272,1340"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109723" custom="structure {type:Section;}">
+        <Coords points="215,1706 322,1697 322,1960 215,1958 215,1706"/>
+        <Baseline points="249,1702 252,1962"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109724" custom="structure {type:Page_Number;}">
+        <Coords points="215,2934 311,2922 311,3125 203,3126 215,2934"/>
+        <Baseline points="249,2926 252,3127"/>
+        <TextEquiv>
+          <Unicode>十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷一
+十七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

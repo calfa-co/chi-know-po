@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:28+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_9_69_0021.jpg" imageHeight="3144" imageWidth="3521">
+    <TextRegion id="116682" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3246,1214 3311,1214 3296,1623 3245,1650 3246,1214"/>
+      <TextLine id="1099208" custom="structure {type:Section;}">
+        <Coords points="3248,1215 3327,1212 3320,1633 3241,1619 3248,1215"/>
+        <Baseline points="3265,1180 3271,1624"/>
+        <TextEquiv>
+          <Unicode>農書卷上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>農書卷上
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116681" custom="structure {type:MainText_Right;}">
+      <Coords points="1829,747 3242,747 3242,2683 1829,2683 1829,747"/>
+      <TextLine id="1099181" custom="structure {type:Text;}">
+        <Coords points="3078,749 3216,749 3217,2670 3082,2670 3078,749"/>
+        <Baseline points="3152,752 3157,2665"/>
+        <TextEquiv>
+          <Unicode>爾雅謂田畯乃先農也于先農有祈焉有報焉則神農</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099182" custom="structure {type:Text;}">
+        <Coords points="2926,744 3059,744 3056,2665 2927,2665 2926,744"/>
+        <Baseline points="2993,747 2998,2663"/>
+        <TextEquiv>
+          <Unicode>后稷與夫俗之流傳所謂田父田母舉在所祈報可知</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099183" custom="structure {type:Text;}">
+        <Coords points="2771,742 2904,742 2901,2668 2770,2673 2771,742"/>
+        <Baseline points="2839,745 2843,2663"/>
+        <TextEquiv>
+          <Unicode>矣大田之詩言去其螟螣及其蟊贼無害我田穉田祖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099184" custom="structure {type:Text;}">
+        <Coords points="2610,742 2748,742 2749,2673 2611,2673 2610,742"/>
+        <Baseline points="2678,745 2689,2661"/>
+        <TextEquiv>
+          <Unicode>有神秉异炎火有渰凄凄典雨祁祁雨我公田遂及我</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099185" custom="structure {type:Text;}">
+        <Coords points="2454,748 2592,753 2594,2677 2454,2668 2454,748"/>
+        <Baseline points="2523,761 2533,2660"/>
+        <TextEquiv>
+          <Unicode>私是又祈之之辭也甫田之詩言以我齊明與我犧羊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099186" custom="structure {type:Text;}">
+        <Coords points="2296,731 2437,731 2433,2670 2297,2675 2296,731"/>
+        <Baseline points="2364,735 2376,2663"/>
+        <TextEquiv>
+          <Unicode>以社以方我田既臧農夫之慶是又報之之禮也繼而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099187" custom="structure {type:Text;}">
+        <Coords points="2138,751 2278,748 2278,2673 2145,2682 2138,751"/>
+        <Baseline points="2215,761 2219,2660"/>
+        <TextEquiv>
+          <Unicode>曰琴瑟撃鼓以御田祖以祈甘雨以介我稷黍以穀我</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099188" custom="structure {type:Text;}">
+        <Coords points="1983,747 2124,747 2126,2680 1990,2687 1983,747"/>
+        <Baseline points="2058,751 2068,2658"/>
+        <TextEquiv>
+          <Unicode>士女饁彼南畝田畯至喜于此又以見祈報之事也噫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099189" custom="structure {type:Text;}">
+        <Coords points="1819,746 1974,746 1964,2684 1836,2680 1819,746"/>
+        <Baseline points="1897,765 1909,2663"/>
+        <TextEquiv>
+          <Unicode>嘻之詩言春夏祈穀于上帝者春祈穀于上帝夏大雩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>爾雅謂田畯乃先農也于先農有祈焉有報焉則神農
+后稷與夫俗之流傳所謂田父田母舉在所祈報可知
+矣大田之詩言去其螟螣及其蟊贼無害我田穉田祖
+有神秉异炎火有渰凄凄典雨祁祁雨我公田遂及我
+私是又祈之之辭也甫田之詩言以我齊明與我犧羊
+以社以方我田既臧農夫之慶是又報之之禮也繼而
+曰琴瑟撃鼓以御田祖以祈甘雨以介我稷黍以穀我
+士女饁彼南畝田畯至喜于此又以見祈報之事也噫
+嘻之詩言春夏祈穀于上帝者春祈穀于上帝夏大雩
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116680" custom="structure {type:MainText_Left;}">
+      <Coords points="316,761 1726,761 1726,2686 316,2686 316,761"/>
+      <TextLine id="1099172" custom="structure {type:Text;}">
+        <Coords points="1574,765 1707,765 1707,2673 1576,2675 1574,765"/>
+        <Baseline points="1639,768 1647,2663"/>
+        <TextEquiv>
+          <Unicode>于上帝之樂歌也噫嘻成王既昭格爾者嗟歎以吿于</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099173" custom="structure {type:Text;}">
+        <Coords points="1422,773 1556,773 1555,2675 1427,2687 1422,773"/>
+        <Baseline points="1490,775 1497,2654"/>
+        <TextEquiv>
+          <Unicode>上帝也言天之所以成王之業者莫不自於遂百穀以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099174" custom="structure {type:Text;}">
+        <Coords points="1263,763 1404,763 1405,2680 1267,2682 1263,763"/>
+        <Baseline points="1333,766 1345,2668"/>
+        <TextEquiv>
+          <Unicode>富其民也于是欽授民事而率是農夫播厥百穀駿發</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099175" custom="structure {type:Text;}">
+        <Coords points="1102,765 1254,765 1253,2673 1103,2670 1102,765"/>
+        <Baseline points="1170,768 1191,2665"/>
+        <TextEquiv>
+          <Unicode>爾私終三十里亦服爾耕十千爲耦焉其詩嗟歎不敢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099176" custom="structure {type:Text;}">
+        <Coords points="947,766 1092,766 1091,2682 953,2689 947,766"/>
+        <Baseline points="1013,770 1034,2665"/>
+        <TextEquiv>
+          <Unicode>後于天時所以虔於天澤也溥天之下莫不如是則歲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099177" custom="structure {type:Text;}">
+        <Coords points="791,766 940,766 939,2680 803,2692 791,766"/>
+        <Baseline points="859,770 880,2661"/>
+        <TextEquiv>
+          <Unicode>有不豐者乎此王者所以上能順于天下能順于民以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099178" custom="structure {type:Text;}">
+        <Coords points="637,766 782,766 792,2687 649,2694 637,766"/>
+        <Baseline points="704,770 725,2663"/>
+        <TextEquiv>
+          <Unicode>成王業故曰明昭上帝迄用康年也若豐年之詩言秋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099179" custom="structure {type:Text;}">
+        <Coords points="480,763 627,763 627,2680 482,2677 480,763"/>
+        <Baseline points="548,766 564,2672"/>
+        <TextEquiv>
+          <Unicode>冬報者蓋五行得性而萬物適其宜五氯若特而百穀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099180" custom="structure {type:Text;}">
+        <Coords points="325,766 471,766 475,2677 351,2687 325,766"/>
+        <Baseline points="389,770 410,2670"/>
+        <TextEquiv>
+          <Unicode>倍其實故陸禾之數非一而多者黍也水縠之品亦非</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>于上帝之樂歌也噫嘻成王既昭格爾者嗟歎以吿于
+上帝也言天之所以成王之業者莫不自於遂百穀以
+富其民也于是欽授民事而率是農夫播厥百穀駿發
+爾私終三十里亦服爾耕十千爲耦焉其詩嗟歎不敢
+後于天時所以虔於天澤也溥天之下莫不如是則歲
+有不豐者乎此王者所以上能順于天下能順于民以
+成王業故曰明昭上帝迄用康年也若豐年之詩言秋
+冬報者蓋五行得性而萬物適其宜五氯若特而百穀
+倍其實故陸禾之數非一而多者黍也水縠之品亦非
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116679" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="234,1201 313,1201 313,2683 234,2683 234,1201"/>
+      <TextLine id="1099171" custom="structure {type:Section;}">
+        <Coords points="230,1226 311,1212 311,1589 228,1583 230,1226"/>
+        <Baseline points="262,1213 262,1590"/>
+        <TextEquiv>
+          <Unicode>農書卷上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234253" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="291,2242 301,2111"/>
+        <TextEquiv>
+          <Unicode>十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099170" custom="structure {type:Title;}">
+        <Coords points="242,2130 325,2128 330,2699 254,2684 242,2130"/>
+        <Baseline points="289,2225 295,2672"/>
+        <TextEquiv>
+          <Unicode>知不足斎樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>農書卷上
+十六
+知不足斎樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

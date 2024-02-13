@@ -1,0 +1,245 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:37+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-14_0148.jpg" imageHeight="3500" imageWidth="1919">
+    <TextRegion id="117254" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1731,1285 1771,1278 1769,2428 1721,2428 1731,1285"/>
+      <TextLine id="1105127" custom="structure {type:Section;}">
+        <Coords points="1730,1348 1767,1333 1770,1547 1725,1559 1730,1348"/>
+        <Baseline points="1752,1552 1755,1343"/>
+        <TextEquiv>
+          <Unicode>文四十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105128" custom="structure {type:Page_Number;}">
+        <Coords points="1728,2294 1767,2273 1767,2400 1727,2401 1728,2294"/>
+        <Baseline points="1755,2282 1755,2403"/>
+        <TextEquiv>
+          <Unicode>十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文四十一
+十四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117253" custom="structure {type:MainText;}">
+      <Coords points="176,810 1724,826 1705,3186 168,3193 176,810"/>
+      <TextLine id="1105101" custom="structure {type:Commentary;}">
+        <Coords points="1639,2590 1638,2003 1651,830 1725,830 1720,2004 1715,2590 1712,3175 1625,3177 1639,2590"/>
+        <Baseline points="1667,3179 1691,826"/>
+        <TextEquiv>
+          <Unicode>食禮甚卑有子婿之禮高祖箕踞罵詈甚慢之趙相貫高</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105102" custom="structure {type:Commentary;}">
+        <Coords points="1564,1999 1567,1414 1572,829 1654,830 1640,2001 1626,3172 1555,3172 1564,1999"/>
+        <Baseline points="1593,3179 1617,834"/>
+        <TextEquiv>
+          <Unicode>趙午說敖曰天下豪傑並起能者先立今王事皇帝甚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105103" custom="structure {type:Commentary;}">
+        <Coords points="1490,2583 1490,1998 1496,830 1570,830 1565,1998 1564,2581 1555,3167 1485,3168 1490,2583"/>
+        <Baseline points="1526,3169 1531,829"/>
+        <TextEquiv>
+          <Unicode>恭皇帝遇王無禮請為殺之八年上從東垣過貫高等</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105104" custom="structure {type:Commentary;}">
+        <Coords points="1412,1998 1416,1411 1424,834 1500,828 1486,3160 1416,3165 1412,1998"/>
+        <Baseline points="1450,3164 1462,831"/>
+        <TextEquiv>
+          <Unicode>乃壁人柏人要之置廁上過欲宿心動問縣名為何曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105105" custom="structure {type:Commentary;}">
+        <Coords points="1340,2585 1343,2003 1342,832 1419,832 1414,2001 1414,2585 1409,3167 1337,3168 1340,2585"/>
+        <Baseline points="1369,3167 1384,836"/>
+        <TextEquiv>
+          <Unicode>柏人上曰柏人者迫於人遂去貫高怨家知其謀反告</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105106" custom="structure {type:Commentary;}">
+        <Coords points="1263,2001 1263,1414 1264,1116 1273,825 1343,830 1338,3172 1264,3173 1263,2001"/>
+        <Baseline points="1296,831 1300,3176"/>
+        <TextEquiv>
+          <Unicode>之於是逮捕趙王諸反者趙午十餘人皆自刎貫高獨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105107" custom="structure {type:Commentary;}">
+        <Coords points="1185,2247 1190,1771 1190,832 1264,829 1265,1771 1264,2716 1178,2717 1185,2247"/>
+        <Baseline points="1222,2715 1229,826"/>
+        <TextEquiv>
+          <Unicode>怒罵曰誰令公等為之今王實無反謀檻車</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105108" custom="structure {type:Commentary;}">
+        <Coords points="1115,2230 1108,1707 1103,1261 1101,825 1189,824 1185,2598 1109,2598 1115,2230"/>
+        <Baseline points="1141,2601 1153,824"/>
+        <TextEquiv>
+          <Unicode>與詣長安高下獄曰吾屬為之王不知也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105109" custom="structure {type:Text;}">
+        <Coords points="1123,2721 1256,2721 1261,3177 1121,3180 1123,2721"/>
+        <Baseline points="1179,2717 1182,3172"/>
+        <TextEquiv>
+          <Unicode>絳侯誅諸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105110" custom="structure {type:Text;}">
+        <Coords points="965,832 1098,832 1115,1845 961,1866 965,832"/>
+        <Baseline points="1032,831 1032,1856"/>
+        <TextEquiv>
+          <Unicode>呂權傾五伯囚於請室</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105111" custom="structure {type:Commentary;}">
+        <Coords points="1030,2521 1041,1858 1111,1846 1111,2507 1121,3163 1027,3170 1030,2521"/>
+        <Baseline points="1070,1849 1075,3164"/>
+        <TextEquiv>
+          <Unicode>史記曰絳侯周勃與陳平謀誅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105112" custom="structure {type:Commentary;}">
+        <Coords points="950,2516 955,2188 960,1868 1039,1860 1027,2516 1029,3172 951,3172 950,2516"/>
+        <Baseline points="989,3174 998,1863"/>
+        <TextEquiv>
+          <Unicode>諸呂而立孝文後勃被囚已見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105113" custom="structure {type:Commentary;}">
+        <Coords points="877,1532 879,829 963,829 956,1533 951,2247 874,2245 877,1532"/>
+        <Baseline points="920,2242 925,824"/>
+        <TextEquiv>
+          <Unicode>李陵荅蘇武書漢書音義如湻曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105114" custom="structure {type:Commentary;}">
+        <Coords points="800,1491 795,827 879,832 877,1491 876,2152 797,2156 800,1491"/>
+        <Baseline points="837,2151 841,824"/>
+        <TextEquiv>
+          <Unicode>請室請罪之室若今之鍾下也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105115" custom="structure {type:Text;}">
+        <Coords points="803,2706 805,2238 946,2250 950,3177 807,3180 803,2706"/>
+        <Baseline points="875,3176 877,2239"/>
+        <TextEquiv>
+          <Unicode>魏其大將也衣赭衣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105116" custom="structure {type:Text;}">
+        <Coords points="664,829 792,824 795,1160 728,1167 655,1160 664,829"/>
+        <Baseline points="720,829 720,1162"/>
+        <TextEquiv>
+          <Unicode>關三木</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105117" custom="structure {type:Commentary;}">
+        <Coords points="721,2675 724,2364 723,2268 717,2174 726,1177 798,1172 802,3168 721,3180 721,2675"/>
+        <Baseline points="751,1174 756,3172"/>
+        <TextEquiv>
+          <Unicode>三木在項及手足也魏其侯已見李陵荅蘇武</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105118" custom="structure {type:Commentary;}">
+        <Coords points="644,2166 650,1658 655,1167 687,1158 728,1169 723,2162 723,3167 650,3173 644,2166"/>
+        <Baseline points="684,3164 689,1162"/>
+        <TextEquiv>
+          <Unicode>書周禮曰上罪梏拲而桎應劭漢書注曰在手</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105119" custom="structure {type:Commentary;}">
+        <Coords points="570,2050 568,1791 564,1656 571,841 649,837 645,2470 573,2472 570,2050"/>
+        <Baseline points="613,841 618,2472"/>
+        <TextEquiv>
+          <Unicode>曰梏兩手同械曰拲在足曰桎韋昭曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105120" custom="structure {type:Commentary;}">
+        <Coords points="496,2063 497,1648 501,819 575,819 570,1646 573,2474 497,2475 496,2063"/>
+        <Baseline points="539,824 542,2472"/>
+        <TextEquiv>
+          <Unicode>桎兩手合也梏音告拲音拱桎之栗切</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105121" custom="structure {type:Text;}">
+        <Coords points="504,2487 576,2470 637,2482 639,3170 507,3183 504,2487"/>
+        <Baseline points="570,2484 573,3172"/>
+        <TextEquiv>
+          <Unicode>季布為朱家鉗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105122" custom="structure {type:Text;}">
+        <Coords points="353,824 487,822 492,929 420,936 346,933 353,824"/>
+        <Baseline points="423,824 423,931"/>
+        <TextEquiv>
+          <Unicode>奴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105123" custom="structure {type:Commentary;}">
+        <Coords points="415,2618 411,2059 423,941 504,925 494,2057 497,2618 501,3172 418,3178 415,2618"/>
+        <Baseline points="459,3179 466,929"/>
+        <TextEquiv>
+          <Unicode>漢書曰季布楚人也為任俠有名項籍使將兵數窘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105124" custom="structure {type:Commentary;}">
+        <Coords points="334,2050 341,1490 343,933 428,929 415,2050 417,3168 386,3178 343,3172 334,2050"/>
+        <Baseline points="382,933 390,3171"/>
+        <TextEquiv>
+          <Unicode>漢王項籍滅高祖購求布千金敢舍匿者罪三族布</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105125" custom="structure {type:Commentary;}">
+        <Coords points="258,2583 252,1994 258,1409 262,1108 257,825 343,822 334,1989 336,2576 334,3167 257,3168 258,2583"/>
+        <Baseline points="299,824 299,3167"/>
+        <TextEquiv>
+          <Unicode>匿於濮陽周氏周氏曰漢求將軍急臣敢進計布許之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1105126" custom="structure {type:Commentary;}">
+        <Coords points="178,1996 179,1404 179,827 260,824 252,1994 258,3172 181,3180 178,1996"/>
+        <Baseline points="218,819 221,3169"/>
+        <TextEquiv>
+          <Unicode>乃髡鉗布衣褐致廣柳車中與其家僮數十人之魯朱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>食禮甚卑有子婿之禮高祖箕踞罵詈甚慢之趙相貫高
+趙午說敖曰天下豪傑並起能者先立今王事皇帝甚
+恭皇帝遇王無禮請為殺之八年上從東垣過貫高等
+乃壁人柏人要之置廁上過欲宿心動問縣名為何曰
+柏人上曰柏人者迫於人遂去貫高怨家知其謀反告
+之於是逮捕趙王諸反者趙午十餘人皆自刎貫高獨
+怒罵曰誰令公等為之今王實無反謀檻車
+與詣長安高下獄曰吾屬為之王不知也
+絳侯誅諸
+呂權傾五伯囚於請室
+史記曰絳侯周勃與陳平謀誅
+諸呂而立孝文後勃被囚已見
+李陵荅蘇武書漢書音義如湻曰
+請室請罪之室若今之鍾下也
+魏其大將也衣赭衣
+關三木
+三木在項及手足也魏其侯已見李陵荅蘇武
+書周禮曰上罪梏拲而桎應劭漢書注曰在手
+曰梏兩手同械曰拲在足曰桎韋昭曰
+桎兩手合也梏音告拲音拱桎之栗切
+季布為朱家鉗
+奴
+漢書曰季布楚人也為任俠有名項籍使將兵數窘
+漢王項籍滅高祖購求布千金敢舍匿者罪三族布
+匿於濮陽周氏周氏曰漢求將軍急臣敢進計布許之
+乃髡鉗布衣褐致廣柳車中與其家僮數十人之魯朱
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

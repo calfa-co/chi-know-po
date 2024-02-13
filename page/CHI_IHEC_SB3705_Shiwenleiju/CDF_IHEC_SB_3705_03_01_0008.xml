@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:06+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB_3705_03_01_0008.jpg" imageHeight="4624" imageWidth="5628">
+    <TextRegion id="128490" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5153,798 5306,792 5311,4203 5176,4209 5153,798"/>
+      <TextLine id="1176213" custom="structure {type:Title;}">
+        <Coords points="5155,765 5301,765 5301,1685 5155,1685 5155,765"/>
+        <Baseline points="5228,770 5232,1686"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176214" custom="structure {type:Section;}">
+        <Coords points="5175,1834 5322,1834 5322,2404 5175,2404 5175,1834"/>
+        <Baseline points="5228,1838 5232,2406"/>
+        <TextEquiv>
+          <Unicode>卷之十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231665" custom="structure {type:Page_Number;}">
+        <Coords points="5176,3151 5176,2808 5277,2808 5277,3151 5176,3151"/>
+        <Baseline points="5238,2847 5249,3079"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之十四
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128491" custom="structure {type:MainText_Right;}">
+      <Coords points="2850,821 5147,797 5170,4194 2907,4184 2850,821"/>
+      <TextLine id="1176215" custom="structure {type:Text;}">
+        <Coords points="4967,762 5167,762 5167,4205 4967,4205 4967,762"/>
+        <Baseline points="5060,766 5080,4206"/>
+        <TextEquiv>
+          <Unicode>不死之藥皆在焉黄金銀爲官闕未至望之如雲及到三山反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176216" custom="structure {type:Text;}">
+        <Coords points="4756,778 4962,778 4962,2900 4756,2900 4756,778"/>
+        <Baseline points="4844,782 4864,2902"/>
+        <TextEquiv>
+          <Unicode>居水下臨之風輙引船而去終莫能至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176217" custom="structure {type:Text;}">
+        <Coords points="4823,2877 4980,2877 4980,3365 4823,3365 4823,2877"/>
+        <Baseline points="4912,2882 4924,3366"/>
+        <TextEquiv>
+          <Unicode>封禪書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176218" custom="structure {type:Title;}">
+        <Coords points="4556,1335 4743,1335 4743,1952 4556,1952 4556,1335"/>
+        <Baseline points="4648,1342 4680,1950"/>
+        <TextEquiv>
+          <Unicode>编歷名山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176219" custom="structure {type:Text;}">
+        <Coords points="4330,780 4561,780 4561,4212 4330,4212 4330,780"/>
+        <Baseline points="4444,786 4476,4214"/>
+        <TextEquiv>
+          <Unicode>司馬遷曰余南登廬山觀禹疏九江遂至于會稽大湟上姑蘇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176220" custom="structure {type:Text;}">
+        <Coords points="4132,762 4340,762 4340,4189 4132,4189 4132,762"/>
+        <Baseline points="4224,766 4252,4190"/>
+        <TextEquiv>
+          <Unicode>望五湖東閣洛汭大郅逆河行淮泗濟漯洛渠西瞻蜀之岷山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176221" custom="structure {type:Text;}">
+        <Coords points="3911,755 4114,755 4114,2373 3911,2373 3911,755"/>
+        <Baseline points="4004,758 4036,2374"/>
+        <TextEquiv>
+          <Unicode>及離堆北自龍門至于朔方</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176222" custom="structure {type:Title;}">
+        <Coords points="3728,1294 3908,1294 3908,2016 3728,2016 3728,1294"/>
+        <Baseline points="3812,2018 3816,1298"/>
+        <TextEquiv>
+          <Unicode>著屐登山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176223" custom="structure {type:Text;}">
+        <Coords points="3505,786 3726,786 3726,4215 3505,4215 3505,786"/>
+        <Baseline points="3604,790 3640,4218"/>
+        <TextEquiv>
+          <Unicode>謝靈運好登山陆嶺必造幽常著大屐上山則去前齒下山則</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176224" custom="structure {type:Text;}">
+        <Coords points="3307,793 3484,793 3484,1271 3307,1271 3307,793"/>
+        <Baseline points="3404,794 3404,1274"/>
+        <TextEquiv>
+          <Unicode>去後齒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176225" custom="structure {type:Title;}">
+        <Coords points="3096,1333 3291,1333 3291,2016 3096,2016 3096,1333"/>
+        <Baseline points="3196,2018 3208,1338"/>
+        <TextEquiv>
+          <Unicode>天台採藥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176226" custom="structure {type:Text;}">
+        <Coords points="2891,773 3101,773 3101,4205 2891,4205 2891,773"/>
+        <Baseline points="2992,778 3008,4206"/>
+        <TextEquiv>
+          <Unicode>劉晨阮肇入天台山採藥失道食盡見桃實食之覺身輕行數</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>不死之藥皆在焉黄金銀爲官闕未至望之如雲及到三山反
+居水下臨之風輙引船而去終莫能至
+封禪書
+编歷名山
+司馬遷曰余南登廬山觀禹疏九江遂至于會稽大湟上姑蘇
+望五湖東閣洛汭大郅逆河行淮泗濟漯洛渠西瞻蜀之岷山
+及離堆北自龍門至于朔方
+著屐登山
+謝靈運好登山陆嶺必造幽常著大屐上山則去前齒下山則
+去後齒
+天台採藥
+劉晨阮肇入天台山採藥失道食盡見桃實食之覺身輕行數
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128492" custom="structure {type:MainText_Left;}">
+      <Coords points="505,806 1589,806 2756,822 2784,4190 493,4142 505,806"/>
+      <TextLine id="1176227" custom="structure {type:Text;}">
+        <Coords points="2559,798 2749,798 2749,4184 2559,4184 2559,798"/>
+        <Baseline points="2664,802 2688,4186"/>
+        <TextEquiv>
+          <Unicode>里至溪滸持杯取水见一杯流出有胡麻飯溪邊二女子笑曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176228" custom="structure {type:Text;}">
+        <Coords points="2343,786 2562,786 2562,4184 2343,4184 2343,786"/>
+        <Baseline points="2448,790 2484,4186"/>
+        <TextEquiv>
+          <Unicode>蓟阮二郎提向所失流杯來便迎歸作食既出無復相識至家</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176229" custom="structure {type:Text;}">
+        <Coords points="2156,778 2346,778 2346,1687 2156,1687 2156,778"/>
+        <Baseline points="2244,782 2268,1690"/>
+        <TextEquiv>
+          <Unicode>子孫已七世矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176230" custom="structure {type:Title;}">
+        <Coords points="1940,1304 2125,1304 2125,1985 1940,1985 1940,1304"/>
+        <Baseline points="2032,1310 2036,1986"/>
+        <TextEquiv>
+          <Unicode>携妓東山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176231" custom="structure {type:Text;}">
+        <Coords points="1729,768 1922,768 1922,3673 1729,3673 1729,768"/>
+        <Baseline points="1837,770 1837,3674"/>
+        <TextEquiv>
+          <Unicode>謝安遲東山放情丘壑好音樂毎遊賞必以妓從</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176232" custom="structure {type:Title;}">
+        <Coords points="1539,1294 1724,1294 1724,1972 1539,1972 1539,1294"/>
+        <Baseline points="1629,1298 1637,1974"/>
+        <TextEquiv>
+          <Unicode>峴山感慨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176233" custom="structure {type:Text;}">
+        <Coords points="1313,780 1505,780 1505,4192 1313,4192 1313,780"/>
+        <Baseline points="1401,4194 1413,786"/>
+        <TextEquiv>
+          <Unicode>羊祜與從事鄒潤甫登岘山垂泣曰自有宇宙便有此山由來</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176234" custom="structure {type:Text;}">
+        <Coords points="1115,765 1292,765 1292,4179 1115,4179 1115,765"/>
+        <Baseline points="1213,4182 1217,770"/>
+        <TextEquiv>
+          <Unicode>賢達勝士登此遠望者多矣皆湮滅無聞潤甫對曰明公德冠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176235" custom="structure {type:Text;}">
+        <Coords points="896,780 1099,780 1099,4069 896,4069 896,780"/>
+        <Baseline points="1005,4070 1025,786"/>
+        <TextEquiv>
+          <Unicode>四海道嗣前哲令聞令望當與此山俱傳後人爲立廟及碑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176236" custom="structure {type:Title;}">
+        <Coords points="709,1304 891,1304 891,1957 709,1957 709,1304"/>
+        <Baseline points="797,1310 801,1958"/>
+        <TextEquiv>
+          <Unicode>數月山行</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176237" custom="structure {type:Text;}">
+        <Coords points="485,765 688,765 688,4184 485,4184 485,765"/>
+        <Baseline points="577,4186 601,770"/>
+        <TextEquiv>
+          <Unicode>郄詵數月山行喜聞樵語牧唱洗盡五年塵土腸胃欣然登崖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>里至溪滸持杯取水见一杯流出有胡麻飯溪邊二女子笑曰
+蓟阮二郎提向所失流杯來便迎歸作食既出無復相識至家
+子孫已七世矣
+携妓東山
+謝安遲東山放情丘壑好音樂毎遊賞必以妓從
+峴山感慨
+羊祜與從事鄒潤甫登岘山垂泣曰自有宇宙便有此山由來
+賢達勝士登此遠望者多矣皆湮滅無聞潤甫對曰明公德冠
+四海道嗣前哲令聞令望當與此山俱傳後人爲立廟及碑
+數月山行
+郄詵數月山行喜聞樵語牧唱洗盡五年塵土腸胃欣然登崖
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="128493" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="377,794 529,794 493,4166 365,4166 377,794"/>
+      <TextLine id="1176238" custom="structure {type:Title;}">
+        <Coords points="380,809 488,801 488,1659 371,1660 380,809"/>
+        <Baseline points="433,802 433,1662"/>
+        <TextEquiv>
+          <Unicode>事文類聚前集</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176239" custom="structure {type:Section;}">
+        <Coords points="354,1865 480,1865 480,2404 354,2404 354,1865"/>
+        <Baseline points="421,2406 437,1870"/>
+        <TextEquiv>
+          <Unicode>卷之十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176240" custom="structure {type:Page_Number;}">
+        <Coords points="367,2836 465,2836 465,3021 367,3021 367,2836"/>
+        <Baseline points="425,2838 425,3022"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1176241" custom="structure {type:Marginalia;}">
+        <Coords points="349,3408 470,3408 470,4017 349,4017 349,3408"/>
+        <Baseline points="413,4018 421,3414"/>
+        <TextEquiv>
+          <Unicode>德壽堂梓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>事文類聚前集
+卷之十四
+三
+德壽堂梓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:56+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_13_97_0006.jpg" imageHeight="3102" imageWidth="3494">
+    <TextRegion id="115962" custom="structure {type:MainText_Left;}">
+      <Coords points="273,677 1682,677 1682,2626 273,2626 273,677"/>
+      <TextLine id="1093828" custom="structure {type:Title;}">
+        <Coords points="1537,680 1665,680 1665,2083 1537,2083 1537,680"/>
+        <Baseline points="1603,684 1609,2085"/>
+        <TextEquiv>
+          <Unicode>相臺書塾刊正九經三傳沿革例</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093829" custom="structure {type:Text;}">
+        <Coords points="1382,789 1518,789 1518,2612 1382,2612 1382,789"/>
+        <Baseline points="1446,792 1456,2614"/>
+        <TextEquiv>
+          <Unicode>世所傳九經自監蜀京杭而下有建余氏典</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093830" custom="structure {type:Text;}">
+        <Coords points="1229,782 1361,782 1361,2602 1229,2602 1229,782"/>
+        <Baseline points="1291,785 1296,2603"/>
+        <TextEquiv>
+          <Unicode>國于氏二本皆分句讀稱爲善本廖氏又以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093831" custom="structure {type:Text;}">
+        <Coords points="1072,789 1201,789 1201,2607 1072,2607 1072,789"/>
+        <Baseline points="1135,792 1139,2609"/>
+        <TextEquiv>
+          <Unicode>余氏不免誤舛于氏未爲的當合諸本參訂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093832" custom="structure {type:Text;}">
+        <Coords points="915,789 1049,789 1049,2616 915,2616 915,789"/>
+        <Baseline points="985,791 985,2617"/>
+        <TextEquiv>
+          <Unicode>爲最精板行之初天下寶之流布未久元板</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093833" custom="structure {type:Text;}">
+        <Coords points="756,787 892,787 892,2609 756,2609 756,787"/>
+        <Baseline points="818,791 829,2610"/>
+        <TextEquiv>
+          <Unicode>散落不復存嘗博求諸藏書之家凡聚數帙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093834" custom="structure {type:Text;}">
+        <Coords points="605,784 736,784 736,2617 605,2617 605,784"/>
+        <Baseline points="672,787 675,2619"/>
+        <TextEquiv>
+          <Unicode>僅成全書懼其久而無傳也爱做成例乃命</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093835" custom="structure {type:Text;}">
+        <Coords points="446,787 579,787 579,2616 446,2616 446,787"/>
+        <Baseline points="513,791 518,2617"/>
+        <TextEquiv>
+          <Unicode>良工刻梓家塾如字畫如註文如音釋如句</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093836" custom="structure {type:Text;}">
+        <Coords points="287,780 429,780 429,2609 287,2609 287,780"/>
+        <Baseline points="353,784 363,2610"/>
+        <TextEquiv>
+          <Unicode>讀悉循其舊且與明經老儒分卷校勘而又</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>相臺書塾刊正九經三傳沿革例
+世所傳九經自監蜀京杭而下有建余氏典
+國于氏二本皆分句讀稱爲善本廖氏又以
+余氏不免誤舛于氏未爲的當合諸本參訂
+爲最精板行之初天下寶之流布未久元板
+散落不復存嘗博求諸藏書之家凡聚數帙
+僅成全書懼其久而無傳也爱做成例乃命
+良工刻梓家塾如字畫如註文如音釋如句
+讀悉循其舊且與明經老儒分卷校勘而又
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115983" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="173,1141 281,1144 284,2644 207,2634 173,1141"/>
+      <TextLine id="1094119" custom="structure {type:Section;}">
+        <Coords points="188,1164 268,1130 268,1697 188,1706 188,1164"/>
+        <Baseline points="227,1131 227,1699"/>
+        <TextEquiv>
+          <Unicode>經傳沿革例</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1233079" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="240,2046 240,2146"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1094120" custom="structure {type:Title;}">
+        <Coords points="208,2129 311,2130 311,2643 211,2631 208,2129"/>
+        <Baseline points="237,2133 244,2644"/>
+        <TextEquiv>
+          <Unicode>桐華館訂正本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>經傳沿革例
+一
+桐華館訂正本
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,275 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:28+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-13_0105.jpg" imageHeight="3500" imageWidth="1932">
+    <TextRegion id="117219" custom="structure {type:MainText;}">
+      <Coords points="256,826 1767,812 1740,3150 211,3136 256,826"/>
+      <TextLine id="1104750" custom="structure {type:Text;}">
+        <Coords points="1619,820 1762,828 1760,950 1618,960 1619,820"/>
+        <Baseline points="1669,817 1676,962"/>
+        <TextEquiv>
+          <Unicode>會</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104751" custom="structure {type:Commentary;}">
+        <Coords points="1667,2872 1667,2592 1667,2048 1671,966 1756,954 1748,3146 1661,3146 1667,2872"/>
+        <Baseline points="1695,3133 1707,954"/>
+        <TextEquiv>
+          <Unicode>曹植九詠章句曰鍾當也班固漢書賛曰漢承百王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104752" custom="structure {type:Commentary;}">
+        <Coords points="1591,2052 1591,1506 1589,1224 1595,964 1674,960 1670,3134 1581,3138 1591,2052"/>
+        <Baseline points="1622,3131 1633,964"/>
+        <TextEquiv>
+          <Unicode>之弊左傳叔向問晏子曰齊其何如晏子曰此季世</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104753" custom="structure {type:Commentary;}">
+        <Coords points="1512,2086 1517,1644 1517,818 1595,818 1594,2472 1515,2470 1512,2086"/>
+        <Baseline points="1548,2468 1553,822"/>
+        <TextEquiv>
+          <Unicode>也漢書曰陽九之厄曰初入百六陽九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104754" custom="structure {type:Commentary;}">
+        <Coords points="1431,2296 1433,2060 1433,1648 1443,816 1518,818 1514,2470 1433,2476 1431,2296"/>
+        <Baseline points="1460,2477 1484,819"/>
+        <TextEquiv>
+          <Unicode>音義曰易傳所謂陽九之厄百六之會</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104755" custom="structure {type:Text;}">
+        <Coords points="1423,2488 1515,2470 1583,2482 1575,3144 1420,3144 1423,2488"/>
+        <Baseline points="1503,3145 1507,2463"/>
+        <TextEquiv>
+          <Unicode>狡寇窺窬伺國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104756" custom="structure {type:Commentary;}">
+        <Coords points="1300,822 1444,820 1442,1040 1300,1034 1300,822"/>
+        <Baseline points="1372,1045 1379,819"/>
+        <TextEquiv>
+          <Unicode>瑕隙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104757" custom="structure {type:Commentary;}">
+        <Coords points="1344,2628 1342,2506 1346,2384 1361,2244 1353,2134 1365,1046 1445,1040 1430,2090 1430,2620 1414,3140 1343,3142 1344,2628"/>
+        <Baseline points="1381,3141 1405,1044"/>
+        <TextEquiv>
+          <Unicode>左氏傳師服曰民服其上下無覬覦杜預曰下不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104758" custom="structure {type:Commentary;}">
+        <Coords points="1281,2088 1285,1562 1293,1036 1366,1036 1344,3146 1263,3148 1281,2088"/>
+        <Baseline points="1305,3143 1331,1031"/>
+        <TextEquiv>
+          <Unicode>冀望上位也窬與覦同杜預左傳注曰狡猾也說</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104759" custom="structure {type:Commentary;}">
+        <Coords points="1211,1468 1223,826 1296,820 1282,2120 1246,2124 1207,2120 1211,1468"/>
+        <Baseline points="1246,2120 1258,824"/>
+        <TextEquiv>
+          <Unicode>文曰窺小視也又曰覦欲也毛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104760" custom="structure {type:Commentary;}">
+        <Coords points="1141,824 1228,824 1214,1472 1208,2118 1131,2124 1141,824"/>
+        <Baseline points="1165,2118 1184,817"/>
+        <TextEquiv>
+          <Unicode>萇詩傳曰瑕猶過也隙間隙也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104761" custom="structure {type:Text;}">
+        <Coords points="1133,2636 1133,2128 1215,2116 1275,2130 1262,3144 1199,3148 1125,3140 1133,2636"/>
+        <Baseline points="1193,3141 1203,2106"/>
+        <TextEquiv>
+          <Unicode>齊人波蕩無所繫心安</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104762" custom="structure {type:Text;}">
+        <Coords points="990,1212 1003,830 1134,824 1134,1578 989,1580 990,1212"/>
+        <Baseline points="1065,822 1070,1571"/>
+        <TextEquiv>
+          <Unicode>可以廢而不恤哉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104763" custom="structure {type:Commentary;}">
+        <Coords points="1047,2956 1045,2754 1053,2360 1057,1578 1142,1576 1130,2364 1126,2754 1122,3152 1078,3152 1033,3152 1047,2956"/>
+        <Baseline points="1070,3145 1096,1579"/>
+        <TextEquiv>
+          <Unicode>漢書曰富人博戲亂齊人如湻曰齊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104764" custom="structure {type:Commentary;}">
+        <Coords points="977,2362 979,1968 981,1584 1060,1575 1046,3142 971,3144 977,2362"/>
+        <Baseline points="1001,3145 1015,1578"/>
+        <TextEquiv>
+          <Unicode>民齊等無有貴賤故謂之齊若今平</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104765" custom="structure {type:Commentary;}">
+        <Coords points="907,1932 907,1374 915,1092 915,826 994,826 982,1932 976,3042 893,3046 907,1932"/>
+        <Baseline points="929,3045 948,819"/>
+        <TextEquiv>
+          <Unicode>民也范曄後漢書李熊說公孫述曰方今四海波蕩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104766" custom="structure {type:Commentary;}">
+        <Coords points="829,2488 831,1934 839,820 918,822 906,1928 904,2484 896,3040 817,3040 829,2488"/>
+        <Baseline points="856,3036 872,826"/>
+        <TextEquiv>
+          <Unicode>匹夫橫議谷永集曰國家久無繼嗣天下無所繫心</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104767" custom="structure {type:Text;}">
+        <Coords points="825,3044 970,3046 970,3148 823,3146 825,3044"/>
+        <Baseline points="891,3036 899,3143"/>
+        <TextEquiv>
+          <Unicode>陛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104768" custom="structure {type:Text;}">
+        <Coords points="693,1666 699,826 836,822 824,2494 683,2488 693,1666"/>
+        <Baseline points="758,2496 768,826"/>
+        <TextEquiv>
+          <Unicode>下雖欲逡巡其若宗廟何其若百姓何</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104769" custom="structure {type:Commentary;}">
+        <Coords points="747,2818 751,2496 826,2498 818,3140 743,3142 747,2818"/>
+        <Baseline points="782,3141 784,2501"/>
+        <TextEquiv>
+          <Unicode>公羊傳曰齊侯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104770" custom="structure {type:Commentary;}">
+        <Coords points="677,2496 754,2494 744,3136 671,3142 677,2496"/>
+        <Baseline points="704,3133 713,2494"/>
+        <TextEquiv>
+          <Unicode>逡巡而謝范曄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104771" custom="structure {type:Commentary;}">
+        <Coords points="611,1410 623,816 696,818 692,2000 611,2002 611,1410"/>
+        <Baseline points="646,1994 658,822"/>
+        <TextEquiv>
+          <Unicode>後漢書馬武謂世祖曰大王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104772" custom="structure {type:Commentary;}">
+        <Coords points="531,1422 535,828 618,828 618,2014 535,2016 531,1422"/>
+        <Baseline points="570,2016 582,831"/>
+        <TextEquiv>
+          <Unicode>雖欲執謙退奈宗廟社稷何</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104773" custom="structure {type:Text;}">
+        <Coords points="535,2026 611,2014 675,2020 662,3140 531,3140 535,2026"/>
+        <Baseline points="599,3136 604,2006"/>
+        <TextEquiv>
+          <Unicode>昔惠公虜秦晉國震駭呂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104774" custom="structure {type:Text;}">
+        <Coords points="381,1986 387,1402 395,830 536,826 528,1986 520,3136 373,3142 381,1986"/>
+        <Baseline points="442,3133 468,829"/>
+        <TextEquiv>
+          <Unicode>郤之謀欲立子圉外以絕敵人之志內以固闔境之情</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104775" custom="structure {type:Text;}">
+        <Coords points="222,1838 245,828 294,822 391,828 382,1842 376,2844 209,2846 222,1838"/>
+        <Baseline points="287,2848 318,831"/>
+        <TextEquiv>
+          <Unicode>故曰喪君有君群臣輯穆好我者勸惡我者懼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104776" custom="structure {type:Commentary;}">
+        <Coords points="283,2842 368,2846 366,3138 283,3138 283,2842"/>
+        <Baseline points="323,2843 328,3131"/>
+        <TextEquiv>
+          <Unicode>左傳僖</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104777" custom="structure {type:Commentary;}">
+        <Coords points="205,2848 286,2846 284,3134 203,3136 205,2848"/>
+        <Baseline points="242,2848 249,3136"/>
+        <TextEquiv>
+          <Unicode>十五年</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>會
+曹植九詠章句曰鍾當也班固漢書賛曰漢承百王
+之弊左傳叔向問晏子曰齊其何如晏子曰此季世
+也漢書曰陽九之厄曰初入百六陽九
+音義曰易傳所謂陽九之厄百六之會
+狡寇窺窬伺國
+瑕隙
+左氏傳師服曰民服其上下無覬覦杜預曰下不
+冀望上位也窬與覦同杜預左傳注曰狡猾也說
+文曰窺小視也又曰覦欲也毛
+萇詩傳曰瑕猶過也隙間隙也
+齊人波蕩無所繫心安
+可以廢而不恤哉
+漢書曰富人博戲亂齊人如湻曰齊
+民齊等無有貴賤故謂之齊若今平
+民也范曄後漢書李熊說公孫述曰方今四海波蕩
+匹夫橫議谷永集曰國家久無繼嗣天下無所繫心
+陛
+下雖欲逡巡其若宗廟何其若百姓何
+公羊傳曰齊侯
+逡巡而謝范曄
+後漢書馬武謂世祖曰大王
+雖欲執謙退奈宗廟社稷何
+昔惠公虜秦晉國震駭呂
+郤之謀欲立子圉外以絕敵人之志內以固闔境之情
+故曰喪君有君群臣輯穆好我者勸惡我者懼
+左傳僖
+十五年
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117220" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="183,1255 240,1250 214,2427 176,2425 183,1255"/>
+      <TextLine id="1104778" custom="structure {type:Section;}">
+        <Coords points="179,1306 224,1322 224,1506 175,1506 179,1306"/>
+        <Baseline points="199,1312 199,1509"/>
+        <TextEquiv>
+          <Unicode>文三十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104779" custom="structure {type:Page_Number;}">
+        <Coords points="167,2254 215,2249 215,2409 165,2408 167,2254"/>
+        <Baseline points="190,2253 192,2410"/>
+        <TextEquiv>
+          <Unicode>二十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文三十七
+二十九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117221" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="240,77 328,77 337,156 225,149 240,77"/>
+      <TextLine id="1104780" custom="structure {type:Commentary;}">
+        <Coords points="233,79 322,79 322,143 233,143 233,79"/>
+        <Baseline points="240,132 323,122"/>
+        <TextEquiv>
+          <Unicode>101</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>101
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

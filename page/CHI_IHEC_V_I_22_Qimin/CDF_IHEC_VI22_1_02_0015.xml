@@ -1,0 +1,433 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:24+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_02_0015.jpg" imageHeight="4158" imageWidth="4624">
+    <TextRegion id="119577" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4376,3658 4376,761 4485,761 4485,3658 4376,3658"/>
+      <TextLine id="1129214" custom="structure {type:Title;}">
+        <Coords points="4372,783 4474,769 4474,1346 4381,1346 4372,783"/>
+        <Baseline points="4426,764 4436,1349"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129215" custom="structure {type:Section;}">
+        <Coords points="4386,1748 4480,1691 4483,2033 4398,2036 4386,1748"/>
+        <Baseline points="4436,1689 4436,2035"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129216" custom="structure {type:Page_Number;}">
+        <Coords points="4367,2922 4466,2921 4468,3125 4367,3123 4367,2922"/>
+        <Baseline points="4429,3125 4436,2926"/>
+        <TextEquiv>
+          <Unicode>十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷四
+十二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119578" custom="structure {type:MainText_Right;}">
+      <Coords points="2517,3653 2517,747 4381,747 4381,3653 2517,3653"/>
+      <TextLine id="1129217" custom="structure {type:Title;}">
+        <Coords points="4161,1048 4360,1048 4360,1912 4161,1912 4161,1048"/>
+        <Baseline points="4254,1053 4275,1914"/>
+        <TextEquiv>
+          <Unicode>種栗第三十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129218" custom="structure {type:Commentary;}">
+        <Coords points="4061,778 4184,766 4184,3679 4064,3688 4061,778"/>
+        <Baseline points="4113,770 4117,3680"/>
+        <TextEquiv>
+          <Unicode>廣志曰關中大栗如雞子大蔡伯喈曰有胡栗魏志云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129219" custom="structure {type:Commentary;}">
+        <Coords points="3959,772 4071,771 4071,3668 3965,3668 3959,772"/>
+        <Baseline points="4022,3670 4026,774"/>
+        <TextEquiv>
+          <Unicode>有東夷韓國山大栗狀如梨三秦記曰漢武帝栗園有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129220" custom="structure {type:Commentary;}">
+        <Coords points="3860,763 3970,759 3970,3425 3857,3428 3860,763"/>
+        <Baseline points="3928,3428 3932,764"/>
+        <TextEquiv>
+          <Unicode>栗十五顆一升王逸曰朔濱之栗西京雜記曰榛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129221" custom="structure {type:Commentary;}">
+        <Coords points="3764,772 3872,766 3875,3257 3744,3258 3764,772"/>
+        <Baseline points="3824,3259 3831,770"/>
+        <TextEquiv>
+          <Unicode>栗瑰栗嶧陽栗嶧陽都尉曹龍所獻其大如拳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129222" custom="structure {type:Text;}">
+        <Coords points="3565,759 3743,759 3743,1471 3565,1471 3565,759"/>
+        <Baseline points="3659,764 3663,1473"/>
+        <TextEquiv>
+          <Unicode>栗種而不栽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129223" custom="structure {type:Commentary;}">
+        <Coords points="3637,1455 3768,1455 3768,2014 3637,2014 3637,1455"/>
+        <Baseline points="3703,1460 3727,2015"/>
+        <TextEquiv>
+          <Unicode>栽者雖生</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129224" custom="structure {type:Commentary;}">
+        <Coords points="3540,1452 3671,1452 3671,1891 3540,1891 3540,1452"/>
+        <Baseline points="3602,1457 3619,1890"/>
+        <TextEquiv>
+          <Unicode>尋死矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129225" custom="structure {type:Text;}">
+        <Coords points="3556,1998 3748,1998 3748,3668 3556,3668 3556,1998"/>
+        <Baseline points="3656,2001 3676,3670"/>
+        <TextEquiv>
+          <Unicode>栗初熟出殼即於屋裏埋著溼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129226" custom="structure {type:Text;}">
+        <Coords points="3350,755 3533,755 3533,1051 3350,1051 3350,755"/>
+        <Baseline points="3444,760 3458,1053"/>
+        <TextEquiv>
+          <Unicode>土中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129227" custom="structure {type:Commentary;}">
+        <Coords points="3450,1058 3574,1055 3563,3250 3450,3241 3450,1058"/>
+        <Baseline points="3495,1060 3511,3259"/>
+        <TextEquiv>
+          <Unicode>埋必須深勿令凍徹若路遠者以韋囊盛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129228" custom="structure {type:Commentary;}">
+        <Coords points="3329,1039 3468,1039 3468,3136 3329,3136 3329,1039"/>
+        <Baseline points="3400,1043 3417,3138"/>
+        <TextEquiv>
+          <Unicode>之停二日以上及見風日則不復生矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129229" custom="structure {type:Commentary;}">
+        <Coords points="3359,3222 3542,3222 3542,3668 3359,3668 3359,3222"/>
+        <Baseline points="3444,3226 3458,3670"/>
+        <TextEquiv>
+          <Unicode>至春二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129230" custom="structure {type:Text;}">
+        <Coords points="3147,757 3339,757 3339,2961 3147,2961 3147,757"/>
+        <Baseline points="3246,760 3252,2963"/>
+        <TextEquiv>
+          <Unicode>月悉芽生出而種之既生數年不用掌近</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129231" custom="structure {type:Commentary;}">
+        <Coords points="3237,2966 3369,2966 3369,3665 3237,3665 3237,2966"/>
+        <Baseline points="3296,2970 3299,3666"/>
+        <TextEquiv>
+          <Unicode>凡新栽之樹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129232" custom="structure {type:Commentary;}">
+        <Coords points="3131,2945 3269,2945 3269,3654 3131,3654 3131,2945"/>
+        <Baseline points="3202,2950 3225,3656"/>
+        <TextEquiv>
+          <Unicode>皆不宜掌近</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129233" custom="structure {type:Commentary;}">
+        <Coords points="3029,753 3151,753 3151,1212 3029,1212 3029,753"/>
+        <Baseline points="3104,757 3108,1214"/>
+        <TextEquiv>
+          <Unicode>栗性尤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129234" custom="structure {type:Commentary;}">
+        <Coords points="2932,743 3048,743 3048,1071 2932,1071 2932,743"/>
+        <Baseline points="2987,747 2997,1073"/>
+        <TextEquiv>
+          <Unicode>甚也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129235" custom="structure {type:Text;}">
+        <Coords points="2944,1189 3147,1189 3147,3381 2944,3381 2944,1189"/>
+        <Baseline points="3044,1191 3044,3384"/>
+        <TextEquiv>
+          <Unicode>三年內每到十月常須草裹至二月乃解</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129236" custom="structure {type:Commentary;}">
+        <Coords points="3031,3374 3163,3374 3163,3670 3031,3670 3031,3374"/>
+        <Baseline points="3084,3384 3104,3666"/>
+        <TextEquiv>
+          <Unicode>不裹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129237" custom="structure {type:Commentary;}">
+        <Coords points="2916,3370 3045,3370 3045,3668 2916,3668 2916,3370"/>
+        <Baseline points="3004,3374 3010,3670"/>
+        <TextEquiv>
+          <Unicode>則凍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129238" custom="structure {type:Commentary;}">
+        <Coords points="2842,761 2957,757 2957,2189 2836,2195 2842,761"/>
+        <Baseline points="2882,2190 2896,760"/>
+        <TextEquiv>
+          <Unicode>死大戴禮夏小正曰八月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129239" custom="structure {type:Commentary;}">
+        <Coords points="2722,743 2856,743 2856,2159 2722,2159 2722,743"/>
+        <Baseline points="2788,747 2809,2160"/>
+        <TextEquiv>
+          <Unicode>零而後取之故不言剝之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129240" custom="structure {type:Text;}">
+        <Coords points="2537,757 2722,757 2722,1593 2537,1593 2537,757"/>
+        <Baseline points="2637,760 2650,1594"/>
+        <TextEquiv>
+          <Unicode>食經藏乾栗法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129241" custom="structure {type:Commentary;}">
+        <Coords points="2636,1598 2743,1603 2754,3419 2641,3416 2636,1598"/>
+        <Baseline points="2681,1598 2704,3414"/>
+        <TextEquiv>
+          <Unicode>取穰灰淋取汁漬栗日中曬令栗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129242" custom="structure {type:Commentary;}">
+        <Coords points="2534,1589 2650,1580 2650,3437 2537,3445 2534,1589"/>
+        <Baseline points="2580,1584 2607,3438"/>
+        <TextEquiv>
+          <Unicode>肉焦燥可不畏蟲得至後年春夏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>種栗第三十八
+廣志曰關中大栗如雞子大蔡伯喈曰有胡栗魏志云
+有東夷韓國山大栗狀如梨三秦記曰漢武帝栗園有
+栗十五顆一升王逸曰朔濱之栗西京雜記曰榛
+栗瑰栗嶧陽栗嶧陽都尉曹龍所獻其大如拳
+栗種而不栽
+栽者雖生
+尋死矣
+栗初熟出殼即於屋裏埋著溼
+土中
+埋必須深勿令凍徹若路遠者以韋囊盛
+之停二日以上及見風日則不復生矣
+至春二
+月悉芽生出而種之既生數年不用掌近
+凡新栽之樹
+皆不宜掌近
+栗性尤
+甚也
+三年內每到十月常須草裹至二月乃解
+不裹
+則凍
+死大戴禮夏小正曰八月
+零而後取之故不言剝之
+食經藏乾栗法
+取穰灰淋取汁漬栗日中曬令栗
+肉焦燥可不畏蟲得至後年春夏
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119579" custom="structure {type:MainText_Left;}">
+      <Coords points="348,3672 348,728 2207,728 2207,3672 348,3672"/>
+      <TextLine id="1129265" custom="structure {type:Commentary;}">
+        <Coords points="2008,702 2181,702 2181,1309 2008,1309 2008,702"/>
+        <Baseline points="2092,1312 2106,706"/>
+        <TextEquiv>
+          <Unicode>藏生栗法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129266" custom="structure {type:Commentary;}">
+        <Coords points="2093,1304 2197,1298 2197,3136 2075,3143 2093,1304"/>
+        <Baseline points="2146,1292 2146,3145"/>
+        <TextEquiv>
+          <Unicode>著器中曠細沙可燥以盆覆之至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129267" custom="structure {type:Commentary;}">
+        <Coords points="1985,1306 2093,1301 2102,2986 1980,2986 1985,1306"/>
+        <Baseline points="2035,1275 2055,2987"/>
+        <TextEquiv>
+          <Unicode>後年二月皆生芽而不蟲者也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129268" custom="structure {type:Commentary;}">
+        <Coords points="1820,704 1975,704 1975,896 1820,896 1820,704"/>
+        <Baseline points="1880,706 1880,898"/>
+        <TextEquiv>
+          <Unicode>榛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129269" custom="structure {type:Commentary;}">
+        <Coords points="1886,885 1989,873 1988,3679 1875,3688 1886,885"/>
+        <Baseline points="1931,875 1931,3710"/>
+        <TextEquiv>
+          <Unicode>周官曰榛似栗而小說文曰榛似梓實如小栗衛詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129270" custom="structure {type:Commentary;}">
+        <Coords points="1790,882 1894,873 1894,3668 1770,3668 1790,882"/>
+        <Baseline points="1833,875 1833,3670"/>
+        <TextEquiv>
+          <Unicode>曰山有蓁詩義疏云蓁栗屬或從木有兩種其一種</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129271" custom="structure {type:Commentary;}">
+        <Coords points="1691,729 1795,723 1773,3682 1671,3685 1691,729"/>
+        <Baseline points="1719,3687 1739,727"/>
+        <TextEquiv>
+          <Unicode>大小枝葉皆如栗其子形似杼子味亦如栗所謂樹之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129272" custom="structure {type:Commentary;}">
+        <Coords points="1583,729 1686,734 1677,3668 1558,3674 1583,729"/>
+        <Baseline points="1621,3673 1635,737"/>
+        <TextEquiv>
+          <Unicode>榛栗者其一種枝莖如木蓼葉如牛李色生高丈餘其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129273" custom="structure {type:Commentary;}">
+        <Coords points="1482,738 1589,735 1566,3425 1459,3428 1482,738"/>
+        <Baseline points="1517,3428 1544,713"/>
+        <TextEquiv>
+          <Unicode>核中悉如李生作胡桃味膏燭又美亦可食噉漁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129274" custom="structure {type:Commentary;}">
+        <Coords points="1351,724 1485,723 1467,3275 1337,3275 1351,724"/>
+        <Baseline points="1420,3276 1430,727"/>
+        <TextEquiv>
+          <Unicode>陽遼代上黨皆饒其枝莖生樵爇燭明而無煙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129275" custom="structure {type:Text;}">
+        <Coords points="1180,716 1365,716 1365,1489 1180,1489 1180,716"/>
+        <Baseline points="1275,1490 1285,720"/>
+        <TextEquiv>
+          <Unicode>栽種與栗同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129277" custom="structure {type:Title;}">
+        <Coords points="968,970 1160,970 1160,2044 968,2044 968,970"/>
+        <Baseline points="1067,976 1097,2045"/>
+        <TextEquiv>
+          <Unicode>柰林檎第三十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129281" custom="structure {type:Commentary;}">
+        <Coords points="865,735 989,736 989,3682 865,3682 865,735"/>
+        <Baseline points="912,3683 925,740"/>
+        <TextEquiv>
+          <Unicode>廣志曰橏掩蓲柰也又曰柰有白青赤三種張掖有白</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129282" custom="structure {type:Commentary;}">
+        <Coords points="763,724 871,723 871,3691 751,3691 763,724"/>
+        <Baseline points="811,727 814,3693"/>
+        <TextEquiv>
+          <Unicode>柰酒泉有赤柰西方例多柰家以為脯數十百斛以為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129283" custom="structure {type:Commentary;}">
+        <Coords points="661,735 766,738 758,3688 650,3685 661,735"/>
+        <Baseline points="697,3687 724,740"/>
+        <TextEquiv>
+          <Unicode>蓄積如收藏棗栗魏明帝時諸王朝夜賜東城柰一匳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129284" custom="structure {type:Commentary;}">
+        <Coords points="554,741 670,736 670,3672 547,3672 554,741"/>
+        <Baseline points="609,740 616,3673"/>
+        <TextEquiv>
+          <Unicode>陳思王謝曰柰以夏熟今則冬生物以非時為珍恩以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129285" custom="structure {type:Commentary;}">
+        <Coords points="439,729 568,729 560,3677 458,3671 439,729"/>
+        <Baseline points="505,3680 508,733"/>
+        <TextEquiv>
+          <Unicode>絕口為厚詔曰此柰從涼州來晉宮閤簿曰秋有白柰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129286" custom="structure {type:Commentary;}">
+        <Coords points="333,749 452,746 457,3682 342,3679 333,749"/>
+        <Baseline points="411,747 411,3683"/>
+        <TextEquiv>
+          <Unicode>西京雜記曰紫柰綠柰別有素柰朱柰廣志曰理琴以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>藏生栗法
+著器中曠細沙可燥以盆覆之至
+後年二月皆生芽而不蟲者也
+榛
+周官曰榛似栗而小說文曰榛似梓實如小栗衛詩
+曰山有蓁詩義疏云蓁栗屬或從木有兩種其一種
+大小枝葉皆如栗其子形似杼子味亦如栗所謂樹之
+榛栗者其一種枝莖如木蓼葉如牛李色生高丈餘其
+核中悉如李生作胡桃味膏燭又美亦可食噉漁
+陽遼代上黨皆饒其枝莖生樵爇燭明而無煙
+栽種與栗同
+柰林檎第三十九
+廣志曰橏掩蓲柰也又曰柰有白青赤三種張掖有白
+柰酒泉有赤柰西方例多柰家以為脯數十百斛以為
+蓄積如收藏棗栗魏明帝時諸王朝夜賜東城柰一匳
+陳思王謝曰柰以夏熟今則冬生物以非時為珍恩以
+絕口為厚詔曰此柰從涼州來晉宮閤簿曰秋有白柰
+西京雜記曰紫柰綠柰別有素柰朱柰廣志曰理琴以
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119580" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="215,3672 215,728 339,728 339,3672 215,3672"/>
+      <TextLine id="1129287" custom="structure {type:Title;}">
+        <Coords points="234,746 333,758 342,1328 231,1329 234,746"/>
+        <Baseline points="273,720 273,1329"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129288" custom="structure {type:Section;}">
+        <Coords points="234,1680 328,1728 325,1995 226,1994 234,1680"/>
+        <Baseline points="276,1692 280,1998"/>
+        <TextEquiv>
+          <Unicode>卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129289" custom="structure {type:Page_Number;}">
+        <Coords points="237,2910 325,2903 325,3157 234,3159 237,2910"/>
+        <Baseline points="273,3159 287,2916"/>
+        <TextEquiv>
+          <Unicode>十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷四
+十三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

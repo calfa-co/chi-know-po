@@ -1,0 +1,321 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:44+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB4002_01_02_0050.jpg" imageHeight="3874" imageWidth="4392">
+    <TextRegion id="117711" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4008,1362 4108,1358 4136,2930 4040,2934 4008,1362"/>
+      <TextLine id="1109300" custom="structure {type:Title;}">
+        <Coords points="4026,1483 4090,1445 4093,1716 4013,1715 4026,1483"/>
+        <Baseline points="4064,1714 4072,1438"/>
+        <TextEquiv>
+          <Unicode>全唐詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109301" custom="structure {type:Page_Number;}">
+        <Coords points="4043,2673 4100,2670 4117,2813 4043,2821 4043,2673"/>
+        <Baseline points="4092,2674 4092,2822"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>全唐詩
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117712" custom="structure {type:MainText_Right;}">
+      <Coords points="2216,870 4012,846 4040,3462 2280,3474 2216,870"/>
+      <TextLine id="1109302" custom="structure {type:Title;}">
+        <Coords points="3849,1185 4034,1185 4034,2227 3849,2227 3849,1185"/>
+        <Baseline points="3928,1189 3945,2229"/>
+        <TextEquiv>
+          <Unicode>送徐州張建封還鎮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109303" custom="structure {type:Commentary;}">
+        <Coords points="3948,2232 4017,2218 4029,3281 3945,3286 3948,2232"/>
+        <Baseline points="3975,2212 3989,3285"/>
+        <TextEquiv>
+          <Unicode>貞元十三年徐州節度使張建封</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109304" custom="structure {type:Commentary;}">
+        <Coords points="3853,2232 3945,2225 3945,3265 3862,3267 3853,2232"/>
+        <Baseline points="3891,2195 3905,3265"/>
+        <TextEquiv>
+          <Unicode>來朝及命歸鎮上御製詩以賜之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109305" custom="structure {type:Text;}">
+        <Coords points="3687,837 3866,837 3866,3452 3687,3452 3687,837"/>
+        <Baseline points="3760,840 3807,3453"/>
+        <TextEquiv>
+          <Unicode>牧守寄所重才賢生爲時宣風自淮甸授鉞膺藩維入</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109306" custom="structure {type:Text;}">
+        <Coords points="3530,832 3709,832 3709,3475 3530,3475 3530,832"/>
+        <Baseline points="3595,836 3649,3477"/>
+        <TextEquiv>
+          <Unicode>覲展遐戀臨軒慰來思忠誠在方寸感激陳情詞報國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109307" custom="structure {type:Text;}">
+        <Coords points="3375,837 3545,837 3545,3462 3375,3462 3375,837"/>
+        <Baseline points="3447,840 3484,3463"/>
+        <TextEquiv>
+          <Unicode>爾所向恤人予是資歡宴不盡懷車馬當還期穀雨將</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109308" custom="structure {type:Text;}">
+        <Coords points="3207,845 3384,845 3384,2963 3207,2963 3207,845"/>
+        <Baseline points="3283,850 3316,2965"/>
+        <TextEquiv>
+          <Unicode>應候行春猶未遲勿以千里遙而云無己知</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109309" custom="structure {type:Commentary;}">
+        <Coords points="3313,2970 3386,2960 3405,3464 3320,3467 3313,2970"/>
+        <Baseline points="3340,2955 3367,3467"/>
+        <TextEquiv>
+          <Unicode>於時藩鎮馬燧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109310" custom="structure {type:Commentary;}">
+        <Coords points="3210,2963 3315,2963 3317,3469 3234,3467 3210,2963"/>
+        <Baseline points="3262,2938 3286,3477"/>
+        <TextEquiv>
+          <Unicode>渾瑊劉元佐李</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109311" custom="structure {type:Commentary;}">
+        <Coords points="3127,851 3218,846 3220,1643 3129,1650 3127,851"/>
+        <Baseline points="3165,843 3178,1650"/>
+        <TextEquiv>
+          <Unicode>抱真等勲寵卓越未有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109312" custom="structure {type:Commentary;}">
+        <Coords points="3044,841 3136,837 3136,1547 3044,1550 3044,841"/>
+        <Baseline points="3084,840 3098,1549"/>
+        <TextEquiv>
+          <Unicode>以詩餞獨建封獲賜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109313" custom="structure {type:Title;}">
+        <Coords points="2897,1196 3052,1196 3052,2023 2897,2023 2897,1196"/>
+        <Baseline points="2967,1199 2980,2024"/>
+        <TextEquiv>
+          <Unicode>麟德殿宴百僚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109314" custom="structure {type:Text;}">
+        <Coords points="2736,839 2910,839 2910,3475 2736,3475 2736,839"/>
+        <Baseline points="2812,843 2846,3477"/>
+        <TextEquiv>
+          <Unicode>憂勤承聖緒開泰喜時康恭己臨羣后垂衣御八荒務</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109315" custom="structure {type:Text;}">
+        <Coords points="2572,839 2753,839 2753,3458 2572,3458 2572,839"/>
+        <Baseline points="2644,843 2684,3460"/>
+        <TextEquiv>
+          <Unicode>閑春向暮朝罷日猶長紫殿初筵列彤庭廣樂張成功</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109316" custom="structure {type:Text;}">
+        <Coords points="2409,839 2589,839 2589,3125 2409,3125 2409,839"/>
+        <Baseline points="2479,843 2523,3127"/>
+        <TextEquiv>
+          <Unicode>歸輔弼致理賴忠良共此歡娛事千秋樂未央</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109317" custom="structure {type:Title;}">
+        <Coords points="2258,1209 2422,1209 2422,2429 2258,2429 2258,1209"/>
+        <Baseline points="2328,1213 2348,2431"/>
+        <TextEquiv>
+          <Unicode>元日退朝觀軍仗歸營</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>送徐州張建封還鎮
+貞元十三年徐州節度使張建封
+來朝及命歸鎮上御製詩以賜之
+牧守寄所重才賢生爲時宣風自淮甸授鉞膺藩維入
+覲展遐戀臨軒慰來思忠誠在方寸感激陳情詞報國
+爾所向恤人予是資歡宴不盡懷車馬當還期穀雨將
+應候行春猶未遲勿以千里遙而云無己知
+於時藩鎮馬燧
+渾瑊劉元佐李
+抱真等勲寵卓越未有
+以詩餞獨建封獲賜
+麟德殿宴百僚
+憂勤承聖緒開泰喜時康恭己臨羣后垂衣御八荒務
+閑春向暮朝罷日猶長紫殿初筵列彤庭廣樂張成功
+歸輔弼致理賴忠良共此歡娛事千秋樂未央
+元日退朝觀軍仗歸營
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117713" custom="structure {type:MainText_Left;}">
+      <Coords points="321,851 2086,863 2065,3500 310,3450 309,1374 321,851"/>
+      <TextLine id="1109318" custom="structure {type:Text;}">
+        <Coords points="1896,832 2060,832 2060,3512 1896,3512 1896,832"/>
+        <Baseline points="1964,836 1978,3514"/>
+        <TextEquiv>
+          <Unicode>獻歲視元朔萬方咸在庭端旒揖羣后回輦閱師貞綵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109319" custom="structure {type:Text;}">
+        <Coords points="1733,837 1892,837 1892,3503 1733,3503 1733,837"/>
+        <Baseline points="1800,3504 1817,840"/>
+        <TextEquiv>
+          <Unicode>仗宿華殿退朝歸禁營分行左右出轉旆風雲生歷歷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109320" custom="structure {type:Text;}">
+        <Coords points="1573,845 1735,845 1735,3495 1573,3495 1573,845"/>
+        <Baseline points="1652,3497 1665,850"/>
+        <TextEquiv>
+          <Unicode>趨複道容容映層城勇餘矜捷技令肅無喧聲眷此戎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109321" custom="structure {type:Text;}">
+        <Coords points="1433,832 1573,832 1573,3004 1433,3004 1433,832"/>
+        <Baseline points="1507,833 1507,3006"/>
+        <TextEquiv>
+          <Unicode>旅節載嘉良士誠順時傾宴賞亦以助文經</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109322" custom="structure {type:Title;}">
+        <Coords points="1261,1192 1412,1192 1412,2487 1261,2487 1261,1192"/>
+        <Baseline points="1332,2488 1346,1196"/>
+        <TextEquiv>
+          <Unicode>中和節賜羣臣宴賦七韻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109323" custom="structure {type:Commentary;}">
+        <Coords points="1339,2473 1442,2466 1442,3445 1329,3445 1339,2473"/>
+        <Baseline points="1373,2468 1373,3446"/>
+        <TextEquiv>
+          <Unicode>貞元五年初製中和節帝製</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109324" custom="structure {type:Commentary;}">
+        <Coords points="1243,2477 1347,2464 1347,3340 1251,3343 1243,2477"/>
+        <Baseline points="1289,2468 1299,3342"/>
+        <TextEquiv>
+          <Unicode>詩寫本賜戴叔倫於容州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109325" custom="structure {type:Text;}">
+        <Coords points="1104,822 1248,822 1248,3499 1104,3499 1104,822"/>
+        <Baseline points="1184,3500 1194,826"/>
+        <TextEquiv>
+          <Unicode>東風變梅柳萬彙生春光中和紀月令方與天地長耽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109326" custom="structure {type:Text;}">
+        <Coords points="942,822 1100,822 1100,3486 942,3486 942,822"/>
+        <Baseline points="1020,3487 1036,826"/>
+        <TextEquiv>
+          <Unicode>樂豈予尚懿茲時景良庶遂亭育恩同致寰海康君臣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109327" custom="structure {type:Text;}">
+        <Coords points="790,830 940,830 940,3499 790,3499 790,830"/>
+        <Baseline points="862,833 872,3500"/>
+        <TextEquiv>
+          <Unicode>永終始交泰符陰陽曲沼水新碧華林桃稍芳勝賞信</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109328" custom="structure {type:Text;}">
+        <Coords points="643,822 785,822 785,1764 643,1764 643,822"/>
+        <Baseline points="720,823 720,1765"/>
+        <TextEquiv>
+          <Unicode>多歡戒之在無荒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109329" custom="structure {type:Text;}">
+        <Coords points="486,1198 624,1198 624,2244 486,2244 486,1198"/>
+        <Baseline points="545,1199 545,2246"/>
+        <TextEquiv>
+          <Unicode>三日書懷因示百僚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109330" custom="structure {type:Commentary;}">
+        <Coords points="549,2237 639,2237 639,3200 538,3202 549,2237"/>
+        <Baseline points="586,2198 586,3204"/>
+        <TextEquiv>
+          <Unicode>貞元六年三月康子百僚宴曲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109331" custom="structure {type:Commentary;}">
+        <Coords points="461,2232 558,2225 544,3122 461,3120 461,2232"/>
+        <Baseline points="505,2212 505,3120"/>
+        <TextEquiv>
+          <Unicode>江亭上巳詩一篇賜之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109332" custom="structure {type:Text;}">
+        <Coords points="307,819 471,819 471,3458 307,3458 307,819"/>
+        <Baseline points="384,3460 411,823"/>
+        <TextEquiv>
+          <Unicode>佳節上元巳芳時屬暮春流觴想蘭亭捧劍得金人風</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>獻歲視元朔萬方咸在庭端旒揖羣后回輦閱師貞綵
+仗宿華殿退朝歸禁營分行左右出轉旆風雲生歷歷
+趨複道容容映層城勇餘矜捷技令肅無喧聲眷此戎
+旅節載嘉良士誠順時傾宴賞亦以助文經
+中和節賜羣臣宴賦七韻
+貞元五年初製中和節帝製
+詩寫本賜戴叔倫於容州
+東風變梅柳萬彙生春光中和紀月令方與天地長耽
+樂豈予尚懿茲時景良庶遂亭育恩同致寰海康君臣
+永終始交泰符陰陽曲沼水新碧華林桃稍芳勝賞信
+多歡戒之在無荒
+三日書懷因示百僚
+貞元六年三月康子百僚宴曲
+江亭上巳詩一篇賜之
+佳節上元巳芳時屬暮春流觴想蘭亭捧劍得金人風
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117714" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="242,834 306,834 303,2959 209,2959 242,834"/>
+      <TextLine id="1114532" custom="structure {type:Section;}">
+        <Coords points="244,834 313,834 309,1207 237,1203 244,834"/>
+        <Baseline points="273,839 275,1203"/>
+        <TextEquiv>
+          <Unicode>德宗皇帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109334" custom="structure {type:Title;}">
+        <Coords points="235,1462 304,1471 301,1773 230,1778 235,1462"/>
+        <Baseline points="253,1455 253,1775"/>
+        <TextEquiv>
+          <Unicode>全唐詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1109335" custom="structure {type:Page_Number;}">
+        <Coords points="209,2680 271,2673 271,2812 214,2810 209,2680"/>
+        <Baseline points="243,2814 250,2679"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>德宗皇帝
+全唐詩
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

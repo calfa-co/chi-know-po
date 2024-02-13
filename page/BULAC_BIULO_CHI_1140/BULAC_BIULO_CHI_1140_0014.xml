@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:29+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0014.jpg" imageHeight="4578" imageWidth="2578">
+    <TextRegion id="79223" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2388,3563 2388,1781 2499,1781 2492,2658 2485,3560 2388,3563"/>
+      <TextLine id="869028" custom="structure {type:Page_Number;}">
+        <Coords points="2354,1798 2527,1798 2527,2098 2354,2098 2354,1798"/>
+        <Baseline points="2449,2094 2482,1814"/>
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869029" custom="structure {type:Page_Number;}">
+        <Coords points="2399,3141 2527,3141 2527,3331 2399,3331 2399,3141"/>
+        <Baseline points="2434,3326 2458,3150"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷一
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79198" custom="structure {type:MainText;}">
+      <Coords points="134,4109 134,995 2382,995 2382,4109 134,4109"/>
+      <TextLine id="867227" custom="structure {type:Text;}">
+        <Coords points="2188,1004 2382,1004 2382,4064 2188,4064 2188,1004"/>
+        <Baseline points="2295,4066 2299,1009"/>
+        <TextEquiv>
+          <Unicode>中國之城左濱海右通流沙方而言之萬五千里東至蓬萊西</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867228" custom="structure {type:Text;}">
+        <Coords points="1990,1002 2201,1002 2201,4071 1990,4071 1990,1002"/>
+        <Baseline points="2107,1007 2111,4074"/>
+        <TextEquiv>
+          <Unicode>至隴右右跨京北前及衡岳堯舜土萬里三代時七千里亦無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867229" custom="structure {type:Text;}">
+        <Coords points="1814,996 2005,996 2005,1790 1814,1790 1814,996"/>
+        <Baseline points="1924,1001 1928,1793"/>
+        <TextEquiv>
+          <Unicode>常隨德劣優也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867230" custom="structure {type:Text;}">
+        <Coords points="1631,1004 1824,1004 1824,2027 1631,2027 1631,1004"/>
+        <Baseline points="1732,1005 1732,2029"/>
+        <TextEquiv>
+          <Unicode>堯別九州舜為十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867231" custom="structure {type:Text;}">
+        <Coords points="1437,1004 1644,1004 1644,4076 1437,4076 1437,1004"/>
+        <Baseline points="1544,1005 1544,4078"/>
+        <TextEquiv>
+          <Unicode>秦前有藍田之鎮後有胡宛之塞左崤函右隴蜀西通流沙險</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867232" custom="structure {type:Text;}">
+        <Coords points="1257,1007 1440,1007 1440,1538 1257,1538 1257,1007"/>
+        <Baseline points="1348,1011 1356,1539"/>
+        <TextEquiv>
+          <Unicode>阻之國也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867233" custom="structure {type:Text;}">
+        <Coords points="1051,1002 1259,1002 1259,4084 1051,4084 1051,1002"/>
+        <Baseline points="1156,4086 1168,1007"/>
+        <TextEquiv>
+          <Unicode>蜀漢之土與秦同域南跨邛笮北阻褎斜西即隈礙隔以劍閣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867234" custom="structure {type:Text;}">
+        <Coords points="875,996 1071,996 1071,2172 875,2172 875,996"/>
+        <Baseline points="972,1001 984,2173"/>
+        <TextEquiv>
+          <Unicode>窮險極峻獨守之國也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867235" custom="structure {type:Text;}">
+        <Coords points="674,1012 880,1012 880,4089 674,4089 674,1012"/>
+        <Baseline points="784,4090 796,1017"/>
+        <TextEquiv>
+          <Unicode>周在中樞西阻崤谷東望荊山南面少室北有太嶽三河之分</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867236" custom="structure {type:Text;}">
+        <Coords points="501,1002 692,1002 692,2179 501,2179 501,1002"/>
+        <Baseline points="600,1005 612,2181"/>
+        <TextEquiv>
+          <Unicode>雷風所起四險之國也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867237" custom="structure {type:Text;}">
+        <Coords points="315,1012 506,1012 506,3957 315,3957 315,1012"/>
+        <Baseline points="416,1013 416,3958"/>
+        <TextEquiv>
+          <Unicode>魏前枕黃河背漳水瞻王屋望梁山有藍田之寶浮池之淵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867238" custom="structure {type:Text;}">
+        <Coords points="134,1002 318,1002 318,4079 134,4079 134,1002"/>
+        <Baseline points="225,4082 233,1005"/>
+        <TextEquiv>
+          <Unicode>趙東臨九州西瞻恒嶽有沃瀑之流飛壺井陘之險至於潁陽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>中國之城左濱海右通流沙方而言之萬五千里東至蓬萊西
+至隴右右跨京北前及衡岳堯舜土萬里三代時七千里亦無
+常隨德劣優也
+堯別九州舜為十二
+秦前有藍田之鎮後有胡宛之塞左崤函右隴蜀西通流沙險
+阻之國也
+蜀漢之土與秦同域南跨邛笮北阻褎斜西即隈礙隔以劍閣
+窮險極峻獨守之國也
+周在中樞西阻崤谷東望荊山南面少室北有太嶽三河之分
+雷風所起四險之國也
+魏前枕黃河背漳水瞻王屋望梁山有藍田之寶浮池之淵
+趙東臨九州西瞻恒嶽有沃瀑之流飛壺井陘之險至於潁陽
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79224" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2335,224 2335,119 2458,119 2458,224 2335,224"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

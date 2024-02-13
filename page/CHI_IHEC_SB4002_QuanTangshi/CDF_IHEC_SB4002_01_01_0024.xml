@@ -1,0 +1,449 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:36+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB4002_01_01_0024.jpg" imageHeight="3935" imageWidth="4406">
+    <TextRegion id="116771" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4080,1366 4179,1357 4194,1866 4108,1866 4080,1366"/>
+      <TextLine id="1100045" custom="structure {type:Section;}">
+        <Coords points="4086,1344 4191,1344 4191,1908 4086,1908 4086,1344"/>
+        <Baseline points="4132,1357 4165,1909"/>
+        <TextEquiv>
+          <Unicode>全唐詩目</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231293" custom="structure {type:Page_Number;}">
+        <Coords points="4099,2710 4178,2710 4178,2852 4099,2852 4099,2710"/>
+        <Baseline points="4143,2714 4145,2855"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>全唐詩目
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116772" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="2296,872 4042,843 4089,3488 2338,3516 2296,872"/>
+      <TextLine id="1100046" custom="structure {type:Author_name;}">
+        <Coords points="3916,1176 4060,1176 4060,1477 3916,1477 3916,1176"/>
+        <Baseline points="3984,1181 3999,1477"/>
+        <TextEquiv>
+          <Unicode>睿宗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114358" custom="structure {type:Commentary;}">
+        <Coords points="3968,1484 4095,1484 4095,1711 3968,1711 3968,1484"/>
+        <Baseline points="4031,1489 4041,1713"/>
+        <TextEquiv>
+          <Unicode>共一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100047" custom="structure {type:Author_name;}">
+        <Coords points="3774,1195 3898,1195 3898,1499 3774,1499 3774,1195"/>
+        <Baseline points="3827,1200 3837,1500"/>
+        <TextEquiv>
+          <Unicode>明皇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100048" custom="structure {type:Commentary;}">
+        <Coords points="3822,1488 3946,1488 3946,1698 3822,1698 3822,1488"/>
+        <Baseline points="3865,1500 3889,1695"/>
+        <TextEquiv>
+          <Unicode>一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100049" custom="structure {type:Author_name;}">
+        <Coords points="3596,1200 3736,1200 3736,1508 3596,1508 3596,1200"/>
+        <Baseline points="3661,1205 3675,1509"/>
+        <TextEquiv>
+          <Unicode>肅宗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100050" custom="structure {type:Author_name;}">
+        <Coords points="3441,1180 3583,1180 3583,1501 3441,1501 3441,1180"/>
+        <Baseline points="3509,1186 3528,1504"/>
+        <TextEquiv>
+          <Unicode>德宗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100051" custom="structure {type:Author_name;}">
+        <Coords points="3284,1176 3419,1176 3419,1541 3284,1541 3284,1176"/>
+        <Baseline points="3342,1181 3371,1542"/>
+        <TextEquiv>
+          <Unicode>文宗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100052" custom="structure {type:Author_name;}">
+        <Coords points="3120,1176 3266,1176 3266,1543 3120,1543 3120,1176"/>
+        <Baseline points="3195,1181 3223,1542"/>
+        <TextEquiv>
+          <Unicode>宣宗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100053" custom="structure {type:Author_name;}">
+        <Coords points="2965,1222 3091,1222 3091,1501 2965,1501 2965,1222"/>
+        <Baseline points="3023,1504 3033,1228"/>
+        <TextEquiv>
+          <Unicode>昭宗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100054" custom="structure {type:Commentary;}">
+        <Coords points="3021,1466 3146,1466 3146,1753 3021,1753 3021,1466"/>
+        <Baseline points="3066,1476 3100,1752"/>
+        <TextEquiv>
+          <Unicode>共一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100055" custom="structure {type:Author_name;}">
+        <Coords points="2794,1195 2943,1195 2943,1770 2794,1770 2794,1195"/>
+        <Baseline points="2871,1200 2890,1771"/>
+        <TextEquiv>
+          <Unicode>文德皇后</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100056" custom="structure {type:Author_name;}">
+        <Coords points="2643,1202 2785,1202 2785,1759 2643,1759 2643,1202"/>
+        <Baseline points="2719,1205 2724,1761"/>
+        <TextEquiv>
+          <Unicode>則天皇后</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100057" custom="structure {type:Author_name;}">
+        <Coords points="2650,1928 2840,1928 2840,2406 2650,2406 2650,1928"/>
+        <Baseline points="2728,2408 2733,1932"/>
+        <TextEquiv>
+          <Unicode>徐賢妃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100058" custom="structure {type:Author_name;}">
+        <Coords points="2658,2712 2811,2712 2811,3279 2658,3279 2658,2712"/>
+        <Baseline points="2733,2717 2757,3279"/>
+        <TextEquiv>
+          <Unicode>上官昭容</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100059" custom="structure {type:Author_name;}">
+        <Coords points="2486,1197 2626,1197 2626,1641 2486,1641 2486,1197"/>
+        <Baseline points="2562,1200 2562,1642"/>
+        <TextEquiv>
+          <Unicode>楊貴妃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100060" custom="structure {type:Author_name;}">
+        <Coords points="2490,1971 2639,1971 2639,2238 2490,2238 2490,1971"/>
+        <Baseline points="2571,1975 2581,2237"/>
+        <TextEquiv>
+          <Unicode>江妃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100061" custom="structure {type:Commentary;}">
+        <Coords points="2551,2221 2687,2221 2687,2540 2551,2540 2551,2221"/>
+        <Baseline points="2619,2227 2633,2541"/>
+        <TextEquiv>
+          <Unicode>共一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100062" custom="structure {type:Author_name;}">
+        <Coords points="2315,1206 2473,1206 2473,1796 2315,1796 2315,1206"/>
+        <Baseline points="2405,1209 2410,1799"/>
+        <TextEquiv>
+          <Unicode>章懷太子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100063" custom="structure {type:Author_name;}">
+        <Coords points="2335,1974 2479,1974 2479,2531 2335,2531 2335,1974"/>
+        <Baseline points="2424,1975 2424,2532"/>
+        <TextEquiv>
+          <Unicode>韓王元嘉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100064" custom="structure {type:Author_name;}">
+        <Coords points="2348,2667 2490,2667 2490,3196 2348,3196 2348,2667"/>
+        <Baseline points="2419,2670 2429,3198"/>
+        <TextEquiv>
+          <Unicode>越王貞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>睿宗
+共一卷
+明皇
+一卷
+肅宗
+德宗
+文宗
+宣宗
+昭宗
+共一卷
+文德皇后
+則天皇后
+徐賢妃
+上官昭容
+楊貴妃
+江妃
+共一卷
+章懷太子
+韓王元嘉
+越王貞
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116773" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="374,853 2143,848 2110,3502 355,3474 374,853"/>
+      <TextLine id="1100065" custom="structure {type:Author_name;}">
+        <Coords points="1961,1211 2103,1211 2103,1746 1961,1746 1961,1211"/>
+        <Baseline points="2029,1214 2034,1747"/>
+        <TextEquiv>
+          <Unicode>信安王禕</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100066" custom="structure {type:Commentary;}">
+        <Coords points="2011,1731 2149,1731 2149,2026 2011,2026 2011,1731"/>
+        <Baseline points="2081,1733 2081,2028"/>
+        <TextEquiv>
+          <Unicode>共一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100067" custom="structure {type:Author_name;}">
+        <Coords points="1808,1195 1950,1195 1950,1746 1808,1746 1808,1195"/>
+        <Baseline points="1877,1200 1886,1747"/>
+        <TextEquiv>
+          <Unicode>宜芬公主</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100068" custom="structure {type:Author_name;}">
+        <Coords points="1795,1941 1943,1941 1943,2393 1795,2393 1795,1941"/>
+        <Baseline points="1863,1942 1863,2394"/>
+        <TextEquiv>
+          <Unicode>宋若華</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100069" custom="structure {type:Author_name;}">
+        <Coords points="1790,2712 1924,2712 1924,3158 1790,3158 1790,2712"/>
+        <Baseline points="1867,2713 1867,3160"/>
+        <TextEquiv>
+          <Unicode>宋若昭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100070" custom="structure {type:Author_name;}">
+        <Coords points="1637,1163 1788,1163 1788,1670 1637,1670 1637,1163"/>
+        <Baseline points="1725,1167 1734,1671"/>
+        <TextEquiv>
+          <Unicode>宋若憲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100071" custom="structure {type:Author_name;}">
+        <Coords points="1629,1943 1782,1943 1782,2402 1629,2402 1629,1943"/>
+        <Baseline points="1720,2403 1725,1947"/>
+        <TextEquiv>
+          <Unicode>鮑君徽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100072" custom="structure {type:Author_name;}">
+        <Coords points="1620,2675 1764,2675 1764,2981 1620,2981 1620,2675"/>
+        <Baseline points="1696,2984 1701,2679"/>
+        <TextEquiv>
+          <Unicode>蕭妃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100073" custom="structure {type:Commentary;}">
+        <Coords points="1679,2962 1797,2962 1797,3272 1679,3272 1679,2962"/>
+        <Baseline points="1744,3274 1748,2965"/>
+        <TextEquiv>
+          <Unicode>共一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100074" custom="structure {type:Author_name;}">
+        <Coords points="1471,1171 1631,1171 1631,2017 1471,2017 1471,1171"/>
+        <Baseline points="1568,2018 1587,1176"/>
+        <TextEquiv>
+          <Unicode>南唐先主李昪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100075" custom="structure {type:Author_name;}">
+        <Coords points="1467,2704 1609,2704 1609,3167 1467,3167 1467,2704"/>
+        <Baseline points="1530,2708 1539,3169"/>
+        <TextEquiv>
+          <Unicode>嗣主璟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100076" custom="structure {type:Author_name;}">
+        <Coords points="1320,1169 1471,1169 1471,1619 1320,1619 1320,1169"/>
+        <Baseline points="1387,1176 1406,1618"/>
+        <TextEquiv>
+          <Unicode>後主煜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100077" custom="structure {type:Author_name;}">
+        <Coords points="1316,1923 1460,1923 1460,2555 1316,2555 1316,1923"/>
+        <Baseline points="1392,1928 1401,2556"/>
+        <TextEquiv>
+          <Unicode>韓王從善</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100078" custom="structure {type:Author_name;}">
+        <Coords points="1307,2682 1440,2682 1440,3305 1307,3305 1307,2682"/>
+        <Baseline points="1382,2684 1382,3307"/>
+        <TextEquiv>
+          <Unicode>吉王從謙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100079" custom="structure {type:Author_name;}">
+        <Coords points="1158,1171 1318,1171 1318,1792 1158,1792 1158,1171"/>
+        <Baseline points="1239,1794 1258,1176"/>
+        <TextEquiv>
+          <Unicode>蜀主王建</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100080" custom="structure {type:Author_name;}">
+        <Coords points="1169,1947 1307,1947 1307,2430 1169,2430 1169,1947"/>
+        <Baseline points="1244,1951 1254,2432"/>
+        <TextEquiv>
+          <Unicode>後主衍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100081" custom="structure {type:Author_name;}">
+        <Coords points="1132,2664 1287,2664 1287,3425 1132,3425 1132,2664"/>
+        <Baseline points="1206,3426 1230,2670"/>
+        <TextEquiv>
+          <Unicode>吳越王錢鏐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100082" custom="structure {type:Author_name;}">
+        <Coords points="1003,1158 1152,1158 1152,1755 1003,1755 1003,1158"/>
+        <Baseline points="1078,1756 1087,1162"/>
+        <TextEquiv>
+          <Unicode>後王錢俶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100083" custom="structure {type:Author_name;}">
+        <Coords points="997,1934 1143,1934 1143,2835 997,2835 997,1934"/>
+        <Baseline points="1087,1937 1092,2836"/>
+        <TextEquiv>
+          <Unicode>後蜀嗣主孟昶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100084" custom="structure {type:Author_name;}">
+        <Coords points="837,1158 990,1158 990,1884 837,1884 837,1158"/>
+        <Baseline points="921,1885 935,1162"/>
+        <TextEquiv>
+          <Unicode>閩王王繼鵬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100085" custom="structure {type:Commentary;}">
+        <Coords points="887,1825 1018,1825 1018,2135 887,2135 887,1825"/>
+        <Baseline points="954,1828 963,2137"/>
+        <TextEquiv>
+          <Unicode>共一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100086" custom="structure {type:Author_name;}">
+        <Coords points="688,1178 830,1178 830,1884 688,1884 688,1178"/>
+        <Baseline points="768,1181 773,1885"/>
+        <TextEquiv>
+          <Unicode>蜀太后徐氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100087" custom="structure {type:Author_name;}">
+        <Coords points="682,1960 826,1960 826,2492 682,2492 682,1960"/>
+        <Baseline points="764,1961 764,2494"/>
+        <TextEquiv>
+          <Unicode>太妃徐氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100088" custom="structure {type:Commentary;}">
+        <Coords points="721,2457 859,2457 859,2758 721,2758 721,2457"/>
+        <Baseline points="802,2760 811,2460"/>
+        <TextEquiv>
+          <Unicode>共一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100089" custom="structure {type:Title;}">
+        <Coords points="524,1029 671,1029 671,1521 524,1521 524,1029"/>
+        <Baseline points="607,1523 621,1033"/>
+        <TextEquiv>
+          <Unicode>第三冊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100090" custom="structure {type:Author_name;}">
+        <Coords points="371,1141 516,1141 516,1735 371,1735 371,1141"/>
+        <Baseline points="440,1143 440,1737"/>
+        <TextEquiv>
+          <Unicode>郊廟樂章</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100091" custom="structure {type:Commentary;}">
+        <Coords points="419,1689 544,1689 544,1967 419,1967 419,1689"/>
+        <Baseline points="488,1966 502,1695"/>
+        <TextEquiv>
+          <Unicode>七卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>信安王禕
+共一卷
+宜芬公主
+宋若華
+宋若昭
+宋若憲
+鮑君徽
+蕭妃
+共一卷
+南唐先主李昪
+嗣主璟
+後主煜
+韓王從善
+吉王從謙
+蜀主王建
+後主衍
+吳越王錢鏐
+後王錢俶
+後蜀嗣主孟昶
+閩王王繼鵬
+共一卷
+蜀太后徐氏
+太妃徐氏
+共一卷
+第三冊
+郊廟樂章
+七卷
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116774" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="288,1357 369,1357 378,2070 288,2066 288,1357"/>
+      <TextLine id="1100092" custom="structure {type:Section;}">
+        <Coords points="283,1479 338,1479 338,1845 283,1845 283,1479"/>
+        <Baseline points="299,1846 306,1485"/>
+        <TextEquiv>
+          <Unicode>全唐詩目</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231311" custom="structure {type:Section;}">
+        <Coords points="282,1782 387,1783 387,2061 296,2059 282,1782"/>
+        <Baseline points="325,2063 328,1787"/>
+        <TextEquiv>
+          <Unicode>第一函</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231406" custom="structure {type:Page_Number;}">
+        <Coords points="255,2695 338,2695 338,2824 255,2824 255,2695"/>
+        <Baseline points="291,2696 291,2826"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>全唐詩目
+第一函
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

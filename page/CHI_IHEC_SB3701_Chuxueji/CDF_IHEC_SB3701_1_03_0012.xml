@@ -1,0 +1,345 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:21+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB3701_1_03_0012.jpg" imageHeight="4687" imageWidth="5679">
+    <TextRegion id="121045" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5369,993 5464,988 5464,4208 5340,4208 5369,993"/>
+      <TextLine id="1138823" custom="structure {type:Marginalia;}">
+        <Coords points="5361,963 5538,963 5538,1419 5361,1419 5361,963"/>
+        <Baseline points="5419,1420 5431,968"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138824" custom="structure {type:Section;}">
+        <Coords points="5355,1903 5527,1903 5527,2429 5355,2429 5355,1903"/>
+        <Baseline points="5419,1908 5431,2432"/>
+        <TextEquiv>
+          <Unicode>初學記卷七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138825" custom="structure {type:Page_Number;}">
+        <Coords points="5384,3116 5525,3116 5525,3338 5384,3338 5384,3116"/>
+        <Baseline points="5431,3124 5436,3340"/>
+        <TextEquiv>
+          <Unicode>九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷七
+九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121046" custom="structure {type:MainText_Right;}">
+      <Coords points="2847,997 5364,978 5360,4222 2909,4222 2847,997"/>
+      <TextLine id="1138826" custom="structure {type:Commentary;}">
+        <Coords points="5210,979 5384,979 5384,4231 5210,4231 5210,979"/>
+        <Baseline points="5287,980 5291,4232"/>
+        <TextEquiv>
+          <Unicode>滌蕩埃氛義則激揚清濁勇則負山餘力弱則鴻毛不勝仲春</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138827" custom="structure {type:Commentary;}">
+        <Coords points="5079,968 5233,968 5233,4233 5079,4233 5079,968"/>
+        <Baseline points="5131,972 5147,4236"/>
+        <TextEquiv>
+          <Unicode>則榆莢同流三月則桃花共下其色變者流為五雲之漿其味</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138828" custom="structure {type:Commentary;}">
+        <Coords points="4936,953 5100,953 5100,4231 4936,4231 4936,953"/>
+        <Baseline points="5007,956 5051,4232"/>
+        <TextEquiv>
+          <Unicode>美者結為三危之露煙青於銅浦色白於鉛溪非神鼎而長沸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138829" custom="structure {type:Commentary;}">
+        <Coords points="4793,960 4978,960 4978,4239 4793,4239 4793,960"/>
+        <Baseline points="4875,964 4919,4240"/>
+        <TextEquiv>
+          <Unicode>異龍池而獨湧洗胃滌腸興羸起瘠秦皇餘石仍為鴈齒之階</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138830" custom="structure {type:Commentary;}">
+        <Coords points="4660,955 4834,955 4834,3122 4660,3122 4660,955"/>
+        <Baseline points="4735,960 4767,3124"/>
+        <TextEquiv>
+          <Unicode>漢武舊陶即用魚鱗之瓦豈獨醴泉消疾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138831" custom="structure {type:Commentary;}">
+        <Coords points="4540,971 4702,971 4702,3142 4540,3142 4540,971"/>
+        <Baseline points="4603,976 4615,3144"/>
+        <TextEquiv>
+          <Unicode>聞矣漢武之朝神水蠲痾在乎成康之世</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138832" custom="structure {type:Title;}">
+        <Coords points="4556,3124 4834,3124 4834,3369 4556,3369 4556,3124"/>
+        <Baseline points="4691,3132 4695,3372"/>
+        <TextEquiv>
+          <Unicode>銘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138833" custom="structure {type:Text;}">
+        <Coords points="4579,3403 4837,3403 4837,4241 4579,4241 4579,3403"/>
+        <Baseline points="4695,3412 4735,4240"/>
+        <TextEquiv>
+          <Unicode>周王褒溫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138834" custom="structure {type:Text;}">
+        <Coords points="4353,971 4527,971 4527,1377 4353,1377 4353,971"/>
+        <Baseline points="4395,980 4415,1380"/>
+        <TextEquiv>
+          <Unicode>湯銘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138835" custom="structure {type:Commentary;}">
+        <Coords points="4392,1374 4574,1374 4574,3551 4392,3551 4392,1374"/>
+        <Baseline points="4471,1380 4523,3552"/>
+        <TextEquiv>
+          <Unicode>挺此溫谷驪丘之陰白礜上徹丹砂下沉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138836" custom="structure {type:Commentary;}">
+        <Coords points="4256,1351 4449,1351 4449,3551 4256,3551 4256,1351"/>
+        <Baseline points="4335,1356 4383,3552"/>
+        <TextEquiv>
+          <Unicode>華清駐老飛流瑩心谷神不死川德愈深</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138837" custom="structure {type:Title;}">
+        <Coords points="4014,963 4254,963 4254,1887 4014,1887 4014,963"/>
+        <Baseline points="4099,972 4151,1888"/>
+        <TextEquiv>
+          <Unicode>昆明池第四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138838" custom="structure {type:Title;}">
+        <Coords points="4118,1869 4308,1869 4308,2033 4118,2033 4118,1869"/>
+        <Baseline points="4203,1881 4220,2033"/>
+        <TextEquiv>
+          <Unicode>敘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231581" custom="structure {type:Title;}">
+        <Coords points="3988,1846 4147,1846 4147,2049 3988,2049 3988,1846"/>
+        <Baseline points="4061,1852 4067,2050"/>
+        <TextEquiv>
+          <Unicode>事</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138839" custom="structure {type:Text;}">
+        <Coords points="4016,2031 4293,2031 4293,4239 4016,4239 4016,2031"/>
+        <Baseline points="4151,2032 4167,4240"/>
+        <TextEquiv>
+          <Unicode>廣雅云沼池也說文云池者陂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138840" custom="structure {type:Text;}">
+        <Coords points="3704,968 4040,968 4040,4262 3704,4262 3704,968"/>
+        <Baseline points="3846,972 3930,4264"/>
+        <TextEquiv>
+          <Unicode>也從水它聲風俗通云孫子有金城湯池之說</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138841" custom="structure {type:Text;}">
+        <Coords points="3456,960 3753,960 3753,4231 3456,4231 3456,960"/>
+        <Baseline points="3562,964 3646,4232"/>
+        <TextEquiv>
+          <Unicode>後人因此開地為池以養魚鱉按漢書及西京</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138842" custom="structure {type:Text;}">
+        <Coords points="3180,979 3472,979 3472,4226 3180,4226 3180,979"/>
+        <Baseline points="3294,984 3370,4228"/>
+        <TextEquiv>
+          <Unicode>雜記昆明池漢武帝元狩三年所穿也初漢欲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138843" custom="structure {type:Text;}">
+        <Coords points="2881,984 3183,984 3183,4249 2881,4249 2881,984"/>
+        <Baseline points="3014,992 3074,4252"/>
+        <TextEquiv>
+          <Unicode>求身毒國為昆明夷所閉昆明有滇池方三百</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>滌蕩埃氛義則激揚清濁勇則負山餘力弱則鴻毛不勝仲春
+則榆莢同流三月則桃花共下其色變者流為五雲之漿其味
+美者結為三危之露煙青於銅浦色白於鉛溪非神鼎而長沸
+異龍池而獨湧洗胃滌腸興羸起瘠秦皇餘石仍為鴈齒之階
+漢武舊陶即用魚鱗之瓦豈獨醴泉消疾
+聞矣漢武之朝神水蠲痾在乎成康之世
+銘
+周王褒溫
+湯銘
+挺此溫谷驪丘之陰白礜上徹丹砂下沉
+華清駐老飛流瑩心谷神不死川德愈深
+昆明池第四
+敘
+事
+廣雅云沼池也說文云池者陂
+也從水它聲風俗通云孫子有金城湯池之說
+後人因此開地為池以養魚鱉按漢書及西京
+雜記昆明池漢武帝元狩三年所穿也初漢欲
+求身毒國為昆明夷所閉昆明有滇池方三百
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121047" custom="structure {type:MainText_Left;}">
+      <Coords points="345,897 2800,869 2790,4175 330,4194 345,897"/>
+      <TextLine id="1138844" custom="structure {type:Text;}">
+        <Coords points="2550,835 2779,835 2779,4174 2550,4174 2550,835"/>
+        <Baseline points="2666,4176 2670,840"/>
+        <TextEquiv>
+          <Unicode>里名曰滇河漢將伐昆明以通身毒使謫卒伐</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138845" custom="structure {type:Text;}">
+        <Coords points="2276,843 2516,843 2516,4158 2276,4158 2276,843"/>
+        <Baseline points="2382,848 2402,4160"/>
+        <TextEquiv>
+          <Unicode>棘上林象滇河作昆明池以習水戰池週圍四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138846" custom="structure {type:Text;}">
+        <Coords points="1990,856 2193,856 2193,1288 1990,1288 1990,856"/>
+        <Baseline points="2094,864 2130,1288"/>
+        <TextEquiv>
+          <Unicode>十里</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138847" custom="structure {type:Commentary;}">
+        <Coords points="2099,1268 2261,1268 2261,4158 2099,4158 2099,1268"/>
+        <Baseline points="2166,4160 2182,1272"/>
+        <TextEquiv>
+          <Unicode>漢武帝平昆明池以其地為益州郡其滇水源深廣末</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138848" custom="structure {type:Commentary;}">
+        <Coords points="1964,1260 2120,1260 2120,4150 1964,4150 1964,1260"/>
+        <Baseline points="2038,1264 2050,4152"/>
+        <TextEquiv>
+          <Unicode>及淺狹有似倒流故曰滇河潘岳関中記曰昆明漢武</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138849" custom="structure {type:Commentary;}">
+        <Coords points="1823,835 1985,835 1985,4155 1823,4155 1823,835"/>
+        <Baseline points="1906,4156 1914,840"/>
+        <TextEquiv>
+          <Unicode>習水戰也中有靈沼神池云堯時理水訖停舟此池蓋堯時已</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138850" custom="structure {type:Commentary;}">
+        <Coords points="1693,867 1846,867 1846,4171 1693,4171 1693,867"/>
+        <Baseline points="1766,872 1774,4172"/>
+        <TextEquiv>
+          <Unicode>有沔池漢代因而深廣耳曹毗志怪云漢武鑿昆明池極深悉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138851" custom="structure {type:Commentary;}">
+        <Coords points="1555,861 1706,861 1706,4166 1555,4166 1555,861"/>
+        <Baseline points="1630,4168 1638,864"/>
+        <TextEquiv>
+          <Unicode>是灰墨無復土舉朝不解以問東方朔朔曰臣愚不足以知之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138852" custom="structure {type:Commentary;}">
+        <Coords points="1417,859 1570,859 1570,4171 1417,4171 1417,859"/>
+        <Baseline points="1490,4172 1494,864"/>
+        <TextEquiv>
+          <Unicode>可試問西域胡帝以朔不知難以移問至後漢明帝時外國道</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138853" custom="structure {type:Commentary;}">
+        <Coords points="1276,856 1427,856 1427,4158 1276,4158 1276,856"/>
+        <Baseline points="1358,4160 1362,860"/>
+        <TextEquiv>
+          <Unicode>人入來洛陽時有憶方朔言者乃試以武帝時灰墨問之胡人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138854" custom="structure {type:Commentary;}">
+        <Coords points="1141,856 1307,856 1307,4033 1141,4033 1141,856"/>
+        <Baseline points="1214,860 1222,4036"/>
+        <TextEquiv>
+          <Unicode>云經云天地大劫將盡則劫燒此劫燒之餘乃知朔言有旨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138855" custom="structure {type:Text;}">
+        <Coords points="898,856 1151,856 1151,4197 898,4197 898,856"/>
+        <Baseline points="1010,860 1046,4200"/>
+        <TextEquiv>
+          <Unicode>池中有戈船樓船各數百艘樓船上建樓櫓戈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138856" custom="structure {type:Text;}">
+        <Coords points="617,867 893,867 893,4194 617,4194 617,867"/>
+        <Baseline points="734,872 770,4196"/>
+        <TextEquiv>
+          <Unicode>船上建戈矛四角悉垂幡旄旌葆麾蓋照燭涯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138857" custom="structure {type:Text;}">
+        <Coords points="356,890 604,890 604,4189 356,4189 356,890"/>
+        <Baseline points="486,892 486,4192"/>
+        <TextEquiv>
+          <Unicode>涘又作二石人東西相對以象牽牛織女又刻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>里名曰滇河漢將伐昆明以通身毒使謫卒伐
+棘上林象滇河作昆明池以習水戰池週圍四
+十里
+漢武帝平昆明池以其地為益州郡其滇水源深廣末
+及淺狹有似倒流故曰滇河潘岳関中記曰昆明漢武
+習水戰也中有靈沼神池云堯時理水訖停舟此池蓋堯時已
+有沔池漢代因而深廣耳曹毗志怪云漢武鑿昆明池極深悉
+是灰墨無復土舉朝不解以問東方朔朔曰臣愚不足以知之
+可試問西域胡帝以朔不知難以移問至後漢明帝時外國道
+人入來洛陽時有憶方朔言者乃試以武帝時灰墨問之胡人
+云經云天地大劫將盡則劫燒此劫燒之餘乃知朔言有旨
+池中有戈船樓船各數百艘樓船上建樓櫓戈
+船上建戈矛四角悉垂幡旄旌葆麾蓋照燭涯
+涘又作二石人東西相對以象牽牛織女又刻
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121048" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="202,897 335,902 345,4203 226,4203 202,897"/>
+      <TextLine id="1138858" custom="structure {type:Marginalia;}">
+        <Coords points="130,887 338,887 338,1377 130,1377 130,887"/>
+        <Baseline points="262,891 266,1379"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138859" custom="structure {type:Section;}">
+        <Coords points="132,1864 367,1864 367,2382 132,2382 132,1864"/>
+        <Baseline points="270,2383 274,1871"/>
+        <TextEquiv>
+          <Unicode>初學記卷七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138860" custom="structure {type:Page_Number;}">
+        <Coords points="119,3101 333,3101 333,3283 119,3283 119,3101"/>
+        <Baseline points="277,3284 278,3103"/>
+        <TextEquiv>
+          <Unicode>十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷七
+十
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

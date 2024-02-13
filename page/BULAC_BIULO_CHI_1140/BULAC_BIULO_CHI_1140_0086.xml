@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:52+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0086.jpg" imageHeight="4550" imageWidth="2569">
+    <TextRegion id="79252" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2487,3523 2391,3519 2387,1785 2483,1781 2487,3523"/>
+      <TextLine id="869060" custom="structure {type:Page_Number;}">
+        <Coords points="2379,1812 2515,1812 2515,2130 2379,2130 2379,1812"/>
+        <Baseline points="2453,1814 2453,2133"/>
+        <TextEquiv>
+          <Unicode>卷九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869061" custom="structure {type:Page_Number;}">
+        <Coords points="2397,3111 2510,3111 2510,3311 2397,3311 2397,3111"/>
+        <Baseline points="2444,3118 2453,3313"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷九
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79251" custom="structure {type:MainText;}">
+      <Coords points="2380,1026 2384,4050 724,4066 711,1829 177,1827 172,1028 2380,1026"/>
+      <TextLine id="867381" custom="structure {type:Text;}">
+        <Coords points="2177,1031 2414,1031 2414,3791 2177,3791 2177,1031"/>
+        <Baseline points="2287,3793 2299,1035"/>
+        <TextEquiv>
+          <Unicode>乃差今人梳頭脫著衣時有隨梳解結有光者亦有咤聲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867382" custom="structure {type:Text;}">
+        <Coords points="2010,1051 2209,1051 2209,4036 2010,4036 2010,1051"/>
+        <Baseline points="2103,1054 2103,4039"/>
+        <TextEquiv>
+          <Unicode>風山之首方高三百里風穴如電穴深三十里春風自此而出</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867383" custom="structure {type:Text;}">
+        <Coords points="1823,1041 2030,1041 2030,4049 1823,4049 1823,1041"/>
+        <Baseline points="1924,1042 1924,4050"/>
+        <TextEquiv>
+          <Unicode>也何以知還風也假令東風雲反從西來詵詵而疾此不旋踵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867384" custom="structure {type:Text;}">
+        <Coords points="1625,1033 1848,1033 1848,4046 1625,4046 1625,1033"/>
+        <Baseline points="1740,4048 1748,1037"/>
+        <TextEquiv>
+          <Unicode>立西風矣所以然者諸風皆從上下或薄於雲雲行疾下雖有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867385" custom="structure {type:Text;}">
+        <Coords points="1451,1036 1661,1036 1661,2532 1451,2532 1451,1036"/>
+        <Baseline points="1556,2533 1560,1041"/>
+        <TextEquiv>
+          <Unicode>微風不能勝上上風來則反矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867386" custom="structure {type:Text;}">
+        <Coords points="1261,1033 1491,1033 1491,4049 1261,4049 1261,1033"/>
+        <Baseline points="1372,1037 1388,4050"/>
+        <TextEquiv>
+          <Unicode>春秋書鼷鼠食郊牛牛死鼠之類最小者食物當時不覺痛世</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867387" custom="structure {type:Text;}">
+        <Coords points="1041,1028 1297,1028 1297,4052 1041,4052 1041,1028"/>
+        <Baseline points="1180,4054 1204,1033"/>
+        <TextEquiv>
+          <Unicode>傳雲亦食人項肥厚皮處亦不覺或名甘鼠俗人諱此所嚙衰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867388" custom="structure {type:Text;}">
+        <Coords points="907,1038 1094,1038 1094,1420 907,1420 907,1038"/>
+        <Baseline points="1004,1041 1004,1421"/>
+        <TextEquiv>
+          <Unicode>病之徵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867389" custom="structure {type:Text;}">
+        <Coords points="687,1028 922,1028 922,2302 687,2302 687,1028"/>
+        <Baseline points="816,1033 820,2304"/>
+        <TextEquiv>
+          <Unicode>鼠食巴豆三年重三十斤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867390" custom="structure {type:Title;}">
+        <Coords points="151,1043 394,1043 394,1794 151,1794 151,1043"/>
+        <Baseline points="265,1045 265,1797"/>
+        <TextEquiv>
+          <Unicode>博物志卷九終</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>乃差今人梳頭脫著衣時有隨梳解結有光者亦有咤聲
+風山之首方高三百里風穴如電穴深三十里春風自此而出
+也何以知還風也假令東風雲反從西來詵詵而疾此不旋踵
+立西風矣所以然者諸風皆從上下或薄於雲雲行疾下雖有
+微風不能勝上上風來則反矣
+春秋書鼷鼠食郊牛牛死鼠之類最小者食物當時不覺痛世
+傳雲亦食人項肥厚皮處亦不覺或名甘鼠俗人諱此所嚙衰
+病之徵
+鼠食巴豆三年重三十斤
+博物志卷九終
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79253" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2332,225 2332,133 2460,133 2460,225 2332,225"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

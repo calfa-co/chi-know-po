@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:42+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_11_81_0008.jpg" imageHeight="3172" imageWidth="3568">
+    <TextRegion id="115816" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3299,1150 3435,1150 3423,1654 3315,1654 3299,1150"/>
+      <TextLine id="1092707" custom="structure {type:Section;}">
+        <Coords points="3307,1127 3375,1126 3377,1602 3307,1594 3307,1127"/>
+        <Baseline points="3370,1132 3383,1596"/>
+        <TextEquiv>
+          <Unicode>詩傳註疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩傳註疏
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115817" custom="structure {type:MainText_Right;}">
+      <Coords points="1859,686 3307,658 3315,2698 1899,2698 1859,686"/>
+      <TextLine id="1092708" custom="structure {type:Text;}">
+        <Coords points="3151,653 3301,653 3301,2209 3151,2209 3151,653"/>
+        <Baseline points="3218,657 3242,2211"/>
+        <TextEquiv>
+          <Unicode>人之本又曰宜其家人而後可以教國人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092709" custom="structure {type:Commentary;}">
+        <Coords points="3215,2202 3347,2202 3347,2604 3215,2604 3215,2202"/>
+        <Baseline points="3282,2205 3286,2605"/>
+        <TextEquiv>
+          <Unicode>永樂大典</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092710" custom="structure {type:Title;}">
+        <Coords points="2998,856 3125,856 3125,1087 2998,1087 2998,856"/>
+        <Baseline points="3064,859 3070,1088"/>
+        <TextEquiv>
+          <Unicode>漢廣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092711" custom="structure {type:Text;}">
+        <Coords points="2834,664 2993,664 2993,2715 2834,2715 2834,664"/>
+        <Baseline points="2909,667 2936,2716"/>
+        <TextEquiv>
+          <Unicode>游女獨行非有師傳範其前法制禁其後也恭敬羞惡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092712" custom="structure {type:Text;}">
+        <Coords points="2677,659 2834,659 2834,2697 2677,2697 2677,659"/>
+        <Baseline points="2741,661 2778,2699"/>
+        <TextEquiv>
+          <Unicode>之心積於中形於外動客周旋自然中理凜犯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092713" custom="structure {type:Text;}">
+        <Coords points="2517,653 2679,653 2679,2708 2517,2708 2517,653"/>
+        <Baseline points="2586,657 2620,2709"/>
+        <TextEquiv>
+          <Unicode>使行道之人愛而敬敬而畏閑其邪窒其慾于人所不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092714" custom="structure {type:Text;}">
+        <Coords points="2358,667 2526,667 2526,2705 2358,2705 2358,667"/>
+        <Baseline points="2428,671 2472,2706"/>
+        <TextEquiv>
+          <Unicode>知之地是孰使之然哉文王之德本諸身徵諸庶民者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092715" custom="structure {type:Text;}">
+        <Coords points="2203,664 2367,664 2367,2710 2203,2710 2203,664"/>
+        <Baseline points="2277,667 2314,2712"/>
+        <TextEquiv>
+          <Unicode>盡是矣道化明于上風俗成乎下性不待節而皆善心</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092716" custom="structure {type:Text;}">
+        <Coords points="2051,667 2205,667 2205,2715 2051,2715 2051,667"/>
+        <Baseline points="2125,671 2152,2716"/>
+        <TextEquiv>
+          <Unicode>不待閑而皆一艮婦人女子生長其閒正如堯衢之童不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092717" custom="structure {type:Text;}">
+        <Coords points="1888,669 2055,669 2055,2697 1888,2697 1888,669"/>
+        <Baseline points="1960,674 2001,2699"/>
+        <TextEquiv>
+          <Unicode>識不知而順帝之則天保之民日用飲食而徧為爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>人之本又曰宜其家人而後可以教國人
+永樂大典
+漢廣
+游女獨行非有師傳範其前法制禁其後也恭敬羞惡
+之心積於中形於外動客周旋自然中理凜犯
+使行道之人愛而敬敬而畏閑其邪窒其慾于人所不
+知之地是孰使之然哉文王之德本諸身徵諸庶民者
+盡是矣道化明于上風俗成乎下性不待節而皆善心
+不待閑而皆一艮婦人女子生長其閒正如堯衢之童不
+識不知而順帝之則天保之民日用飲食而徧為爾
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115818" custom="structure {type:MainText_Left;}">
+      <Coords points="319,698 1759,694 1763,2694 363,2694 319,698"/>
+      <TextLine id="1092718" custom="structure {type:Text;}">
+        <Coords points="1611,671 1745,671 1745,2705 1611,2705 1611,671"/>
+        <Baseline points="1695,2706 1698,674"/>
+        <TextEquiv>
+          <Unicode>彼亦不自知其行乎天理之中也王道之盛至此極矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092719" custom="structure {type:Commentary;}">
+        <Coords points="1508,667 1628,667 1628,1090 1508,1090 1508,667"/>
+        <Baseline points="1570,1091 1573,671"/>
+        <TextEquiv>
+          <Unicode>永樂大典</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092720" custom="structure {type:Title;}">
+        <Coords points="1302,838 1442,838 1442,1217 1302,1217 1302,838"/>
+        <Baseline points="1375,839 1375,1219"/>
+        <TextEquiv>
+          <Unicode>麟之趾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092721" custom="structure {type:Text;}">
+        <Coords points="1137,685 1281,685 1281,2680 1137,2680 1137,685"/>
+        <Baseline points="1207,2682 1224,688"/>
+        <TextEquiv>
+          <Unicode>麟之趾之定之角美其仁頌詠其一身之閒皆仁也一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092722" custom="structure {type:Text;}">
+        <Coords points="985,667 1115,667 1115,2401 985,2401 985,667"/>
+        <Baseline points="1059,671 1062,2403"/>
+        <TextEquiv>
+          <Unicode>章曰趾二章曰定三角自下而至于上也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092723" custom="structure {type:Commentary;}">
+        <Coords points="1041,2377 1161,2377 1161,2694 1041,2694 1041,2377"/>
+        <Baseline points="1099,2379 1102,2696"/>
+        <TextEquiv>
+          <Unicode>劉瑾通</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092724" custom="structure {type:Commentary;}">
+        <Coords points="943,2380 1064,2380 1064,2518 943,2518 943,2380"/>
+        <Baseline points="1018,2383 1022,2517"/>
+        <TextEquiv>
+          <Unicode>釋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092725" custom="structure {type:Title;}">
+        <Coords points="830,764 957,764 957,1009 830,1009 830,764"/>
+        <Baseline points="891,768 894,1011"/>
+        <TextEquiv>
+          <Unicode>召南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092726" custom="structure {type:Title;}">
+        <Coords points="669,844 802,844 802,1113 669,1113 669,844"/>
+        <Baseline points="732,846 736,1115"/>
+        <TextEquiv>
+          <Unicode>鵲巢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092727" custom="structure {type:Text;}">
+        <Coords points="512,683 648,683 648,2697 512,2697 512,683"/>
+        <Baseline points="581,684 581,2699"/>
+        <TextEquiv>
+          <Unicode>一章居鳩居鵲巢夫人始歸其夫家也二章曰方方</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092728" custom="structure {type:Text;}">
+        <Coords points="349,681 486,681 486,2697 349,2697 349,681"/>
+        <Baseline points="420,684 426,2699"/>
+        <TextEquiv>
+          <Unicode>正也鳩能正鵲之成巢夫人能正其家也三章曰盈鳩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>彼亦不自知其行乎天理之中也王道之盛至此極矣
+永樂大典
+麟之趾
+麟之趾之定之角美其仁頌詠其一身之閒皆仁也一
+章曰趾二章曰定三角自下而至于上也
+劉瑾通
+釋
+召南
+鵲巢
+一章居鳩居鵲巢夫人始歸其夫家也二章曰方方
+正也鳩能正鵲之成巢夫人能正其家也三章曰盈鳩
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115819" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="223,1174 335,1178 363,2702 247,2702 223,1174"/>
+      <TextLine id="1092729" custom="structure {type:Section;}">
+        <Coords points="269,1170 331,1163 331,1658 262,1671 269,1170"/>
+        <Baseline points="292,1165 298,1660"/>
+        <TextEquiv>
+          <Unicode>詩傳註疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1113448" custom="structure {type:Page_Number;}">
+        <Coords points="263,2128 333,2128 335,2216 259,2210 263,2128"/>
+        <Baseline points="307,2214 309,2136"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1092730" custom="structure {type:Title;}">
+        <Coords points="263,2218 344,2224 348,2706 269,2702 263,2218"/>
+        <Baseline points="307,2220 312,2719"/>
+        <TextEquiv>
+          <Unicode>知不足齋叢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩傳註疏
+二
+知不足齋叢書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

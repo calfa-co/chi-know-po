@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:32+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0023.jpg" imageHeight="4479" imageWidth="2546">
+    <TextRegion id="79200" custom="structure {type:MainText;}">
+      <Coords points="190,4008 197,963 2397,963 2397,4008 190,4008"/>
+      <TextLine id="867251" custom="structure {type:Title;}">
+        <Coords points="2210,965 2406,965 2406,1595 2210,1595 2210,965"/>
+        <Baseline points="2315,968 2323,1596"/>
+        <TextEquiv>
+          <Unicode>博物志卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867252" custom="structure {type:Title;}">
+        <Coords points="2033,1214 2210,1214 2210,1470 2033,1470 2033,1214"/>
+        <Baseline points="2128,1216 2128,1472"/>
+        <TextEquiv>
+          <Unicode>外國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867253" custom="structure {type:Text;}">
+        <Coords points="1846,965 2063,965 2063,3986 1846,3986 1846,965"/>
+        <Baseline points="1944,3987 1948,970"/>
+        <TextEquiv>
+          <Unicode>夷海內西北有軒轅國在窮山之際其不壽者八百歲渚沃之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867254" custom="structure {type:Text;}">
+        <Coords points="1669,965 1866,965 1866,2363 1669,2363 1669,965"/>
+        <Baseline points="1768,966 1768,2366"/>
+        <TextEquiv>
+          <Unicode>野鸞自舞民食鳳卵飲甘露</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867255" custom="structure {type:Text;}">
+        <Coords points="1483,970 1684,970 1684,3366 1483,3366 1483,970"/>
+        <Baseline points="1580,974 1584,3367"/>
+        <TextEquiv>
+          <Unicode>白民國有乘黃狀如狐背上有角乘之壽三千歲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867256" custom="structure {type:Text;}">
+        <Coords points="1296,967 1493,967 1493,3986 1296,3986 1296,967"/>
+        <Baseline points="1400,3987 1412,968"/>
+        <TextEquiv>
+          <Unicode>君子國人衣冠帶劍使兩虎民衣野絲好禮讓不爭土千里多</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867257" custom="structure {type:Text;}">
+        <Coords points="1112,967 1309,967 1309,3605 1112,3605 1112,967"/>
+        <Baseline points="1212,3607 1220,971"/>
+        <TextEquiv>
+          <Unicode>薰華之草民多疾風氣故人不蕃息好讓故為君子國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867258" custom="structure {type:Text;}">
+        <Coords points="925,970 1112,970 1112,3986 925,3986 925,970"/>
+        <Baseline points="1032,3987 1036,971"/>
+        <TextEquiv>
+          <Unicode>三苗國昔唐堯以天下讓於虞三苗之民非之帝殺有苗之民</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867259" custom="structure {type:Text;}">
+        <Coords points="754,965 938,965 938,2085 754,2085 754,965"/>
+        <Baseline points="840,970 844,2087"/>
+        <TextEquiv>
+          <Unicode>叛浮入南海為三苗國</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867260" custom="structure {type:Text;}">
+        <Coords points="562,972 771,972 771,3986 562,3986 562,972"/>
+        <Baseline points="660,975 660,3987"/>
+        <TextEquiv>
+          <Unicode>驩兜國其民盡似仙人帝堯司徒驩兜民常捕海島中人面鳥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867261" custom="structure {type:Text;}">
+        <Coords points="385,982 574,982 574,2600 385,2600 385,982"/>
+        <Baseline points="481,986 489,2601"/>
+        <TextEquiv>
+          <Unicode>口去南國萬六千里盡似仙人也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867262" custom="structure {type:Text;}">
+        <Coords points="189,965 388,965 388,3986 189,3986 189,965"/>
+        <Baseline points="293,3987 305,966"/>
+        <TextEquiv>
+          <Unicode>大人國其人孕三十六年生白頭其兒則長大能乘雲而不能</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>博物志卷二
+外國
+夷海內西北有軒轅國在窮山之際其不壽者八百歲渚沃之
+野鸞自舞民食鳳卵飲甘露
+白民國有乘黃狀如狐背上有角乘之壽三千歲
+君子國人衣冠帶劍使兩虎民衣野絲好禮讓不爭土千里多
+薰華之草民多疾風氣故人不蕃息好讓故為君子國
+三苗國昔唐堯以天下讓於虞三苗之民非之帝殺有苗之民
+叛浮入南海為三苗國
+驩兜國其民盡似仙人帝堯司徒驩兜民常捕海島中人面鳥
+口去南國萬六千里盡似仙人也
+大人國其人孕三十六年生白頭其兒則長大能乘雲而不能
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79201" custom="structure {type:Marginalia;}">
+      <Coords points="1844,917 1844,340 1988,340 1988,917 1844,917"/>
+      <TextLine id="867263" custom="structure {type:Marginalia;}">
+        <Coords points="1831,345 1983,345 1983,905 1831,905 1831,345"/>
+        <Baseline points="1889,351 1917,906"/>
+        <TextEquiv>
+          <Unicode>之際其不壽者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>之際其不壽者
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79227" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="153,206 153,114 261,114 261,206 153,206"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79228" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="105,3462 105,1706 187,1710 188,2534 181,3462 105,3462"/>
+      <TextLine id="869032" custom="structure {type:Page_Number;}">
+        <Coords points="72,1734 211,1734 211,2027 72,2027 72,1734"/>
+        <Baseline points="131,1739 136,2029"/>
+        <TextEquiv>
+          <Unicode>卷二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869033" custom="structure {type:Title;}">
+        <Coords points="67,2311 209,2311 209,2769 67,2769 67,2311"/>
+        <Baseline points="140,2314 140,2771"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869034" custom="structure {type:Page_Number;}">
+        <Coords points="67,3088 174,3088 174,3224 67,3224 67,3088"/>
+        <Baseline points="140,3090 140,3227"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷二
+博物志
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:48+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_12_89_0009.jpg" imageHeight="3095" imageWidth="3494">
+    <TextRegion id="115925" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3204,1070 3315,1063 3335,1538 3234,1527 3204,1070"/>
+      <TextLine id="1093493" custom="structure {type:Section;}">
+        <Coords points="3234,1070 3310,1059 3306,1541 3232,1542 3234,1070"/>
+        <Baseline points="3265,1046 3292,1544"/>
+        <TextEquiv>
+          <Unicode>詩義指南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩義指南
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115926" custom="structure {type:MainText_Right;}">
+      <Coords points="1778,592 3238,582 3221,2627 1795,2641 1778,592"/>
+      <TextLine id="1093494" custom="structure {type:Title;}">
+        <Coords points="3072,572 3213,572 3213,1731 3072,1731 3072,572"/>
+        <Baseline points="3144,576 3154,1733"/>
+        <TextEquiv>
+          <Unicode>榛栗椅桐梓漆爰伐琴瑟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093495" custom="structure {type:Commentary;}">
+        <Coords points="3132,1729 3225,1722 3239,2181 3129,2181 3132,1729"/>
+        <Baseline points="3194,1712 3201,2183"/>
+        <TextEquiv>
+          <Unicode>定之方中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093496" custom="structure {type:Text;}">
+        <Coords points="2923,699 3053,699 3053,2635 2923,2635 2923,699"/>
+        <Baseline points="2992,703 2996,2637"/>
+        <TextEquiv>
+          <Unicode>因天時以定居其謀之審固可貴因地利以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093497" custom="structure {type:Text;}">
+        <Coords points="2759,670 2897,670 2897,1745 2759,1745 2759,670"/>
+        <Baseline points="2824,673 2841,1746"/>
+        <TextEquiv>
+          <Unicode>植物其謀之遠尢可貴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093498" custom="structure {type:Title;}">
+        <Coords points="2599,569 2737,569 2737,2653 2599,2653 2599,569"/>
+        <Baseline points="2676,572 2683,2654"/>
+        <TextEquiv>
+          <Unicode>孑孑干旄在浚之郊素絲紕之一良馬四之彼姝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093499" custom="structure {type:Title;}">
+        <Coords points="2446,558 2574,558 2574,1256 2446,1256 2446,558"/>
+        <Baseline points="2511,1258 2514,562"/>
+        <TextEquiv>
+          <Unicode>者子何以畀之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093500" custom="structure {type:Commentary;}">
+        <Coords points="2488,1258 2613,1258 2613,1519 2488,1519 2488,1258"/>
+        <Baseline points="2551,1262 2555,1521"/>
+        <TextEquiv>
+          <Unicode>干旄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093501" custom="structure {type:Text;}">
+        <Coords points="2278,691 2419,691 2419,2656 2278,2656 2278,691"/>
+        <Baseline points="2353,693 2363,2658"/>
+        <TextEquiv>
+          <Unicode>在上而求夫賢既能忘其貴為賢而荅夫上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093502" custom="structure {type:Text;}">
+        <Coords points="2121,687 2257,687 2257,1284 2121,1284 2121,687"/>
+        <Baseline points="2192,690 2208,1285"/>
+        <TextEquiv>
+          <Unicode>必能盡其道</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093503" custom="structure {type:Title;}">
+        <Coords points="1956,576 2099,576 2099,2647 1956,2647 1956,576"/>
+        <Baseline points="2023,579 2047,2648"/>
+        <TextEquiv>
+          <Unicode>瞻彼淇奧綠竹猗猗有匪君子如切如磋如琢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093504" custom="structure {type:Title;}">
+        <Coords points="1800,567 1934,567 1934,827 1800,827 1800,567"/>
+        <Baseline points="1859,572 1869,828"/>
+        <TextEquiv>
+          <Unicode>如磨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093505" custom="structure {type:Commentary;}">
+        <Coords points="1843,797 1973,797 1973,1067 1843,1067 1843,797"/>
+        <Baseline points="1912,804 1929,1067"/>
+        <TextEquiv>
+          <Unicode>淇奧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>榛栗椅桐梓漆爰伐琴瑟
+定之方中
+因天時以定居其謀之審固可貴因地利以
+植物其謀之遠尢可貴
+孑孑干旄在浚之郊素絲紕之一良馬四之彼姝
+者子何以畀之
+干旄
+在上而求夫賢既能忘其貴為賢而荅夫上
+必能盡其道
+瞻彼淇奧綠竹猗猗有匪君子如切如磋如琢
+如磨
+淇奧
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115927" custom="structure {type:MainText_Left;}">
+      <Coords points="277,619 1721,599 1724,2644 294,2648 277,619"/>
+      <TextLine id="1093506" custom="structure {type:Text;}">
+        <Coords points="1556,691 1704,691 1704,2653 1556,2653 1556,691"/>
+        <Baseline points="1623,693 1647,2654"/>
+        <TextEquiv>
+          <Unicode>郎生物所以興夫德之盛郎治物所以興夫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093507" custom="structure {type:Text;}">
+        <Coords points="1397,686 1544,686 1544,1093 1397,1093 1397,686"/>
+        <Baseline points="1462,690 1482,1094"/>
+        <TextEquiv>
+          <Unicode>學之脩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093508" custom="structure {type:Title;}">
+        <Coords points="1227,579 1385,579 1385,2551 1227,2551 1227,579"/>
+        <Baseline points="1303,582 1334,2553"/>
+        <TextEquiv>
+          <Unicode>瑟兮僩兮赫兮咺兮有匪君子終不可諟兮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093509" custom="structure {type:Text;}">
+        <Coords points="1072,687 1224,687 1224,2653 1072,2653 1072,687"/>
+        <Baseline points="1149,690 1169,2654"/>
+        <TextEquiv>
+          <Unicode>君子之德既有以著於身則君子之德常有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093510" custom="structure {type:Text;}">
+        <Coords points="921,706 1047,706 1047,1203 921,1203 921,706"/>
+        <Baseline points="984,710 994,1205"/>
+        <TextEquiv>
+          <Unicode>以在乎人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093511" custom="structure {type:Title;}">
+        <Coords points="754,593 906,593 906,2663 754,2663 754,593"/>
+        <Baseline points="829,596 846,2664"/>
+        <TextEquiv>
+          <Unicode>瞻彼淇奧綠竹青青有匪君子充耳琇瑩會弁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093512" custom="structure {type:Title;}">
+        <Coords points="598,582 739,582 739,858 598,858 598,582"/>
+        <Baseline points="664,589 678,858"/>
+        <TextEquiv>
+          <Unicode>如星</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093513" custom="structure {type:Text;}">
+        <Coords points="433,710 589,710 589,2666 433,2666 433,710"/>
+        <Baseline points="506,713 526,2668"/>
+        <TextEquiv>
+          <Unicode>地之美者觀物類而可知德之美者觀服飾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093514" custom="structure {type:Text;}">
+        <Coords points="281,698 409,698 409,1086 281,1086 281,698"/>
+        <Baseline points="351,700 355,1087"/>
+        <TextEquiv>
+          <Unicode>而可知</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>郎生物所以興夫德之盛郎治物所以興夫
+學之脩
+瑟兮僩兮赫兮咺兮有匪君子終不可諟兮
+君子之德既有以著於身則君子之德常有
+以在乎人
+瞻彼淇奧綠竹青青有匪君子充耳琇瑩會弁
+如星
+地之美者觀物類而可知德之美者觀服飾
+而可知
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115928" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="160,1100 267,1100 298,2671 190,2661 160,1100"/>
+      <TextLine id="1093515" custom="structure {type:Section;}">
+        <Coords points="185,1092 259,1106 259,1552 185,1565 185,1092"/>
+        <Baseline points="210,1077 214,1554"/>
+        <TextEquiv>
+          <Unicode>詩義指南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114356" custom="structure {type:Page_Number;}">
+        <Coords points="211,2053 278,2050 282,2162 202,2160 211,2053"/>
+        <Baseline points="240,2048 240,2160"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093516" custom="structure {type:Title;}">
+        <Coords points="206,2169 290,2169 290,2666 206,2664 206,2169"/>
+        <Baseline points="240,2169 240,2668"/>
+        <TextEquiv>
+          <Unicode>知不足齋叢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩義指南
+四
+知不足齋叢書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

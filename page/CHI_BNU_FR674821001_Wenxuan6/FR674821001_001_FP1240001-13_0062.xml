@@ -1,0 +1,357 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:24+00:00</Created>
+  </Metadata>
+  <Page imageFilename="FR674821001_001_FP1240001-13_0062.jpg" imageHeight="3500" imageWidth="1878">
+    <TextRegion id="117212" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1709,1282 1753,1278 1751,2440 1701,2434 1709,1282"/>
+      <TextLine id="1104636" custom="structure {type:Section;}">
+        <Coords points="1710,1354 1754,1354 1754,1560 1708,1559 1710,1354"/>
+        <Baseline points="1735,1357 1735,1559"/>
+        <TextEquiv>
+          <Unicode>文三七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104637" custom="structure {type:Page_Number;}">
+        <Coords points="1701,2273 1742,2267 1745,2337 1700,2341 1701,2273"/>
+        <Baseline points="1735,2275 1735,2339"/>
+        <TextEquiv>
+          <Unicode>七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>文三七
+七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117213" custom="structure {type:MainText;}">
+      <Coords points="185,800 1700,810 1679,3176 171,3143 185,800"/>
+      <TextLine id="1104638" custom="structure {type:Text;}">
+        <Coords points="1552,1715 1552,812 1627,819 1701,812 1693,2622 1548,2620 1552,1715"/>
+        <Baseline points="1617,2624 1631,816"/>
+        <TextEquiv>
+          <Unicode>若此終年無益國朝將挂風人彼己之譏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104639" custom="structure {type:Commentary;}">
+        <Coords points="1619,2630 1686,2632 1686,3145 1617,3145 1619,2630"/>
+        <Baseline points="1648,2633 1651,3136"/>
+        <TextEquiv>
+          <Unicode>毛詩彼己之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104640" custom="structure {type:Commentary;}">
+        <Coords points="1547,2625 1617,2627 1619,3158 1540,3153 1547,2625"/>
+        <Baseline points="1575,3145 1583,2627"/>
+        <TextEquiv>
+          <Unicode>子不稱其服</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104641" custom="structure {type:Text;}">
+        <Coords points="1405,1391 1414,815 1543,817 1547,1965 1404,1964 1405,1391"/>
+        <Baseline points="1476,1967 1479,821"/>
+        <TextEquiv>
+          <Unicode>是以上慙玄冕俯愧朱紱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104642" custom="structure {type:Commentary;}">
+        <Coords points="1468,2874 1469,2726 1481,2591 1473,2450 1474,2279 1479,1966 1545,1969 1542,2580 1537,3163 1464,3161 1468,2874"/>
+        <Baseline points="1504,3155 1513,1959"/>
+        <TextEquiv>
+          <Unicode>周禮曰王之五冕玄冕朱裏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104643" custom="structure {type:Commentary;}">
+        <Coords points="1400,2569 1394,1964 1482,1961 1481,2571 1468,3170 1394,3172 1400,2569"/>
+        <Baseline points="1428,3164 1445,1965"/>
+        <TextEquiv>
+          <Unicode>禮記曰諸侯佩山玄玉而朱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104644" custom="structure {type:Commentary;}">
+        <Coords points="1331,1089 1325,824 1408,824 1408,1361 1330,1357 1331,1089"/>
+        <Baseline points="1363,827 1368,1362"/>
+        <TextEquiv>
+          <Unicode>組綬蒼頡篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104645" custom="structure {type:Commentary;}">
+        <Coords points="1257,829 1333,826 1333,1244 1256,1246 1257,829"/>
+        <Baseline points="1292,1246 1295,830"/>
+        <TextEquiv>
+          <Unicode>曰紱綬也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104646" custom="structure {type:Text;}">
+        <Coords points="1257,1359 1404,1362 1393,2498 1241,2498 1257,1359"/>
+        <Baseline points="1329,2499 1332,1362"/>
+        <TextEquiv>
+          <Unicode>方今天下一統九州晏如</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104647" custom="structure {type:Commentary;}">
+        <Coords points="1320,2834 1326,2502 1401,2496 1390,3156 1313,3161 1320,2834"/>
+        <Baseline points="1351,3149 1363,2499"/>
+        <TextEquiv>
+          <Unicode>尚書大傳曰周</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104648" custom="structure {type:Commentary;}">
+        <Coords points="1249,2506 1325,2506 1313,3153 1246,3160 1249,2506"/>
+        <Baseline points="1278,3152 1298,2510"/>
+        <TextEquiv>
+          <Unicode>公一統天下合</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104649" custom="structure {type:Commentary;}">
+        <Coords points="1180,1143 1182,812 1254,814 1251,1143 1252,1473 1175,1471 1180,1143"/>
+        <Baseline points="1213,1472 1221,816"/>
+        <TextEquiv>
+          <Unicode>和四海然一統</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104650" custom="structure {type:Commentary;}">
+        <Coords points="1101,814 1178,814 1182,1350 1109,1357 1101,814"/>
+        <Baseline points="1145,1353 1151,818"/>
+        <TextEquiv>
+          <Unicode>謂其統緒也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104651" custom="structure {type:Text;}">
+        <Coords points="1101,2800 1103,2316 1111,1471 1247,1471 1247,3155 1103,3163 1101,2800"/>
+        <Baseline points="1168,3157 1182,1475"/>
+        <TextEquiv>
+          <Unicode>顧西尚有違命之蜀東有不臣之吳使</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104652" custom="structure {type:Text;}">
+        <Coords points="960,805 1101,805 1101,2294 953,2295 960,805"/>
+        <Baseline points="1023,2295 1035,807"/>
+        <TextEquiv>
+          <Unicode>邊境未得稅甲謀士未得高枕者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104653" custom="structure {type:Commentary;}">
+        <Coords points="1024,2738 1025,2294 1103,2294 1098,3167 1020,3161 1024,2738"/>
+        <Baseline points="1052,3155 1063,2298"/>
+        <TextEquiv>
+          <Unicode>爾雅曰稅舍也漢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104654" custom="structure {type:Commentary;}">
+        <Coords points="955,2295 1029,2294 1022,3151 943,3156 955,2295"/>
+        <Baseline points="984,3146 992,2298"/>
+        <TextEquiv>
+          <Unicode>賈誼曰陛下高枕垂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104655" custom="structure {type:Commentary;}">
+        <Coords points="872,817 956,814 958,1123 876,1126 872,817"/>
+        <Baseline points="916,813 924,1124"/>
+        <TextEquiv>
+          <Unicode>統無山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104656" custom="structure {type:Commentary;}">
+        <Coords points="797,800 874,804 879,1143 798,1145 797,800"/>
+        <Baseline points="837,804 842,1144"/>
+        <TextEquiv>
+          <Unicode>東之憂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104657" custom="structure {type:Text;}">
+        <Coords points="803,1140 949,1139 949,2372 790,2372 803,1140"/>
+        <Baseline points="873,1141 873,2374"/>
+        <TextEquiv>
+          <Unicode>誠欲混同宇內以致太和也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104658" custom="structure {type:Commentary;}">
+        <Coords points="869,2383 946,2378 943,3151 869,3151 869,2383"/>
+        <Baseline points="907,2383 907,3146"/>
+        <TextEquiv>
+          <Unicode>法言曰或問太和</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104659" custom="structure {type:Commentary;}">
+        <Coords points="793,2384 867,2390 872,3141 790,3146 793,2384"/>
+        <Baseline points="831,2388 837,3143"/>
+        <TextEquiv>
+          <Unicode>曰其在唐虞成周</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104660" custom="structure {type:Commentary;}">
+        <Coords points="719,812 801,814 801,1242 726,1246 719,812"/>
+        <Baseline points="755,818 760,1243"/>
+        <TextEquiv>
+          <Unicode>也李軌曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104661" custom="structure {type:Commentary;}">
+        <Coords points="644,817 719,814 731,1244 649,1249 644,817"/>
+        <Baseline points="684,818 695,1246"/>
+        <TextEquiv>
+          <Unicode>天下太和</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104662" custom="structure {type:Text;}">
+        <Coords points="655,1251 797,1252 798,1865 645,1870 655,1251"/>
+        <Baseline points="726,1254 726,1873"/>
+        <TextEquiv>
+          <Unicode>故啟滅有扈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104663" custom="structure {type:Commentary;}">
+        <Coords points="714,1868 797,1858 792,1942 709,1949 714,1868"/>
+        <Baseline points="760,1859 760,1924"/>
+        <TextEquiv>
+          <Unicode>戶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104664" custom="structure {type:Text;}">
+        <Coords points="645,1952 788,1944 792,2381 645,2398 645,1952"/>
+        <Baseline points="721,1933 729,2391"/>
+        <TextEquiv>
+          <Unicode>而夏功昭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104665" custom="structure {type:Commentary;}">
+        <Coords points="716,2791 723,2384 786,2385 786,3148 716,3153 716,2791"/>
+        <Baseline points="746,3149 760,2388"/>
+        <TextEquiv>
+          <Unicode>尚書曰啟與有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104666" custom="structure {type:Commentary;}">
+        <Coords points="637,2396 722,2391 716,3141 635,3140 637,2396"/>
+        <Baseline points="670,3133 675,2395"/>
+        <TextEquiv>
+          <Unicode>扈戰于甘之野史</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104667" custom="structure {type:Commentary;}">
+        <Coords points="570,1207 573,822 646,820 647,1597 566,1599 570,1207"/>
+        <Baseline points="608,1605 613,824"/>
+        <TextEquiv>
+          <Unicode>記曰啟遂滅有扈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104668" custom="structure {type:Commentary;}">
+        <Coords points="502,820 577,818 577,1493 496,1498 502,820"/>
+        <Baseline points="537,1494 540,821"/>
+        <TextEquiv>
+          <Unicode>氏天下咸朝夏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104669" custom="structure {type:Text;}">
+        <Coords points="501,2078 504,1597 638,1598 634,2543 504,2549 501,2078"/>
+        <Baseline points="560,2538 571,1602"/>
+        <TextEquiv>
+          <Unicode>成克商奄而周德著</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104670" custom="structure {type:Commentary;}">
+        <Coords points="561,2548 634,2544 635,3146 561,3146 561,2548"/>
+        <Baseline points="596,3143 602,2538"/>
+        <TextEquiv>
+          <Unicode>尚書曰武王崩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104671" custom="structure {type:Commentary;}">
+        <Coords points="489,2551 560,2541 558,3141 482,3141 489,2551"/>
+        <Baseline points="523,2544 528,3138"/>
+        <TextEquiv>
+          <Unicode>三監及淮夷叛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104672" custom="structure {type:Commentary;}">
+        <Coords points="408,2665 422,1872 422,1340 423,817 505,814 482,2924 396,2914 408,2665"/>
+        <Baseline points="438,2931 461,818"/>
+        <TextEquiv>
+          <Unicode>周公相成王將黜殷命孔安國曰三監管蔡商也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104673" custom="structure {type:Commentary;}">
+        <Coords points="338,1789 343,812 422,814 415,1528 420,1752 412,2724 336,2726 338,1789"/>
+        <Baseline points="373,2725 390,813"/>
+        <TextEquiv>
+          <Unicode>淮夷徐奄之屬史記曰成王東伐淮夷徐奄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104674" custom="structure {type:Commentary;}">
+        <Coords points="336,2911 393,2911 472,2928 472,3146 339,3141 336,2911"/>
+        <Baseline points="395,2914 407,3143"/>
+        <TextEquiv>
+          <Unicode>今陛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104675" custom="structure {type:Text;}">
+        <Coords points="184,832 334,825 331,2865 176,2872 184,832"/>
+        <Baseline points="257,2875 265,827"/>
+        <TextEquiv>
+          <Unicode>下以聖明統世將欲卒文武之功繼成康之隆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104676" custom="structure {type:Commentary;}">
+        <Coords points="258,2865 334,2867 334,3140 262,3136 258,2865"/>
+        <Baseline points="288,2861 296,3121"/>
+        <TextEquiv>
+          <Unicode>假周之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1104677" custom="structure {type:Commentary;}">
+        <Coords points="179,2877 260,2874 260,3128 176,3130 179,2877"/>
+        <Baseline points="223,3126 226,2872"/>
+        <TextEquiv>
+          <Unicode>令德以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>若此終年無益國朝將挂風人彼己之譏
+毛詩彼己之
+子不稱其服
+是以上慙玄冕俯愧朱紱
+周禮曰王之五冕玄冕朱裏
+禮記曰諸侯佩山玄玉而朱
+組綬蒼頡篇
+曰紱綬也
+方今天下一統九州晏如
+尚書大傳曰周
+公一統天下合
+和四海然一統
+謂其統緒也
+顧西尚有違命之蜀東有不臣之吳使
+邊境未得稅甲謀士未得高枕者
+爾雅曰稅舍也漢書
+賈誼曰陛下高枕垂
+統無山
+東之憂
+誠欲混同宇內以致太和也
+法言曰或問太和
+曰其在唐虞成周
+也李軌曰
+天下太和
+故啟滅有扈
+戶
+而夏功昭
+尚書曰啟與有
+扈戰于甘之野史
+記曰啟遂滅有扈
+氏天下咸朝夏
+成克商奄而周德著
+尚書曰武王崩
+三監及淮夷叛
+周公相成王將黜殷命孔安國曰三監管蔡商也
+淮夷徐奄之屬史記曰成王東伐淮夷徐奄
+今陛
+下以聖明統世將欲卒文武之功繼成康之隆
+假周之
+令德以
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

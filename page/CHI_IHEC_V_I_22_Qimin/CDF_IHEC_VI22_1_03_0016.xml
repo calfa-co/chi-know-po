@@ -1,0 +1,263 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:35+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_03_0016.jpg" imageHeight="4178" imageWidth="4663">
+    <TextRegion id="119619" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4381,3673 4381,791 4533,791 4533,3673 4381,3673"/>
+      <TextLine id="1129483" custom="structure {type:Title;}">
+        <Coords points="4414,765 4505,764 4502,1366 4414,1367 4414,765"/>
+        <Baseline points="4466,1369 4476,770"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129484" custom="structure {type:Section;}">
+        <Coords points="4423,1719 4511,1722 4514,2005 4423,2014 4423,1719"/>
+        <Baseline points="4470,1725 4483,1998"/>
+        <TextEquiv>
+          <Unicode>卷七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129485" custom="structure {type:Page_Number;}">
+        <Coords points="4437,2926 4528,2922 4531,3148 4437,3147 4437,2926"/>
+        <Baseline points="4497,2936 4524,3145"/>
+        <TextEquiv>
+          <Unicode>十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷七
+十三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119620" custom="structure {type:MainText_Right;}">
+      <Coords points="2536,3669 2536,791 4395,791 4395,3669 2536,3669"/>
+      <TextLine id="1129486" custom="structure {type:Text;}">
+        <Coords points="4221,772 4407,772 4407,3674 4221,3674 4221,772"/>
+        <Baseline points="4302,777 4318,3676"/>
+        <TextEquiv>
+          <Unicode>押出還得與桑落時相接地窖著酒令酒土氣惟連簷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129487" custom="structure {type:Text;}">
+        <Coords points="4010,772 4193,772 4193,3665 4010,3665 4010,772"/>
+        <Baseline points="4103,774 4107,3666"/>
+        <TextEquiv>
+          <Unicode>草屋中居之為佳瓦屋亦熟作麴浸麴炊釀一切悉用</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129488" custom="structure {type:Text;}">
+        <Coords points="3799,800 3984,800 3984,2550 3799,2550 3799,800"/>
+        <Baseline points="3905,804 3928,2553"/>
+        <TextEquiv>
+          <Unicode>河水無手力之家乃用甘井水耳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129489" custom="structure {type:Text;}">
+        <Coords points="3604,759 3780,759 3780,2699 3604,2699 3604,759"/>
+        <Baseline points="3696,2701 3710,763"/>
+        <TextEquiv>
+          <Unicode>淮南萬畢術曰酒薄復厚漬以莞蒲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129490" custom="structure {type:Commentary;}">
+        <Coords points="3692,2683 3831,2683 3831,3665 3692,3665 3692,2683"/>
+        <Baseline points="3743,2687 3764,3666"/>
+        <TextEquiv>
+          <Unicode>斷蒲漬酒中有頃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129491" custom="structure {type:Commentary;}">
+        <Coords points="3583,2671 3713,2671 3713,3521 3583,3521 3583,2671"/>
+        <Baseline points="3643,2674 3656,3522"/>
+        <TextEquiv>
+          <Unicode>出之酒則厚矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129492" custom="structure {type:Text;}">
+        <Coords points="3383,761 3587,761 3587,3674 3383,3674 3383,761"/>
+        <Baseline points="3481,763 3508,3676"/>
+        <TextEquiv>
+          <Unicode>凡冬月釀酒中冷不發者以瓦瓶盛熱湯堅塞口又於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129493" custom="structure {type:Text;}">
+        <Coords points="3181,765 3376,765 3376,3272 3181,3272 3181,765"/>
+        <Baseline points="3279,770 3306,3273"/>
+        <TextEquiv>
+          <Unicode>釜湯中煮瓶令極熱引出著酒甕中須臾即發</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129494" custom="structure {type:Title;}">
+        <Coords points="2981,1028 3162,1028 3162,2019 2981,2019 2981,1028"/>
+        <Baseline points="3057,1033 3094,2021"/>
+        <TextEquiv>
+          <Unicode>白醪麴第六十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129495" custom="structure {type:Commentary;}">
+        <Coords points="3081,2037 3195,2037 3195,2471 3081,2471 3081,2037"/>
+        <Baseline points="3125,2042 3135,2472"/>
+        <TextEquiv>
+          <Unicode>皇甫吏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129496" custom="structure {type:Commentary;}">
+        <Coords points="2958,1977 3095,1977 3095,2462 2958,2462 2958,1977"/>
+        <Baseline points="3017,1984 3044,2465"/>
+        <TextEquiv>
+          <Unicode>部家法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129497" custom="structure {type:Text;}">
+        <Coords points="2775,756 2981,756 2981,3681 2775,3681 2775,756"/>
+        <Baseline points="2866,760 2896,3683"/>
+        <TextEquiv>
+          <Unicode>作白醪麴法取小麥三石一石熬之一石蒸之一石生</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129498" custom="structure {type:Text;}">
+        <Coords points="2556,756 2786,756 2786,3662 2556,3662 2556,756"/>
+        <Baseline points="2654,760 2704,3663"/>
+        <TextEquiv>
+          <Unicode>三等合和細磨作屑煮胡葉湯經宿使冷和麥屑擣令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>押出還得與桑落時相接地窖著酒令酒土氣惟連簷
+草屋中居之為佳瓦屋亦熟作麴浸麴炊釀一切悉用
+河水無手力之家乃用甘井水耳
+淮南萬畢術曰酒薄復厚漬以莞蒲
+斷蒲漬酒中有頃
+出之酒則厚矣
+凡冬月釀酒中冷不發者以瓦瓶盛熱湯堅塞口又於
+釜湯中煮瓶令極熱引出著酒甕中須臾即發
+白醪麴第六十五
+皇甫吏
+部家法
+作白醪麴法取小麥三石一石熬之一石蒸之一石生
+三等合和細磨作屑煮胡葉湯經宿使冷和麥屑擣令
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119621" custom="structure {type:MainText_Left;}">
+      <Coords points="367,3711 367,757 2188,757 2188,3711 367,3711"/>
+      <TextLine id="1129499" custom="structure {type:Text;}">
+        <Coords points="1990,756 2171,756 2171,3685 1990,3685 1990,756"/>
+        <Baseline points="2089,3686 2099,760"/>
+        <TextEquiv>
+          <Unicode>熟踏作餅圓鐵作範徑五寸厚一寸餘牀上置箔箔上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129500" custom="structure {type:Text;}">
+        <Coords points="1785,759 1969,759 1969,3695 1785,3695 1785,759"/>
+        <Baseline points="1880,3697 1887,763"/>
+        <TextEquiv>
+          <Unicode>安蘧蒢蘧蒢上置桑薪灰厚二寸作胡葉湯令沸籠子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129501" custom="structure {type:Text;}">
+        <Coords points="1565,763 1769,763 1769,3709 1565,3709 1565,763"/>
+        <Baseline points="1652,3710 1679,767"/>
+        <TextEquiv>
+          <Unicode>中盛麴五六餅許著湯中少時出臥置灰中用生胡葉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129502" custom="structure {type:Text;}">
+        <Coords points="1379,752 1560,752 1560,3685 1379,3685 1379,752"/>
+        <Baseline points="1480,753 1480,3686"/>
+        <TextEquiv>
+          <Unicode>覆上以經宿勿令露溼特覆麴薄徧而已七日翻二七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129503" custom="structure {type:Text;}">
+        <Coords points="1163,756 1356,756 1356,3665 1163,3665 1163,756"/>
+        <Baseline points="1242,3666 1265,760"/>
+        <TextEquiv>
+          <Unicode>日聚三七日收曝令乾作麴密屋泥戶勿令風入若以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129504" custom="structure {type:Text;}">
+        <Coords points="954,756 1144,756 1144,3678 954,3678 954,756"/>
+        <Baseline points="1053,3680 1067,760"/>
+        <TextEquiv>
+          <Unicode>牀小不得多著麴者可四角頭豎槌重置椽箔如養蠶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129505" custom="structure {type:Text;}">
+        <Coords points="770,759 942,759 944,1476 766,1479 770,759"/>
+        <Baseline points="875,763 885,1453"/>
+        <TextEquiv>
+          <Unicode>法七月作之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129506" custom="structure {type:Text;}">
+        <Coords points="545,756 740,756 740,3671 545,3671 545,756"/>
+        <Baseline points="643,3673 660,760"/>
+        <TextEquiv>
+          <Unicode>釀白醪法取糯米一石冷水淨淘漉出著甕中作魚眼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129507" custom="structure {type:Text;}">
+        <Coords points="334,759 536,759 536,3669 334,3669 334,759"/>
+        <Baseline points="441,3670 468,763"/>
+        <TextEquiv>
+          <Unicode>沸湯浸之經一宿米欲絕酢炊作一餾飯攤令絕冷取</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>熟踏作餅圓鐵作範徑五寸厚一寸餘牀上置箔箔上
+安蘧蒢蘧蒢上置桑薪灰厚二寸作胡葉湯令沸籠子
+中盛麴五六餅許著湯中少時出臥置灰中用生胡葉
+覆上以經宿勿令露溼特覆麴薄徧而已七日翻二七
+日聚三七日收曝令乾作麴密屋泥戶勿令風入若以
+牀小不得多著麴者可四角頭豎槌重置椽箔如養蠶
+法七月作之
+釀白醪法取糯米一石冷水淨淘漉出著甕中作魚眼
+沸湯浸之經一宿米欲絕酢炊作一餾飯攤令絕冷取
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119622" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="196,3702 196,753 343,753 343,3702 196,3702"/>
+      <TextLine id="1129508" custom="structure {type:Title;}">
+        <Coords points="234,752 336,740 336,1404 243,1408 234,752"/>
+        <Baseline points="270,1406 280,747"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129509" custom="structure {type:Section;}">
+        <Coords points="229,1714 328,1754 329,2037 226,2036 229,1714"/>
+        <Baseline points="253,1719 256,2038"/>
+        <TextEquiv>
+          <Unicode>卷七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129510" custom="structure {type:Page_Number;}">
+        <Coords points="214,2862 297,2857 297,3128 214,3125 214,2862"/>
+        <Baseline points="266,3131 270,2862"/>
+        <TextEquiv>
+          <Unicode>十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷七
+十四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119623" custom="structure {type:Image_Stamp;}">
+      <Coords points="1218,719 1218,439 1794,439 1794,719 1218,719"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

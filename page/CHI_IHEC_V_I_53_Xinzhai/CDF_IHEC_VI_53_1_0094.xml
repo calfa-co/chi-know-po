@@ -1,0 +1,257 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:17+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0094.jpg" imageHeight="4260" imageWidth="4995">
+    <TextRegion id="121085" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4613,951 4746,932 4770,3767 4670,3786 4613,951"/>
+      <TextLine id="1139324" custom="structure {type:Title;}">
+        <Coords points="4647,906 4771,928 4765,1646 4647,1640 4647,906"/>
+        <Baseline points="4703,913 4713,1641"/>
+        <TextEquiv>
+          <Unicode>四民月令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139325" custom="structure {type:Page_Number;}">
+        <Coords points="4668,2899 4774,2896 4771,3190 4668,3176 4668,2899"/>
+        <Baseline points="4708,2911 4727,3177"/>
+        <TextEquiv>
+          <Unicode>十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>四民月令
+十一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121086" custom="structure {type:MainText_Right;}">
+      <Coords points="2538,979 4617,941 4660,3781 2662,3829 2538,979"/>
+      <TextLine id="1139326" custom="structure {type:Text;}">
+        <Coords points="4440,922 4613,936 4666,3773 4468,3773 4440,922"/>
+        <Baseline points="4508,908 4575,3805"/>
+        <TextEquiv>
+          <Unicode>六月六日七月七日可伯麴殺米多少與春</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139327" custom="structure {type:Text;}">
+        <Coords points="4201,911 4395,913 4436,3784 4234,3793 4201,911"/>
+        <Baseline points="4289,918 4360,3786"/>
+        <TextEquiv>
+          <Unicode>酒麴同但不中爲春酒喜動已春酒麴伦頤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139328" custom="structure {type:Text;}">
+        <Coords points="3985,925 4152,923 4152,1649 3999,1646 3985,925"/>
+        <Baseline points="4056,927 4070,1650"/>
+        <TextEquiv>
+          <Unicode>酒彌佳也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139329" custom="structure {type:Text;}">
+        <Coords points="3767,945 3925,942 3979,3793 3792,3798 3767,945"/>
+        <Baseline points="3837,908 3904,3795"/>
+        <TextEquiv>
+          <Unicode>七月四日命置麴室具箔槌取淨艾七日途</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139330" custom="structure {type:Text;}">
+        <Coords points="3515,939 3699,939 3756,3803 3572,3807 3515,939"/>
+        <Baseline points="3604,932 3666,3805"/>
+        <TextEquiv>
+          <Unicode>伦麴合藍丸及蜀漆丸暴經書及衣裳不蠹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139331" custom="structure {type:Text;}">
+        <Coords points="3297,945 3467,956 3484,1805 3290,1805 3297,945"/>
+        <Baseline points="3366,908 3395,1807"/>
+        <TextEquiv>
+          <Unicode>伦乾糗采菌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139332" custom="structure {type:Commentary;}">
+        <Coords points="3399,1816 3518,1799 3518,2133 3408,2127 3399,1816"/>
+        <Baseline points="3447,1788 3471,2131"/>
+        <TextEquiv>
+          <Unicode>舊作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139333" custom="structure {type:Commentary;}">
+        <Coords points="3295,1802 3405,1796 3413,2130 3289,2130 3295,1802"/>
+        <Baseline points="3342,1769 3347,2131"/>
+        <TextEquiv>
+          <Unicode>蔥誤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139334" custom="structure {type:Text;}">
+        <Coords points="3337,2132 3503,2132 3503,2951 3337,2951 3337,2132"/>
+        <Baseline points="3423,2135 3428,2953"/>
+        <TextEquiv>
+          <Unicode>耳處暑中向</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139335" custom="structure {type:Commentary;}">
+        <Coords points="3430,2989 3535,2992 3541,3289 3430,3289 3430,2989"/>
+        <Baseline points="3485,2991 3485,3291"/>
+        <TextEquiv>
+          <Unicode>一伦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139336" custom="structure {type:Commentary;}">
+        <Coords points="3312,2967 3419,2973 3428,3137 3309,3128 3312,2967"/>
+        <Baseline points="3366,2930 3366,3139"/>
+        <TextEquiv>
+          <Unicode>至</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139337" custom="structure {type:Text;}">
+        <Coords points="3354,3281 3532,3292 3527,3826 3347,3826 3354,3281"/>
+        <Baseline points="3414,3258 3437,3829"/>
+        <TextEquiv>
+          <Unicode>中秋節</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139338" custom="structure {type:Text;}">
+        <Coords points="3070,923 3290,923 3290,3817 3070,3817 3070,923"/>
+        <Baseline points="3157,927 3204,3819"/>
+        <TextEquiv>
+          <Unicode>浣故製新伦捨薄呂僃始凉耀大小麥豆收</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139339" custom="structure {type:Text;}">
+        <Coords points="2845,953 3006,953 3018,1334 2851,1343 2845,953"/>
+        <Baseline points="2914,908 2919,1336"/>
+        <TextEquiv>
+          <Unicode>縑練</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139340" custom="structure {type:Text;}">
+        <Coords points="2585,962 2785,942 2862,3831 2658,3830 2585,962"/>
+        <Baseline points="2676,941 2776,3833"/>
+        <TextEquiv>
+          <Unicode>七月初七夜灑埽于庭露施几筵設酒脯時</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>六月六日七月七日可伯麴殺米多少與春
+酒麴同但不中爲春酒喜動已春酒麴伦頤
+酒彌佳也
+七月四日命置麴室具箔槌取淨艾七日途
+伦麴合藍丸及蜀漆丸暴經書及衣裳不蠹
+伦乾糗采菌
+舊作
+蔥誤
+耳處暑中向
+一伦
+至
+中秋節
+浣故製新伦捨薄呂僃始凉耀大小麥豆收
+縑練
+七月初七夜灑埽于庭露施几筵設酒脯時
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121087" custom="structure {type:MainText_Left;}">
+      <Coords points="345,918 2376,913 2386,3748 364,3743 345,918"/>
+      <TextLine id="1139341" custom="structure {type:Text;}">
+        <Coords points="2175,870 2357,870 2357,3760 2175,3760 2175,870"/>
+        <Baseline points="2272,874 2286,3761"/>
+        <TextEquiv>
+          <Unicode>果散香粉亏筵上祈請于河鼓織女言此二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139342" custom="structure {type:Text;}">
+        <Coords points="1945,866 2130,866 2130,3765 1945,3765 1945,866"/>
+        <Baseline points="2039,869 2058,3766"/>
+        <TextEquiv>
+          <Unicode>星神當會守夜者咸懷私願或云見天漢中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139343" custom="structure {type:Text;}">
+        <Coords points="1725,873 1903,873 1903,3767 1725,3767 1725,873"/>
+        <Baseline points="1815,874 1815,3770"/>
+        <TextEquiv>
+          <Unicode>有奕奕正白气如地河之波輝煇有灮耀五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139344" custom="structure {type:Text;}">
+        <Coords points="1491,889 1676,889 1676,3774 1491,3774 1491,889"/>
+        <Baseline points="1582,3775 1601,893"/>
+        <TextEquiv>
+          <Unicode>色呂此爲徴應見者偃?拜而願乞富乞壽乞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139345" custom="structure {type:Text;}">
+        <Coords points="1266,880 1448,880 1448,3251 1266,3251 1266,880"/>
+        <Baseline points="1363,883 1377,3252"/>
+        <TextEquiv>
+          <Unicode>子唯得乞一不得兼求三举乃得之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139346" custom="structure {type:Text;}">
+        <Coords points="1041,880 1223,880 1223,3755 1041,3755 1041,880"/>
+        <Baseline points="1139,883 1149,3756"/>
+        <TextEquiv>
+          <Unicode>京師立秋滿街賣揪葉婦女兒童皆剪成花</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139347" custom="structure {type:Text;}">
+        <Coords points="828,889 1006,889 1006,2056 828,2056 828,889"/>
+        <Baseline points="897,2058 902,893"/>
+        <TextEquiv>
+          <Unicode>樣戴之形製不一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139348" custom="structure {type:Text;}">
+        <Coords points="608,885 785,885 785,2281 608,2281 608,885"/>
+        <Baseline points="706,888 725,2282"/>
+        <TextEquiv>
+          <Unicode>七月八月可種苜蓿</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139349" custom="structure {type:Text;}">
+        <Coords points="357,889 561,889 561,3767 357,3767 357,889"/>
+        <Baseline points="459,3770 478,893"/>
+        <TextEquiv>
+          <Unicode>八月暑退命幼童人小學如正月焉凉風戒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>果散香粉亏筵上祈請于河鼓織女言此二
+星神當會守夜者咸懷私願或云見天漢中
+有奕奕正白气如地河之波輝煇有灮耀五
+色呂此爲徴應見者偃?拜而願乞富乞壽乞
+子唯得乞一不得兼求三举乃得之
+京師立秋滿街賣揪葉婦女兒童皆剪成花
+樣戴之形製不一
+七月八月可種苜蓿
+八月暑退命幼童人小學如正月焉凉風戒
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121088" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="178,913 345,927 354,3762 212,3762 178,913"/>
+      <TextLine id="1139350" custom="structure {type:Title;}">
+        <Coords points="176,920 307,899 307,1580 184,1616 176,920"/>
+        <Baseline points="235,902 240,1582"/>
+        <TextEquiv>
+          <Unicode>四民月令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139351" custom="structure {type:Page_Number;}">
+        <Coords points="208,2872 331,2870 331,3173 212,3176 208,2872"/>
+        <Baseline points="264,2871 264,3176"/>
+        <TextEquiv>
+          <Unicode>十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>四民月令
+十一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

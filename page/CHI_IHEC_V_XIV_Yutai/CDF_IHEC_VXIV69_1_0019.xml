@@ -1,0 +1,337 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:05:42+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VXIV69_1_0019.jpg" imageHeight="4123" imageWidth="4802">
+    <TextRegion id="117802" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4424,3666 4424,878 4538,878 4538,3666 4424,3666"/>
+      <TextLine id="1110542" custom="structure {type:Section;}">
+        <Coords points="4442,879 4611,893 4608,1697 4442,1695 4442,879"/>
+        <Baseline points="4481,888 4504,1697"/>
+        <TextEquiv>
+          <Unicode>玉臺新詠目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110543" custom="structure {type:Page_Number;}">
+        <Coords points="4435,2815 4576,2813 4564,2999 4435,2989 4435,2815"/>
+        <Baseline points="4481,2990 4485,2819"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>玉臺新詠目錄
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117803" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="2402,3671 2402,874 4419,874 4419,3671 2402,3671"/>
+      <TextLine id="1110544" custom="structure {type:Title;}">
+        <Coords points="4245,1092 4421,1092 4421,1999 4245,1999 4245,1092"/>
+        <Baseline points="4314,1097 4324,2001"/>
+        <TextEquiv>
+          <Unicode>徐幹室思六首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110545" custom="structure {type:Title;}">
+        <Coords points="4263,2276 4417,2276 4417,2941 4263,2941 4263,2276"/>
+        <Baseline points="4314,2282 4347,2943"/>
+        <TextEquiv>
+          <Unicode>情詩一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110546" custom="structure {type:Title;}">
+        <Coords points="4032,1099 4220,1099 4220,2146 4032,2146 4032,1099"/>
+        <Baseline points="4124,1102 4143,2148"/>
+        <TextEquiv>
+          <Unicode>繁欽定情詩一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110547" custom="structure {type:Title;}">
+        <Coords points="3837,1078 4016,1078 4016,2604 3837,2604 3837,1078"/>
+        <Baseline points="3924,2605 3929,1083"/>
+        <TextEquiv>
+          <Unicode>古詩無人名為焦仲卿妻作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110548" custom="structure {type:Title;}">
+        <Coords points="3908,2615 4033,2609 4033,2946 3903,2947 3908,2615"/>
+        <Baseline points="3967,2948 3972,2572"/>
+        <TextEquiv>
+          <Unicode>並序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110549" custom="structure {type:Title;}">
+        <Coords points="3626,984 3816,984 3816,1420 3626,1420 3626,984"/>
+        <Baseline points="3720,1421 3725,988"/>
+        <TextEquiv>
+          <Unicode>卷第二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110550" custom="structure {type:Title;}">
+        <Coords points="3425,1092 3624,1092 3624,3458 3425,3458 3425,1092"/>
+        <Baseline points="3515,1097 3544,3461"/>
+        <TextEquiv>
+          <Unicode>魏文帝於清河見輓船士新婚與妻別一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110551" custom="structure {type:Title;}">
+        <Coords points="3239,1113 3418,1113 3418,2114 3239,2114 3239,1113"/>
+        <Baseline points="3339,2115 3354,1116"/>
+        <TextEquiv>
+          <Unicode>又於清河作一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110552" custom="structure {type:Title;}">
+        <Coords points="3221,2329 3415,2329 3415,3674 3221,3674 3221,2329"/>
+        <Baseline points="3316,2334 3339,3675"/>
+        <TextEquiv>
+          <Unicode>甄皇后樂府塘上行一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110553" custom="structure {type:Title;}">
+        <Coords points="3028,1099 3216,1099 3216,2375 3028,2375 3028,1099"/>
+        <Baseline points="3130,2377 3135,1102"/>
+        <TextEquiv>
+          <Unicode>劉勳妻王氏雜詩二首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110554" custom="structure {type:Title;}">
+        <Coords points="3111,2375 3224,2375 3225,2647 3113,2647 3111,2375"/>
+        <Baseline points="3168,2358 3168,2648"/>
+        <TextEquiv>
+          <Unicode>並序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110555" custom="structure {type:Title;}">
+        <Coords points="2852,1099 3012,1099 3012,1990 2852,1990 2852,1099"/>
+        <Baseline points="2926,1102 2940,1991"/>
+        <TextEquiv>
+          <Unicode>曹植雜詩 五首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110556" custom="structure {type:Title;}">
+        <Coords points="2836,2292 3008,2292 3008,2922 2836,2922 2836,2292"/>
+        <Baseline points="2935,2296 2945,2924"/>
+        <TextEquiv>
+          <Unicode>樂府三首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110557" custom="structure {type:Title;}">
+        <Coords points="2627,1074 2811,1074 2811,1862 2627,1862 2627,1074"/>
+        <Baseline points="2716,1863 2731,1078"/>
+        <TextEquiv>
+          <Unicode>棄婦詩一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110558" custom="structure {type:Title;}">
+        <Coords points="2627,2311 2815,2311 2815,3341 2627,3341 2627,2311"/>
+        <Baseline points="2716,2315 2745,3342"/>
+        <TextEquiv>
+          <Unicode>魏明帝樂府二首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110559" custom="structure {type:Title;}">
+        <Coords points="2439,1099 2614,1099 2614,2127 2439,2127 2439,1099"/>
+        <Baseline points="2521,1102 2526,2129"/>
+        <TextEquiv>
+          <Unicode>阮籍詠懷詩二首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110560" custom="structure {type:Title;}">
+        <Coords points="2439,2311 2614,2311 2614,3307 2439,3307 2439,2311"/>
+        <Baseline points="2507,2315 2536,3309"/>
+        <TextEquiv>
+          <Unicode>傅元樂府詩七首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>徐幹室思六首
+情詩一首
+繁欽定情詩一首
+古詩無人名為焦仲卿妻作
+並序
+卷第二
+魏文帝於清河見輓船士新婚與妻別一首
+又於清河作一首
+甄皇后樂府塘上行一首
+劉勳妻王氏雜詩二首
+並序
+曹植雜詩 五首
+樂府三首
+棄婦詩一首
+魏明帝樂府二首
+阮籍詠懷詩二首
+傅元樂府詩七首
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117804" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="345,3659 339,897 2345,897 2344,3659 345,3659"/>
+      <TextLine id="1110570" custom="structure {type:Title;}">
+        <Coords points="2160,1104 2323,1104 2323,2013 2160,2013 2160,1104"/>
+        <Baseline points="2241,1107 2255,2015"/>
+        <TextEquiv>
+          <Unicode>和班氏詩一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110571" custom="structure {type:Title;}">
+        <Coords points="2187,2295 2341,2295 2341,3188 2187,3188 2187,2295"/>
+        <Baseline points="2260,2296 2260,3190"/>
+        <TextEquiv>
+          <Unicode>張華情詩五首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110572" custom="structure {type:Title;}">
+        <Coords points="1956,1083 2142,1083 2142,1704 1956,1704 1956,1083"/>
+        <Baseline points="2046,1088 2055,1706"/>
+        <TextEquiv>
+          <Unicode>雜詩二首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110573" custom="structure {type:Title;}">
+        <Coords points="1967,2292 2155,2292 2155,3325 1967,3325 1967,2292"/>
+        <Baseline points="2051,2296 2074,3328"/>
+        <TextEquiv>
+          <Unicode>潘岳內顧詩二首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110574" custom="structure {type:Title;}">
+        <Coords points="1777,1092 1933,1092 1933,1848 1777,1848 1777,1092"/>
+        <Baseline points="1856,1097 1865,1849"/>
+        <TextEquiv>
+          <Unicode>悼亡詩二首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110575" custom="structure {type:Title;}">
+        <Coords points="1759,2350 1949,2350 1949,3435 1759,3435 1759,2350"/>
+        <Baseline points="1856,2353 1875,3438"/>
+        <TextEquiv>
+          <Unicode>石崇王昭君辭一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110576" custom="structure {type:Commentary;}">
+        <Coords points="1835,3435 1965,3427 1971,3670 1841,3667 1835,3435"/>
+        <Baseline points="1894,3409 1917,3652"/>
+        <TextEquiv>
+          <Unicode>並序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110577" custom="structure {type:Title;}">
+        <Coords points="1551,1090 1743,1090 1743,2150 1551,2150 1551,1090"/>
+        <Baseline points="1627,1097 1665,2153"/>
+        <TextEquiv>
+          <Unicode>左思嬌女詩一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110578" custom="structure {type:Title;}">
+        <Coords points="1353,962 1532,962 1532,1443 1353,1443 1353,962"/>
+        <Baseline points="1456,964 1456,1444"/>
+        <TextEquiv>
+          <Unicode>卷第三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110579" custom="structure {type:Title;}">
+        <Coords points="1156,1092 1337,1092 1337,1981 1156,1981 1156,1092"/>
+        <Baseline points="1233,1982 1237,1097"/>
+        <TextEquiv>
+          <Unicode>陸機擬古七首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110580" custom="structure {type:Title;}">
+        <Coords points="1154,2311 1344,2311 1344,3465 1154,3465 1154,2311"/>
+        <Baseline points="1252,2315 1271,3466"/>
+        <TextEquiv>
+          <Unicode>為顧彥先贈婦二首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110581" custom="structure {type:Title;}">
+        <Coords points="959,1101 1145,1101 1145,2260 959,2260 959,1101"/>
+        <Baseline points="1047,1102 1047,2263"/>
+        <TextEquiv>
+          <Unicode>周夫人贈車騎一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110582" custom="structure {type:Title;}">
+        <Coords points="953,2331 1134,2331 1134,2922 953,2922 953,2331"/>
+        <Baseline points="1047,2334 1047,2924"/>
+        <TextEquiv>
+          <Unicode>樂府三首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110583" custom="structure {type:Title;}">
+        <Coords points="746,1104 939,1104 939,2799 746,2799 746,1104"/>
+        <Baseline points="852,1107 866,2800"/>
+        <TextEquiv>
+          <Unicode>陸雲為顧彥先贈婦往返四首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110584" custom="structure {type:Title;}">
+        <Coords points="547,1113 735,1113 735,1981 547,1981 547,1113"/>
+        <Baseline points="648,1982 657,1116"/>
+        <TextEquiv>
+          <Unicode>張協雜詩一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110585" custom="structure {type:Title;}">
+        <Coords points="556,2285 735,2285 735,3307 556,3307 556,2285"/>
+        <Baseline points="657,2286 657,3309"/>
+        <TextEquiv>
+          <Unicode>楊方合歡詩五首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1110586" custom="structure {type:Title;}">
+        <Coords points="350,1124 540,1124 540,2542 350,2542 350,1124"/>
+        <Baseline points="448,1126 448,2543"/>
+        <TextEquiv>
+          <Unicode>王鑒七夕觀織女一首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>和班氏詩一首
+張華情詩五首
+雜詩二首
+潘岳內顧詩二首
+悼亡詩二首
+石崇王昭君辭一首
+並序
+左思嬌女詩一首
+卷第三
+陸機擬古七首
+為顧彥先贈婦二首
+周夫人贈車騎一首
+樂府三首
+陸雲為顧彥先贈婦往返四首
+張協雜詩一首
+楊方合歡詩五首
+王鑒七夕觀織女一首
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117805" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="186,3637 186,874 348,874 348,3637 186,3637"/>
+      <TextLine id="1110587" custom="structure {type:Section;}">
+        <Coords points="161,873 336,874 336,1704 158,1710 161,873"/>
+        <Baseline points="243,878 248,1706"/>
+        <TextEquiv>
+          <Unicode>玉臺新詠目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1134133" custom="structure {type:Page_Number;}">
+        <Coords points="166,2782 291,2790 294,3096 169,3087 166,2782"/>
+        <Baseline points="224,3091 240,2795"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>玉臺新詠目錄
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

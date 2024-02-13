@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:17:12+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1087_1_0109.jpg" imageHeight="4926" imageWidth="2795">
+    <TextRegion id="79737" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="139,258 139,139 333,139 333,258 139,258"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79746" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="199,3732 199,1653 2549,1653 2549,3732 199,3732"/>
+      <TextLine id="870760" custom="structure {type:Title;}">
+        <Coords points="2474,1674 2351,1674 2351,1934 2381,1981 2376,2112 2400,2197 2400,2378 2376,2427 2398,2460 2540,2457 2556,2408 2540,2380 2554,2134 2537,2077 2554,2016 2537,1978 2551,1726 2534,1672 2474,1674"/>
+        <Baseline points="2475,1677 2483,2461"/>
+        <TextEquiv>
+          <Unicode>卷第一百四十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870761" custom="structure {type:Title;}">
+        <Coords points="2461,2884 2389,2884 2387,3256 2400,3284 2543,3278 2559,3040 2545,3013 2556,2895 2545,2881 2461,2884"/>
+        <Baseline points="2463,2885 2471,3285"/>
+        <TextEquiv>
+          <Unicode>車部中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870762" custom="structure {type:Title;}">
+        <Coords points="2280,1795 2195,1795 2179,1844 2195,2011 2179,2063 2356,2066 2354,1795 2280,1795"/>
+        <Baseline points="2283,1797 2283,2069"/>
+        <TextEquiv>
+          <Unicode>輅二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870763" custom="structure {type:Title;}">
+        <Coords points="2277,3130 2200,3128 2200,3204 2176,3226 2179,3314 2195,3330 2181,3407 2365,3412 2354,3130 2277,3130"/>
+        <Baseline points="2275,3417 2279,3133"/>
+        <TextEquiv>
+          <Unicode>輿三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870764" custom="structure {type:Title;}">
+        <Coords points="2080,1808 1992,1806 1973,1869 1992,2082 2148,2088 2165,2011 2154,1808 2080,1808"/>
+        <Baseline points="2079,2089 2083,1809"/>
+        <TextEquiv>
+          <Unicode>輦四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870765" custom="structure {type:Title;}">
+        <Coords points="2077,3122 1984,3122 1973,3311 1990,3398 1976,3437 1990,3470 1976,3494 1990,3675 2170,3667 2168,3174 2151,3119 2077,3122"/>
+        <Baseline points="2079,3125 2091,3677"/>
+        <TextEquiv>
+          <Unicode>指南車五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870766" custom="structure {type:Title;}">
+        <Coords points="1880,1808 1784,1808 1782,2112 1798,2244 1776,2274 1779,2342 1960,2337 1968,1899 1951,1806 1880,1808"/>
+        <Baseline points="1883,1809 1887,2345"/>
+        <TextEquiv>
+          <Unicode>司馬車六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870767" custom="structure {type:Title;}">
+        <Coords points="1886,3128 1795,3128 1779,3177 1787,3500 1809,3546 1957,3541 1971,3453 1957,3404 1973,3368 1954,3275 1971,3226 1946,3125 1886,3128"/>
+        <Baseline points="1887,3129 1899,3549"/>
+        <TextEquiv>
+          <Unicode>軺車七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870768" custom="structure {type:Title;}">
+        <Coords points="1765,2342 1776,2309 1752,2285 1752,2235 1776,2183 1752,2077 1776,2052 1760,1959 1776,1858 1749,1803 1606,1803 1582,1855 1582,1945 1601,1964 1582,1989 1601,2140 1582,2203 1606,2230 1593,2339 1765,2342"/>
+        <Baseline points="1684,1805 1684,2345"/>
+        <TextEquiv>
+          <Unicode>雲母車八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870769" custom="structure {type:Title;}">
+        <Coords points="1678,3138 1593,3141 1593,3453 1615,3563 1768,3549 1760,3412 1779,3314 1760,3292 1776,3270 1773,3177 1746,3133 1678,3138"/>
+        <Baseline points="1680,3141 1700,3561"/>
+        <TextEquiv>
+          <Unicode>畫輪九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870770" custom="structure {type:Title;}">
+        <Coords points="1486,1795 1407,1795 1382,1874 1398,1940 1382,1984 1398,2014 1385,2082 1407,2101 1385,2151 1412,2208 1560,2203 1576,1822 1560,1792 1486,1795"/>
+        <Baseline points="1488,1797 1492,2209"/>
+        <TextEquiv>
+          <Unicode>犢車十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870771" custom="structure {type:Title;}">
+        <Coords points="1483,3128 1409,3125 1379,3210 1398,3341 1379,3407 1401,3442 1379,3494 1407,3519 1407,3571 1394,3637 1568,3634 1541,3563 1541,3513 1565,3489 1541,3426 1574,3377 1557,3338 1574,3294 1568,3160 1549,3128 1483,3128"/>
+        <Baseline points="1480,3621 1484,3129"/>
+        <TextEquiv>
+          <Unicode>鹿車十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870772" custom="structure {type:Title;}">
+        <Coords points="1278,1666 1163,1666 1163,1847 1188,1874 1179,2109 1199,2140 1182,2317 1201,2369 1182,2405 1201,2495 1182,2561 1368,2558 1355,2427 1371,2411 1360,2378 1376,2309 1357,2164 1376,2131 1357,2038 1376,2005 1357,1964 1376,1915 1374,1713 1346,1663 1278,1666"/>
+        <Baseline points="1280,1669 1292,2569"/>
+        <TextEquiv>
+          <Unicode>卷第一百四十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870773" custom="structure {type:Title;}">
+        <Coords points="1283,2848 1209,2848 1182,2900 1196,3024 1179,3043 1193,3117 1179,3188 1223,3234 1226,3294 1355,3289 1374,3163 1357,3138 1371,3092 1352,3067 1374,3037 1374,2958 1344,2846 1283,2848"/>
+        <Baseline points="1284,2849 1296,3297"/>
+        <TextEquiv>
+          <Unicode>車部下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870774" custom="structure {type:Title;}">
+        <Coords points="1075,1784 988,1784 980,1797 1001,1929 985,1997 990,2200 1177,2189 1152,2142 1152,2038 1179,2011 1163,1981 1179,1943 1177,1825 1147,1781 1075,1784"/>
+        <Baseline points="1076,1785 1088,2201"/>
+        <TextEquiv>
+          <Unicode>轅十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870776" custom="structure {type:Title;}">
+        <Coords points="1078,3122 999,3125 999,3212 980,3240 996,3281 985,3346 1007,3393 988,3418 996,3533 1171,3522 1152,3360 1171,3338 1155,3297 1182,3245 1182,3185 1149,3117 1078,3122"/>
+        <Baseline points="1080,3123 1096,3531"/>
+        <TextEquiv>
+          <Unicode>輪十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870777" custom="structure {type:Title;}">
+        <Coords points="881,1792 813,1792 793,1833 793,1945 807,1959 793,2003 815,2044 807,2213 952,2213 969,2172 955,2036 980,1995 955,1964 980,1934 980,1836 952,1789 881,1792"/>
+        <Baseline points="884,1795 888,2219"/>
+        <TextEquiv>
+          <Unicode>軸十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870778" custom="structure {type:Title;}">
+        <Coords points="873,3117 796,3117 796,3535 966,3530 952,3371 969,3352 958,3300 974,3284 971,3188 944,3114 873,3117"/>
+        <Baseline points="876,3119 888,3539"/>
+        <TextEquiv>
+          <Unicode>轂十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870779" custom="structure {type:Title;}">
+        <Coords points="681,1792 594,1789 580,1915 604,1978 583,2016 610,2041 610,2096 585,2120 599,2206 774,2219 750,2041 777,2014 761,1973 780,1937 780,1825 750,1792 681,1792"/>
+        <Baseline points="680,2191 684,1795"/>
+        <TextEquiv>
+          <Unicode>輻十六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870780" custom="structure {type:Title;}">
+        <Coords points="678,3117 607,3114 585,3152 585,3251 607,3297 583,3319 583,3333 613,3382 613,3437 583,3467 583,3481 610,3508 610,3533 761,3541 771,3445 750,3423 750,3377 771,3355 755,3289 774,3232 750,3117 678,3117"/>
+        <Baseline points="676,3543 680,3119"/>
+        <TextEquiv>
+          <Unicode>軛十七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870781" custom="structure {type:Title;}">
+        <Coords points="581,2209 550,2140 550,2060 583,2016 563,1959 580,1940 583,1847 552,1792 421,1792 394,1836 394,1923 416,1951 394,2022 395,2220 581,2209"/>
+        <Baseline points="492,1795 492,2199"/>
+        <TextEquiv>
+          <Unicode>衡十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870782" custom="structure {type:Title;}">
+        <Coords points="470,3122 396,3122 383,3264 402,3281 385,3333 402,3502 391,3549 568,3544 547,3382 569,3349 552,3284 574,3253 574,3188 544,3119 470,3122"/>
+        <Baseline points="472,3123 480,3535"/>
+        <TextEquiv>
+          <Unicode>軫十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870783" custom="structure {type:Title;}">
+        <Coords points="281,2208 350,2208 350,2156 372,2134 350,2090 380,2052 358,1992 383,1932 366,1792 210,1792 194,1828 194,1929 219,1984 194,2033 210,2077 194,2145 219,2208 281,2208"/>
+        <Baseline points="284,1795 284,2211"/>
+        <TextEquiv>
+          <Unicode>軾二十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="870784" custom="structure {type:Title;}">
+        <Coords points="273,3122 188,3122 188,3461 210,3541 194,3560 197,3628 377,3620 361,3500 377,3448 358,3404 380,3374 366,3338 377,3185 358,3117 273,3122"/>
+        <Baseline points="276,3123 292,3631"/>
+        <TextEquiv>
+          <Unicode>轄二十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷第一百四十
+車部中
+輅二
+輿三
+輦四
+指南車五
+司馬車六
+軺車七
+雲母車八
+畫輪九
+犢車十
+鹿車十一
+卷第一百四十一
+車部下
+轅十二
+輪十三
+軸十四
+轂十五
+輻十六
+軛十七
+衡十八
+軫十九
+軾二十
+轄二十一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79745" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="96,3639 96,2069 181,2069 181,3639 96,3639"/>
+      <TextLine id="1009328" custom="structure {type:Section;}">
+        <Coords points="97,2076 100,2687 175,2681 186,2413 172,2375 180,2107 166,2074 97,2076"/>
+        <Baseline points="128,2078 139,2689"/>
+        <TextEquiv>
+          <Unicode>北堂書鈔目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1009329" custom="structure {type:Page_Number;}">
+        <Coords points="97,3473 99,3630 169,3623 164,3470 97,3473"/>
+        <Baseline points="128,3475 133,3634"/>
+        <TextEquiv>
+          <Unicode>二七二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>北堂書鈔目錄
+二七二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

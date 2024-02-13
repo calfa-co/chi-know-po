@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:32+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_02_0051.jpg" imageHeight="4178" imageWidth="4663">
+    <TextRegion id="119610" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4343,3649 4343,743 4490,743 4490,3649 4343,3649"/>
+      <TextLine id="1129409" custom="structure {type:Title;}">
+        <Coords points="4333,733 4456,734 4452,1346 4333,1341 4333,733"/>
+        <Baseline points="4390,734 4390,1342"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129410" custom="structure {type:Section;}">
+        <Coords points="4349,1752 4453,1692 4456,2025 4352,2025 4349,1752"/>
+        <Baseline points="4414,1656 4428,2027"/>
+        <TextEquiv>
+          <Unicode>卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129411" custom="structure {type:Page_Number;}">
+        <Coords points="4388,2940 4470,2940 4470,3115 4389,3135 4388,2940"/>
+        <Baseline points="4452,2941 4452,3117"/>
+        <TextEquiv>
+          <Unicode>八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷六
+八
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119611" custom="structure {type:MainText_Right;}">
+      <Coords points="2474,3740 2474,753 4324,753 4324,3740 2474,3740"/>
+      <TextLine id="1129412" custom="structure {type:Text;}">
+        <Coords points="4133,731 4326,731 4326,2012 4133,2012 4133,731"/>
+        <Baseline points="4224,738 4243,2013"/>
+        <TextEquiv>
+          <Unicode>溝上通尾本者蹹殺人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129413" custom="structure {type:Text;}">
+        <Coords points="3922,740 4135,740 4135,3140 3922,3140 3922,740"/>
+        <Baseline points="4010,743 4048,3141"/>
+        <TextEquiv>
+          <Unicode>馬有雙腳脛亭行六百里迴毛起腕膝是也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129414" custom="structure {type:Text;}">
+        <Coords points="3715,712 3919,712 3919,2179 3715,2179 3715,712"/>
+        <Baseline points="3824,715 3848,2180"/>
+        <TextEquiv>
+          <Unicode>䏶欲得圓而厚裏肉生焉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129415" custom="structure {type:Text;}">
+        <Coords points="3513,728 3710,728 3710,1666 3513,1666 3513,728"/>
+        <Baseline points="3629,734 3658,1666"/>
+        <TextEquiv>
+          <Unicode>後腳欲曲而立</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129416" custom="structure {type:Text;}">
+        <Coords points="3292,735 3499,735 3499,1550 3292,1550 3292,735"/>
+        <Baseline points="3392,743 3430,1552"/>
+        <TextEquiv>
+          <Unicode>臂欲大而短</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129417" custom="structure {type:Text;}">
+        <Coords points="3104,759 3299,759 3299,1478 3104,1478 3104,759"/>
+        <Baseline points="3206,767 3215,1495"/>
+        <TextEquiv>
+          <Unicode>骸欲小而長</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129418" custom="structure {type:Text;}">
+        <Coords points="2912,731 3102,731 3102,2216 2912,2216 2912,731"/>
+        <Baseline points="3011,734 3030,2218"/>
+        <TextEquiv>
+          <Unicode>踠欲促而大其閒纔容靽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129419" custom="structure {type:Text;}">
+        <Coords points="2707,754 2893,754 2893,1341 2707,1341 2707,754"/>
+        <Baseline points="2792,757 2797,1342"/>
+        <TextEquiv>
+          <Unicode>烏頭欲高</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129420" custom="structure {type:Commentary;}">
+        <Coords points="2816,1332 2923,1332 2923,1789 2816,1789 2816,1332"/>
+        <Baseline points="2869,1333 2869,1790"/>
+        <TextEquiv>
+          <Unicode>烏頭後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129421" custom="structure {type:Commentary;}">
+        <Coords points="2694,1345 2811,1345 2816,1759 2693,1759 2694,1345"/>
+        <Baseline points="2745,1304 2745,1761"/>
+        <TextEquiv>
+          <Unicode>足外節</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129422" custom="structure {type:Text;}">
+        <Coords points="2494,756 2684,756 2684,1594 2494,1594 2494,756"/>
+        <Baseline points="2602,757 2612,1595"/>
+        <TextEquiv>
+          <Unicode>後足輔骨欲大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129423" custom="structure {type:Commentary;}">
+        <Coords points="2603,1591 2711,1594 2717,2311 2606,2317 2603,1591"/>
+        <Baseline points="2626,1590 2678,2318"/>
+        <TextEquiv>
+          <Unicode>輔足骨者後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129424" custom="structure {type:Commentary;}">
+        <Coords points="2491,1589 2617,1589 2617,2316 2491,2316 2491,1589"/>
+        <Baseline points="2550,1590 2550,2318"/>
+        <TextEquiv>
+          <Unicode>足骸之後骨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>溝上通尾本者蹹殺人
+馬有雙腳脛亭行六百里迴毛起腕膝是也
+䏶欲得圓而厚裏肉生焉
+後腳欲曲而立
+臂欲大而短
+骸欲小而長
+踠欲促而大其閒纔容靽
+烏頭欲高
+烏頭後
+足外節
+後足輔骨欲大
+輔足骨者後
+足骸之後骨
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119612" custom="structure {type:MainText_Left;}">
+      <Coords points="381,757 2207,776 2155,3707 301,3692 381,757"/>
+      <TextLine id="1129425" custom="structure {type:Text;}">
+        <Coords points="1997,777 2168,777 2168,1917 1997,1917 1997,777"/>
+        <Baseline points="2089,1918 2098,781"/>
+        <TextEquiv>
+          <Unicode>後左右足白不利人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129426" custom="structure {type:Text;}">
+        <Coords points="1783,740 1976,740 1976,1917 1783,1917 1783,740"/>
+        <Baseline points="1870,1918 1903,743"/>
+        <TextEquiv>
+          <Unicode>白馬四足黑不利人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129427" custom="structure {type:Text;}">
+        <Coords points="1574,733 1764,733 1764,1803 1574,1803 1574,733"/>
+        <Baseline points="1675,1804 1680,738"/>
+        <TextEquiv>
+          <Unicode>黃馬白喙不利人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129428" custom="structure {type:Text;}">
+        <Coords points="1377,759 1565,759 1565,1784 1377,1784 1377,759"/>
+        <Baseline points="1485,1785 1508,762"/>
+        <TextEquiv>
+          <Unicode>後左右足白殺婦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129429" custom="structure {type:Text;}">
+        <Coords points="1142,756 1353,756 1353,3725 1142,3725 1142,756"/>
+        <Baseline points="1237,3726 1280,762"/>
+        <TextEquiv>
+          <Unicode>相馬視其四蹏後兩足白老馬子前兩足白駒馬子白</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129430" custom="structure {type:Text;}">
+        <Coords points="966,738 1149,738 1149,1513 966,1513 966,738"/>
+        <Baseline points="1080,1514 1104,743"/>
+        <TextEquiv>
+          <Unicode>毛者老馬也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129431" custom="structure {type:Text;}">
+        <Coords points="743,756 935,756 935,3699 743,3699 743,756"/>
+        <Baseline points="857,3702 876,757"/>
+        <TextEquiv>
+          <Unicode>四蹏欲厚且大四蹏☐顛倒若豎履奴乘客死主乘棄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129432" custom="structure {type:Text;}">
+        <Coords points="578,735 740,735 740,1369 578,1369 578,735"/>
+        <Baseline points="671,738 671,1371"/>
+        <TextEquiv>
+          <Unicode>市不可畜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129433" custom="structure {type:Text;}">
+        <Coords points="348,733 522,733 522,2720 348,2720 348,733"/>
+        <Baseline points="457,2722 462,738"/>
+        <TextEquiv>
+          <Unicode>久步即生筋勞筋勞則發蹏痛凌氣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129434" custom="structure {type:Commentary;}">
+        <Coords points="415,2718 552,2718 552,3671 415,3671 415,2718"/>
+        <Baseline points="481,2722 491,3673"/>
+        <TextEquiv>
+          <Unicode>一曰生骨則發癰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129435" custom="structure {type:Commentary;}">
+        <Coords points="322,2711 430,2714 423,3673 319,3683 322,2711"/>
+        <Baseline points="367,3649 381,2665"/>
+        <TextEquiv>
+          <Unicode>腫一曰發蹏生癰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>後左右足白不利人
+白馬四足黑不利人
+黃馬白喙不利人
+後左右足白殺婦
+相馬視其四蹏後兩足白老馬子前兩足白駒馬子白
+毛者老馬也
+四蹏欲厚且大四蹏☐顛倒若豎履奴乘客死主乘棄
+市不可畜
+久步即生筋勞筋勞則發蹏痛凌氣
+一曰生骨則發癰
+腫一曰發蹏生癰
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119614" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="177,753 358,762 310,3688 215,3692 177,753"/>
+      <TextLine id="1129436" custom="structure {type:Title;}">
+        <Coords points="242,770 341,756 341,1378 228,1382 242,770"/>
+        <Baseline points="267,757 267,1380"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129437" custom="structure {type:Section;}">
+        <Coords points="218,1702 319,1742 318,1998 201,2001 218,1702"/>
+        <Baseline points="267,1704 267,1999"/>
+        <TextEquiv>
+          <Unicode>卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129438" custom="structure {type:Page_Number;}">
+        <Coords points="208,2923 297,2926 297,3154 205,3152 208,2923"/>
+        <Baseline points="253,2931 262,3155"/>
+        <TextEquiv>
+          <Unicode>九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷六
+九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

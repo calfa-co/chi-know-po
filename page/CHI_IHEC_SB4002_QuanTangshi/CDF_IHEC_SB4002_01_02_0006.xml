@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:40+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB4002_01_02_0006.jpg" imageHeight="3874" imageWidth="4392">
+    <TextRegion id="116793" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4169,1302 4233,1302 4233,2928 4169,2928 4169,1302"/>
+      <TextLine id="1100343" custom="structure {type:Title;}">
+        <Coords points="4171,1431 4240,1381 4235,1797 4171,1807 4171,1431"/>
+        <Baseline points="4198,1386 4203,1800"/>
+        <TextEquiv>
+          <Unicode>全唐詩目</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100298" custom="structure {type:Page_Number;}">
+        <Coords points="4169,2713 4231,2710 4240,2848 4166,2815 4169,2713"/>
+        <Baseline points="4202,2851 4209,2722"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>全唐詩目
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116792" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="412,788 2157,788 2157,3460 412,3460 412,788"/>
+      <TextLine id="1100286" custom="structure {type:Title;}">
+        <Coords points="2010,807 2155,807 2155,1188 2010,1188 2010,807"/>
+        <Baseline points="2088,809 2088,1190"/>
+        <TextEquiv>
+          <Unicode>全唐詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100287" custom="structure {type:Title;}">
+        <Coords points="1851,916 1987,916 1987,1435 1851,1435 1851,916"/>
+        <Baseline points="1918,918 1918,1437"/>
+        <TextEquiv>
+          <Unicode>太宗皇帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100288" custom="structure {type:Text;}">
+        <Coords points="1664,800 1830,800 1830,3439 1664,3439 1664,800"/>
+        <Baseline points="1741,3441 1756,1093 1769,802"/>
+        <TextEquiv>
+          <Unicode>帝姓李氏諱世民神堯次子聰明英武貞觀之治庶幾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100289" custom="structure {type:Text;}">
+        <Coords points="1507,798 1670,798 1670,3434 1507,3434 1507,798"/>
+        <Baseline points="1578,3437 1599,802"/>
+        <TextEquiv>
+          <Unicode>成康功德兼隆由漢以來未之有也而銳情經術初建</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100290" custom="structure {type:Text;}">
+        <Coords points="1345,796 1500,796 1500,3419 1345,3419 1345,796"/>
+        <Baseline points="1418,3422 1442,800"/>
+        <TextEquiv>
+          <Unicode>秦邸即開文學館召名儒十八人為學士既即位殿左</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100291" custom="structure {type:Text;}">
+        <Coords points="1188,796 1341,796 1341,3417 1188,3417 1188,796"/>
+        <Baseline points="1268,3419 1287,800"/>
+        <TextEquiv>
+          <Unicode>置弘文館悉引內學士番宿更休聽朝之間則與討論</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100292" custom="structure {type:Text;}">
+        <Coords points="1029,794 1188,794 1188,3430 1029,3430 1029,794"/>
+        <Baseline points="1106,3432 1123,798"/>
+        <TextEquiv>
+          <Unicode>典籍雜以文詠或日昃夜艾未嘗少怠詩筆草隸卓越</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100293" custom="structure {type:Text;}">
+        <Coords points="865,800 1031,800 1031,3428 865,3428 865,800"/>
+        <Baseline points="942,3430 968,804"/>
+        <TextEquiv>
+          <Unicode>前古至於天文秀發沈麗高朗有唐三百年風雅之盛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100294" custom="structure {type:Text;}">
+        <Coords points="708,800 867,800 867,3432 708,3432 708,800"/>
+        <Baseline points="781,3434 805,804"/>
+        <TextEquiv>
+          <Unicode>帝實有以啓之焉在位二十四年謚曰文集四十卷館</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100295" custom="structure {type:Text;}">
+        <Coords points="555,794 706,794 706,2688 555,2688 555,794"/>
+        <Baseline points="632,2690 643,798"/>
+        <TextEquiv>
+          <Unicode>閣書目詩一卷六十九首今編詩一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100297" custom="structure {type:Title;}">
+        <Coords points="409,1155 546,1155 546,1792 409,1792 409,1155"/>
+        <Baseline points="482,1157 482,1794"/>
+        <TextEquiv>
+          <Unicode>帝京篇十首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100296" custom="structure {type:Commentary;}">
+        <Coords points="437,1810 570,1810 570,1977 437,1977 437,1810"/>
+        <Baseline points="518,1980 523,1814"/>
+        <TextEquiv>
+          <Unicode>并序</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>全唐詩
+太宗皇帝
+帝姓李氏諱世民神堯次子聰明英武貞觀之治庶幾
+成康功德兼隆由漢以來未之有也而銳情經術初建
+秦邸即開文學館召名儒十八人為學士既即位殿左
+置弘文館悉引內學士番宿更休聽朝之間則與討論
+典籍雜以文詠或日昃夜艾未嘗少怠詩筆草隸卓越
+前古至於天文秀發沈麗高朗有唐三百年風雅之盛
+帝實有以啓之焉在位二十四年謚曰文集四十卷館
+閣書目詩一卷六十九首今編詩一卷
+帝京篇十首
+并序
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116791" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="312,808 390,805 390,2919 304,2922 312,808"/>
+      <TextLine id="1100285" custom="structure {type:Section;}">
+        <Coords points="327,779 430,779 430,1166 327,1166 327,779"/>
+        <Baseline points="361,1168 368,783"/>
+        <TextEquiv>
+          <Unicode>太宗皇帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1114359" custom="structure {type:Title;}">
+        <Coords points="320,1412 387,1453 385,1693 316,1695 320,1412"/>
+        <Baseline points="342,1419 349,1691"/>
+        <TextEquiv>
+          <Unicode>全唐詩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231323" custom="structure {type:Page_Number;}">
+        <Coords points="289,2840 289,2672 381,2672 381,2840 289,2840"/>
+        <Baseline points="336,2696 338,2798"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>太宗皇帝
+全唐詩
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:14+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_2_15_0012.jpg" imageHeight="3144" imageWidth="3621">
+    <TextRegion id="116587" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3345,1176 3450,1180 3460,1428 3359,1408 3345,1176"/>
+      <TextLine id="1098525" custom="structure {type:Section;}">
+        <Coords points="3304,1133 3540,1133 3540,1411 3304,1411 3304,1133"/>
+        <Baseline points="3389,1146 3409,1405"/>
+        <TextEquiv>
+          <Unicode>赤雅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>赤雅
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116590" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="1980,699 3335,682 3305,2666 1959,2663 1980,699"/>
+      <TextLine id="1098528" custom="structure {type:Title;}">
+        <Coords points="3184,847 3324,847 3324,1213 3184,1213 3184,847"/>
+        <Baseline points="3258,850 3275,1213"/>
+        <TextEquiv>
+          <Unicode>飛來鐘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098529" custom="structure {type:Title;}">
+        <Coords points="3182,1736 3317,1736 3317,2181 3182,2181 3182,1736"/>
+        <Baseline points="3258,2182 3265,1738"/>
+        <TextEquiv>
+          <Unicode>綠珠玉篴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098530" custom="structure {type:Title;}">
+        <Coords points="3037,859 3163,859 3163,1231 3037,1231 3037,859"/>
+        <Baseline points="3096,863 3110,1233"/>
+        <TextEquiv>
+          <Unicode>飛來蓮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098532" custom="structure {type:Title;}">
+        <Coords points="3030,1736 3166,1736 3166,2080 3030,2080 3030,1736"/>
+        <Baseline points="3113,2081 3130,1741"/>
+        <TextEquiv>
+          <Unicode>杬藥矢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098533" custom="structure {type:Title;}">
+        <Coords points="2889,850 3011,850 3011,1192 2889,1192 2889,850"/>
+        <Baseline points="2952,853 2965,1193"/>
+        <TextEquiv>
+          <Unicode>思牢矢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098534" custom="structure {type:Title;}">
+        <Coords points="2880,1741 3013,1741 3013,2204 2880,2204 2880,1741"/>
+        <Baseline points="2969,2205 2982,1745"/>
+        <TextEquiv>
+          <Unicode>西嶽真蹟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098535" custom="structure {type:Title;}">
+        <Coords points="2733,843 2862,843 2862,1505 2733,1505 2733,843"/>
+        <Baseline points="2794,1506 2800,847"/>
+        <TextEquiv>
+          <Unicode>葛洪未至勾漏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098537" custom="structure {type:Title;}">
+        <Coords points="2726,1711 2862,1711 2862,2218 2726,2218 2726,1711"/>
+        <Baseline points="2780,1714 2794,2219"/>
+        <TextEquiv>
+          <Unicode>舜至蒼梧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098538" custom="structure {type:Title;}">
+        <Coords points="1921,646 2097,646 2097,903 1921,903 1921,646"/>
+        <Baseline points="2020,904 2027,651"/>
+        <TextEquiv>
+          <Unicode>赤雅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098540" custom="structure {type:Commentary;}">
+        <Coords points="2020,864 2148,864 2148,1212 2020,1212 2020,864"/>
+        <Baseline points="2081,867 2084,1213"/>
+        <TextEquiv>
+          <Unicode>目錄終</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>飛來鐘
+綠珠玉篴
+飛來蓮
+杬藥矢
+思牢矢
+西嶽真蹟
+葛洪未至勾漏
+舜至蒼梧
+赤雅
+目錄終
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116591" custom="structure {type:MainText_Left;}">
+      <Coords points="247,739 1653,715 1674,2646 298,2683 247,739"/>
+      <TextLine id="1138611" custom="structure {type:Title;}">
+        <Coords points="1477,709 1619,709 1619,899 1477,899 1477,709"/>
+        <Baseline points="1541,716 1552,899"/>
+        <TextEquiv>
+          <Unicode>赤雅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138612" custom="structure {type:Commentary;}">
+        <Coords points="1547,904 1629,904 1629,1006 1547,1006 1547,904"/>
+        <Baseline points="1598,905 1598,1007"/>
+        <TextEquiv>
+          <Unicode>上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138613" custom="structure {type:Author_name;}">
+        <Coords points="1341,1479 1486,1479 1486,2516 1341,2516 1341,1479"/>
+        <Baseline points="1405,1483 1439,2518"/>
+        <TextEquiv>
+          <Unicode>南海 鄺露 湛若 篹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138617" custom="structure {type:Title;}">
+        <Coords points="1189,904 1308,904 1308,1323 1189,1323 1189,904"/>
+        <Baseline points="1244,907 1250,1325"/>
+        <TextEquiv>
+          <Unicode>土司世胄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138618" custom="structure {type:Text;}">
+        <Coords points="1027,737 1182,737 1182,2661 1027,2661 1027,737"/>
+        <Baseline points="1089,740 1125,2662"/>
+        <TextEquiv>
+          <Unicode>土司惟諸岑最強胄出岑彭畫像雲臺精應列宿布</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138619" custom="structure {type:Text;}">
+        <Coords points="871,721 1030,721 1030,2667 871,2667 871,721"/>
+        <Baseline points="939,724 976,2668"/>
+        <TextEquiv>
+          <Unicode>星祭神威儗王者世為外臣頗襲得法其女珠衣雀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138620" custom="structure {type:Text;}">
+        <Coords points="726,724 862,724 862,1790 726,1790 726,724"/>
+        <Baseline points="795,727 812,1791"/>
+        <TextEquiv>
+          <Unicode>扇火齊金鐙乍見訝為仙者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138621" custom="structure {type:Commentary;}">
+        <Coords points="796,1806 882,1806 882,2090 796,2090 796,1806"/>
+        <Baseline points="843,1808 851,2091"/>
+        <TextEquiv>
+          <Unicode>一本作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138622" custom="structure {type:Commentary;}">
+        <Coords points="710,1779 815,1779 815,1982 710,1982 710,1779"/>
+        <Baseline points="772,1780 772,1983"/>
+        <TextEquiv>
+          <Unicode>仙人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138623" custom="structure {type:Title;}">
+        <Coords points="576,917 705,917 705,1145 576,1145 576,917"/>
+        <Baseline points="631,920 633,1146"/>
+        <TextEquiv>
+          <Unicode>形勢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138624" custom="structure {type:Text;}">
+        <Coords points="431,733 572,733 572,2672 431,2672 431,733"/>
+        <Baseline points="489,736 506,2673"/>
+        <TextEquiv>
+          <Unicode>四府三十七州形勢宛然一衰周戰國圖區分畛埒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1138625" custom="structure {type:Text;}">
+        <Coords points="268,724 419,724 419,2684 268,2684 268,724"/>
+        <Baseline points="325,728 368,2685"/>
+        <TextEquiv>
+          <Unicode>遠交近攻雖暴寡凌弱殘殺敓畧終莫能越其尺寸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>赤雅
+上
+南海 鄺露 湛若 篹
+土司世胄
+土司惟諸岑最強胄出岑彭畫像雲臺精應列宿布
+星祭神威儗王者世為外臣頗襲得法其女珠衣雀
+扇火齊金鐙乍見訝為仙者
+一本作
+仙人
+形勢
+四府三十七州形勢宛然一衰周戰國圖區分畛埒
+遠交近攻雖暴寡凌弱殘殺敓畧終莫能越其尺寸
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116593" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="163,1206 254,1206 294,2697 203,2697 163,1206"/>
+      <TextLine id="1098526" custom="structure {type:Section;}">
+        <Coords points="125,1194 263,1194 263,1416 125,1416 125,1194"/>
+        <Baseline points="217,1196 218,1418"/>
+        <TextEquiv>
+          <Unicode>赤雅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234235" custom="structure {type:Section;}">
+        <Coords points="188,1388 260,1388 260,1530 188,1530 188,1388"/>
+        <Baseline points="230,1529 247,1394"/>
+        <TextEquiv>
+          <Unicode>上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234236" custom="structure {type:Page_Number;}">
+        <Coords points="206,2090 275,2090 275,2176 206,2176 206,2090"/>
+        <Baseline points="254,2091 254,2178"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098527" custom="structure {type:Title;}">
+        <Coords points="172,2192 307,2192 307,2705 172,2705 172,2192"/>
+        <Baseline points="248,2195 251,2707"/>
+        <TextEquiv>
+          <Unicode>知不足齋正本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>赤雅
+上
+一
+知不足齋正本
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

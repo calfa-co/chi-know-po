@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:14:49+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_12_89_0010.jpg" imageHeight="3095" imageWidth="3494">
+    <TextRegion id="115929" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3207,1053 3308,1050 3308,1534 3218,1527 3207,1053"/>
+      <TextLine id="1093517" custom="structure {type:Section;}">
+        <Coords points="3212,1038 3344,1038 3344,1537 3212,1537 3212,1038"/>
+        <Baseline points="3258,1043 3275,1538"/>
+        <TextEquiv>
+          <Unicode>詩義指南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩義指南
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115930" custom="structure {type:MainText_Right;}">
+      <Coords points="1768,576 3218,582 3201,2627 1768,2631 1768,576"/>
+      <TextLine id="1093518" custom="structure {type:Title;}">
+        <Coords points="3055,569 3187,569 3187,1973 3055,1973 3055,569"/>
+        <Baseline points="3120,1975 3127,572"/>
+        <TextEquiv>
+          <Unicode>有匪君子如金如鍚如圭璧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093519" custom="structure {type:Text;}">
+        <Coords points="2892,691 3033,691 3033,2649 2892,2649 2892,691"/>
+        <Baseline points="2972,693 2982,2651"/>
+        <TextEquiv>
+          <Unicode>郎物以喻君子學精而質美此詩人善言德</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093520" custom="structure {type:Text;}">
+        <Coords points="2763,667 2885,667 2885,942 2763,942 2763,667"/>
+        <Baseline points="2800,673 2834,939"/>
+        <TextEquiv>
+          <Unicode>行也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093521" custom="structure {type:Text;}">
+        <Coords points="2574,677 2718,677 2718,2546 2574,2546 2574,677"/>
+        <Baseline points="2642,2547 2652,680"/>
+        <TextEquiv>
+          <Unicode>觀君子為學之精斯可觀君子生質之美</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093522" custom="structure {type:Title;}">
+        <Coords points="2421,563 2558,563 2558,2400 2421,2400 2421,563"/>
+        <Baseline points="2481,565 2481,2402"/>
+        <TextEquiv>
+          <Unicode>考槃在澗碩人之寬獨寐寤言永矢弗諼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093523" custom="structure {type:Commentary;}">
+        <Coords points="2460,2381 2591,2381 2591,2649 2460,2649 2460,2381"/>
+        <Baseline points="2518,2392 2551,2644"/>
+        <TextEquiv>
+          <Unicode>考槃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093524" custom="structure {type:Text;}">
+        <Coords points="2255,677 2395,677 2395,2647 2255,2647 2255,677"/>
+        <Baseline points="2333,680 2353,2648"/>
+        <TextEquiv>
+          <Unicode>賢者之心惟不知隱處之憂故不忘獨處之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093525" custom="structure {type:Text;}">
+        <Coords points="2101,670 2250,670 2250,828 2101,828 2101,670"/>
+        <Baseline points="2165,676 2181,824"/>
+        <TextEquiv>
+          <Unicode>樂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093526" custom="structure {type:Title;}">
+        <Coords points="1936,557 2080,557 2080,2438 1936,2438 1936,557"/>
+        <Baseline points="2013,559 2030,2439"/>
+        <TextEquiv>
+          <Unicode>考槃在阿碩人之薖獨寐寤歌永矢弗過</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093527" custom="structure {type:Text;}">
+        <Coords points="1774,667 1920,667 1920,2642 1774,2642 1774,667"/>
+        <Baseline points="1835,670 1869,2644"/>
+        <TextEquiv>
+          <Unicode>隱居之地賢者之自處常有餘故獨居之樂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>有匪君子如金如鍚如圭璧
+郎物以喻君子學精而質美此詩人善言德
+行也
+觀君子為學之精斯可觀君子生質之美
+考槃在澗碩人之寬獨寐寤言永矢弗諼
+考槃
+賢者之心惟不知隱處之憂故不忘獨處之
+樂
+考槃在阿碩人之薖獨寐寤歌永矢弗過
+隱居之地賢者之自處常有餘故獨居之樂
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115931" custom="structure {type:MainText_Left;}">
+      <Coords points="237,606 1663,589 1697,2624 288,2641 237,606"/>
+      <TextLine id="1093528" custom="structure {type:Text;}">
+        <Coords points="1532,667 1664,667 1664,1650 1532,1650 1532,667"/>
+        <Baseline points="1596,670 1610,1652"/>
+        <TextEquiv>
+          <Unicode>賢者之自誓無不足</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093529" custom="structure {type:Text;}">
+        <Coords points="1365,562 1523,562 1523,2427 1365,2427 1365,562"/>
+        <Baseline points="1435,565 1475,2429"/>
+        <TextEquiv>
+          <Unicode>考槃在陸碩人之軸獨寐寤宿永矢弗告</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093530" custom="structure {type:Text;}">
+        <Coords points="1205,674 1372,674 1372,2639 1205,2639 1205,674"/>
+        <Baseline points="1277,676 1314,2641"/>
+        <TextEquiv>
+          <Unicode>隱居之際賢者雖不得行於時獨居之樂賢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093531" custom="structure {type:Text;}">
+        <Coords points="1047,670 1196,670 1196,1516 1047,1516 1047,670"/>
+        <Baseline points="1112,673 1139,1517"/>
+        <TextEquiv>
+          <Unicode>者亦不求聞於時</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093532" custom="structure {type:Title;}">
+        <Coords points="895,558 1047,558 1047,2639 895,2639 895,558"/>
+        <Baseline points="974,562 987,2641"/>
+        <TextEquiv>
+          <Unicode>緇衣之宜兮敝予又改為兮適子之館兮還予</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093533" custom="structure {type:Title;}">
+        <Coords points="732,572 873,572 873,1170 732,1170 732,572"/>
+        <Baseline points="799,576 816,1171"/>
+        <TextEquiv>
+          <Unicode>授子之粲兮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093534" custom="structure {type:Commentary;}">
+        <Coords points="792,1146 909,1146 909,1394 792,1394 792,1146"/>
+        <Baseline points="856,1151 863,1396"/>
+        <TextEquiv>
+          <Unicode>緇衣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093535" custom="structure {type:Text;}">
+        <Coords points="569,674 739,674 739,2656 569,2656 569,674"/>
+        <Baseline points="634,676 678,2658"/>
+        <TextEquiv>
+          <Unicode>服食居處姑以寓好賢之辭而未足以盡好</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093536" custom="structure {type:Text;}">
+        <Coords points="419,674 553,674 553,1200 419,1200 419,674"/>
+        <Baseline points="479,676 493,1201"/>
+        <TextEquiv>
+          <Unicode>賢之意也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093537" custom="structure {type:Title;}">
+        <Coords points="254,565 414,565 414,2434 254,2434 254,565"/>
+        <Baseline points="321,569 345,2436"/>
+        <TextEquiv>
+          <Unicode>羔裘如濡洵直且侯彼其之子舍命不渝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093538" custom="structure {type:Commentary;}">
+        <Coords points="331,2395 465,2395 465,2654 331,2654 331,2395"/>
+        <Baseline points="392,2399 402,2654"/>
+        <TextEquiv>
+          <Unicode>羔裘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>賢者之自誓無不足
+考槃在陸碩人之軸獨寐寤宿永矢弗告
+隱居之際賢者雖不得行於時獨居之樂賢
+者亦不求聞於時
+緇衣之宜兮敝予又改為兮適子之館兮還予
+授子之粲兮
+緇衣
+服食居處姑以寓好賢之辭而未足以盡好
+賢之意也
+羔裘如濡洵直且侯彼其之子舍命不渝
+羔裘
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="115932" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="153,1087 244,1080 281,2661 200,2658 153,1087"/>
+      <TextLine id="1093539" custom="structure {type:Section;}">
+        <Coords points="169,1061 239,1057 239,1557 166,1550 169,1061"/>
+        <Baseline points="197,1060 203,1558"/>
+        <TextEquiv>
+          <Unicode>詩義指南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1093540" custom="structure {type:Page_Number;}">
+        <Coords points="178,2020 274,2020 263,2150 181,2150 178,2020"/>
+        <Baseline points="220,2025 223,2150"/>
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1131341" custom="structure {type:Title;}">
+        <Coords points="186,2148 254,2150 277,2640 195,2640 186,2148"/>
+        <Baseline points="223,2153 240,2645"/>
+        <TextEquiv>
+          <Unicode>知不足齋叢書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>詩義指南
+五
+知不足齋叢書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

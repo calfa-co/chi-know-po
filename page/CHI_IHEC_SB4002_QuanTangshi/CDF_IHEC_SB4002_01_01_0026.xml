@@ -1,0 +1,545 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:12:37+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB4002_01_01_0026.jpg" imageHeight="3935" imageWidth="4406">
+    <TextRegion id="116783" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4056,1409 4165,1400 4175,1880 4070,1871 4056,1409"/>
+      <TextLine id="1100214" custom="structure {type:Section;}">
+        <Coords points="4081,1474 4163,1412 4177,1864 4098,1853 4081,1474"/>
+        <Baseline points="4138,1419 4150,1855"/>
+        <TextEquiv>
+          <Unicode>全唐詩目</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1231313" custom="structure {type:Page_Number;}">
+        <Coords points="4068,2929 4068,2677 4172,2677 4172,2929 4068,2929"/>
+        <Baseline points="4129,2874 4132,2704"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>全唐詩目
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116784" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="2286,886 4089,881 4080,3488 2329,3507 2286,886"/>
+      <TextLine id="1100220" custom="structure {type:Author_name;}">
+        <Coords points="3900,1239 4043,1239 4043,1525 3900,1525 3900,1239"/>
+        <Baseline points="3966,1527 3970,1243"/>
+        <TextEquiv>
+          <Unicode>王績</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100221" custom="structure {type:Commentary;}">
+        <Coords points="3949,1512 4084,1512 4084,1713 3949,1713 3949,1512"/>
+        <Baseline points="4018,1519 4026,1715"/>
+        <TextEquiv>
+          <Unicode>一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100222" custom="structure {type:Author_name;}">
+        <Coords points="3743,1219 3892,1219 3892,1622 3743,1622 3743,1219"/>
+        <Baseline points="3810,1223 3822,1623"/>
+        <TextEquiv>
+          <Unicode>蕭德言</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100223" custom="structure {type:Author_name;}">
+        <Coords points="3743,1974 3889,1974 3889,2395 3743,2395 3743,1974"/>
+        <Baseline points="3822,1979 3842,2395"/>
+        <TextEquiv>
+          <Unicode>鄭世翼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100224" custom="structure {type:Author_name;}">
+        <Coords points="3756,2715 3892,2715 3892,3106 3756,3106 3756,2715"/>
+        <Baseline points="3814,2719 3826,3107"/>
+        <TextEquiv>
+          <Unicode>崔信明</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100225" custom="structure {type:Author_name;}">
+        <Coords points="3581,1228 3728,1228 3728,1648 3581,1648 3581,1228"/>
+        <Baseline points="3654,1235 3674,1647"/>
+        <TextEquiv>
+          <Unicode>孔紹安</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100226" custom="structure {type:Author_name;}">
+        <Coords points="3581,1963 3734,1963 3734,2271 3581,2271 3581,1963"/>
+        <Baseline points="3666,1967 3682,2271"/>
+        <TextEquiv>
+          <Unicode>謝偃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100227" custom="structure {type:Author_name;}">
+        <Coords points="3594,2728 3741,2728 3741,3178 3594,3178 3594,2728"/>
+        <Baseline points="3662,2731 3670,3179"/>
+        <TextEquiv>
+          <Unicode>蔡允恭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100228" custom="structure {type:Author_name;}">
+        <Coords points="3426,1219 3568,1219 3568,1674 3426,1674 3426,1219"/>
+        <Baseline points="3490,1223 3506,1675"/>
+        <TextEquiv>
+          <Unicode>杜之松</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100229" custom="structure {type:Author_name;}">
+        <Coords points="3426,1965 3577,1965 3577,2430 3426,2430 3426,1965"/>
+        <Baseline points="3494,1971 3530,2427"/>
+        <TextEquiv>
+          <Unicode>崔善爲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100230" custom="structure {type:Author_name;}">
+        <Coords points="3439,2734 3579,2734 3579,3154 3439,3154 3439,2734"/>
+        <Baseline points="3502,2739 3514,3155"/>
+        <TextEquiv>
+          <Unicode>朱仲晦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100231" custom="structure {type:Author_name;}">
+        <Coords points="3268,1224 3413,1224 3413,1530 3268,1530 3268,1224"/>
+        <Baseline points="3338,1227 3350,1531"/>
+        <TextEquiv>
+          <Unicode>王宏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100232" custom="structure {type:Author_name;}">
+        <Coords points="3273,1952 3413,1952 3413,2422 3273,2422 3273,1952"/>
+        <Baseline points="3350,1955 3354,2423"/>
+        <TextEquiv>
+          <Unicode>朱子奢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100233" custom="structure {type:Author_name;}">
+        <Coords points="3277,2684 3424,2684 3424,3165 3277,3165 3277,2684"/>
+        <Baseline points="3362,3167 3370,2687"/>
+        <TextEquiv>
+          <Unicode>張文收</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100234" custom="structure {type:Author_name;}">
+        <Coords points="3113,1189 3255,1189 3255,1654 3113,1654 3113,1189"/>
+        <Baseline points="3182,1191 3182,1655"/>
+        <TextEquiv>
+          <Unicode>毛明素</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100235" custom="structure {type:Commentary;}">
+        <Coords points="3155,1628 3299,1628 3299,1936 3155,1936 3155,1628"/>
+        <Baseline points="3230,1631 3242,1939"/>
+        <TextEquiv>
+          <Unicode>共一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100236" custom="structure {type:Author_name;}">
+        <Coords points="2905,1191 3096,1191 3096,1670 2905,1670 2905,1191"/>
+        <Baseline points="3030,1195 3034,1671"/>
+        <TextEquiv>
+          <Unicode>陳子良</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100237" custom="structure {type:Author_name;}">
+        <Coords points="2949,1947 3100,1947 3100,2293 2949,2293 2949,1947"/>
+        <Baseline points="3026,1951 3034,2295"/>
+        <TextEquiv>
+          <Unicode>庾抱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100238" custom="structure {type:Author_name;}">
+        <Coords points="2969,2726 3104,2726 3104,3062 2969,3062 2969,2726"/>
+        <Baseline points="3038,2731 3054,3063"/>
+        <TextEquiv>
+          <Unicode>馬周</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100239" custom="structure {type:Author_name;}">
+        <Coords points="2794,1208 2936,1208 2936,1554 2794,1554 2794,1208"/>
+        <Baseline points="2862,1215 2874,1555"/>
+        <TextEquiv>
+          <Unicode>來濟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100240" custom="structure {type:Author_name;}">
+        <Coords points="2803,1980 2949,1980 2949,2417 2803,2417 2803,1980"/>
+        <Baseline points="2870,1983 2886,2419"/>
+        <TextEquiv>
+          <Unicode>張文恭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100241" custom="structure {type:Author_name;}">
+        <Coords points="2807,2699 2949,2699 2949,3193 2807,3193 2807,2699"/>
+        <Baseline points="2866,2703 2874,3195"/>
+        <TextEquiv>
+          <Unicode>薛元超</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100242" custom="structure {type:Author_name;}">
+        <Coords points="2626,1208 2776,1208 2776,1552 2626,1552 2626,1208"/>
+        <Baseline points="2698,1215 2718,1551"/>
+        <TextEquiv>
+          <Unicode>蕭翼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100243" custom="structure {type:Author_name;}">
+        <Coords points="2630,1936 2785,1936 2785,2439 2630,2439 2630,1936"/>
+        <Baseline points="2690,1943 2726,2439"/>
+        <TextEquiv>
+          <Unicode>歐陽詢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100244" custom="structure {type:Author_name;}">
+        <Coords points="2641,2721 2785,2721 2785,3202 2641,3202 2641,2721"/>
+        <Baseline points="2714,2723 2714,3203"/>
+        <TextEquiv>
+          <Unicode>閻立本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100245" custom="structure {type:Author_name;}">
+        <Coords points="2468,1213 2621,1213 2621,1654 2468,1654 2468,1213"/>
+        <Baseline points="2534,1219 2550,1655"/>
+        <TextEquiv>
+          <Unicode>張文琮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100246" custom="structure {type:Commentary;}">
+        <Coords points="2529,1626 2658,1626 2658,1939 2529,1939 2529,1626"/>
+        <Baseline points="2594,1631 2610,1939"/>
+        <TextEquiv>
+          <Unicode>共一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100247" custom="structure {type:Author_name;}">
+        <Coords points="2306,1224 2455,1224 2455,1641 2306,1641 2306,1224"/>
+        <Baseline points="2398,1227 2402,1643"/>
+        <TextEquiv>
+          <Unicode>上官儀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100248" custom="structure {type:Commentary;}">
+        <Coords points="2370,1628 2503,1628 2503,1849 2370,1849 2370,1628"/>
+        <Baseline points="2430,1635 2434,1851"/>
+        <TextEquiv>
+          <Unicode>一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>王績
+一卷
+蕭德言
+鄭世翼
+崔信明
+孔紹安
+謝偃
+蔡允恭
+杜之松
+崔善爲
+朱仲晦
+王宏
+朱子奢
+張文收
+毛明素
+共一卷
+陳子良
+庾抱
+馬周
+來濟
+張文恭
+薛元超
+蕭翼
+歐陽詢
+閻立本
+張文琮
+共一卷
+上官儀
+一卷
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116785" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="378,867 2115,857 2101,3507 369,3474 378,867"/>
+      <TextLine id="1100249" custom="structure {type:Title;}">
+        <Coords points="1959,1062 2107,1062 2107,1528 1959,1528 1959,1062"/>
+        <Baseline points="2030,1067 2050,1527"/>
+        <TextEquiv>
+          <Unicode>第九冊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100250" custom="structure {type:Author_name;}">
+        <Coords points="1801,1182 1943,1182 1943,1598 1801,1598 1801,1182"/>
+        <Baseline points="1874,1187 1878,1599"/>
+        <TextEquiv>
+          <Unicode>盧照鄰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100251" custom="structure {type:Commentary;}">
+        <Coords points="1849,1595 1981,1595 1981,1796 1849,1796 1849,1595"/>
+        <Baseline points="1922,1599 1926,1799"/>
+        <TextEquiv>
+          <Unicode>二卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100252" custom="structure {type:Author_name;}">
+        <Coords points="1639,1197 1788,1197 1788,1608 1639,1608 1639,1197"/>
+        <Baseline points="1706,1203 1726,1611"/>
+        <TextEquiv>
+          <Unicode>李百藥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100253" custom="structure {type:Commentary;}">
+        <Coords points="1705,1606 1830,1606 1830,1825 1705,1825 1705,1606"/>
+        <Baseline points="1774,1607 1774,1827"/>
+        <TextEquiv>
+          <Unicode>一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100254" custom="structure {type:Author_name;}">
+        <Coords points="1478,1204 1615,1204 1615,1633 1478,1633 1478,1204"/>
+        <Baseline points="1558,1207 1582,1635"/>
+        <TextEquiv>
+          <Unicode>劉禕之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100255" custom="structure {type:Author_name;}">
+        <Coords points="1482,1932 1624,1932 1624,2385 1482,2385 1482,1932"/>
+        <Baseline points="1558,1935 1562,2387"/>
+        <TextEquiv>
+          <Unicode>李敬玄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100256" custom="structure {type:Author_name;}">
+        <Coords points="1471,2686 1618,2686 1618,3178 1471,3178 1471,2686"/>
+        <Baseline points="1546,3179 1562,2691"/>
+        <TextEquiv>
+          <Unicode>張大安</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100257" custom="structure {type:Author_name;}">
+        <Coords points="1331,1206 1465,1206 1465,1650 1331,1650 1331,1206"/>
+        <Baseline points="1418,1211 1426,1651"/>
+        <TextEquiv>
+          <Unicode>元萬頃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100258" custom="structure {type:Author_name;}">
+        <Coords points="1322,1939 1473,1939 1473,2382 1322,2382 1322,1939"/>
+        <Baseline points="1402,2383 1406,1943"/>
+        <TextEquiv>
+          <Unicode>郭正一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100259" custom="structure {type:Author_name;}">
+        <Coords points="1316,2710 1454,2710 1454,3161 1316,3161 1316,2710"/>
+        <Baseline points="1398,3163 1410,2715"/>
+        <TextEquiv>
+          <Unicode>胡元範</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100260" custom="structure {type:Author_name;}">
+        <Coords points="1169,1191 1309,1191 1309,1641 1169,1641 1169,1191"/>
+        <Baseline points="1250,1195 1258,1643"/>
+        <TextEquiv>
+          <Unicode>任希古</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100261" custom="structure {type:Author_name;}">
+        <Coords points="1161,1943 1307,1943 1307,2389 1161,2389 1161,1943"/>
+        <Baseline points="1246,2391 1254,1947"/>
+        <TextEquiv>
+          <Unicode>裴守真</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100262" custom="structure {type:Author_name;}">
+        <Coords points="1163,2693 1301,2693 1301,3141 1163,3141 1163,2693"/>
+        <Baseline points="1234,2695 1234,3143"/>
+        <TextEquiv>
+          <Unicode>楊思玄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100263" custom="structure {type:Author_name;}">
+        <Coords points="1010,1187 1147,1187 1147,1650 1010,1650 1010,1187"/>
+        <Baseline points="1086,1191 1090,1651"/>
+        <TextEquiv>
+          <Unicode>王德真</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100264" custom="structure {type:Author_name;}">
+        <Coords points="1012,1982 1152,1982 1152,2426 1012,2426 1012,1982"/>
+        <Baseline points="1086,1983 1086,2427"/>
+        <TextEquiv>
+          <Unicode>鄭義真</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100265" custom="structure {type:Author_name;}">
+        <Coords points="994,2686 1137,2686 1137,3174 994,3174 994,2686"/>
+        <Baseline points="1070,2691 1074,3175"/>
+        <TextEquiv>
+          <Unicode>蕭楚材</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100266" custom="structure {type:Author_name;}">
+        <Coords points="848,1191 988,1191 988,1663 848,1663 848,1191"/>
+        <Baseline points="930,1195 958,1663"/>
+        <TextEquiv>
+          <Unicode>薛克構</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100267" custom="structure {type:Author_name;}">
+        <Coords points="841,1956 981,1956 981,2301 841,2301 841,1956"/>
+        <Baseline points="934,2303 938,1959"/>
+        <TextEquiv>
+          <Unicode>徐珩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100268" custom="structure {type:Author_name;}">
+        <Coords points="837,2695 979,2695 979,3145 837,3145 837,2695"/>
+        <Baseline points="918,3147 926,2699"/>
+        <TextEquiv>
+          <Unicode>賀遂亮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100269" custom="structure {type:Author_name;}">
+        <Coords points="686,1204 830,1204 830,1657 686,1657 686,1204"/>
+        <Baseline points="758,1207 766,1659"/>
+        <TextEquiv>
+          <Unicode>韓思彥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100270" custom="structure {type:Author_name;}">
+        <Coords points="686,1947 833,1947 833,2382 686,2382 686,1947"/>
+        <Baseline points="770,2383 774,1951"/>
+        <TextEquiv>
+          <Unicode>魏求己</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100271" custom="structure {type:Author_name;}">
+        <Coords points="684,2702 819,2702 819,3064 684,3064 684,2702"/>
+        <Baseline points="750,2703 750,3067"/>
+        <TextEquiv>
+          <Unicode>劉懷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100272" custom="structure {type:Commentary;}">
+        <Coords points="725,3067 848,3067 848,3397 725,3397 725,3067"/>
+        <Baseline points="790,3071 798,3399"/>
+        <TextEquiv>
+          <Unicode>共一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100273" custom="structure {type:Author_name;}">
+        <Coords points="524,1191 673,1191 673,1641 524,1641 524,1191"/>
+        <Baseline points="594,1195 610,1643"/>
+        <TextEquiv>
+          <Unicode>杜易簡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100274" custom="structure {type:Author_name;}">
+        <Coords points="529,1943 673,1943 673,2398 529,2398 529,1943"/>
+        <Baseline points="614,1947 618,2399"/>
+        <TextEquiv>
+          <Unicode>陳元光</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100275" custom="structure {type:Author_name;}">
+        <Coords points="518,2688 664,2688 664,3154 518,3154 518,2688"/>
+        <Baseline points="598,3155 618,2695"/>
+        <TextEquiv>
+          <Unicode>許天正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100276" custom="structure {type:Author_name;}">
+        <Coords points="360,1184 502,1184 502,1613 360,1613 360,1184"/>
+        <Baseline points="466,1187 466,1615"/>
+        <TextEquiv>
+          <Unicode>許圉師</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100277" custom="structure {type:Author_name;}">
+        <Coords points="354,1934 518,1934 518,2374 354,2374 354,1934"/>
+        <Baseline points="450,1939 454,2375"/>
+        <TextEquiv>
+          <Unicode>趙謙光</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100278" custom="structure {type:Author_name;}">
+        <Coords points="356,2686 507,2686 507,3165 356,3165 356,2686"/>
+        <Baseline points="446,2691 450,3167"/>
+        <TextEquiv>
+          <Unicode>鄭惟忠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>第九冊
+盧照鄰
+二卷
+李百藥
+一卷
+劉禕之
+李敬玄
+張大安
+元萬頃
+郭正一
+胡元範
+任希古
+裴守真
+楊思玄
+王德真
+鄭義真
+蕭楚材
+薛克構
+徐珩
+賀遂亮
+韓思彥
+魏求己
+劉懷一
+共一卷
+杜易簡
+陳元光
+許天正
+許圉師
+趙謙光
+鄭惟忠
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116786" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="269,1390 383,1395 355,2979 250,2974 269,1390"/>
+      <TextLine id="1100217" custom="structure {type:Section;}">
+        <Coords points="271,1465 359,1519 360,1825 262,1808 271,1465"/>
+        <Baseline points="310,1827 322,1467"/>
+        <TextEquiv>
+          <Unicode>全唐詩目</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100218" custom="structure {type:Section;}">
+        <Coords points="249,1814 400,1814 400,2081 249,2081 249,1814"/>
+        <Baseline points="338,2083 346,1819"/>
+        <TextEquiv>
+          <Unicode>第一函</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1100219" custom="structure {type:Page_Number;}">
+        <Coords points="262,2734 321,2734 321,2822 262,2822 262,2734"/>
+        <Baseline points="294,2735 294,2823"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>全唐詩目
+第一函
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

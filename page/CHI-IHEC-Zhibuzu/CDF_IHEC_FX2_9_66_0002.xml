@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:25+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_9_66_0002.jpg" imageHeight="3144" imageWidth="3531">
+    <TextRegion id="116661" custom="structure {type:MainText_Left;}">
+      <Coords points="227,759 1667,746 1684,2690 257,2693 227,759"/>
+      <TextLine id="1099109" custom="structure {type:Title;}">
+        <Coords points="1505,729 1664,739 1662,1312 1505,1319 1505,729"/>
+        <Baseline points="1576,709 1596,1338"/>
+        <TextEquiv>
+          <Unicode>金樓子卷第四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099110" custom="structure {type:Author_name;}">
+        <Coords points="1359,1439 1509,1439 1509,2530 1359,2530 1359,1439"/>
+        <Baseline points="1418,1442 1445,2532"/>
+        <TextEquiv>
+          <Unicode>梁 孝 元 皇 帝 撰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099111" custom="structure {type:Title;}">
+        <Coords points="1193,992 1329,992 1338,1471 1193,1482 1193,992"/>
+        <Baseline points="1256,995 1266,1492"/>
+        <TextEquiv>
+          <Unicode>立言篇九上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099112" custom="structure {type:Commentary;}">
+        <Coords points="1271,1482 1354,1473 1357,2671 1276,2673 1271,1482"/>
+        <Baseline points="1297,1462 1324,2676"/>
+        <TextEquiv>
+          <Unicode>案目錄有立言上下原本合爲一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099113" custom="structure {type:Commentary;}">
+        <Coords points="1187,1494 1271,1479 1287,2702 1204,2696 1187,1494"/>
+        <Baseline points="1223,1439 1240,2703"/>
+        <TextEquiv>
+          <Unicode>篇目散見複出者猶有上下之名</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099114" custom="structure {type:Commentary;}">
+        <Coords points="1103,1001 1202,999 1194,1423 1106,1418 1103,1001"/>
+        <Baseline points="1149,1001 1152,1435"/>
+        <TextEquiv>
+          <Unicode>謹参考分</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099115" custom="structure {type:Commentary;}">
+        <Coords points="1029,1003 1098,999 1101,1314 1032,1315 1029,1003"/>
+        <Baseline points="1065,1317 1068,1001"/>
+        <TextEquiv>
+          <Unicode>之如左</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099116" custom="structure {type:Text;}">
+        <Coords points="863,723 1036,723 1036,2705 863,2705 863,723"/>
+        <Baseline points="933,725 977,2707"/>
+        <TextEquiv>
+          <Unicode>案祭法天子諸侯宗廟皆月祭之又有月合皆薦新竝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099117" custom="structure {type:Text;}">
+        <Coords points="716,730 863,730 863,2705 716,2705 716,730"/>
+        <Baseline points="785,732 802,2707"/>
+        <TextEquiv>
+          <Unicode>云先薦寢廟此皆是月祭正文國語云古者先王月祭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099118" custom="structure {type:Text;}">
+        <Coords points="555,730 714,730 714,2712 555,2712 555,730"/>
+        <Baseline points="627,732 658,2713"/>
+        <TextEquiv>
+          <Unicode>日祀雖諸侯不得祖天子而宗廟在都匈奴未滅拊心</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099119" custom="structure {type:Text;}">
+        <Coords points="393,738 552,738 552,2689 393,2689 393,738"/>
+        <Baseline points="456,742 500,2690"/>
+        <TextEquiv>
+          <Unicode>長叫萬恨不追昔魯國孔氏有仲尼車輿冠服漢明帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099120" custom="structure {type:Text;}">
+        <Coords points="237,733 380,733 380,1774 237,1774 237,733"/>
+        <Baseline points="314,736 325,1775"/>
+        <TextEquiv>
+          <Unicode>錫束平王蒼光烈皇后假髻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099121" custom="structure {type:Commentary;}">
+        <Coords points="327,1778 400,1761 410,2691 332,2691 327,1778"/>
+        <Baseline points="365,1748 378,2693"/>
+        <TextEquiv>
+          <Unicode>案後漢書作紒注周禮追</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099122" custom="structure {type:Commentary;}">
+        <Coords points="247,1778 329,1768 329,2683 241,2689 247,1778"/>
+        <Baseline points="274,1741 298,2690"/>
+        <TextEquiv>
+          <Unicode>師掌爲副編鄭元云副婦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>金樓子卷第四
+梁 孝 元 皇 帝 撰
+立言篇九上
+案目錄有立言上下原本合爲一
+篇目散見複出者猶有上下之名
+謹参考分
+之如左
+案祭法天子諸侯宗廟皆月祭之又有月合皆薦新竝
+云先薦寢廟此皆是月祭正文國語云古者先王月祭
+日祀雖諸侯不得祖天子而宗廟在都匈奴未滅拊心
+長叫萬恨不追昔魯國孔氏有仲尼車輿冠服漢明帝
+錫束平王蒼光烈皇后假髻
+案後漢書作紒注周禮追
+師掌爲副編鄭元云副婦
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116662" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="133,1233 227,1223 264,2693 170,2700 133,1233"/>
+      <TextLine id="1099107" custom="structure {type:Section;}">
+        <Coords points="156,1215 228,1203 228,1680 156,1683 156,1215"/>
+        <Baseline points="177,1206 190,1681"/>
+        <TextEquiv>
+          <Unicode>金樓子卷四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234250" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="213,2118 223,2235"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1099108" custom="structure {type:Title;}">
+        <Coords points="164,2135 251,2125 251,2702 180,2694 164,2135"/>
+        <Baseline points="207,2703 208,2212"/>
+        <TextEquiv>
+          <Unicode>知不足斎樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>金樓子卷四
+一
+知不足斎樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="136077" custom="structure {type:Marginalia;}">
+      <Coords points="158,279 158,135 434,135 434,279 158,279"/>
+      <TextLine id="1234255" custom="structure {type:Marginalia;}">
+        <Coords points=""/>
+        <Baseline points="138,224 450,240"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="136078" custom="structure {type:Marginalia;}">
+      <Coords points="2755,599 2755,271 3107,271 3107,599 2755,599"/>
+      <TextLine id="1234256" custom="structure {type:Marginalia;}">
+        <Coords points=""/>
+        <Baseline points="2759,360 3091,360"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234257" custom="structure {type:Marginalia;}">
+        <Coords points=""/>
+        <Baseline points="2783,448 3087,456"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234258" custom="structure {type:Marginalia;}">
+        <Coords points=""/>
+        <Baseline points="2875,544 3091,552"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+
+
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="136079" custom="structure {type:Image_Stamp;}">
+      <Coords points="702,3023 702,2687 1302,2687 1302,3023 702,3023"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="136080" custom="structure {type:Marginalia;}">
+      <Coords points="1138,423 1138,111 1715,111 1715,423 1138,423"/>
+      <TextLine id="1234259" custom="structure {type:Marginalia;}">
+        <Coords points=""/>
+        <Baseline points="1130,216 1683,220"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234260" custom="structure {type:Marginalia;}">
+        <Coords points=""/>
+        <Baseline points="1250,364 1707,360"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

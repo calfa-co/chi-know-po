@@ -1,0 +1,497 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:28:52+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI111_1_5_0025.jpg" imageHeight="4091" imageWidth="4908">
+    <TextRegion id="117872" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4514,732 4609,732 4604,3662 4528,3667 4514,732"/>
+      <TextLine id="1111340" custom="structure {type:Title;}">
+        <Coords points="4523,702 4682,710 4678,1474 4524,1477 4523,702"/>
+        <Baseline points="4567,703 4567,1464"/>
+        <TextEquiv>
+          <Unicode>毛詩陸疏校正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111341" custom="structure {type:Page_Number;}">
+        <Coords points="4519,2986 4669,2986 4669,3143 4519,3143 4519,2986"/>
+        <Baseline points="4567,3139 4574,2991"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>毛詩陸疏校正
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117873" custom="structure {type:MainText_Right;}">
+      <Coords points="2460,751 4509,737 4509,3681 2479,3658 2460,751"/>
+      <TextLine id="1111342" custom="structure {type:Commentary;}">
+        <Coords points="4459,887 4458,729 4541,743 4537,887 4459,887"/>
+        <Baseline points="4493,717 4493,872"/>
+        <TextEquiv>
+          <Unicode>作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111343" custom="structure {type:Commentary;}">
+        <Coords points="4372,735 4457,735 4455,893 4368,897 4372,735"/>
+        <Baseline points="4399,710 4402,872"/>
+        <TextEquiv>
+          <Unicode>鶯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111344" custom="structure {type:Text;}">
+        <Coords points="4366,889 4521,885 4521,1621 4352,1623 4366,889"/>
+        <Baseline points="4439,1618 4470,885"/>
+        <TextEquiv>
+          <Unicode>或謂之黄鳥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111345" custom="structure {type:Commentary;}">
+        <Coords points="4436,1621 4521,1611 4525,2053 4438,2061 4436,1621"/>
+        <Baseline points="4470,1612 4483,2052"/>
+        <TextEquiv>
+          <Unicode>詩疏無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111346" custom="structure {type:Commentary;}">
+        <Coords points="4362,1619 4448,1623 4446,2068 4354,2067 4362,1619"/>
+        <Baseline points="4389,1605 4399,2069"/>
+        <TextEquiv>
+          <Unicode>此五字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111347" custom="structure {type:Text;}">
+        <Coords points="4360,2081 4517,2079 4511,3681 4342,3683 4360,2081"/>
+        <Baseline points="4426,2106 4426,3704"/>
+        <TextEquiv>
+          <Unicode>一名倉庚一名商庚一名鵹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111348" custom="structure {type:Text;}">
+        <Coords points="4200,751 4372,741 4371,3231 4155,3231 4200,751"/>
+        <Baseline points="4244,3233 4281,717"/>
+        <TextEquiv>
+          <Unicode>黄一名楚雀齊人謂之摶黍闗西謂之黄鳥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111349" custom="structure {type:Commentary;}">
+        <Coords points="4230,3229 4348,3229 4348,3675 4230,3675 4230,3229"/>
+        <Baseline points="4281,3233 4285,3677"/>
+        <TextEquiv>
+          <Unicode>詩疏無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111350" custom="structure {type:Commentary;}">
+        <Coords points="4160,3223 4246,3222 4246,3661 4162,3665 4160,3223"/>
+        <Baseline points="4184,3663 4201,3226"/>
+        <TextEquiv>
+          <Unicode>此六字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111351" custom="structure {type:Commentary;}">
+        <Coords points="4082,720 4198,720 4198,1031 4082,1031 4082,720"/>
+        <Baseline points="4144,1033 4150,724"/>
+        <TextEquiv>
+          <Unicode>釋文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111352" custom="structure {type:Commentary;}">
+        <Coords points="4016,735 4110,737 4105,879 4018,883 4016,735"/>
+        <Baseline points="4049,703 4049,872"/>
+        <TextEquiv>
+          <Unicode>有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111353" custom="structure {type:Text;}">
+        <Coords points="4020,1027 4190,1025 4163,3679 3992,3685 4020,1027"/>
+        <Baseline points="4080,3677 4096,993"/>
+        <TextEquiv>
+          <Unicode>當葚熟時來在桑閒故里語曰黄栗留看我麥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111354" custom="structure {type:Text;}">
+        <Coords points="3854,739 4015,735 4021,3072 3810,3072 3854,739"/>
+        <Baseline points="3891,3075 3928,710"/>
+        <TextEquiv>
+          <Unicode>黄葚熟亦是應節趨時之鳥或謂之黄袍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111355" custom="structure {type:Commentary;}">
+        <Coords points="3902,3085 3997,3077 3991,3679 3900,3675 3902,3085"/>
+        <Baseline points="3928,3677 3949,3065"/>
+        <TextEquiv>
+          <Unicode>詩疏無此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111356" custom="structure {type:Commentary;}">
+        <Coords points="3816,3083 3909,3085 3907,3673 3814,3669 3816,3083"/>
+        <Baseline points="3861,3071 3861,3684"/>
+        <TextEquiv>
+          <Unicode>五字藝文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111357" custom="structure {type:Commentary;}">
+        <Coords points="3768,735 3855,743 3821,2347 3732,2349 3768,735"/>
+        <Baseline points="3787,2378 3801,707"/>
+        <TextEquiv>
+          <Unicode>類聚有毛詩葛覃疏爾雅釋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111358" custom="structure {type:Commentary;}">
+        <Coords points="3676,735 3766,735 3749,2207 3660,2205 3676,735"/>
+        <Baseline points="3713,2214 3720,710"/>
+        <TextEquiv>
+          <Unicode>鳥疏預覽倉庚引詩義疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111359" custom="structure {type:Title;}">
+        <Coords points="3505,979 3678,979 3678,1352 3505,1352 3505,979"/>
+        <Baseline points="3569,986 3579,1353"/>
+        <TextEquiv>
+          <Unicode>鴟鴞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111360" custom="structure {type:Text;}">
+        <Coords points="3308,3674 3334,735 3497,737 3465,3673 3308,3674"/>
+        <Baseline points="3367,3694 3410,703"/>
+        <TextEquiv>
+          <Unicode>鴟鴞似黄雀而小其喙尖如錐取茅莠為巢以麻紩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111361" custom="structure {type:Text;}">
+        <Coords points="3150,741 3330,739 3310,3677 3125,3674 3150,741"/>
+        <Baseline points="3205,3690 3246,717"/>
+        <TextEquiv>
+          <Unicode>之如刺襪然縣著樹枝或一房或二房幽州人謂之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111362" custom="structure {type:Text;}">
+        <Coords points="2976,733 3148,735 3120,3670 2948,3665 2976,733"/>
+        <Baseline points="3041,3667 3067,717"/>
+        <TextEquiv>
+          <Unicode>鸋鴂或曰巧婦或曰女匠關東謂之工雀或謂之過</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111363" custom="structure {type:Text;}">
+        <Coords points="2825,737 2975,730 2975,3084 2773,3084 2825,737"/>
+        <Baseline points="2872,3085 2906,710"/>
+        <TextEquiv>
+          <Unicode>羸關西謂之桑飛或謂之襪雀或曰巧女</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111364" custom="structure {type:Commentary;}">
+        <Coords points="2870,3087 2953,3084 2953,3660 2861,3660 2870,3087"/>
+        <Baseline points="2883,3657 2909,3078"/>
+        <TextEquiv>
+          <Unicode>詩鴟鴞疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111365" custom="structure {type:Commentary;}">
+        <Coords points="2778,3082 2875,3072 2875,3652 2773,3660 2778,3082"/>
+        <Baseline points="2819,3075 2819,3653"/>
+        <TextEquiv>
+          <Unicode>爾雅釋鳥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111366" custom="structure {type:Commentary;}">
+        <Coords points="2720,739 2825,735 2823,1340 2718,1339 2720,739"/>
+        <Baseline points="2761,1342 2775,720"/>
+        <TextEquiv>
+          <Unicode>疏預覽鴞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111367" custom="structure {type:Commentary;}">
+        <Coords points="2632,737 2727,720 2727,1327 2635,1327 2632,737"/>
+        <Baseline points="2667,724 2684,1329"/>
+        <TextEquiv>
+          <Unicode>引詩義疏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111368" custom="structure {type:Title;}">
+        <Coords points="2478,1010 2632,999 2623,1645 2473,1648 2478,1010"/>
+        <Baseline points="2550,979 2550,1699"/>
+        <TextEquiv>
+          <Unicode>交交桑扈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>作
+鶯
+或謂之黄鳥
+詩疏無
+此五字
+一名倉庚一名商庚一名鵹
+黄一名楚雀齊人謂之摶黍闗西謂之黄鳥
+詩疏無
+此六字
+釋文
+有
+當葚熟時來在桑閒故里語曰黄栗留看我麥
+黄葚熟亦是應節趨時之鳥或謂之黄袍
+詩疏無此
+五字藝文
+類聚有毛詩葛覃疏爾雅釋
+鳥疏預覽倉庚引詩義疏
+鴟鴞
+鴟鴞似黄雀而小其喙尖如錐取茅莠為巢以麻紩
+之如刺襪然縣著樹枝或一房或二房幽州人謂之
+鸋鴂或曰巧婦或曰女匠關東謂之工雀或謂之過
+羸關西謂之桑飛或謂之襪雀或曰巧女
+詩鴟鴞疏
+爾雅釋鳥
+疏預覽鴞
+引詩義疏
+交交桑扈
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117874" custom="structure {type:MainText_Left;}">
+      <Coords points="381,727 2436,718 2417,3620 343,3648 381,727"/>
+      <TextLine id="1111369" custom="structure {type:Text;}">
+        <Coords points="2290,725 2445,716 2446,3472 2259,3472 2290,725"/>
+        <Baseline points="2351,703 2371,3475"/>
+        <TextEquiv>
+          <Unicode>桑扈青雀也好竊人脯肉脂及䇶中膏故曰竊脂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111370" custom="structure {type:Commentary;}">
+        <Coords points="2348,3479 2452,3477 2437,3629 2354,3622 2348,3479"/>
+        <Baseline points="2392,3485 2398,3640"/>
+        <TextEquiv>
+          <Unicode>王</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111371" custom="structure {type:Commentary;}">
+        <Coords points="2280,3474 2364,3477 2366,3624 2271,3631 2280,3474"/>
+        <Baseline points="2311,3451 2311,3660"/>
+        <TextEquiv>
+          <Unicode>謨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111372" custom="structure {type:Commentary;}">
+        <Coords points="2197,711 2292,727 2291,2354 2175,2354 2197,711"/>
+        <Baseline points="2237,707 2244,2355"/>
+        <TextEquiv>
+          <Unicode>本脱䇶中二字依毛晉本補</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111373" custom="structure {type:Commentary;}">
+        <Coords points="2107,713 2198,713 2198,2197 2097,2207 2107,713"/>
+        <Baseline points="2146,2200 2149,717"/>
+        <TextEquiv>
+          <Unicode>爾雅釋鳥疏亦作䇶中膏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111374" custom="structure {type:Title;}">
+        <Coords points="1943,968 2097,970 2102,1795 1940,1793 1943,968"/>
+        <Baseline points="2025,969 2028,1793"/>
+        <TextEquiv>
+          <Unicode>肇允彼桃蟲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111375" custom="structure {type:Text;}">
+        <Coords points="1769,723 1931,723 1926,3631 1762,3629 1769,723"/>
+        <Baseline points="1837,690 1860,3650"/>
+        <TextEquiv>
+          <Unicode>桃蟲今鷦鷯是也微小于黄雀其雛化而為鵰故俗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111376" custom="structure {type:Text;}">
+        <Coords points="1603,723 1769,725 1768,1465 1600,1465 1603,723"/>
+        <Baseline points="1675,690 1685,1467"/>
+        <TextEquiv>
+          <Unicode>語鷦鷯生鵰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111377" custom="structure {type:Commentary;}">
+        <Coords points="1672,1458 1770,1454 1760,3631 1674,3636 1672,1458"/>
+        <Baseline points="1712,1457 1719,3650"/>
+        <TextEquiv>
+          <Unicode>詩小毖疏正義曰言始小終大者始為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111378" custom="structure {type:Commentary;}">
+        <Coords points="1595,1458 1679,1460 1676,3636 1581,3634 1595,1458"/>
+        <Baseline points="1618,3653 1632,1443"/>
+        <TextEquiv>
+          <Unicode>桃蟲長大而為鷦鳥鷦𪃧小鳥而生鵰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111379" custom="structure {type:Commentary;}">
+        <Coords points="1503,708 1607,723 1600,2384 1479,2384 1503,708"/>
+        <Baseline points="1544,700 1554,2385"/>
+        <TextEquiv>
+          <Unicode>鶚者也爾雅釋鳥疏同御覽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111380" custom="structure {type:Commentary;}">
+        <Coords points="1412,708 1507,720 1507,2365 1410,2366 1412,708"/>
+        <Baseline points="1457,2368 1460,713"/>
+        <TextEquiv>
+          <Unicode>引或曰布穀生子鷦鷯養之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111381" custom="structure {type:Title;}">
+        <Coords points="1255,980 1408,984 1408,1605 1248,1617 1255,980"/>
+        <Baseline points="1322,986 1349,1615"/>
+        <TextEquiv>
+          <Unicode>值其鷺羽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111382" custom="structure {type:Commentary;}">
+        <Coords points="1298,1622 1410,1612 1417,2654 1322,2649 1298,1622"/>
+        <Baseline points="1353,1628 1379,2651"/>
+        <TextEquiv>
+          <Unicode>一本作振鷺于飛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111383" custom="structure {type:Commentary;}">
+        <Coords points="1243,1598 1331,1610 1327,2495 1239,2495 1243,1598"/>
+        <Baseline points="1282,1591 1282,2496"/>
+        <TextEquiv>
+          <Unicode>此依毛晉本改</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111384" custom="structure {type:Text;}">
+        <Coords points="1077,720 1251,725 1248,2050 1057,2050 1077,720"/>
+        <Baseline points="1154,700 1154,2052"/>
+        <TextEquiv>
+          <Unicode>鷺水鳥也好而潔白故</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111385" custom="structure {type:Commentary;}">
+        <Coords points="1151,2040 1241,2040 1234,2759 1148,2761 1151,2040"/>
+        <Baseline points="1191,2765 1194,2045"/>
+        <TextEquiv>
+          <Unicode>毛晉本下有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111386" custom="structure {type:Commentary;}">
+        <Coords points="1072,2050 1170,2043 1158,2621 1072,2623 1072,2050"/>
+        <Baseline points="1097,2032 1100,2624"/>
+        <TextEquiv>
+          <Unicode>汶陽二字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111387" custom="structure {type:Text;}">
+        <Coords points="1077,2749 1236,2754 1234,3641 1065,3639 1077,2749"/>
+        <Baseline points="1137,2735 1164,3633"/>
+        <TextEquiv>
+          <Unicode>謂之白鳥齊魯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111388" custom="structure {type:Text;}">
+        <Coords points="906,718 1075,727 1072,3639 899,3655 906,718"/>
+        <Baseline points="979,707 986,3663"/>
+        <TextEquiv>
+          <Unicode>之閒謂之舂鉏遼東樂浪呉揚人皆謂之白鷺大小</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111389" custom="structure {type:Text;}">
+        <Coords points="734,718 906,718 903,1003 732,1006 734,718"/>
+        <Baseline points="798,707 804,1013"/>
+        <TextEquiv>
+          <Unicode>如鴟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111390" custom="structure {type:Commentary;}">
+        <Coords points="806,1008 911,1009 911,1452 811,1450 806,1008"/>
+        <Baseline points="845,1013 855,1453"/>
+        <TextEquiv>
+          <Unicode>詩疏無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111391" custom="structure {type:Commentary;}">
+        <Coords points="709,1004 822,1004 822,1445 709,1445 709,1004"/>
+        <Baseline points="761,1009 771,1447"/>
+        <TextEquiv>
+          <Unicode>此四字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111392" custom="structure {type:Text;}">
+        <Coords points="730,1460 897,1450 897,3647 697,3647 730,1460"/>
+        <Baseline points="798,1453 825,3650"/>
+        <TextEquiv>
+          <Unicode>青脚髙尺七八寸尾如鷹尾喙長三寸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111393" custom="structure {type:Text;}">
+        <Coords points="551,716 727,725 718,3650 554,3653 551,716"/>
+        <Baseline points="643,3660 650,703"/>
+        <TextEquiv>
+          <Unicode>許頭上有毛十數枚長尺餘毿毿然與衆毛異甚好</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111394" custom="structure {type:Text;}">
+        <Coords points="390,718 554,725 554,3648 366,3646 390,718"/>
+        <Baseline points="455,703 468,3667"/>
+        <TextEquiv>
+          <Unicode>將欲取魚時則弭之今呉人亦養焉好羣飛鳴楚威</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>桑扈青雀也好竊人脯肉脂及䇶中膏故曰竊脂
+王
+謨
+本脱䇶中二字依毛晉本補
+爾雅釋鳥疏亦作䇶中膏
+肇允彼桃蟲
+桃蟲今鷦鷯是也微小于黄雀其雛化而為鵰故俗
+語鷦鷯生鵰
+詩小毖疏正義曰言始小終大者始為
+桃蟲長大而為鷦鳥鷦𪃧小鳥而生鵰
+鶚者也爾雅釋鳥疏同御覽
+引或曰布穀生子鷦鷯養之
+值其鷺羽
+一本作振鷺于飛
+此依毛晉本改
+鷺水鳥也好而潔白故
+毛晉本下有
+汶陽二字
+謂之白鳥齊魯
+之閒謂之舂鉏遼東樂浪呉揚人皆謂之白鷺大小
+如鴟
+詩疏無
+此四字
+青脚髙尺七八寸尾如鷹尾喙長三寸
+許頭上有毛十數枚長尺餘毿毿然與衆毛異甚好
+將欲取魚時則弭之今呉人亦養焉好羣飛鳴楚威
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117875" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="258,732 381,732 343,3658 291,3658 258,732"/>
+      <TextLine id="1111395" custom="structure {type:Title;}">
+        <Coords points="245,718 397,715 397,1472 271,1472 245,718"/>
+        <Baseline points="334,717 334,1474"/>
+        <TextEquiv>
+          <Unicode>毛詩陸疏校正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111396" custom="structure {type:Section;}">
+        <Coords points="275,1584 391,1584 391,1886 275,1886 275,1584"/>
+        <Baseline points="327,1588 334,1887"/>
+        <TextEquiv>
+          <Unicode>卷上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111397" custom="structure {type:Page_Number;}">
+        <Coords points="263,2954 366,2949 373,3120 263,3120 263,2954"/>
+        <Baseline points="307,2960 320,3122"/>
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>毛詩陸疏校正
+卷上
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,609 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:11:38+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI22_1_03_0045.jpg" imageHeight="4178" imageWidth="4696">
+    <TextRegion id="119629" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4400,3669 4357,734 4542,734 4542,3664 4400,3669"/>
+      <TextLine id="1129559" custom="structure {type:Title;}">
+        <Coords points="4380,731 4461,736 4478,1314 4380,1309 4380,731"/>
+        <Baseline points="4436,740 4470,1308"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129560" custom="structure {type:Section;}">
+        <Coords points="4377,1699 4471,1697 4483,1994 4377,1998 4377,1699"/>
+        <Baseline points="4450,1712 4476,1995"/>
+        <TextEquiv>
+          <Unicode>卷八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129561" custom="structure {type:Page_Number;}">
+        <Coords points="4408,2936 4492,2941 4490,3126 4408,3135 4408,2936"/>
+        <Baseline points="4450,2946 4463,3138"/>
+        <TextEquiv>
+          <Unicode>十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷八
+十三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119630" custom="structure {type:MainText_Right;}">
+      <Coords points="2512,3664 2512,743 4395,743 4395,3664 2512,3664"/>
+      <TextLine id="1129562" custom="structure {type:Text;}">
+        <Coords points="4162,733 4347,733 4347,1311 4162,1311 4162,733"/>
+        <Baseline points="4241,740 4258,1312"/>
+        <TextEquiv>
+          <Unicode>作麥豉法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129563" custom="structure {type:Commentary;}">
+        <Coords points="4262,1319 4357,1319 4402,3647 4293,3654 4262,1319"/>
+        <Baseline points="4312,1298 4376,3673"/>
+        <TextEquiv>
+          <Unicode>七月八月中作之餘月則味不佳治小麥細</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129564" custom="structure {type:Commentary;}">
+        <Coords points="4157,1314 4262,1314 4290,3664 4195,3661 4157,1314"/>
+        <Baseline points="4204,1305 4261,3666"/>
+        <TextEquiv>
+          <Unicode>磨為麵以水拌之而蒸氣餾好熟乃下撣之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129565" custom="structure {type:Commentary;}">
+        <Coords points="4048,734 4155,738 4193,3657 4090,3659 4048,734"/>
+        <Baseline points="4110,740 4147,3646"/>
+        <TextEquiv>
+          <Unicode>令冷手挼令細布置蓋亦如麥麹黃蒸法七日衣足亦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129566" custom="structure {type:Commentary;}">
+        <Coords points="3950,755 4052,757 4088,3664 3990,3664 3950,755"/>
+        <Baseline points="3999,726 4056,3666"/>
+        <TextEquiv>
+          <Unicode>勿簸揚以鹽湯周徧灑潤之更蒸氣餾極熟乃下撣去</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129567" custom="structure {type:Commentary;}">
+        <Coords points="3843,736 3948,731 3983,3674 3883,3678 3843,736"/>
+        <Baseline points="3912,733 3938,3676"/>
+        <TextEquiv>
+          <Unicode>熱氣及煖內甕中盆蓋於蘘糞中燠之二七日色黑氣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129568" custom="structure {type:Commentary;}">
+        <Coords points="3741,743 3845,738 3892,3706 3779,3699 3741,743"/>
+        <Baseline points="3797,733 3844,3707"/>
+        <TextEquiv>
+          <Unicode>香味便熟摶作小餅如神麴形繩穿為貫屋裏懸之紙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129569" custom="structure {type:Commentary;}">
+        <Coords points="3634,722 3748,724 3779,3671 3677,3669 3634,722"/>
+        <Baseline points="3696,720 3723,3673"/>
+        <TextEquiv>
+          <Unicode>袋盛籠以防青蠅塵垢之汙用時全餅著湯中煮之色</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129570" custom="structure {type:Commentary;}">
+        <Coords points="3534,762 3643,757 3676,3692 3565,3685 3534,762"/>
+        <Baseline points="3582,733 3609,3693"/>
+        <TextEquiv>
+          <Unicode>足漉出削去皮粕還舉一餅得數遍煮用熱香美乃勝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129571" custom="structure {type:Commentary;}">
+        <Coords points="3428,728 3546,728 3546,2325 3446,2320 3428,728"/>
+        <Baseline points="3505,733 3508,2328"/>
+        <TextEquiv>
+          <Unicode>豆豉打破湯浸研用亦得然</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129572" custom="structure {type:Commentary;}">
+        <Coords points="3320,745 3434,741 3443,2177 3344,2175 3320,745"/>
+        <Baseline points="3380,743 3407,2173"/>
+        <TextEquiv>
+          <Unicode>汁濁不如前全煮汁清也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129573" custom="structure {type:Title;}">
+        <Coords points="3131,1016 3307,1016 3307,1455 3131,1455 3131,1016"/>
+        <Baseline points="3222,1022 3236,1456"/>
+        <TextEquiv>
+          <Unicode>八和齏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129574" custom="structure {type:Commentary;}">
+        <Coords points="3219,1441 3340,1441 3340,1750 3219,1750 3219,1441"/>
+        <Baseline points="3289,1446 3293,1752"/>
+        <TextEquiv>
+          <Unicode>初稽</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129575" custom="structure {type:Commentary;}">
+        <Coords points="3144,1468 3232,1466 3235,1617 3147,1617 3144,1468"/>
+        <Baseline points="3178,1433 3178,1618"/>
+        <TextEquiv>
+          <Unicode>反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129576" custom="structure {type:Text;}">
+        <Coords points="3140,1717 3321,1717 3321,2304 3140,2304 3140,1717"/>
+        <Baseline points="3222,1722 3232,2307"/>
+        <TextEquiv>
+          <Unicode>第七十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129577" custom="structure {type:Text;}">
+        <Coords points="2941,770 3138,770 3138,3674 2941,3674 2941,770"/>
+        <Baseline points="3051,774 3061,3676"/>
+        <TextEquiv>
+          <Unicode>蒜一薑二橘三白梅四熟栗黃五粳米飯六鹽七醬八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129578" custom="structure {type:Text;}">
+        <Coords points="2729,728 2908,728 2908,1316 2729,1316 2729,728"/>
+        <Baseline points="2822,733 2829,1318"/>
+        <TextEquiv>
+          <Unicode>齏臼欲重</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129579" custom="structure {type:Commentary;}">
+        <Coords points="2815,1318 2950,1318 2950,2158 2815,2158 2815,1318"/>
+        <Baseline points="2886,1322 2889,2159"/>
+        <TextEquiv>
+          <Unicode>不則傾動起塵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129580" custom="structure {type:Commentary;}">
+        <Coords points="2723,1331 2827,1331 2829,2024 2728,2023 2723,1331"/>
+        <Baseline points="2765,1295 2782,2025"/>
+        <TextEquiv>
+          <Unicode>蒜復跳出也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129581" custom="structure {type:Text;}">
+        <Coords points="2755,2140 2924,2140 2924,2998 2755,2998 2755,2140"/>
+        <Baseline points="2832,2143 2842,3000"/>
+        <TextEquiv>
+          <Unicode>底欲平寬而圓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129582" custom="structure {type:Commentary;}">
+        <Coords points="2846,2972 2980,2964 2980,3678 2851,3678 2846,2972"/>
+        <Baseline points="2903,2967 2923,3680"/>
+        <TextEquiv>
+          <Unicode>底尖擣不著</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129583" custom="structure {type:Commentary;}">
+        <Coords points="2732,2972 2849,2976 2862,3665 2742,3664 2732,2972"/>
+        <Baseline points="2775,2936 2809,3663"/>
+        <TextEquiv>
+          <Unicode>則蒜有粗成</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129584" custom="structure {type:Text;}">
+        <Coords points="2525,749 2695,749 2695,1580 2525,1580 2525,749"/>
+        <Baseline points="2614,753 2620,1581"/>
+        <TextEquiv>
+          <Unicode>以檀木為齏臼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129585" custom="structure {type:Commentary;}">
+        <Coords points="2606,1587 2722,1587 2722,2137 2606,2137 2606,1587"/>
+        <Baseline points="2684,2139 2688,1591"/>
+        <TextEquiv>
+          <Unicode>檀木硬而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129586" custom="structure {type:Commentary;}">
+        <Coords points="2509,1599 2628,1599 2632,2024 2516,2023 2509,1599"/>
+        <Baseline points="2553,1567 2577,2021"/>
+        <TextEquiv>
+          <Unicode>不染汗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129587" custom="structure {type:Text;}">
+        <Coords points="2532,2135 2729,2135 2729,3514 2532,3514 2532,2135"/>
+        <Baseline points="2620,2139 2644,3515"/>
+        <TextEquiv>
+          <Unicode>杵頭大小與杵底相安可</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129588" custom="structure {type:Commentary;}">
+        <Coords points="2649,3523 2741,3514 2741,3665 2647,3671 2649,3523"/>
+        <Baseline points="2711,3515 2711,3666"/>
+        <TextEquiv>
+          <Unicode>杵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129589" custom="structure {type:Commentary;}">
+        <Coords points="2520,3516 2646,3516 2646,3688 2520,3688 2520,3516"/>
+        <Baseline points="2593,3518 2593,3690"/>
+        <TextEquiv>
+          <Unicode>頭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>作麥豉法
+七月八月中作之餘月則味不佳治小麥細
+磨為麵以水拌之而蒸氣餾好熟乃下撣之
+令冷手挼令細布置蓋亦如麥麹黃蒸法七日衣足亦
+勿簸揚以鹽湯周徧灑潤之更蒸氣餾極熟乃下撣去
+熱氣及煖內甕中盆蓋於蘘糞中燠之二七日色黑氣
+香味便熟摶作小餅如神麴形繩穿為貫屋裏懸之紙
+袋盛籠以防青蠅塵垢之汙用時全餅著湯中煮之色
+足漉出削去皮粕還舉一餅得數遍煮用熱香美乃勝
+豆豉打破湯浸研用亦得然
+汁濁不如前全煮汁清也
+八和齏
+初稽
+反
+第七十三
+蒜一薑二橘三白梅四熟栗黃五粳米飯六鹽七醬八
+齏臼欲重
+不則傾動起塵
+蒜復跳出也
+底欲平寬而圓
+底尖擣不著
+則蒜有粗成
+以檀木為齏臼
+檀木硬而
+不染汗
+杵頭大小與杵底相安可
+杵
+頭
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119631" custom="structure {type:MainText_Left;}">
+      <Coords points="324,753 2169,772 2165,3740 296,3692 324,753"/>
+      <TextLine id="1129590" custom="structure {type:Commentary;}">
+        <Coords points="2085,762 2188,767 2181,1885 2069,1882 2085,762"/>
+        <Baseline points="2136,750 2143,1900"/>
+        <TextEquiv>
+          <Unicode>著處廣者省手力而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129591" custom="structure {type:Commentary;}">
+        <Coords points="1954,742 2084,742 2084,1877 1954,1877 1954,742"/>
+        <Baseline points="2018,1880 2035,747"/>
+        <TextEquiv>
+          <Unicode>齏易熟蒜復不跳也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129592" custom="structure {type:Text;}">
+        <Coords points="1982,1859 2161,1859 2161,2444 1982,2444 1982,1859"/>
+        <Baseline points="2059,1860 2059,2445"/>
+        <TextEquiv>
+          <Unicode>杵長四尺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129593" custom="structure {type:Commentary;}">
+        <Coords points="2035,2441 2156,2441 2156,3405 2035,3405 2035,2441"/>
+        <Baseline points="2099,2445 2102,3407"/>
+        <TextEquiv>
+          <Unicode>入口七八寸圓之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129594" custom="structure {type:Commentary;}">
+        <Coords points="1954,2420 2065,2420 2065,3277 1954,3277 1954,2420"/>
+        <Baseline points="2002,2425 2005,3279"/>
+        <TextEquiv>
+          <Unicode>以上八稜作之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129595" custom="structure {type:Text;}">
+        <Coords points="1959,3393 2130,3393 2130,3688 1959,3688 1959,3393"/>
+        <Baseline points="2045,3397 2049,3690"/>
+        <TextEquiv>
+          <Unicode>平立</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129596" custom="structure {type:Text;}">
+        <Coords points="1780,747 1949,747 1949,1186 1780,1186 1780,747"/>
+        <Baseline points="1874,1187 1884,750"/>
+        <TextEquiv>
+          <Unicode>急舂之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129597" custom="structure {type:Commentary;}">
+        <Coords points="1869,1193 1974,1193 1950,3680 1833,3680 1869,1193"/>
+        <Baseline points="1894,3683 1911,1187"/>
+        <TextEquiv>
+          <Unicode>舂緩則葷臭久則易人舂齏宜久熟不可倉卒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129598" custom="structure {type:Commentary;}">
+        <Coords points="1769,1200 1871,1202 1836,3680 1740,3678 1769,1200"/>
+        <Baseline points="1786,3680 1817,1191"/>
+        <TextEquiv>
+          <Unicode>久坐疲倦動則塵起又辛氣葷灼揮汗或能塵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129599" custom="structure {type:Commentary;}">
+        <Coords points="1667,760 1776,762 1774,1331 1669,1333 1667,760"/>
+        <Baseline points="1722,1339 1749,757"/>
+        <TextEquiv>
+          <Unicode>汙是以須</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129600" custom="structure {type:Commentary;}">
+        <Coords points="1559,742 1675,742 1674,1321 1562,1323 1559,742"/>
+        <Baseline points="1611,747 1615,1308"/>
+        <TextEquiv>
+          <Unicode>力立舂之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129601" custom="structure {type:Text;}">
+        <Coords points="1571,1306 1736,1306 1736,1462 1571,1462 1571,1306"/>
+        <Baseline points="1655,1308 1655,1463"/>
+        <TextEquiv>
+          <Unicode>蒜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129602" custom="structure {type:Commentary;}">
+        <Coords points="1660,1468 1766,1466 1738,3697 1631,3692 1660,1468"/>
+        <Baseline points="1692,3693 1722,1470"/>
+        <TextEquiv>
+          <Unicode>淨剝滔去強根不去則苦嘗經度水者宜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129603" custom="structure {type:Commentary;}">
+        <Coords points="1562,1473 1664,1476 1636,3692 1531,3688 1562,1473"/>
+        <Baseline points="1574,3693 1601,1450"/>
+        <TextEquiv>
+          <Unicode>以魚眼湯插碌合半許半生用朝歌大蒜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129604" custom="structure {type:Commentary;}">
+        <Coords points="1465,757 1567,767 1548,2294 1448,2287 1465,757"/>
+        <Baseline points="1497,2307 1531,737"/>
+        <TextEquiv>
+          <Unicode>辛辣常異宜分破去心全心</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129605" custom="structure {type:Commentary;}">
+        <Coords points="1362,750 1469,760 1450,2165 1346,2167 1362,750"/>
+        <Baseline points="1403,2169 1413,747"/>
+        <TextEquiv>
+          <Unicode>用之不然辣失其食味也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129606" custom="structure {type:Text;}">
+        <Coords points="1350,2265 1522,2294 1525,2562 1350,2562 1350,2265"/>
+        <Baseline points="1440,2270 1443,2563"/>
+        <TextEquiv>
+          <Unicode>生薑</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129607" custom="structure {type:Commentary;}">
+        <Coords points="1436,2562 1543,2563 1534,3690 1436,3688 1436,2562"/>
+        <Baseline points="1480,2563 1480,3690"/>
+        <TextEquiv>
+          <Unicode>削去皮細切以冷水</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129608" custom="structure {type:Commentary;}">
+        <Coords points="1330,2557 1443,2557 1443,3669 1330,3669 1330,2557"/>
+        <Baseline points="1396,2560 1396,3670"/>
+        <TextEquiv>
+          <Unicode>和之生布絞去苦汁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129609" custom="structure {type:Commentary;}">
+        <Coords points="1253,774 1367,774 1343,2553 1236,2551 1253,774"/>
+        <Baseline points="1305,2553 1319,747"/>
+        <TextEquiv>
+          <Unicode>可以香魚美無生姜用乾薑五斤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129610" custom="structure {type:Commentary;}">
+        <Coords points="1153,774 1260,770 1240,2444 1135,2444 1153,774"/>
+        <Baseline points="1184,2445 1215,733"/>
+        <TextEquiv>
+          <Unicode>齏用生薑一兩乾薑減半兩耳</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129611" custom="structure {type:Text;}">
+        <Coords points="1165,2541 1309,2541 1309,2845 1165,2845 1165,2541"/>
+        <Baseline points="1225,2546 1228,2846"/>
+        <TextEquiv>
+          <Unicode>橘皮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129612" custom="structure {type:Commentary;}">
+        <Coords points="1229,2840 1336,2842 1336,3672 1221,3674 1229,2840"/>
+        <Baseline points="1268,2832 1292,3676"/>
+        <TextEquiv>
+          <Unicode>新者直用陳者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129613" custom="structure {type:Commentary;}">
+        <Coords points="1123,2820 1227,2820 1227,3681 1123,3681 1123,2820"/>
+        <Baseline points="1174,2822 1174,3683"/>
+        <TextEquiv>
+          <Unicode>以湯洗去塵垢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129614" custom="structure {type:Commentary;}">
+        <Coords points="1049,762 1158,772 1130,3674 1011,3668 1049,762"/>
+        <Baseline points="1080,3707 1107,763"/>
+        <TextEquiv>
+          <Unicode>無橘皮可用草橘子馬芹子亦得用五升齏用一兩草</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129615" custom="structure {type:Commentary;}">
+        <Coords points="951,768 1054,774 1024,3682 921,3682 951,768"/>
+        <Baseline points="973,3683 1010,757"/>
+        <TextEquiv>
+          <Unicode>橘馬芹准此為度薑橘取其香味氣不須多多則味苦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129616" custom="structure {type:Text;}">
+        <Coords points="761,728 921,728 921,1032 761,1032 761,728"/>
+        <Baseline points="845,733 858,1033"/>
+        <TextEquiv>
+          <Unicode>白梅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129617" custom="structure {type:Commentary;}">
+        <Coords points="835,1040 937,1039 937,2564 823,2564 835,1040"/>
+        <Baseline points="885,2566 899,1043"/>
+        <TextEquiv>
+          <Unicode>作白梅法在梅杏篇用時合</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129618" custom="structure {type:Commentary;}">
+        <Coords points="741,1050 836,1044 826,2430 725,2430 741,1050"/>
+        <Baseline points="767,2428 798,1029"/>
+        <TextEquiv>
+          <Unicode>核用五升齏用八枚足矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129619" custom="structure {type:Text;}">
+        <Coords points="748,2553 904,2563 899,2973 742,2972 748,2553"/>
+        <Baseline points="825,2526 825,2957"/>
+        <TextEquiv>
+          <Unicode>熟栗黃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129620" custom="structure {type:Commentary;}">
+        <Coords points="819,2972 926,2975 926,3681 805,3681 819,2972"/>
+        <Baseline points="865,2957 875,3683"/>
+        <TextEquiv>
+          <Unicode>諺曰金齏玉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129621" custom="structure {type:Commentary;}">
+        <Coords points="714,2972 820,2973 812,3675 706,3670 714,2972"/>
+        <Baseline points="764,3697 767,2943"/>
+        <TextEquiv>
+          <Unicode>膾橘皮多則</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129622" custom="structure {type:Commentary;}">
+        <Coords points="637,765 750,765 716,3244 608,3244 637,765"/>
+        <Baseline points="673,3246 704,737"/>
+        <TextEquiv>
+          <Unicode>不美故加栗黃取其金色又益美味甜五升齏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129623" custom="structure {type:Commentary;}">
+        <Coords points="539,763 640,765 612,3150 513,3149 539,763"/>
+        <Baseline points="569,3152 589,733"/>
+        <TextEquiv>
+          <Unicode>用十枚栗用黃軟者硬黑者即不中使用也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129624" custom="structure {type:Text;}">
+        <Coords points="517,3235 689,3235 689,3662 517,3662 517,3235"/>
+        <Baseline points="603,3663 606,3239"/>
+        <TextEquiv>
+          <Unicode>秔米飯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129625" custom="structure {type:Commentary;}">
+        <Coords points="437,765 538,762 516,3098 412,3096 437,765"/>
+        <Baseline points="472,3105 495,743"/>
+        <TextEquiv>
+          <Unicode>膾齏金須濃故訣云倍著齏兗蒜多則辣故加</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129626" custom="structure {type:Commentary;}">
+        <Coords points="338,760 438,762 413,2975 306,2972 338,760"/>
+        <Baseline points="350,2977 394,760"/>
+        <TextEquiv>
+          <Unicode>飯取其甜美耳五升齏用飯如雞子許大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129627" custom="structure {type:Text;}">
+        <Coords points="311,3096 494,3099 492,3651 311,3651 311,3096"/>
+        <Baseline points="401,3084 414,3653"/>
+        <TextEquiv>
+          <Unicode>先擣白梅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>著處廣者省手力而
+齏易熟蒜復不跳也
+杵長四尺
+入口七八寸圓之
+以上八稜作之
+平立
+急舂之
+舂緩則葷臭久則易人舂齏宜久熟不可倉卒
+久坐疲倦動則塵起又辛氣葷灼揮汗或能塵
+汙是以須
+力立舂之
+蒜
+淨剝滔去強根不去則苦嘗經度水者宜
+以魚眼湯插碌合半許半生用朝歌大蒜
+辛辣常異宜分破去心全心
+用之不然辣失其食味也
+生薑
+削去皮細切以冷水
+和之生布絞去苦汁
+可以香魚美無生姜用乾薑五斤
+齏用生薑一兩乾薑減半兩耳
+橘皮
+新者直用陳者
+以湯洗去塵垢
+無橘皮可用草橘子馬芹子亦得用五升齏用一兩草
+橘馬芹准此為度薑橘取其香味氣不須多多則味苦
+白梅
+作白梅法在梅杏篇用時合
+核用五升齏用八枚足矣
+熟栗黃
+諺曰金齏玉
+膾橘皮多則
+不美故加栗黃取其金色又益美味甜五升齏
+用十枚栗用黃軟者硬黑者即不中使用也
+秔米飯
+膾齏金須濃故訣云倍著齏兗蒜多則辣故加
+飯取其甜美耳五升齏用飯如雞子許大
+先擣白梅
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="119632" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="186,743 353,762 286,3688 167,3673 186,743"/>
+      <TextLine id="1129628" custom="structure {type:Title;}">
+        <Coords points="220,762 306,765 302,1312 223,1312 220,762"/>
+        <Baseline points="246,1315 253,730"/>
+        <TextEquiv>
+          <Unicode>齊民要術</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129629" custom="structure {type:Section;}">
+        <Coords points="206,1722 301,1724 301,2013 203,2011 206,1722"/>
+        <Baseline points="226,1725 226,1995"/>
+        <TextEquiv>
+          <Unicode>卷八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1129630" custom="structure {type:Page_Number;}">
+        <Coords points="196,2953 294,2954 294,3163 200,3160 196,2953"/>
+        <Baseline points="226,2957 226,3165"/>
+        <TextEquiv>
+          <Unicode>十四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>齊民要術
+卷八
+十四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

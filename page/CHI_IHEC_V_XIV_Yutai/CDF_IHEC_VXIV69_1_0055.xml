@@ -1,0 +1,625 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T18:05:47+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VXIV69_1_0055.jpg" imageHeight="4123" imageWidth="4802">
+    <TextRegion id="121097" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="4360,852 4484,847 4489,3687 4403,3696 4360,852"/>
+      <TextLine id="1139508" custom="structure {type:Section;}">
+        <Coords points="4392,850 4485,847 4490,1642 4387,1642 4392,850"/>
+        <Baseline points="4451,820 4459,1644"/>
+        <TextEquiv>
+          <Unicode>玉臺新詠卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139509" custom="structure {type:Page_Number;}">
+        <Coords points="4410,2849 4480,2850 4483,3050 4410,3053 4410,2849"/>
+        <Baseline points="4455,3052 4459,2852"/>
+        <TextEquiv>
+          <Unicode>二十八</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>玉臺新詠卷一
+二十八
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121098" custom="structure {type:MainText_Right;}">
+      <Coords points="2353,885 4351,852 4389,3701 2386,3687 2353,885"/>
+      <TextLine id="1139510" custom="structure {type:Commentary;}">
+        <Coords points="4264,1254 4364,1249 4397,3640 4290,3647 4264,1254"/>
+        <Baseline points="4323,1256 4351,3652"/>
+        <TextEquiv>
+          <Unicode>緻契濶珮王結恩情自以為志期子山隅山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139511" custom="structure {type:Commentary;}">
+        <Coords points="4171,1259 4269,1249 4291,3646 4195,3644 4171,1259"/>
+        <Baseline points="4235,1244 4267,3648"/>
+        <TextEquiv>
+          <Unicode>陽山西山北終而不答乃自傷悔焉案魏雜曲</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139512" custom="structure {type:Commentary;}">
+        <Coords points="4071,1233 4166,1235 4183,2479 4076,2481 4071,1233"/>
+        <Baseline points="4111,1228 4139,2484"/>
+        <TextEquiv>
+          <Unicode>歌詞唐喬知之定情篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139513" custom="structure {type:Commentary;}">
+        <Coords points="3961,1236 4091,1236 4091,2462 3983,2462 3961,1236"/>
+        <Baseline points="4007,1240 4047,2464"/>
+        <TextEquiv>
+          <Unicode>施肩吾定情樂𦙊本此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139514" custom="structure {type:Text;}">
+        <Coords points="3777,845 3968,845 3968,2189 3777,2189 3777,845"/>
+        <Baseline points="3863,848 3879,2192"/>
+        <TextEquiv>
+          <Unicode>我出東門遊邂逅承清塵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139515" custom="structure {type:Commentary;}">
+        <Coords points="3886,2194 3981,2179 3998,3671 3893,3678 3886,2194"/>
+        <Baseline points="3931,2176 3951,3680"/>
+        <TextEquiv>
+          <Unicode>（楚詞）聞赤松之清塵（司馬相）</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139516" custom="structure {type:Commentary;}">
+        <Coords points="3791,2203 3883,2205 3893,3561 3793,3564 3791,2203"/>
+        <Baseline points="3827,2180 3843,3564"/>
+        <TextEquiv>
+          <Unicode>（如諫獵書）犯屬車之清塵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139517" custom="structure {type:Text;}">
+        <Coords points="3580,840 3750,840 3750,1546 3580,1546 3580,840"/>
+        <Baseline points="3655,844 3675,1548"/>
+        <TextEquiv>
+          <Unicode>思君即幽房</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139518" custom="structure {type:Commentary;}">
+        <Coords points="3677,1544 3776,1540 3800,3702 3691,3702 3677,1544"/>
+        <Baseline points="3715,1520 3767,3704"/>
+        <TextEquiv>
+          <Unicode>（曹植仲雍哀詞）幽房閑字（帝王世紀）顓頊</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139519" custom="structure {type:Commentary;}">
+        <Coords points="3574,1547 3674,1547 3688,3547 3598,3552 3574,1547"/>
+        <Baseline points="3627,1532 3655,3564"/>
+        <TextEquiv>
+          <Unicode>母女樞瑤光之星感女樞于幽房之宮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139520" custom="structure {type:Text;}">
+        <Coords points="3381,845 3557,845 3562,1516 3389,1513 3381,845"/>
+        <Baseline points="3466,852 3486,1492"/>
+        <TextEquiv>
+          <Unicode>侍寢執衣巾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139521" custom="structure {type:Commentary;}">
+        <Coords points="3468,1511 3569,1511 3569,1958 3468,1958 3468,1511"/>
+        <Baseline points="3518,1516 3526,1960"/>
+        <TextEquiv>
+          <Unicode>（左傳）使</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139522" custom="structure {type:Commentary;}">
+        <Coords points="3363,1514 3477,1514 3477,1946 3363,1946 3363,1514"/>
+        <Baseline points="3406,1520 3438,1948"/>
+        <TextEquiv>
+          <Unicode>往視寢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139523" custom="structure {type:Text;}">
+        <Coords points="3388,1928 3576,1928 3591,3262 3396,3264 3388,1928"/>
+        <Baseline points="3470,1932 3490,3248"/>
+        <TextEquiv>
+          <Unicode>時無桑中契迫此路側人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139524" custom="structure {type:Commentary;}">
+        <Coords points="3489,3259 3612,3259 3612,3696 3489,3696 3489,3259"/>
+        <Baseline points="3542,3264 3570,3696"/>
+        <TextEquiv>
+          <Unicode>桑中見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139525" custom="structure {type:Commentary;}">
+        <Coords points="3399,3266 3489,3266 3489,3674 3399,3674 3399,3266"/>
+        <Baseline points="3442,3268 3442,3676"/>
+        <TextEquiv>
+          <Unicode>詩（列女</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139526" custom="structure {type:Commentary;}">
+        <Coords points="3258,862 3363,857 3393,3142 3286,3150 3258,862"/>
+        <Baseline points="3302,852 3354,3144"/>
+        <TextEquiv>
+          <Unicode>傳）魯秋胡子見路旁有美婦人方採桑秋胡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139527" custom="structure {type:Commentary;}">
+        <Coords points="3152,836 3258,843 3289,3131 3184,3135 3152,836"/>
+        <Baseline points="3198,840 3230,3124"/>
+        <TextEquiv>
+          <Unicode>子悅之下車以金子之注詳見卷四顏延之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139528" custom="structure {type:Text;}">
+        <Coords points="3198,3145 3382,3145 3384,3407 3201,3404 3198,3145"/>
+        <Baseline points="3290,3120 3306,3408"/>
+        <TextEquiv>
+          <Unicode>我即</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139529" custom="structure {type:Commentary;}">
+        <Coords points="3285,3394 3395,3394 3395,3671 3285,3671 3285,3394"/>
+        <Baseline points="3342,3400 3358,3672"/>
+        <TextEquiv>
+          <Unicode>（案）一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139530" custom="structure {type:Commentary;}">
+        <Coords points="3175,3403 3294,3403 3294,3655 3175,3655 3175,3403"/>
+        <Baseline points="3246,3656 3250,3408"/>
+        <TextEquiv>
+          <Unicode>作既</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139531" custom="structure {type:Text;}">
+        <Coords points="2980,847 3153,855 3179,3277 2980,3277 2980,847"/>
+        <Baseline points="3070,852 3098,3280"/>
+        <TextEquiv>
+          <Unicode>媚君姿君亦悅我顏何以致拳拳綰臂雙金環</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139532" custom="structure {type:Commentary;}">
+        <Coords points="3090,3264 3205,3264 3205,3674 3090,3674 3090,3264"/>
+        <Baseline points="3142,3268 3154,3676"/>
+        <TextEquiv>
+          <Unicode>（五經要</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139533" custom="structure {type:Commentary;}">
+        <Coords points="3003,3259 3092,3259 3092,3699 3003,3699 3003,3259"/>
+        <Baseline points="3034,3700 3046,3264"/>
+        <TextEquiv>
+          <Unicode>（義）生子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139534" custom="structure {type:Commentary;}">
+        <Coords points="2861,871 2961,871 2985,3683 2889,3682 2861,871"/>
+        <Baseline points="2926,868 2958,3684"/>
+        <TextEquiv>
+          <Unicode>月長則以金環退之當御者著于左手既御者著于右</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139535" custom="structure {type:Commentary;}">
+        <Coords points="2761,876 2861,869 2885,3682 2775,3682 2761,876"/>
+        <Baseline points="2814,864 2858,3684"/>
+        <TextEquiv>
+          <Unicode>于（王粲閑居賦）為環以約腕（續搜神記）襄陽徐陽病</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139536" custom="structure {type:Commentary;}">
+        <Coords points="2659,874 2754,874 2770,2205 2673,2210 2659,874"/>
+        <Baseline points="2722,876 2742,2208"/>
+        <TextEquiv>
+          <Unicode>死忽崛然而起將婦臂上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139537" custom="structure {type:Commentary;}">
+        <Coords points="2559,852 2671,852 2671,2221 2559,2221 2559,852"/>
+        <Baseline points="2610,856 2622,2224"/>
+        <TextEquiv>
+          <Unicode>金環脫去行貨便放令還</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139538" custom="structure {type:Text;}">
+        <Coords points="2598,2212 2769,2212 2769,3538 2598,3538 2598,2212"/>
+        <Baseline points="2670,2216 2678,3540"/>
+        <TextEquiv>
+          <Unicode>何以致殷勤約指一雙銀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139539" custom="structure {type:Commentary;}">
+        <Coords points="2696,3522 2779,3522 2779,3694 2696,3694 2696,3522"/>
+        <Baseline points="2722,3532 2734,3696"/>
+        <TextEquiv>
+          <Unicode>（司</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139540" custom="structure {type:Commentary;}">
+        <Coords points="2575,3527 2691,3527 2691,3703 2575,3703 2575,3527"/>
+        <Baseline points="2642,3532 2650,3704"/>
+        <TextEquiv>
+          <Unicode>馬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139541" custom="structure {type:Commentary;}">
+        <Coords points="2449,893 2554,893 2593,3158 2485,3159 2449,893"/>
+        <Baseline points="2506,896 2534,3160"/>
+        <TextEquiv>
+          <Unicode>遷報任安書）未嘗御桮酒接殷勤之餘歡（漢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139542" custom="structure {type:Commentary;}">
+        <Coords points="2352,863 2449,871 2488,3014 2371,3017 2352,863"/>
+        <Baseline points="2402,868 2438,3016"/>
+        <TextEquiv>
+          <Unicode>舊義）宮人御倖賜銀指環令數環記月也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139543" custom="structure {type:Text;}">
+        <Coords points="2405,3158 2586,3158 2586,3683 2405,3683 2405,3158"/>
+        <Baseline points="2478,3164 2494,3684"/>
+        <TextEquiv>
+          <Unicode>何以致區</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>緻契濶珮王結恩情自以為志期子山隅山
+陽山西山北終而不答乃自傷悔焉案魏雜曲
+歌詞唐喬知之定情篇
+施肩吾定情樂𦙊本此
+我出東門遊邂逅承清塵
+（楚詞）聞赤松之清塵（司馬相）
+（如諫獵書）犯屬車之清塵
+思君即幽房
+（曹植仲雍哀詞）幽房閑字（帝王世紀）顓頊
+母女樞瑤光之星感女樞于幽房之宮
+侍寢執衣巾
+（左傳）使
+往視寢
+時無桑中契迫此路側人
+桑中見
+詩（列女
+傳）魯秋胡子見路旁有美婦人方採桑秋胡
+子悅之下車以金子之注詳見卷四顏延之
+我即
+（案）一
+作既
+媚君姿君亦悅我顏何以致拳拳綰臂雙金環
+（五經要
+（義）生子
+月長則以金環退之當御者著于左手既御者著于右
+于（王粲閑居賦）為環以約腕（續搜神記）襄陽徐陽病
+死忽崛然而起將婦臂上
+金環脫去行貨便放令還
+何以致殷勤約指一雙銀
+（司
+馬
+遷報任安書）未嘗御桮酒接殷勤之餘歡（漢
+舊義）宮人御倖賜銀指環令數環記月也
+何以致區
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121099" custom="structure {type:MainText_Left;}">
+      <Coords points="302,880 2300,885 2300,3668 316,3658 302,880"/>
+      <TextLine id="1139544" custom="structure {type:Text;}">
+        <Coords points="2130,849 2304,849 2304,1674 2130,1674 2130,849"/>
+        <Baseline points="2206,856 2234,1676"/>
+        <TextEquiv>
+          <Unicode>區耳中雙明珠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139545" custom="structure {type:Commentary;}">
+        <Coords points="2221,1685 2304,1670 2311,2355 2223,2355 2221,1685"/>
+        <Baseline points="2266,1656 2270,2356"/>
+        <TextEquiv>
+          <Unicode>（劉楨魯都賦）</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139546" custom="structure {type:Commentary;}">
+        <Coords points="2135,1682 2226,1670 2226,2351 2128,2351 2135,1682"/>
+        <Baseline points="2166,2352 2174,1664"/>
+        <TextEquiv>
+          <Unicode>珥明月之璫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139547" custom="structure {type:Text;}">
+        <Coords points="2130,2347 2320,2347 2320,3703 2130,3703 2130,2347"/>
+        <Baseline points="2210,2352 2238,3704"/>
+        <TextEquiv>
+          <Unicode>何以致叩叩香囊繫肘後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139548" custom="structure {type:Commentary;}">
+        <Coords points="2031,850 2142,840 2126,3682 2016,3687 2031,850"/>
+        <Baseline points="2074,3688 2086,844"/>
+        <TextEquiv>
+          <Unicode>（晉書）謝元少好佩紫羅香囊攷此詩則漢魏時已有之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139549" custom="structure {type:Commentary;}">
+        <Coords points="1931,864 2036,865 2019,3673 1922,3674 1931,864"/>
+        <Baseline points="1974,868 1974,3676"/>
+        <TextEquiv>
+          <Unicode>（周顗傳）顧左右曰今年殺諸賊奴取金印如斗大繋肘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139550" custom="structure {type:Commentary;}">
+        <Coords points="1833,864 1931,864 1919,3430 1819,3430 1833,864"/>
+        <Baseline points="1874,860 1882,3432"/>
+        <TextEquiv>
+          <Unicode>後（案）（廣韻）叩與扣同擊也（又論語疏）叩發動也(爾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139551" custom="structure {type:Commentary;}">
+        <Coords points="1721,869 1832,868 1819,3269 1721,3264 1721,869"/>
+        <Baseline points="1762,872 1774,3248"/>
+        <TextEquiv>
+          <Unicode>雅）婦人之褘謂之縭縭緌也（注）即今之香纓也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139552" custom="structure {type:Text;}">
+        <Coords points="1738,3414 1909,3433 1912,3668 1720,3671 1738,3414"/>
+        <Baseline points="1794,3672 1809,3433"/>
+        <TextEquiv>
+          <Unicode>何以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139553" custom="structure {type:Text;}">
+        <Coords points="1539,858 1718,858 1718,1942 1539,1942 1539,858"/>
+        <Baseline points="1626,860 1626,1944"/>
+        <TextEquiv>
+          <Unicode>致契闊繞腕雙跳脫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139554" custom="structure {type:Commentary;}">
+        <Coords points="1610,1935 1736,1935 1736,3646 1610,3646 1610,1935"/>
+        <Baseline points="1674,1936 1674,3648"/>
+        <TextEquiv>
+          <Unicode>（真誥）萼綠華以晉升平二年十一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139555" custom="structure {type:Commentary;}">
+        <Coords points="1500,1935 1628,1935 1628,3655 1500,3655 1500,1935"/>
+        <Baseline points="1566,3656 1586,1940"/>
+        <TextEquiv>
+          <Unicode>月十日夜降羊權綠華贈以詩一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139556" custom="structure {type:Commentary;}">
+        <Coords points="1424,881 1543,881 1524,3535 1415,3537 1424,881"/>
+        <Baseline points="1470,864 1486,3540"/>
+        <TextEquiv>
+          <Unicode>篇並緻大澣布手巾一條金玉跳脫各一枚（又）安妃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139557" custom="structure {type:Commentary;}">
+        <Coords points="1303,852 1429,852 1429,3538 1303,3538 1303,852"/>
+        <Baseline points="1378,3540 1386,856"/>
+        <TextEquiv>
+          <Unicode>有斵粟金跳脫（殷芸小説）金跳脫為臂飾即今紃也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139558" custom="structure {type:Text;}">
+        <Coords points="1331,3545 1505,3529 1505,3671 1329,3675 1331,3545"/>
+        <Baseline points="1430,3536 1438,3672"/>
+        <TextEquiv>
+          <Unicode>何</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139559" custom="structure {type:Text;}">
+        <Coords points="1131,865 1305,865 1305,2082 1131,2082 1131,865"/>
+        <Baseline points="1214,2084 1218,868"/>
+        <TextEquiv>
+          <Unicode>以結恩情佩玉綴羅纓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139560" custom="structure {type:Commentary;}">
+        <Coords points="1222,2091 1312,2082 1326,3671 1207,3671 1222,2091"/>
+        <Baseline points="1274,2056 1278,3672"/>
+        <TextEquiv>
+          <Unicode>（案）（釋各）佩倍也言其非一物有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139561" custom="structure {type:Commentary;}">
+        <Coords points="1095,2063 1234,2063 1234,3667 1095,3667 1095,2063"/>
+        <Baseline points="1162,3668 1178,2068"/>
+        <TextEquiv>
+          <Unicode>倍貳也有珠有玉（漢樂府）佇立</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139562" custom="structure {type:Commentary;}">
+        <Coords points="1014,852 1154,852 1154,1399 1014,1399 1014,852"/>
+        <Baseline points="1082,856 1094,1400"/>
+        <TextEquiv>
+          <Unicode>望西河泣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139563" custom="structure {type:Commentary;}">
+        <Coords points="911,852 1033,852 1033,1385 911,1385 911,852"/>
+        <Baseline points="978,1388 994,856"/>
+        <TextEquiv>
+          <Unicode>下沾羅纓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139564" custom="structure {type:Text;}">
+        <Coords points="934,1392 1104,1392 1104,2741 934,2741 934,1392"/>
+        <Baseline points="1022,2744 1030,1396"/>
+        <TextEquiv>
+          <Unicode>何以結中心素縷連雙針</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139565" custom="structure {type:Commentary;}">
+        <Coords points="998,2732 1115,2732 1115,3674 998,3674 998,2732"/>
+        <Baseline points="1066,3676 1074,2736"/>
+        <TextEquiv>
+          <Unicode>（謝氏詩源）昔有姜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139567" custom="structure {type:Commentary;}">
+        <Coords points="922,2757 1017,2744 1017,3674 913,3673 922,2757"/>
+        <Baseline points="950,3675 962,2747"/>
+        <TextEquiv>
+          <Unicode>氏與鄰人文冑通</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139568" custom="structure {type:Commentary;}">
+        <Coords points="799,852 925,852 925,3678 799,3678 799,852"/>
+        <Baseline points="870,3679 882,855"/>
+        <TextEquiv>
+          <Unicode>殷勤文冑以百鍊水晶針一函遺姜氏姜氏取履箱取</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139569" custom="structure {type:Commentary;}">
+        <Coords points="701,858 829,858 829,3669 701,3669 701,858"/>
+        <Baseline points="758,3671 774,863"/>
+        <TextEquiv>
+          <Unicode>連理線貫雙針結同心花以答之故定情詩云云見嫏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139570" custom="structure {type:Commentary;}">
+        <Coords points="613,858 744,858 744,1026 613,1026 613,858"/>
+        <Baseline points="674,1027 678,863"/>
+        <TextEquiv>
+          <Unicode>嫘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139571" custom="structure {type:Commentary;}">
+        <Coords points="532,878 630,870 630,1007 530,1004 532,878"/>
+        <Baseline points="566,875 578,1007"/>
+        <TextEquiv>
+          <Unicode>記</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139572" custom="structure {type:Text;}">
+        <Coords points="545,1012 705,1012 705,1653 545,1653 545,1012"/>
+        <Baseline points="622,1015 626,1655"/>
+        <TextEquiv>
+          <Unicode>何以結相於</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139573" custom="structure {type:Commentary;}">
+        <Coords points="613,1690 714,1690 714,1942 613,1942 613,1690"/>
+        <Baseline points="674,1695 678,1943"/>
+        <TextEquiv>
+          <Unicode>一作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139574" custom="structure {type:Commentary;}">
+        <Coords points="526,1662 639,1662 639,1786 526,1786 526,1662"/>
+        <Baseline points="566,1663 566,1787"/>
+        <TextEquiv>
+          <Unicode>投</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139575" custom="structure {type:Text;}">
+        <Coords points="531,1905 707,1905 707,2613 531,2613 531,1905"/>
+        <Baseline points="618,1907 618,2615"/>
+        <TextEquiv>
+          <Unicode>金薄畫搔頭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139576" custom="structure {type:Commentary;}">
+        <Coords points="616,2612 718,2598 711,3671 616,3673 616,2612"/>
+        <Baseline points="658,2599 666,3675"/>
+        <TextEquiv>
+          <Unicode>孔融與韋甫休書足</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139577" custom="structure {type:Commentary;}">
+        <Coords points="520,2624 620,2631 616,3680 516,3678 520,2624"/>
+        <Baseline points="558,2603 578,3687"/>
+        <TextEquiv>
+          <Unicode>下岸幘廣坐舉杯相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139578" custom="structure {type:Commentary;}">
+        <Coords points="420,881 523,881 516,3407 407,3406 420,881"/>
+        <Baseline points="478,851 478,3407"/>
+        <TextEquiv>
+          <Unicode>於（鄴中記）金薄薄打純金如蟬翼（西京雜記)武帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139579" custom="structure {type:Commentary;}">
+        <Coords points="281,865 426,865 426,3401 281,3401 281,865"/>
+        <Baseline points="366,867 366,3403"/>
+        <TextEquiv>
+          <Unicode>過李夫人就取玉簪撩頭自此後宮撩頭皆用玉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139580" custom="structure {type:Text;}">
+        <Coords points="325,3394 499,3394 499,3662 325,3662 325,3394"/>
+        <Baseline points="426,3399 430,3663"/>
+        <TextEquiv>
+          <Unicode>何以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>區耳中雙明珠
+（劉楨魯都賦）
+珥明月之璫
+何以致叩叩香囊繫肘後
+（晉書）謝元少好佩紫羅香囊攷此詩則漢魏時已有之
+（周顗傳）顧左右曰今年殺諸賊奴取金印如斗大繋肘
+後（案）（廣韻）叩與扣同擊也（又論語疏）叩發動也(爾
+雅）婦人之褘謂之縭縭緌也（注）即今之香纓也
+何以
+致契闊繞腕雙跳脫
+（真誥）萼綠華以晉升平二年十一
+月十日夜降羊權綠華贈以詩一
+篇並緻大澣布手巾一條金玉跳脫各一枚（又）安妃
+有斵粟金跳脫（殷芸小説）金跳脫為臂飾即今紃也
+何
+以結恩情佩玉綴羅纓
+（案）（釋各）佩倍也言其非一物有
+倍貳也有珠有玉（漢樂府）佇立
+望西河泣
+下沾羅纓
+何以結中心素縷連雙針
+（謝氏詩源）昔有姜
+氏與鄰人文冑通
+殷勤文冑以百鍊水晶針一函遺姜氏姜氏取履箱取
+連理線貫雙針結同心花以答之故定情詩云云見嫏
+嫘
+記
+何以結相於
+一作
+投
+金薄畫搔頭
+孔融與韋甫休書足
+下岸幘廣坐舉杯相
+於（鄴中記）金薄薄打純金如蟬翼（西京雜記)武帝
+過李夫人就取玉簪撩頭自此後宮撩頭皆用玉
+何以
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="121100" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="159,866 283,866 316,3654 207,3658 159,866"/>
+      <TextLine id="1139581" custom="structure {type:Section;}">
+        <Coords points="199,876 290,874 306,1621 199,1628 199,876"/>
+        <Baseline points="214,1623 222,835"/>
+        <TextEquiv>
+          <Unicode>玉臺新詠卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1139582" custom="structure {type:Page_Number;}">
+        <Coords points="197,2822 295,2812 295,3048 197,3045 197,2822"/>
+        <Baseline points="230,2815 230,3051"/>
+        <TextEquiv>
+          <Unicode>二十九</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>玉臺新詠卷一
+二十九
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

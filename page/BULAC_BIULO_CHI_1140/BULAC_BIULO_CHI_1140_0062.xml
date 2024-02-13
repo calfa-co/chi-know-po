@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:45+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0062.jpg" imageHeight="4538" imageWidth="2511">
+    <TextRegion id="79244" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="2347,3550 2347,1811 2435,1811 2435,3550 2347,3550"/>
+      <TextLine id="869052" custom="structure {type:Page_Number;}">
+        <Coords points="2316,1858 2452,1858 2452,2163 2316,2163 2316,1858"/>
+        <Baseline points="2401,2164 2415,1864"/>
+        <TextEquiv>
+          <Unicode>卷六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869053" custom="structure {type:Page_Number;}">
+        <Coords points="2346,3128 2450,3128 2450,3317 2346,3317 2346,3128"/>
+        <Baseline points="2392,3134 2401,3320"/>
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷六
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79242" custom="structure {type:MainText;}">
+      <Coords points="110,4056 110,1086 2330,1086 2330,4056 110,4056"/>
+      <TextLine id="867343" custom="structure {type:Text;}">
+        <Coords points="2124,1079 2346,1079 2346,4041 2124,4041 2124,1079"/>
+        <Baseline points="2235,4042 2239,1083"/>
+        <TextEquiv>
+          <Unicode>始皇陵在驪山之北高數十丈周迴六七里今在陰盤縣界北</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867344" custom="structure {type:Text;}">
+        <Coords points="1948,1076 2150,1076 2150,4053 1948,4053 1948,1076"/>
+        <Baseline points="2056,1077 2056,4054"/>
+        <TextEquiv>
+          <Unicode>陵雖高大不足以銷六丈冰背陵障使東西流又此山名運取</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867345" custom="structure {type:Text;}">
+        <Coords points="1756,1076 1958,1076 1958,4053 1756,4053 1756,1076"/>
+        <Baseline points="1860,4054 1868,1081"/>
+        <TextEquiv>
+          <Unicode>大石於渭北渚故歌曰運石甘泉口渭水為不流千人唱萬人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867346" custom="structure {type:Text;}">
+        <Coords points="1567,1073 1776,1073 1776,3300 1567,3300 1567,1073"/>
+        <Baseline points="1672,3301 1684,1079"/>
+        <TextEquiv>
+          <Unicode>鉤金陵餘石大如塸土屋其銷功力皆如此類</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867347" custom="structure {type:Commentary;}">
+        <Coords points="1645,3317 1776,3317 1776,4053 1645,4053 1645,3317"/>
+        <Baseline points="1712,4054 1716,3321"/>
+        <TextEquiv>
+          <Unicode>盧氏曰秦氏奢</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867348" custom="structure {type:Commentary;}">
+        <Coords points="1544,3322 1670,3322 1670,4056 1544,4056 1544,3322"/>
+        <Baseline points="1616,3326 1620,4058"/>
+        <TextEquiv>
+          <Unicode>侈自知葬用珍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867349" custom="structure {type:Commentary;}">
+        <Coords points="1466,1084 1594,1084 1594,3317 1466,3317 1466,1084"/>
+        <Baseline points="1532,3318 1544,1087"/>
+        <TextEquiv>
+          <Unicode>寶多故高作陵園山麓從難發也高則難上固</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867350" custom="structure {type:Commentary;}">
+        <Coords points="1372,1079 1499,1079 1499,3312 1372,3312 1372,1079"/>
+        <Baseline points="1436,3314 1444,1084"/>
+        <TextEquiv>
+          <Unicode>則難攻項羽爭衡之時發其陵未詳其至棺否</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867351" custom="structure {type:Text;}">
+        <Coords points="1186,1073 1395,1073 1395,4056 1186,4056 1186,1073"/>
+        <Baseline points="1296,4058 1312,1078"/>
+        <TextEquiv>
+          <Unicode>舊洛陽字作水邊各火行也忌水故去水而加佳又魏於行次</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867352" custom="structure {type:Text;}">
+        <Coords points="1006,1073 1203,1073 1203,3819 1006,3819 1006,1073"/>
+        <Baseline points="1108,3822 1120,1079"/>
+        <TextEquiv>
+          <Unicode>為土水得土而流土得水而柔故復佳加水變雒為洛焉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867353" custom="structure {type:Text;}">
+        <Coords points="802,1081 1022,1081 1022,4061 802,4061 802,1081"/>
+        <Baseline points="920,4062 940,1085"/>
+        <TextEquiv>
+          <Unicode>洞庭君山帝之二女居之曰湘夫人又荊州圖經曰 湘君所</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867354" custom="structure {type:Text;}">
+        <Coords points="653,1081 840,1081 840,1719 653,1719 653,1081"/>
+        <Baseline points="756,1084 756,1720"/>
+        <TextEquiv>
+          <Unicode>遊故曰君山</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867355" custom="structure {type:Text;}">
+        <Coords points="441,1079 661,1079 661,3332 441,3332 441,1079"/>
+        <Baseline points="556,3333 564,1084"/>
+        <TextEquiv>
+          <Unicode>南荊賦江陵有臺甚大而有一柱眾木皆拱之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867356" custom="structure {type:Title;}">
+        <Coords points="280,1303 476,1303 476,1711 280,1711 280,1303"/>
+        <Baseline points="385,1712 389,1308"/>
+        <TextEquiv>
+          <Unicode>典禮考</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867357" custom="structure {type:Text;}">
+        <Coords points="108,1076 307,1076 307,2833 108,2833 108,1076"/>
+        <Baseline points="189,2834 205,1080"/>
+        <TextEquiv>
+          <Unicode>三讓一曰讓禮二曰固讓三曰終讓</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>始皇陵在驪山之北高數十丈周迴六七里今在陰盤縣界北
+陵雖高大不足以銷六丈冰背陵障使東西流又此山名運取
+大石於渭北渚故歌曰運石甘泉口渭水為不流千人唱萬人
+鉤金陵餘石大如塸土屋其銷功力皆如此類
+盧氏曰秦氏奢
+侈自知葬用珍
+寶多故高作陵園山麓從難發也高則難上固
+則難攻項羽爭衡之時發其陵未詳其至棺否
+舊洛陽字作水邊各火行也忌水故去水而加佳又魏於行次
+為土水得土而流土得水而柔故復佳加水變雒為洛焉
+洞庭君山帝之二女居之曰湘夫人又荊州圖經曰 湘君所
+遊故曰君山
+南荊賦江陵有臺甚大而有一柱眾木皆拱之
+典禮考
+三讓一曰讓禮二曰固讓三曰終讓
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79243" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="2245,208 2245,103 2378,103 2378,208 2245,208"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

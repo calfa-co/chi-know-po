@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-11T17:05:24+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_BIULO_CHI_1140_0011.jpg" imageHeight="4528" imageWidth="2575">
+    <TextRegion id="79195" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="214,4057 209,1022 2416,1031 2445,4052 214,4057"/>
+      <TextLine id="867212" custom="structure {type:Title;}">
+        <Coords points="2189,1114 2406,1114 2406,1383 2189,1383 2189,1114"/>
+        <Baseline points="2323,1386 2327,1118"/>
+        <TextEquiv>
+          <Unicode>卷十</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="867213" custom="structure {type:Title;}">
+        <Coords points="2006,1237 2245,1237 2245,1630 2006,1630 2006,1237"/>
+        <Baseline points="2135,1242 2147,1630"/>
+        <TextEquiv>
+          <Unicode>雜說下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>卷十
+雜說下
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79216" custom="structure {type:Marginalia_PageNumber;}">
+      <Coords points="120,219 120,119 228,119 228,219 120,219"/>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="79218" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="84,3563 84,1759 188,1759 188,3563 84,3563"/>
+      <TextLine id="869020" custom="structure {type:Page_Number;}">
+        <Coords points="55,1808 234,1808 234,2130 55,2130 55,1808"/>
+        <Baseline points="102,1821 126,2130"/>
+        <TextEquiv>
+          <Unicode>目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869021" custom="structure {type:Title;}">
+        <Coords points="42,2362 218,2362 218,2857 42,2857 42,2362"/>
+        <Baseline points="126,2858 136,2368"/>
+        <TextEquiv>
+          <Unicode>博物志</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="869022" custom="structure {type:Page_Number;}">
+        <Coords points="50,3116 163,3116 163,3323 50,3323 50,3116"/>
+        <Baseline points="121,3324 126,3124"/>
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>目錄
+博物志
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

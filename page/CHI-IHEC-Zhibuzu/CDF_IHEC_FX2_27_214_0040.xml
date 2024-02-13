@@ -1,0 +1,441 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:15:10+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_FX2_27_214_0040.jpg" imageHeight="3120" imageWidth="3529">
+    <TextRegion id="116558" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="3174,1226 3255,1216 3268,1421 3197,1421 3174,1226"/>
+      <TextLine id="1098229" custom="structure {type:Section;}">
+        <Coords points="3170,1205 3272,1210 3277,1433 3177,1433 3170,1205"/>
+        <Baseline points="3231,1206 3231,1441"/>
+        <TextEquiv>
+          <Unicode>字通</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>字通
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116559" custom="structure {type:MainText_Right;}">
+      <Coords points="1774,765 3174,755 3197,2673 1795,2689 1774,765"/>
+      <TextLine id="1098230" custom="structure {type:Commentary;}">
+        <Coords points="3034,734 3171,734 3170,1236 3034,1233 3034,734"/>
+        <Baseline points="3107,738 3117,1250"/>
+        <TextEquiv>
+          <Unicode>八音總名象</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098231" custom="structure {type:Commentary;}">
+        <Coords points="2896,748 3027,748 3025,1238 2897,1247 2896,748"/>
+        <Baseline points="2955,1243 2962,752"/>
+        <TextEquiv>
+          <Unicode>鼓韡木處形</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098232" custom="structure {type:Text;}">
+        <Coords points="2981,1244 3129,1240 3125,1420 2985,1418 2981,1244"/>
+        <Baseline points="3039,1216 3046,1431"/>
+        <TextEquiv>
+          <Unicode>皂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098233" custom="structure {type:Commentary;}">
+        <Coords points="3038,1424 3180,1423 3185,2684 3038,2684 3038,1424"/>
+        <Baseline points="3110,1411 3127,2686"/>
+        <TextEquiv>
+          <Unicode>皂皮及切又讀若香穀之馨香也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098234" custom="structure {type:Commentary;}">
+        <Coords points="2903,1428 3033,1422 3043,2695 2902,2695 2903,1428"/>
+        <Baseline points="2969,1391 2982,2696"/>
+        <TextEquiv>
+          <Unicode>象嘉穀在裹中之形匕所以投之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098235" custom="structure {type:Text;}">
+        <Coords points="2679,751 2821,744 2807,943 2697,942 2679,751"/>
+        <Baseline points="2762,959 2763,738"/>
+        <TextEquiv>
+          <Unicode>白</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098236" custom="structure {type:Commentary;}">
+        <Coords points="2767,948 2880,949 2886,1148 2767,1148 2767,948"/>
+        <Baseline points="2814,940 2827,1169"/>
+        <TextEquiv>
+          <Unicode>注见</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098237" custom="structure {type:Commentary;}">
+        <Coords points="2631,958 2737,954 2737,1055 2626,1058 2631,958"/>
+        <Baseline points="2676,1088 2679,917"/>
+        <TextEquiv>
+          <Unicode>上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098238" custom="structure {type:Title;}">
+        <Coords points="2389,925 2564,925 2564,1282 2389,1282 2389,925"/>
+        <Baseline points="2477,934 2518,1273"/>
+        <TextEquiv>
+          <Unicode>百字類</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098239" custom="structure {type:Title;}">
+        <Coords points="2410,2168 2564,2168 2564,2419 2410,2419 2410,2168"/>
+        <Baseline points="2481,2171 2484,2420"/>
+        <TextEquiv>
+          <Unicode>文四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098240" custom="structure {type:Text;}">
+        <Coords points="2101,755 2292,754 2289,930 2105,926 2101,755"/>
+        <Baseline points="2195,950 2218,745"/>
+        <TextEquiv>
+          <Unicode>百</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098241" custom="structure {type:Commentary;}">
+        <Coords points="2198,955 2327,952 2328,1807 2195,1807 2198,955"/>
+        <Baseline points="2269,937 2279,1808"/>
+        <TextEquiv>
+          <Unicode>百博陌切十十也从一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098242" custom="structure {type:Commentary;}">
+        <Coords points="2066,952 2188,950 2190,1740 2063,1740 2066,952"/>
+        <Baseline points="2118,934 2131,1741"/>
+        <TextEquiv>
+          <Unicode>白白亦自字古作首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098243" custom="structure {type:Text;}">
+        <Coords points="2125,1824 2290,1819 2292,1979 2128,1983 2125,1824"/>
+        <Baseline points="2205,2000 2208,1808"/>
+        <TextEquiv>
+          <Unicode>㐁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098244" custom="structure {type:Commentary;}">
+        <Coords points="2217,2003 2342,1995 2342,2681 2207,2681 2217,2003"/>
+        <Baseline points="2286,1986 2303,2683"/>
+        <TextEquiv>
+          <Unicode>㐁它念切舌皃从</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098245" custom="structure {type:Commentary;}">
+        <Coords points="2073,2005 2205,1997 2211,2695 2079,2693 2073,2005"/>
+        <Baseline points="2138,1976 2161,2706"/>
+        <TextEquiv>
+          <Unicode>谷省聲夙字从此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098246" custom="structure {type:Commentary;}">
+        <Coords points="1914,754 2043,755 2042,1162 1919,1157 1914,754"/>
+        <Baseline points="1983,1172 1990,742"/>
+        <TextEquiv>
+          <Unicode>古文作㐁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098247" custom="structure {type:Commentary;}">
+        <Coords points="1779,734 1904,734 1904,1154 1779,1154 1779,734"/>
+        <Baseline points="1838,1156 1842,735"/>
+        <TextEquiv>
+          <Unicode>弼字从此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098248" custom="structure {type:Text;}">
+        <Coords points="1840,1156 1996,1162 1988,1342 1848,1335 1840,1156"/>
+        <Baseline points="1922,1351 1933,1145"/>
+        <TextEquiv>
+          <Unicode>首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098249" custom="structure {type:Commentary;}">
+        <Coords points="1916,1352 2056,1342 2060,2200 1923,2199 1916,1352"/>
+        <Baseline points="1996,1334 2007,2222"/>
+        <TextEquiv>
+          <Unicode>首書九切頭也象形古</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098250" custom="structure {type:Commentary;}">
+        <Coords points="1784,1333 1908,1346 1914,2202 1793,2205 1784,1333"/>
+        <Baseline points="1855,1320 1862,2215"/>
+        <TextEquiv>
+          <Unicode>文作首頁面等字从此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098251" custom="structure {type:Text;}">
+        <Coords points="1834,2210 2019,2208 2018,2392 1840,2391 1834,2210"/>
+        <Baseline points="1929,2188 1936,2390"/>
+        <TextEquiv>
+          <Unicode>丙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098252" custom="structure {type:Commentary;}">
+        <Coords points="1936,2398 2065,2399 2063,2688 1935,2688 1936,2398"/>
+        <Baseline points="2013,2387 2020,2689"/>
+        <TextEquiv>
+          <Unicode>丙兵永</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098253" custom="structure {type:Commentary;}">
+        <Coords points="1797,2401 1931,2400 1925,2695 1800,2692 1797,2401"/>
+        <Baseline points="1855,2363 1889,2703"/>
+        <TextEquiv>
+          <Unicode>切位南</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>八音總名象
+鼓韡木處形
+皂
+皂皮及切又讀若香穀之馨香也
+象嘉穀在裹中之形匕所以投之
+白
+注见
+上
+百字類
+文四
+百
+百博陌切十十也从一
+白白亦自字古作首
+㐁
+㐁它念切舌皃从
+谷省聲夙字从此
+古文作㐁
+弼字从此
+首
+首書九切頭也象形古
+文作首頁面等字从此
+丙
+丙兵永
+切位南
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116560" custom="structure {type:MainText_Left;}">
+      <Coords points="325,752 1714,745 1674,2689 321,2666 325,752"/>
+      <TextLine id="1098254" custom="structure {type:Commentary;}">
+        <Coords points="1560,719 1690,719 1690,1641 1560,1641 1560,719"/>
+        <Baseline points="1637,1643 1653,722"/>
+        <TextEquiv>
+          <Unicode>方陰氣初起陽氣將虧</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098255" custom="structure {type:Commentary;}">
+        <Coords points="1432,729 1564,729 1564,1540 1432,1540 1432,729"/>
+        <Baseline points="1502,732 1512,1542"/>
+        <TextEquiv>
+          <Unicode>从一入冂一者陽也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098256" custom="structure {type:Title;}">
+        <Coords points="1208,887 1364,887 1364,1254 1208,1254 1208,887"/>
+        <Baseline points="1314,890 1317,1256"/>
+        <TextEquiv>
+          <Unicode>月字類</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098257" custom="structure {type:Title;}">
+        <Coords points="1208,2135 1363,2135 1363,2405 1208,2405 1208,2135"/>
+        <Baseline points="1297,2138 1300,2407"/>
+        <TextEquiv>
+          <Unicode>文七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098258" custom="structure {type:Text;}">
+        <Coords points="952,717 1089,717 1089,942 952,942 952,717"/>
+        <Baseline points="1021,944 1024,718"/>
+        <TextEquiv>
+          <Unicode>月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098259" custom="structure {type:Commentary;}">
+        <Coords points="1011,943 1137,942 1144,1525 1010,1524 1011,943"/>
+        <Baseline points="1081,927 1095,1536"/>
+        <TextEquiv>
+          <Unicode>注見上期朏霸</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098260" custom="structure {type:Commentary;}">
+        <Coords points="878,939 1003,949 1002,1451 875,1447 878,939"/>
+        <Baseline points="937,900 950,1448"/>
+        <TextEquiv>
+          <Unicode>朔等字从此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098261" custom="structure {type:Text;}">
+        <Coords points="941,1537 1079,1528 1078,1707 958,1704 941,1537"/>
+        <Baseline points="1011,1711 1014,1505"/>
+        <TextEquiv>
+          <Unicode>月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098262" custom="structure {type:Commentary;}">
+        <Coords points="999,1709 1140,1707 1138,2186 1009,2182 999,1709"/>
+        <Baseline points="1085,1700 1095,2202"/>
+        <TextEquiv>
+          <Unicode>注見上脂膏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098263" custom="structure {type:Commentary;}">
+        <Coords points="880,1706 995,1705 1000,2093 877,2093 880,1706"/>
+        <Baseline points="944,1677 944,2094"/>
+        <TextEquiv>
+          <Unicode>之字从此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098264" custom="structure {type:Text;}">
+        <Coords points="943,2186 1072,2185 1062,2370 935,2367 943,2186"/>
+        <Baseline points="989,2376 997,2161"/>
+        <TextEquiv>
+          <Unicode>月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098265" custom="structure {type:Commentary;}">
+        <Coords points="1015,2370 1140,2367 1140,2672 1010,2672 1015,2370"/>
+        <Baseline points="1073,2353 1102,2698"/>
+        <TextEquiv>
+          <Unicode>注見上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098266" custom="structure {type:Commentary;}">
+        <Coords points="877,2366 992,2374 998,2675 870,2670 877,2366"/>
+        <Baseline points="929,2350 940,2673"/>
+        <TextEquiv>
+          <Unicode>俞朝服</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098267" custom="structure {type:Commentary;}">
+        <Coords points="737,715 865,715 865,1029 737,1029 737,715"/>
+        <Baseline points="813,1030 824,718"/>
+        <TextEquiv>
+          <Unicode>服等字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098268" custom="structure {type:Commentary;}">
+        <Coords points="606,728 724,728 724,963 606,963 606,728"/>
+        <Baseline points="646,962 658,730"/>
+        <TextEquiv>
+          <Unicode>从此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098269" custom="structure {type:Text;}">
+        <Coords points="666,1036 803,1039 809,1218 647,1220 666,1036"/>
+        <Baseline points="728,1032 731,1228"/>
+        <TextEquiv>
+          <Unicode>丹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098270" custom="structure {type:Commentary;}">
+        <Coords points="737,1229 863,1225 859,2660 733,2666 737,1229"/>
+        <Baseline points="788,1228 813,2687"/>
+        <TextEquiv>
+          <Unicode>丹都寒切巴越之赤石也象宋丹井之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098271" custom="structure {type:Commentary;}">
+        <Coords points="601,1221 725,1223 726,2662 587,2671 601,1221"/>
+        <Baseline points="660,1216 666,2684"/>
+        <TextEquiv>
+          <Unicode>象丹形青臒等字从此漢書賈誼傳般</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098272" custom="structure {type:Commentary;}">
+        <Coords points="453,741 589,738 580,2271 452,2275 453,741"/>
+        <Baseline points="530,2305 542,716"/>
+        <TextEquiv>
+          <Unicode>粉紛其離此艶兮顏師古注音班从丹說</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098273" custom="structure {type:Commentary;}">
+        <Coords points="320,738 449,738 444,2185 326,2187 320,738"/>
+        <Baseline points="383,2198 392,704"/>
+        <TextEquiv>
+          <Unicode>文所不載而呂忱字林有之姑附於此</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098274" custom="structure {type:Text;}">
+        <Coords points="371,2282 529,2280 531,2452 378,2447 371,2282"/>
+        <Baseline points="454,2444 460,2263"/>
+        <TextEquiv>
+          <Unicode>冃</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098275" custom="structure {type:Commentary;}">
+        <Coords points="462,2455 574,2453 568,2675 453,2671 462,2455"/>
+        <Baseline points="519,2687 525,2447"/>
+        <TextEquiv>
+          <Unicode>註見</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098276" custom="structure {type:Commentary;}">
+        <Coords points="340,2453 440,2452 435,2668 343,2670 340,2453"/>
+        <Baseline points="389,2444 397,2698"/>
+        <TextEquiv>
+          <Unicode>上胄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>方陰氣初起陽氣將虧
+从一入冂一者陽也
+月字類
+文七
+月
+注見上期朏霸
+朔等字从此
+月
+注見上脂膏
+之字从此
+月
+注見上
+俞朝服
+服等字
+从此
+丹
+丹都寒切巴越之赤石也象宋丹井之
+象丹形青臒等字从此漢書賈誼傳般
+粉紛其離此艶兮顏師古注音班从丹說
+文所不載而呂忱字林有之姑附於此
+冃
+註見
+上胄
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="116561" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="210,1219 325,1213 345,2676 240,2669 210,1219"/>
+      <TextLine id="1098277" custom="structure {type:Section;}">
+        <Coords points="208,1227 295,1217 296,1422 218,1421 208,1227"/>
+        <Baseline points="247,1431 253,1199"/>
+        <TextEquiv>
+          <Unicode>字通</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1234228" custom="structure {type:Page_Number;}">
+        <Coords points=""/>
+        <Baseline points="277,2050 277,2184"/>
+        <TextEquiv>
+          <Unicode>三十五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1098278" custom="structure {type:Title;}">
+        <Coords points="228,2069 321,2073 319,2677 238,2675 228,2069"/>
+        <Baseline points="275,2171 278,2673"/>
+        <TextEquiv>
+          <Unicode>知不足斎樷書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>字通
+三十五
+知不足斎樷書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

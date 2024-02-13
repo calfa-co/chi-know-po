@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:47+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB3701_1_01_0013.jpg" imageHeight="4684" imageWidth="5726">
+    <TextRegion id="117900" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="453,921 2907,864 2892,4165 477,4175 453,921"/>
+      <TextLine id="1111785" custom="structure {type:Title;}">
+        <Coords points="2618,850 2881,850 2881,1855 2618,1855 2618,850"/>
+        <Baseline points="2769,854 2797,1853"/>
+        <TextEquiv>
+          <Unicode>初學記目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111786" custom="structure {type:Author_name;}">
+        <Coords points="2389,931 2594,931 2594,4153 2389,4153 2389,931"/>
+        <Baseline points="2488,935 2502,4155"/>
+        <TextEquiv>
+          <Unicode>唐光禄大太行右散騎常侍集賢院学士副知院事東海郡開國公徐堅等撰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111787" custom="structure {type:Author_name;}">
+        <Coords points="2108,915 2295,915 2295,2849 2108,2849 2108,915"/>
+        <Baseline points="2227,2852 2236,921"/>
+        <TextEquiv>
+          <Unicode>大明萬曆丁亥太學生徐守銘重校于</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111788" custom="structure {type:Author_name;}">
+        <Coords points="2131,3494 2308,3494 2308,4163 2131,4163 2131,3494"/>
+        <Baseline points="2222,3499 2246,4165"/>
+        <TextEquiv>
+          <Unicode>寧夀堂梓行</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111789" custom="structure {type:Title;}">
+        <Coords points="1803,983 2063,983 2063,1681 1803,1681 1803,983"/>
+        <Baseline points="1956,987 1960,1682"/>
+        <TextEquiv>
+          <Unicode>第一卷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111790" custom="structure {type:Title;}">
+        <Coords points="1530,1202 1782,1202 1782,1881 1530,1881 1530,1202"/>
+        <Baseline points="1675,1206 1689,1882"/>
+        <TextEquiv>
+          <Unicode>天部上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111791" custom="structure {type:Title;}">
+        <Coords points="1358,1384 1514,1384 1514,1790 1358,1790 1358,1384"/>
+        <Baseline points="1385,1392 1404,1791"/>
+        <TextEquiv>
+          <Unicode>天一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111792" custom="structure {type:Title;}">
+        <Coords points="1283,2659 1496,2659 1496,3127 1283,3127 1283,2659"/>
+        <Baseline points="1399,2662 1399,3128"/>
+        <TextEquiv>
+          <Unicode>日二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111793" custom="structure {type:Title;}">
+        <Coords points="1012,1405 1238,1405 1238,1907 1012,1907 1012,1405"/>
+        <Baseline points="1123,1406 1123,1910"/>
+        <TextEquiv>
+          <Unicode>月三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111794" custom="structure {type:Title;}">
+        <Coords points="996,2643 1244,2643 1244,3140 996,3140 996,2643"/>
+        <Baseline points="1114,2652 1152,3138"/>
+        <TextEquiv>
+          <Unicode>星四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111795" custom="structure {type:Title;}">
+        <Coords points="713,1381 965,1381 965,1847 713,1847 713,1381"/>
+        <Baseline points="829,1848 848,1387"/>
+        <TextEquiv>
+          <Unicode>雲五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111796" custom="structure {type:Title;}">
+        <Coords points="715,2646 963,2646 963,3117 715,3117 715,2646"/>
+        <Baseline points="857,2648 857,3119"/>
+        <TextEquiv>
+          <Unicode>風六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111797" custom="structure {type:Title;}">
+        <Coords points="450,1371 694,1371 694,1805 450,1805 450,1371"/>
+        <Baseline points="562,1373 562,1806"/>
+        <TextEquiv>
+          <Unicode>雷七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>初學記目錄
+唐光禄大太行右散騎常侍集賢院学士副知院事東海郡開國公徐堅等撰
+大明萬曆丁亥太學生徐守銘重校于
+寧夀堂梓行
+第一卷
+天部上
+天一
+日二
+月三
+星四
+雲五
+風六
+雷七
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117901" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="296,911 434,911 439,4208 320,4203 296,911"/>
+      <TextLine id="1111798" custom="structure {type:Title;}">
+        <Coords points="279,882 426,882 426,1376 279,1376 279,882"/>
+        <Baseline points="353,883 362,1378"/>
+        <TextEquiv>
+          <Unicode>初學記</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111799" custom="structure {type:Section;}">
+        <Coords points="310,1878 468,1878 468,2524 310,2524 310,1878"/>
+        <Baseline points="358,1886 391,2514"/>
+        <TextEquiv>
+          <Unicode>初學記目錄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111800" custom="structure {type:Page_Number;}">
+        <Coords points="343,3133 429,3133 429,3325 343,3325 343,3133"/>
+        <Baseline points="377,3138 380,3328"/>
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>初學記
+初學記目錄
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

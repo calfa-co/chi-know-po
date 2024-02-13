@@ -1,0 +1,529 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-02-13T17:13:50+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_SB3701_1_01_0038.jpg" imageHeight="4684" imageWidth="5785">
+    <TextRegion id="117911" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="5419,871 5600,871 5510,4180 5408,4174 5419,871"/>
+      <TextLine id="1111901" custom="structure {type:Marginalia;}">
+        <Coords points="5428,871 5670,871 5670,1386 5428,1386 5428,871"/>
+        <Baseline points="5508,873 5508,1387"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111902" custom="structure {type:Section;}">
+        <Coords points="5397,1837 5670,1837 5670,2365 5397,2365 5397,1837"/>
+        <Baseline points="5484,1844 5489,2367"/>
+        <TextEquiv>
+          <Unicode>初學記卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111903" custom="structure {type:Page_Number;}">
+        <Coords points="5420,3078 5506,3078 5506,3411 5420,3411 5420,3078"/>
+        <Baseline points="5470,3413 5489,3085"/>
+        <TextEquiv>
+          <Unicode>十二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷一
+十二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117912" custom="structure {type:MainText_Right;}">
+      <Coords points="2953,871 5396,899 5408,4191 3287,4180 2965,4169 2953,871"/>
+      <TextLine id="1111904" custom="structure {type:Text;}">
+        <Coords points="5147,874 5394,874 5394,4202 5147,4202 5147,874"/>
+        <Baseline points="5280,4203 5285,878"/>
+        <TextEquiv>
+          <Unicode>角亢氐兗州房心豫州尾箕幽州斗牽牛婺女</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111905" custom="structure {type:Text;}">
+        <Coords points="4868,869 5134,869 5134,4192 4868,4192 4868,869"/>
+        <Baseline points="4999,4194 5033,873"/>
+        <TextEquiv>
+          <Unicode>揚州虛危青州營室東壁幷州奎音睽婁胃徐州</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111906" custom="structure {type:Text;}">
+        <Coords points="4611,853 4842,853 4842,2050 4611,2050 4611,853"/>
+        <Baseline points="4723,854 4723,2053"/>
+        <TextEquiv>
+          <Unicode>昴畢冀州觜𧓈</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111907" custom="structure {type:Commentary;}">
+        <Coords points="4725,2032 4850,2032 4850,2305 4725,2305 4725,2032"/>
+        <Baseline points="4785,2039 4804,2305"/>
+        <TextEquiv>
+          <Unicode>以彌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111908" custom="structure {type:Commentary;}">
+        <Coords points="4593,1975 4725,1975 4725,2170 4593,2170 4593,1975"/>
+        <Baseline points="4657,1977 4657,2172"/>
+        <TextEquiv>
+          <Unicode>反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111909" custom="structure {type:Text;}">
+        <Coords points="4590,2240 4874,2240 4874,4218 4590,4218 4590,2240"/>
+        <Baseline points="4690,2248 4780,4213"/>
+        <TextEquiv>
+          <Unicode>參益州東井鬼雍州柳七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111910" custom="structure {type:Text;}">
+        <Coords points="4317,856 4572,856 4572,4212 4317,4212 4317,856"/>
+        <Baseline points="4448,4213 4457,859"/>
+        <TextEquiv>
+          <Unicode>星張三河翼軫荊州堪輿家云玄枵爲齊之分</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111911" custom="structure {type:Text;}">
+        <Coords points="4025,853 4304,853 4304,4202 4025,4202 4025,853"/>
+        <Baseline points="4153,854 4196,4203"/>
+        <TextEquiv>
+          <Unicode>星紀吳越之分析木之津燕之分大火宋之分</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111912" custom="structure {type:Text;}">
+        <Coords points="3736,830 4025,830 4025,4220 3736,4220 3736,830"/>
+        <Baseline points="3877,835 3924,4222"/>
+        <TextEquiv>
+          <Unicode>壽星鄭之分鶉尾楚之分鶉火周之分鶉首秦</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111913" custom="structure {type:Text;}">
+        <Coords points="3466,856 3744,856 3744,4207 3466,4207 3466,856"/>
+        <Baseline points="3582,859 3620,4208"/>
+        <TextEquiv>
+          <Unicode>之分實沉魏之分火梁趙之分降婁魯之分訾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111914" custom="structure {type:Commentary;}">
+        <Coords points="3297,853 3445,853 3445,1173 3297,1173 3297,853"/>
+        <Baseline points="3388,856 3388,1176"/>
+        <TextEquiv>
+          <Unicode>即移</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111915" custom="structure {type:Commentary;}">
+        <Coords points="3120,861 3310,861 3310,1046 3120,1046 3120,861"/>
+        <Baseline points="3228,864 3232,1048"/>
+        <TextEquiv>
+          <Unicode>反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111916" custom="structure {type:Text;}">
+        <Coords points="3185,1168 3416,1168 3416,1418 3185,1418 3185,1168"/>
+        <Baseline points="3324,1176 3340,1416"/>
+        <TextEquiv>
+          <Unicode>娵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111917" custom="structure {type:Commentary;}">
+        <Coords points="3312,1399 3445,1399 3445,1709 3312,1709 3312,1399"/>
+        <Baseline points="3388,1400 3388,1712"/>
+        <TextEquiv>
+          <Unicode>子于</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111918" custom="structure {type:Commentary;}">
+        <Coords points="3182,1407 3338,1407 3338,1558 3182,1558 3182,1407"/>
+        <Baseline points="3236,1408 3236,1560"/>
+        <TextEquiv>
+          <Unicode>反</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111919" custom="structure {type:Text;}">
+        <Coords points="3172,1709 3479,1709 3479,4210 3172,4210 3172,1709"/>
+        <Baseline points="3300,1716 3372,4212"/>
+        <TextEquiv>
+          <Unicode>衞之分太史掌之以觀妖祥穀梁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111920" custom="structure {type:Text;}">
+        <Coords points="2914,884 3169,884 3169,2690 2914,2690 2914,884"/>
+        <Baseline points="3020,888 3052,2692"/>
+        <TextEquiv>
+          <Unicode>云列星曰恆星亦曰經星</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111921" custom="structure {type:Commentary;}">
+        <Coords points="3060,2654 3219,2654 3219,2950 3060,2950 3060,2654"/>
+        <Baseline points="3144,2660 3156,2952"/>
+        <TextEquiv>
+          <Unicode>恆經</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111922" custom="structure {type:Commentary;}">
+        <Coords points="2958,2659 3073,2659 3073,2950 2958,2950 2958,2659"/>
+        <Baseline points="2996,2660 2996,2952"/>
+        <TextEquiv>
+          <Unicode>皆常</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111923" custom="structure {type:Text;}">
+        <Coords points="2958,2909 3193,2909 3193,4179 2958,4179 2958,2909"/>
+        <Baseline points="3048,2916 3092,4180"/>
+        <TextEquiv>
+          <Unicode>漢書音義云瑞星</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>角亢氐兗州房心豫州尾箕幽州斗牽牛婺女
+揚州虛危青州營室東壁幷州奎音睽婁胃徐州
+昴畢冀州觜𧓈
+以彌
+反
+參益州東井鬼雍州柳七
+星張三河翼軫荊州堪輿家云玄枵爲齊之分
+星紀吳越之分析木之津燕之分大火宋之分
+壽星鄭之分鶉尾楚之分鶉火周之分鶉首秦
+之分實沉魏之分火梁趙之分降婁魯之分訾
+即移
+反
+娵
+子于
+反
+衞之分太史掌之以觀妖祥穀梁
+云列星曰恆星亦曰經星
+恆經
+皆常
+漢書音義云瑞星
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117913" custom="structure {type:MainText_Left;}">
+      <Coords points="459,984 2880,939 2897,4152 2608,4146 459,4174 459,984"/>
+      <TextLine id="1111924" custom="structure {type:Text;}">
+        <Coords points="2641,962 2896,962 2896,4111 2641,4111 2641,962"/>
+        <Baseline points="2772,968 2820,4112"/>
+        <TextEquiv>
+          <Unicode>曰景星亦曰德星妖星曰孛星彗星長星亦曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111925" custom="structure {type:Text;}">
+        <Coords points="2375,923 2646,923 2646,4150 2375,4150 2375,923"/>
+        <Baseline points="2468,928 2540,4152"/>
+        <TextEquiv>
+          <Unicode>攙搶絕跡而去曰飛星光跡相連曰流星亦曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111926" custom="structure {type:Text;}">
+        <Coords points="2089,913 2342,913 2342,3231 2089,3231 2089,913"/>
+        <Baseline points="2232,916 2236,3232"/>
+        <TextEquiv>
+          <Unicode>奔星星光曰芒爾雅云祭星曰布</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111927" custom="structure {type:Commentary;}">
+        <Coords points="2232,3226 2375,3226 2375,3585 2232,3585 2232,3226"/>
+        <Baseline points="2296,3232 2316,3588"/>
+        <TextEquiv>
+          <Unicode>布散食</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111928" custom="structure {type:Commentary;}">
+        <Coords points="2084,3195 2214,3195 2214,3598 2084,3598 2084,3195"/>
+        <Baseline points="2153,3600 2165,3200"/>
+        <TextEquiv>
+          <Unicode>於地上</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111929" custom="structure {type:Commentary;}">
+        <Coords points="2196,3546 2300,3546 2300,3918 2196,3918 2196,3546"/>
+        <Baseline points="2236,3552 2248,3920"/>
+        <TextEquiv>
+          <Unicode>事對</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111930" custom="structure {type:Text;}">
+        <Coords points="2123,3950 2357,3950 2357,4147 2123,4147 2123,3950"/>
+        <Baseline points="2248,3956 2252,4148"/>
+        <TextEquiv>
+          <Unicode>紫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111931" custom="structure {type:Text;}">
+        <Coords points="1897,942 2066,942 2066,1157 1897,1157 1897,942"/>
+        <Baseline points="1949,944 1949,1160"/>
+        <TextEquiv>
+          <Unicode>極</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111932" custom="structure {type:Text;}">
+        <Coords points="1832,1267 2063,1267 2063,1631 1832,1631 1832,1267"/>
+        <Baseline points="1945,1268 1945,1632"/>
+        <TextEquiv>
+          <Unicode>文昌</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111933" custom="structure {type:Commentary;}">
+        <Coords points="1949,1613 2105,1613 2105,4158 1949,4158 1949,1613"/>
+        <Baseline points="2021,1616 2041,4160"/>
+        <TextEquiv>
+          <Unicode>荊州星占曰北辰一名天關一名北極北極者紫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111934" custom="structure {type:Commentary;}">
+        <Coords points="1808,1613 1969,1613 1969,4163 1808,4163 1808,1613"/>
+        <Baseline points="1869,1616 1897,4164"/>
+        <TextEquiv>
+          <Unicode>宮天座也史記曰斗魁戴匡六星曰文昌宮一曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111935" custom="structure {type:Commentary;}">
+        <Coords points="1655,931 1839,931 1839,2414 1655,2414 1655,931"/>
+        <Baseline points="1741,936 1765,2416"/>
+        <TextEquiv>
+          <Unicode>上將二曰次將三曰貴相四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111936" custom="structure {type:Commentary;}">
+        <Coords points="1548,949 1686,949 1686,2422 1548,2422 1548,949"/>
+        <Baseline points="1621,952 1621,2424"/>
+        <TextEquiv>
+          <Unicode>曰司命五曰司中六曰司祿</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111937" custom="structure {type:Text;}">
+        <Coords points="1556,2407 1811,2407 1811,2818 1556,2818 1556,2407"/>
+        <Baseline points="1677,2408 1677,2820"/>
+        <TextEquiv>
+          <Unicode>天街</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111938" custom="structure {type:Text;}">
+        <Coords points="1616,2883 1800,2883 1800,3330 1616,3330 1616,2883"/>
+        <Baseline points="1677,2884 1677,3332"/>
+        <TextEquiv>
+          <Unicode>帝座</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111939" custom="structure {type:Commentary;}">
+        <Coords points="1673,3299 1821,3299 1821,4181 1673,4181 1673,3299"/>
+        <Baseline points="1765,4184 1769,3304"/>
+        <TextEquiv>
+          <Unicode>漢書高祖三年</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111940" custom="structure {type:Commentary;}">
+        <Coords points="1540,3297 1688,3297 1688,4163 1540,4163 1540,3297"/>
+        <Baseline points="1609,4164 1613,3300"/>
+        <TextEquiv>
+          <Unicode>月暈圍參畢七</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111941" custom="structure {type:Commentary;}">
+        <Coords points="1397,928 1558,928 1558,3918 1397,3918 1397,928"/>
+        <Baseline points="1481,932 1501,3920"/>
+        <TextEquiv>
+          <Unicode>重占曰畢昴間天街也街北胡也街南中國也史記曰中</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111942" custom="structure {type:Commentary;}">
+        <Coords points="1262,947 1426,947 1426,3778 1262,3778 1262,947"/>
+        <Baseline points="1333,952 1353,3780"/>
+        <TextEquiv>
+          <Unicode>端門門左右掖門門內六星諸侯也其內五星五帝座</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111943" custom="structure {type:Text;}">
+        <Coords points="1293,3918 1418,3918 1418,4181 1293,4181 1293,3918"/>
+        <Baseline points="1369,3924 1381,4184"/>
+        <TextEquiv>
+          <Unicode>編</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111944" custom="structure {type:Text;}">
+        <Coords points="1001,955 1254,955 1254,1150 1001,1150 1001,955"/>
+        <Baseline points="1125,1152 1129,960"/>
+        <TextEquiv>
+          <Unicode>珠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111945" custom="structure {type:Text;}">
+        <Coords points="1059,1249 1238,1249 1238,1642 1059,1642 1059,1249"/>
+        <Baseline points="1125,1256 1149,1640"/>
+        <TextEquiv>
+          <Unicode>連貝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111946" custom="structure {type:Commentary;}">
+        <Coords points="1121,1636 1282,1636 1282,4142 1121,4142 1121,1636"/>
+        <Baseline points="1189,1640 1221,4144"/>
+        <TextEquiv>
+          <Unicode>尚書中候曰天地開闢甲子冬至日月若懸璧五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111947" custom="structure {type:Commentary;}">
+        <Coords points="986,1587 1155,1587 1155,4147 986,4147 986,1587"/>
+        <Baseline points="1053,1592 1069,4148"/>
+        <TextEquiv>
+          <Unicode>星若編珠尚書考靈曜曰日月五星冬至起牽牛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111948" custom="structure {type:Commentary;}">
+        <Coords points="848,947 994,947 994,2310 848,2310 848,947"/>
+        <Baseline points="937,952 953,2312"/>
+        <TextEquiv>
+          <Unicode>日月若懸璧仰觀天形如</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111949" custom="structure {type:Commentary;}">
+        <Coords points="713,947 871,947 871,2198 713,2198 713,947"/>
+        <Baseline points="773,952 797,2200"/>
+        <TextEquiv>
+          <Unicode>車蓋衆星纍纍如連貝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111950" custom="structure {type:Text;}">
+        <Coords points="736,2261 983,2261 983,2677 736,2677 736,2261"/>
+        <Baseline points="857,2264 869,2680"/>
+        <TextEquiv>
+          <Unicode>貫珠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111951" custom="structure {type:Text;}">
+        <Coords points="830,2781 975,2781 975,3203 830,3203 830,2781"/>
+        <Baseline points="873,2784 873,3204"/>
+        <TextEquiv>
+          <Unicode>隕石</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111952" custom="structure {type:Commentary;}">
+        <Coords points="848,3187 996,3187 996,4150 848,4150 848,3187"/>
+        <Baseline points="941,3192 957,4152"/>
+        <TextEquiv>
+          <Unicode>易坤靈圖曰至德</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111953" custom="structure {type:Commentary;}">
+        <Coords points="710,3211 871,3211 871,4163 710,4163 710,3211"/>
+        <Baseline points="793,4164 813,3216"/>
+        <TextEquiv>
+          <Unicode>之朝五星若貫珠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111954" custom="structure {type:Commentary;}">
+        <Coords points="582,931 731,931 731,2055 582,2055 582,931"/>
+        <Baseline points="653,936 661,2056"/>
+        <TextEquiv>
+          <Unicode>左傳僖公十六年春</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111955" custom="structure {type:Commentary;}">
+        <Coords points="411,952 608,952 608,2050 411,2050 411,952"/>
+        <Baseline points="489,2048 533,960"/>
+        <TextEquiv>
+          <Unicode>隕石于宋五隕星也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111956" custom="structure {type:Text;}">
+        <Coords points="497,2034 702,2034 702,2422 497,2422 497,2034"/>
+        <Baseline points="589,2040 601,2424"/>
+        <TextEquiv>
+          <Unicode>食昴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111957" custom="structure {type:Text;}">
+        <Coords points="468,2542 713,2542 713,2995 468,2995 468,2542"/>
+        <Baseline points="585,2544 585,2996"/>
+        <TextEquiv>
+          <Unicode>襲月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111958" custom="structure {type:Commentary;}">
+        <Coords points="588,2932 749,2932 749,4158 588,4158 588,2932"/>
+        <Baseline points="669,2936 685,4160"/>
+        <TextEquiv>
+          <Unicode>漢書鄒陽上書曰衞先</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111959" custom="structure {type:Commentary;}">
+        <Coords points="413,2940 608,2940 608,4173 413,4173 413,2940"/>
+        <Baseline points="521,2944 525,4176"/>
+        <TextEquiv>
+          <Unicode>生爲秦畫長平之事太</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>曰景星亦曰德星妖星曰孛星彗星長星亦曰
+攙搶絕跡而去曰飛星光跡相連曰流星亦曰
+奔星星光曰芒爾雅云祭星曰布
+布散食
+於地上
+事對
+紫
+極
+文昌
+荊州星占曰北辰一名天關一名北極北極者紫
+宮天座也史記曰斗魁戴匡六星曰文昌宮一曰
+上將二曰次將三曰貴相四
+曰司命五曰司中六曰司祿
+天街
+帝座
+漢書高祖三年
+月暈圍參畢七
+重占曰畢昴間天街也街北胡也街南中國也史記曰中
+端門門左右掖門門內六星諸侯也其內五星五帝座
+編
+珠
+連貝
+尚書中候曰天地開闢甲子冬至日月若懸璧五
+星若編珠尚書考靈曜曰日月五星冬至起牽牛
+日月若懸璧仰觀天形如
+車蓋衆星纍纍如連貝
+貫珠
+隕石
+易坤靈圖曰至德
+之朝五星若貫珠
+左傳僖公十六年春
+隕石于宋五隕星也
+食昴
+襲月
+漢書鄒陽上書曰衞先
+生爲秦畫長平之事太
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="117914" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="324,961 420,967 476,4197 363,4197 324,961"/>
+      <TextLine id="1111960" custom="structure {type:Marginalia;}">
+        <Coords points="148,991 442,991 442,1415 148,1415 148,991"/>
+        <Baseline points="389,992 389,1416"/>
+        <TextEquiv>
+          <Unicode>寧壽堂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111961" custom="structure {type:Section;}">
+        <Coords points="338,1907 465,1907 465,2453 338,2453 338,1907"/>
+        <Baseline points="389,1908 389,2456"/>
+        <TextEquiv>
+          <Unicode>初學記卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1111962" custom="structure {type:Page_Number;}">
+        <Coords points="340,3073 437,3073 437,3390 340,3390 340,3073"/>
+        <Baseline points="405,3076 409,3392"/>
+        <TextEquiv>
+          <Unicode>十三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>寧壽堂
+初學記卷一
+十三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

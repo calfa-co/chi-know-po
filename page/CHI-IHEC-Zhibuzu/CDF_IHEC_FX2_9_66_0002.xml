@@ -155,7 +155,7 @@
     </TextRegion>
     <TextRegion id="136077" custom="structure {type:Marginalia;}">
       <Coords points="158,279 158,135 434,135 434,279 158,279"/>
-      <TextLine id="1234255" custom="structure {type:Marginalia;}">
+      <TextLine id="1234255" custom="structure {type:MarginaliaLine;}">
         <Coords points=""/>
         <Baseline points="138,224 450,240"/>
         <TextEquiv>
@@ -169,21 +169,21 @@
     </TextRegion>
     <TextRegion id="136078" custom="structure {type:Marginalia;}">
       <Coords points="2755,599 2755,271 3107,271 3107,599 2755,599"/>
-      <TextLine id="1234256" custom="structure {type:Marginalia;}">
+      <TextLine id="1234256" custom="structure {type:MarginaliaLine;}">
         <Coords points=""/>
         <Baseline points="2759,360 3091,360"/>
         <TextEquiv>
           <Unicode></Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1234257" custom="structure {type:Marginalia;}">
+      <TextLine id="1234257" custom="structure {type:MarginaliaLine;}">
         <Coords points=""/>
         <Baseline points="2783,448 3087,456"/>
         <TextEquiv>
           <Unicode></Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1234258" custom="structure {type:Marginalia;}">
+      <TextLine id="1234258" custom="structure {type:MarginaliaLine;}">
         <Coords points=""/>
         <Baseline points="2875,544 3091,552"/>
         <TextEquiv>
@@ -205,14 +205,14 @@
     </TextRegion>
     <TextRegion id="136080" custom="structure {type:Marginalia;}">
       <Coords points="1138,423 1138,111 1715,111 1715,423 1138,423"/>
-      <TextLine id="1234259" custom="structure {type:Marginalia;}">
+      <TextLine id="1234259" custom="structure {type:MarginaliaLine;}">
         <Coords points=""/>
         <Baseline points="1130,216 1683,220"/>
         <TextEquiv>
           <Unicode></Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1234260" custom="structure {type:Marginalia;}">
+      <TextLine id="1234260" custom="structure {type:MarginaliaLine;}">
         <Coords points=""/>
         <Baseline points="1250,364 1707,360"/>
         <TextEquiv>

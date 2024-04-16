@@ -28,7 +28,7 @@
           <Unicode>九</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1176561" custom="structure {type:Marginalia;}">
+      <TextLine id="1176561" custom="structure {type:MarginaliaLine;}">
         <Coords points="5200,3471 5304,3464 5304,4063 5200,4073 5200,3471"/>
         <Baseline points="5279,4063 5293,3463"/>
         <TextEquiv>
@@ -262,7 +262,7 @@
           <Unicode>十</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1176588" custom="structure {type:Marginalia;}">
+      <TextLine id="1176588" custom="structure {type:MarginaliaLine;}">
         <Coords points="608,3447 683,3443 683,4052 612,4053 608,3447"/>
         <Baseline points="652,3444 652,4053"/>
         <TextEquiv>

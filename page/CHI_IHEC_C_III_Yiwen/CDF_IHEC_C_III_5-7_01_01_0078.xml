@@ -278,7 +278,7 @@
           <Unicode>十二</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1100672" custom="structure {type:Marginalia;}">
+      <TextLine id="1100672" custom="structure {type:MarginaliaLine;}">
         <Coords points="627,3441 709,3441 707,4095 625,4086 627,3441"/>
         <Baseline points="672,3458 687,4115"/>
         <TextEquiv>

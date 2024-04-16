@@ -7,7 +7,7 @@
   <Page imageFilename="CDF_IHEC_SB3701_1_01_0037.jpg" imageHeight="4684" imageWidth="5751">
     <TextRegion id="117907" custom="structure {type:Marginalia_Metadata;}">
       <Coords points="5394,883 5522,888 5503,4170 5408,4170 5394,883"/>
-      <TextLine id="1111837" custom="structure {type:Marginalia;}">
+      <TextLine id="1111837" custom="structure {type:MarginaliaLine;}">
         <Coords points="5404,871 5628,871 5628,1366 5404,1366 5404,871"/>
         <Baseline points="5463,1368 5467,876"/>
         <TextEquiv>

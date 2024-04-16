@@ -326,7 +326,7 @@
           <Unicode>五</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1176212" custom="structure {type:Marginalia;}">
+      <TextLine id="1176212" custom="structure {type:MarginaliaLine;}">
         <Coords points="421,3450 508,3436 508,4022 412,4027 421,3450"/>
         <Baseline points="461,3441 477,4021"/>
         <TextEquiv>

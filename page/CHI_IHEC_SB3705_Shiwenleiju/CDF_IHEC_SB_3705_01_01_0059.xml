@@ -526,7 +526,7 @@
           <Unicode>四九</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1112497" custom="structure {type:Marginalia;}">
+      <TextLine id="1112497" custom="structure {type:MarginaliaLine;}">
         <Coords points="608,3423 737,3420 737,4090 610,4094 608,3423"/>
         <Baseline points="630,3427 654,4091"/>
         <TextEquiv>

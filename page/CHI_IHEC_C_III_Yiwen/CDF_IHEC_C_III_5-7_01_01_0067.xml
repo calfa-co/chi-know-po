@@ -350,7 +350,7 @@
           <Unicode>一</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1100626" custom="structure {type:Marginalia;}">
+      <TextLine id="1100626" custom="structure {type:MarginaliaLine;}">
         <Coords points="572,3406 752,3406 752,4103 572,4103 572,3406"/>
         <Baseline points="678,4105 683,3411"/>
         <TextEquiv>

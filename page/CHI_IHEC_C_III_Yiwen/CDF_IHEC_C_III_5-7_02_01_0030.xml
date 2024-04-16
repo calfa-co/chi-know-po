@@ -254,7 +254,7 @@
           <Unicode>二十四</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1101168" custom="structure {type:Marginalia;}">
+      <TextLine id="1101168" custom="structure {type:MarginaliaLine;}">
         <Coords points="475,3452 596,3452 596,4115 475,4115 475,3452"/>
         <Baseline points="545,4118 549,3457"/>
         <TextEquiv>

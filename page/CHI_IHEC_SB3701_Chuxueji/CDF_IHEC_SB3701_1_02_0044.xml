@@ -7,7 +7,7 @@
   <Page imageFilename="CDF_IHEC_SB3701_1_02_0044.jpg" imageHeight="4687" imageWidth="5752">
     <TextRegion id="118108" custom="structure {type:Marginalia_Metadata;}">
       <Coords points="5356,925 5460,925 5460,4198 5351,4208 5356,925"/>
-      <TextLine id="1114073" custom="structure {type:Marginalia;}">
+      <TextLine id="1114073" custom="structure {type:MarginaliaLine;}">
         <Coords points="5356,903 5640,903 5640,1294 5356,1294 5356,903"/>
         <Baseline points="5420,915 5432,1295"/>
         <TextEquiv>
@@ -417,7 +417,7 @@
     </TextRegion>
     <TextRegion id="118111" custom="structure {type:Marginalia_Metadata;}">
       <Coords points="242,944 394,935 337,4174 233,4170 242,944"/>
-      <TextLine id="1114122" custom="structure {type:Marginalia;}">
+      <TextLine id="1114122" custom="structure {type:MarginaliaLine;}">
         <Coords points="111,919 369,919 369,1367 111,1367 111,919"/>
         <Baseline points="300,1368 316,932"/>
         <TextEquiv>

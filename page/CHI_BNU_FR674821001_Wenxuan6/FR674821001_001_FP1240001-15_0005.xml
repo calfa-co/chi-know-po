@@ -181,7 +181,7 @@
     </TextRegion>
     <TextRegion id="117264" custom="structure {type:Marginalia;}">
       <Coords points="706,251 1310,244 1310,336 718,348 706,251"/>
-      <TextLine id="1109613" custom="structure {type:Marginalia;}">
+      <TextLine id="1109613" custom="structure {type:MarginaliaLine;}">
         <Coords points="719,260 719,324 1297,318 1294,247 719,260"/>
         <Baseline points="716,287 1301,281"/>
         <TextEquiv>

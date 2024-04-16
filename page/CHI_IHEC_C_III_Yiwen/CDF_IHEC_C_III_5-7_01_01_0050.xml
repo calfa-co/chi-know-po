@@ -230,7 +230,7 @@
           <Unicode>十六</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1100439" custom="structure {type:Marginalia;}">
+      <TextLine id="1100439" custom="structure {type:MarginaliaLine;}">
         <Coords points="540,3286 596,3294 600,4074 524,4070 540,3286"/>
         <Baseline points="575,4070 588,3448"/>
         <TextEquiv>

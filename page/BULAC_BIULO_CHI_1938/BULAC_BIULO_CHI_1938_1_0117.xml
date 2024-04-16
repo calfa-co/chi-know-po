@@ -615,7 +615,7 @@
     </TextRegion>
     <TextRegion id="86666" custom="structure {type:Marginalia_PageNumber;}">
       <Coords points="328,283 494,288 494,416 309,421 328,283"/>
-      <TextLine id="918548" custom="structure {type:Marginalia;}">
+      <TextLine id="918548" custom="structure {type:MarginaliaLine;}">
         <Coords points="361,364 358,386 459,402 471,304 367,292 361,364"/>
         <Baseline points="363,366 470,378"/>
         <TextEquiv>

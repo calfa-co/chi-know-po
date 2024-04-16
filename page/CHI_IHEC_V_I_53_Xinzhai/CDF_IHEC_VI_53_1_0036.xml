@@ -14,7 +14,7 @@
           <Unicode>石鼓文</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1110848" custom="structure {type:Section;}">
+      <TextLine id="1110848" custom="structure {type:Title;}">
         <Coords points="4768,1850 4866,1850 4866,2165 4768,2165 4768,1850"/>
         <Baseline points="4814,1853 4818,2167"/>
         <TextEquiv>

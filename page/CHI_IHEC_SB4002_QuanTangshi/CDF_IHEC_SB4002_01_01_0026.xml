@@ -7,7 +7,7 @@
   <Page imageFilename="CDF_IHEC_SB4002_01_01_0026.jpg" imageHeight="3935" imageWidth="4406">
     <TextRegion id="116783" custom="structure {type:Marginalia_Metadata;}">
       <Coords points="4056,1409 4165,1400 4175,1880 4070,1871 4056,1409"/>
-      <TextLine id="1100214" custom="structure {type:Section;}">
+      <TextLine id="1100214" custom="structure {type:Title;}">
         <Coords points="4081,1474 4163,1412 4177,1864 4098,1853 4081,1474"/>
         <Baseline points="4138,1419 4150,1855"/>
         <TextEquiv>
@@ -513,14 +513,14 @@
     </TextRegion>
     <TextRegion id="116786" custom="structure {type:Marginalia_Metadata;}">
       <Coords points="269,1390 383,1395 355,2979 250,2974 269,1390"/>
-      <TextLine id="1100217" custom="structure {type:Section;}">
+      <TextLine id="1100217" custom="structure {type:Title;}">
         <Coords points="271,1465 359,1519 360,1825 262,1808 271,1465"/>
         <Baseline points="310,1827 322,1467"/>
         <TextEquiv>
           <Unicode>全唐詩目</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1100218" custom="structure {type:Section;}">
+      <TextLine id="1100218" custom="structure {type:Title;}">
         <Coords points="249,1814 400,1814 400,2081 249,2081 249,1814"/>
         <Baseline points="338,2083 346,1819"/>
         <TextEquiv>

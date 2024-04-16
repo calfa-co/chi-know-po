@@ -14,7 +14,7 @@
           <Unicode>齊民要術</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1111457" custom="structure {type:Section;}">
+      <TextLine id="1111457" custom="structure {type:Title;}">
         <Coords points="4349,1720 4460,1683 4480,2000 4348,1994 4349,1720"/>
         <Baseline points="4416,1673 4429,1996"/>
         <TextEquiv>
@@ -392,7 +392,7 @@
           <Unicode>齊民要術</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1111502" custom="structure {type:Section;}">
+      <TextLine id="1111502" custom="structure {type:Title;}">
         <Coords points="263,1700 356,1706 357,1992 263,1994 263,1700"/>
         <Baseline points="297,1700 297,1993"/>
         <TextEquiv>

@@ -14,7 +14,7 @@
           <Unicode>藝文類聚</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1100641" custom="structure {type:Section;}">
+      <TextLine id="1100641" custom="structure {type:Title;}">
         <Coords points="5673,1677 5769,1665 5769,2268 5673,2270 5673,1677"/>
         <Baseline points="5730,2269 5749,1670"/>
         <TextEquiv>
@@ -264,7 +264,7 @@
           <Unicode>藝文類聚</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1100671" custom="structure {type:Section;}">
+      <TextLine id="1100671" custom="structure {type:Title;}">
         <Coords points="613,1708 719,1708 719,2278 616,2282 613,1708"/>
         <Baseline points="664,1713 668,2279"/>
         <TextEquiv>

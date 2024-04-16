@@ -7,7 +7,7 @@
   <Page imageFilename="BULAC_BIULO_CHI_1087_1_0544.jpg" imageHeight="4884" imageWidth="2838">
     <TextRegion id="80232" custom="structure {type:Marginalia_Metadata;}">
       <Coords points="2670,2055 2746,2053 2735,3642 2664,3628 2670,2055"/>
-      <TextLine id="876089" custom="structure {type:Section;}">
+      <TextLine id="876089" custom="structure {type:Title;}">
         <Coords points="2639,2070 2748,2070 2748,2821 2639,2821 2639,2070"/>
         <Baseline points="2698,2822 2706,2075"/>
         <TextEquiv>

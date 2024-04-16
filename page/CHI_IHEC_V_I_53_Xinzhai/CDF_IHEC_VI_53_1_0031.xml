@@ -130,7 +130,7 @@
           <Unicode>夏小正</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1110845" custom="structure {type:Section;}">
+      <TextLine id="1110845" custom="structure {type:Title;}">
         <Coords points="209,1722 341,1719 341,2077 226,2068 209,1722"/>
         <Baseline points="248,1728 267,2076"/>
         <TextEquiv>

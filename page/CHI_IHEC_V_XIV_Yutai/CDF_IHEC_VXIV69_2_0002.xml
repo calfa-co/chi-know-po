@@ -213,7 +213,7 @@
     </TextRegion>
     <TextRegion id="121090" custom="structure {type:Marginalia_Metadata;}">
       <Coords points="153,915 287,915 341,3714 223,3704 153,915"/>
-      <TextLine id="1139423" custom="structure {type:Section;}">
+      <TextLine id="1139423" custom="structure {type:Title;}">
         <Coords points="164,898 265,898 282,1682 175,1696 164,898"/>
         <Baseline points="203,881 234,1682"/>
         <TextEquiv>

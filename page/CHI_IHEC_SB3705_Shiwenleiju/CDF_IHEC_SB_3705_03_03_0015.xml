@@ -14,7 +14,7 @@
           <Unicode>事文類聚前集</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1176374" custom="structure {type:Section;}">
+      <TextLine id="1176374" custom="structure {type:Title;}">
         <Coords points="5248,1914 5316,1844 5334,2476 5247,2473 5248,1914"/>
         <Baseline points="5308,2474 5312,1830"/>
         <TextEquiv>
@@ -272,7 +272,7 @@
           <Unicode>事文類聚前集</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1176404" custom="structure {type:Section;}">
+      <TextLine id="1176404" custom="structure {type:Title;}">
         <Coords points="549,1875 638,1875 638,2524 549,2524 549,1875"/>
         <Baseline points="585,1878 597,2526"/>
         <TextEquiv>

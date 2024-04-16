@@ -288,7 +288,7 @@
           <Unicode>全唐詩</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1231365" custom="structure {type:Section;}">
+      <TextLine id="1231365" custom="structure {type:Title;}">
         <Coords points="225,1733 337,1733 337,2075 225,2075 225,1733"/>
         <Baseline points="285,2077 291,1737"/>
         <TextEquiv>

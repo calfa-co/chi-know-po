@@ -7,7 +7,7 @@
   <Page imageFilename="CDF_IHEC_FX2_12_90_0004.jpg" imageHeight="3095" imageWidth="3476">
     <TextRegion id="115975" custom="structure {type:Marginalia_Metadata;}">
       <Coords points="3246,1123 3325,1115 3328,1576 3246,1582 3246,1123"/>
-      <TextLine id="1093963" custom="structure {type:Section;}">
+      <TextLine id="1093963" custom="structure {type:Title;}">
         <Coords points="3241,1115 3326,1117 3330,1579 3249,1585 3241,1115"/>
         <Baseline points="3277,1092 3285,1590"/>
         <TextEquiv>
@@ -625,7 +625,7 @@
     </TextRegion>
     <TextRegion id="115978" custom="structure {type:Marginalia_Metadata;}">
       <Coords points="179,1118 263,1123 248,2624 158,2621 179,1118"/>
-      <TextLine id="1094038" custom="structure {type:Section;}">
+      <TextLine id="1094038" custom="structure {type:Title;}">
         <Coords points="183,1113 247,1109 247,1576 185,1573 183,1113"/>
         <Baseline points="206,1577 208,1111"/>
         <TextEquiv>

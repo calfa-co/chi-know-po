@@ -408,7 +408,7 @@
           <Unicode>毛詩陸疏校正</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1111338" custom="structure {type:Section;}">
+      <TextLine id="1111338" custom="structure {type:Title;}">
         <Coords points="320,1590 409,1590 409,1893 320,1893 320,1590"/>
         <Baseline points="364,1591 364,1894"/>
         <TextEquiv>

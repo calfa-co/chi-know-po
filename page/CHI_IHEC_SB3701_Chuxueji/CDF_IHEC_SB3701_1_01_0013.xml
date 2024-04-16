@@ -124,7 +124,7 @@
           <Unicode>初學記</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1111799" custom="structure {type:Section;}">
+      <TextLine id="1111799" custom="structure {type:Title;}">
         <Coords points="310,1878 468,1878 468,2524 310,2524 310,1878"/>
         <Baseline points="358,1886 391,2514"/>
         <TextEquiv>

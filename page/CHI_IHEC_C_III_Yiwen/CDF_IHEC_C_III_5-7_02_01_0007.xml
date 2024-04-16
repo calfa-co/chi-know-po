@@ -236,7 +236,7 @@
           <Unicode>藝文類聚</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1112644" custom="structure {type:Section;}">
+      <TextLine id="1112644" custom="structure {type:Title;}">
         <Coords points="222,1703 315,1703 315,2419 222,2419 222,1703"/>
         <Baseline points="247,2421 252,1708"/>
         <TextEquiv>

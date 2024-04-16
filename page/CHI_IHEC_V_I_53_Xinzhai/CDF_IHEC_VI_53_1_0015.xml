@@ -328,7 +328,7 @@
           <Unicode>夏小正</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1110751" custom="structure {type:Section;}">
+      <TextLine id="1110751" custom="structure {type:Title;}">
         <Coords points="215,1745 337,1745 337,2063 215,2063 215,1745"/>
         <Baseline points="263,1747 263,2066"/>
         <TextEquiv>

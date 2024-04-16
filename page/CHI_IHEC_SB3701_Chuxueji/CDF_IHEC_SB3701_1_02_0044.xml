@@ -14,7 +14,7 @@
           <Unicode>寧壽堂</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1114074" custom="structure {type:Section;}">
+      <TextLine id="1114074" custom="structure {type:Title;}">
         <Coords points="5356,1866 5634,1866 5634,2392 5356,2392 5356,1866"/>
         <Baseline points="5412,1879 5436,2395"/>
         <TextEquiv>
@@ -424,7 +424,7 @@
           <Unicode>寧壽堂</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1114123" custom="structure {type:Section;}">
+      <TextLine id="1114123" custom="structure {type:Title;}">
         <Coords points="117,1872 377,1872 377,2413 117,2413 117,1872"/>
         <Baseline points="304,2416 316,1880"/>
         <TextEquiv>

@@ -184,7 +184,7 @@
           <Unicode>尸子</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1139251" custom="structure {type:Section;}">
+      <TextLine id="1139251" custom="structure {type:Title;}">
         <Coords points="223,1895 354,1895 354,2212 223,2212 223,1895"/>
         <Baseline points="284,1897 284,2213"/>
         <TextEquiv>

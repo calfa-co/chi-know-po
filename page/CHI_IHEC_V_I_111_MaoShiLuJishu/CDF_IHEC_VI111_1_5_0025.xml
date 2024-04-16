@@ -472,7 +472,7 @@
           <Unicode>毛詩陸疏校正</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="1111396" custom="structure {type:Section;}">
+      <TextLine id="1111396" custom="structure {type:Title;}">
         <Coords points="275,1584 391,1584 391,1886 275,1886 275,1584"/>
         <Baseline points="327,1588 334,1887"/>
         <TextEquiv>

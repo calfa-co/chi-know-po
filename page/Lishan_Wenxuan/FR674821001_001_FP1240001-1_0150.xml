@@ -7,7 +7,7 @@
   <Page imageFilename="FR674821001_001_FP1240001-1_0150.jpg" imageHeight="4776" imageWidth="2583">
     <TextRegion id="79625" custom="structure {type:Marginalia_Metadata;}">
       <Coords points="2291,1132 2363,1124 2383,4344 2311,4332 2291,1132"/>
-      <TextLine id="869670" custom="structure {type:Section;}">
+      <TextLine id="869670" custom="structure {type:Title;}">
         <Coords points="2346,1775 2267,1769 2267,1852 2285,1875 2264,1915 2290,1958 2275,2037 2288,2109 2386,2114 2397,1942 2370,1870 2378,1775 2346,1775"/>
         <Baseline points="2339,2116 2347,1776"/>
         <TextEquiv>

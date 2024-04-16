@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-04-16T10:37:53+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0012.jpg" imageHeight="1684" imageWidth="2001">
+    <TextRegion id="140662" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1857,375 1919,373 1915,1475 1855,1485 1857,375" />
+      <TextLine id="1262363" custom="structure {type:Title;}">
+        <Coords points="1862,367 1930,367 1930,574 1862,574 1862,367" />
+        <Baseline points="1897,369 1899,575" />
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262364" custom="structure {type:Page_Number;}">
+        <Coords points="1856,1091 1928,1091 1928,1170 1856,1170 1856,1091" />
+        <Baseline points="1887,1097 1895,1169" />
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140663" custom="structure {type:MainText_Right;}">
+      <Coords points="1039,377 1859,365 1859,1481 1025,1487 1039,377" />
+      <TextLine id="1262365" custom="structure {type:text;}">
+        <Coords points="1759,420 1839,420 1839,1484 1759,1484 1759,420" />
+        <Baseline points="1805,421 1809,1485" />
+        <TextEquiv>
+          <Unicode>其曰初歲云者畼也者終歲之用祭也言</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262366" custom="structure {type:text;}">
+        <Coords points="1672,432 1744,432 1744,1416 1672,1416 1672,432" />
+        <Baseline points="1707,434 1715,1417" />
+        <TextEquiv>
+          <Unicode>是月始用之也初者始也或曰祭韭也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262367" custom="structure {type:Commentary;}">
+        <Coords points="1705,1399 1771,1399 1771,1485 1705,1485 1705,1399" />
+        <Baseline points="1735,1405 1745,1483" />
+        <TextEquiv>
+          <Unicode>風</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262368" custom="structure {type:Commentary;}">
+        <Coords points="1654,1407 1708,1407 1708,1484 1654,1484 1654,1407" />
+        <Baseline points="1687,1409 1691,1485" />
+        <TextEquiv>
+          <Unicode>俗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262369" custom="structure {type:Commentary;}">
+        <Coords points="1613,436 1667,436 1667,1486 1613,1486 1613,436" />
+        <Baseline points="1643,438 1645,1487" />
+        <TextEquiv>
+          <Unicode>通琴以舒意其和樂而作者命其曲曰畼</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262370" custom="structure {type:Commentary;}">
+        <Coords points="1575,442 1623,444 1623,1484 1570,1483 1575,442" />
+        <Baseline points="1591,446 1597,1485" />
+        <TextEquiv>
+          <Unicode>畼者言其道之美畼續文章緣起堯有神</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262371" custom="structure {type:Commentary;}">
+        <Coords points="1522,440 1577,440 1577,1028 1522,1028 1522,440" />
+        <Baseline points="1549,442 1555,1029" />
+        <TextEquiv>
+          <Unicode>人畼蓋古樂歌之名取</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262372" custom="structure {type:Commentary;}">
+        <Coords points="1475,425 1533,425 1533,962 1475,962 1475,425" />
+        <Baseline points="1509,427 1513,963" />
+        <TextEquiv>
+          <Unicode>萬物乘時而畼達也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262373" custom="structure {type:Title;}">
+        <Coords points="1411,371 1474,371 1474,630 1411,630 1411,371" />
+        <Baseline points="1443,373 1447,631" />
+        <TextEquiv>
+          <Unicode>囿有見韭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262374" custom="structure {type:Commentary;}">
+        <Coords points="1435,629 1488,629 1488,834 1435,834 1435,629" />
+        <Baseline points="1459,631 1465,835" />
+        <TextEquiv>
+          <Unicode>宋本無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262375" custom="structure {type:Commentary;}">
+        <Coords points="1393,628 1452,628 1452,764 1393,764 1393,628" />
+        <Baseline points="1417,629 1417,765" />
+        <TextEquiv>
+          <Unicode>見字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262376" custom="structure {type:text;}">
+        <Coords points="1307,432 1386,432 1386,972 1307,972 1307,432" />
+        <Baseline points="1343,434 1362,972" />
+        <TextEquiv>
+          <Unicode>韭也者園之燕者也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262377" custom="structure {type:Commentary;}">
+        <Coords points="1340,959 1412,959 1412,1480 1340,1480 1340,959" />
+        <Baseline points="1369,961 1371,1481" />
+        <TextEquiv>
+          <Unicode>囿苑有垣也韭燕食</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262378" custom="structure {type:Commentary;}">
+        <Coords points="1285,960 1348,960 1348,1484 1285,1484 1285,960" />
+        <Baseline points="1325,961 1325,1485" />
+        <TextEquiv>
+          <Unicode>用之禮内則春用韭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262379" custom="structure {type:Title;}">
+        <Coords points="1218,371 1295,371 1295,637 1218,637 1218,371" />
+        <Baseline points="1251,374 1264,638" />
+        <TextEquiv>
+          <Unicode>時有俊風</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262380" custom="structure {type:text;}">
+        <Coords points="1127,413 1201,413 1201,1486 1127,1486 1127,413" />
+        <Baseline points="1167,415 1175,1487" />
+        <TextEquiv>
+          <Unicode>後者大也大風南風也何大乎南風也曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262381" custom="structure {type:text;}">
+        <Coords points="1041,432 1110,432 1110,1496 1041,1496 1041,432" />
+        <Baseline points="1085,433 1085,1497" />
+        <TextEquiv>
+          <Unicode>合冰必亏南風生必亏南風收必亏南風</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>其曰初歲云者畼也者終歲之用祭也言TEXT
+是月始用之也初者始也或曰祭韭也TEXT
+風
+俗
+通琴以舒意其和樂而作者命其曲曰畼
+畼者言其道之美畼續文章緣起堯有神
+人畼蓋古樂歌之名取
+萬物乘時而畼達也
+囿有見韭
+宋本無
+見字
+韭也者園之燕者也TEXT
+囿苑有垣也韭燕食
+用之禮内則春用韭
+時有俊風
+後者大也大風南風也何大乎南風也曰TEXT
+合冰必亏南風生必亏南風收必亏南風TEXT
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140664" custom="structure {type:MainText_Left;}">
+      <Coords points="119,389 941,361 963,1475 157,1495 119,389" />
+      <TextLine id="1262382" custom="structure {type:text;}">
+        <Coords points="852,416 928,416 928,673 852,673 852,416" />
+        <Baseline points="889,419 901,673" />
+        <TextEquiv>
+          <Unicode>故大之也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262383" custom="structure {type:Commentary;}">
+        <Coords points="901,669 953,671 953,1092 907,1096 901,669" />
+        <Baseline points="917,673 931,1093" />
+        <TextEquiv>
+          <Unicode>南風長養萬物</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262384" custom="structure {type:Commentary;}">
+        <Coords points="848,675 908,675 908,1034 848,1034 848,675" />
+        <Baseline points="875,677 887,1035" />
+        <TextEquiv>
+          <Unicode>故舜歌以之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262385" custom="structure {type:Title;}">
+        <Coords points="761,355 833,355 833,692 761,692 761,355" />
+        <Baseline points="793,357 805,693" />
+        <TextEquiv>
+          <Unicode>寒日滌凍塗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262386" custom="structure {type:Commentary;}">
+        <Coords points="803,686 858,686 858,956 803,956 803,686" />
+        <Baseline points="823,689 835,957" />
+        <TextEquiv>
+          <Unicode>傅子駿曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262387" custom="structure {type:Commentary;}">
+        <Coords points="755,681 807,683 812,969 763,962 755,681" />
+        <Baseline points="781,685 805,965" />
+        <TextEquiv>
+          <Unicode>滌一作條</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262388" custom="structure {type:text;}">
+        <Coords points="670,424 755,424 755,755 670,755 670,424" />
+        <Baseline points="713,427 729,755" />
+        <TextEquiv>
+          <Unicode>滌也者變也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262390" custom="structure {type:Commentary;}">
+        <Coords points="718,759 768,759 770,1086 716,1088 718,759" />
+        <Baseline points="741,761 753,1089" />
+        <TextEquiv>
+          <Unicode>經筍堂校本</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262391" custom="structure {type:Commentary;}">
+        <Coords points="668,754 723,754 723,1012 668,1012 668,754" />
+        <Baseline points="697,755 703,1013" />
+        <TextEquiv>
+          <Unicode>無此二字</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262392" custom="structure {type:text;}">
+        <Coords points="691,1083 769,1083 769,1494 691,1494 691,1083" />
+        <Baseline points="725,1085 737,1495" />
+        <TextEquiv>
+          <Unicode>變而煗也凍塗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262393" custom="structure {type:text;}">
+        <Coords points="583,430 664,430 664,1023 583,1023 583,430" />
+        <Baseline points="619,432 633,1024" />
+        <TextEquiv>
+          <Unicode>也者凍下而澤上多也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262394" custom="structure {type:Commentary;}">
+        <Coords points="632,1021 695,1022 695,1483 640,1482 632,1021" />
+        <Baseline points="655,1024 669,1484" />
+        <TextEquiv>
+          <Unicode>滌煗風也歲華書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262395" custom="structure {type:Commentary;}">
+        <Coords points="578,1025 634,1019 643,1490 578,1489 578,1025" />
+        <Baseline points="609,1020 621,1490" />
+        <TextEquiv>
+          <Unicode>風維滌滌立春條</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262396" custom="structure {type:Commentary;}">
+        <Coords points="525,430 581,430 581,769 535,769 525,430" />
+        <Baseline points="555,432 557,770" />
+        <TextEquiv>
+          <Unicode>風至凍土解</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262397" custom="structure {type:Commentary;}">
+        <Coords points="482,439 528,439 537,765 494,772 482,439" />
+        <Baseline points="515,446 523,766" />
+        <TextEquiv>
+          <Unicode>化為塗泥也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262398" custom="structure {type:Title;}">
+        <Coords points="406,373 468,373 468,569 406,569 406,373" />
+        <Baseline points="439,374 439,570" />
+        <TextEquiv>
+          <Unicode>田鼠出</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262399" custom="structure {type:text;}">
+        <Coords points="312,424 389,424 389,1059 312,1059 312,424" />
+        <Baseline points="351,426 359,1060" />
+        <TextEquiv>
+          <Unicode>田鼠者鼸鼠也記時也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262400" custom="structure {type:Title;}">
+        <Coords points="222,377 287,377 287,659 222,659 222,377" />
+        <Baseline points="259,378 263,660" />
+        <TextEquiv>
+          <Unicode>農率均田</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262401" custom="structure {type:text;}">
+        <Coords points="129,436 221,436 221,1501 129,1501 129,436" />
+        <Baseline points="169,438 191,1502" />
+        <TextEquiv>
+          <Unicode>率者循也均田者始除田也言農夫急除</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>故大之也TEXT
+南風長養萬物
+故舜歌以之
+寒日滌凍塗
+傅子駿曰
+滌一作條
+滌也者變也TEXT
+經筍堂校本
+無此二字
+變而煗也凍塗TEXT
+也者凍下而澤上多也TEXT
+滌煗風也歲華書
+風維滌滌立春條
+風至凍土解
+化為塗泥也
+田鼠出
+田鼠者鼸鼠也記時也TEXT
+農率均田
+率者循也均田者始除田也言農夫急除TEXT
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140665" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="69,383 127,383 153,1497 85,1497 69,383" />
+      <TextLine id="1262402" custom="structure {type:Title;}">
+        <Coords points="35,387 105,387 105,579 35,579 35,387" />
+        <Baseline points="87,580 89,390" />
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262403" custom="structure {type:Title;}">
+        <Coords points="44,703 127,703 127,844 44,844 44,703" />
+        <Baseline points="99,706 103,844" />
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262404" custom="structure {type:Page_Number;}">
+        <Coords points="40,1113 119,1113 119,1190 40,1190 40,1113" />
+        <Baseline points="99,1116 103,1190" />
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+卷一
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

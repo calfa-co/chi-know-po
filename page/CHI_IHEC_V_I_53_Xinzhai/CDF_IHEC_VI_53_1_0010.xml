@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-04-16T10:37:52+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0010.jpg" imageHeight="1684" imageWidth="2001">
+    <TextRegion id="140604" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1871,1487 1871,363 1911,363 1911,1487 1871,1487" />
+      <TextLine id="1261968" custom="structure {type:Title;}">
+        <Coords points="1869,356 1935,356 1935,576 1869,576 1869,356" />
+        <Baseline points="1891,357 1891,577" />
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261969" custom="structure {type:Page_Number;}">
+        <Coords points="1871,1086 1952,1086 1952,1136 1871,1136 1871,1086" />
+        <Baseline points="1897,1087 1897,1137" />
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140605" custom="structure {type:MainText_Right;}">
+      <Coords points="1039,1475 1039,363 1871,363 1871,1475 1039,1475" />
+      <TextLine id="1261970" custom="structure {type:Text;}">
+        <Coords points="1766,362 1848,362 1848,1490 1766,1490 1766,362" />
+        <Baseline points="1805,364 1813,1491" />
+        <TextEquiv>
+          <Unicode>孔子首以夏時為顏子告因天之道乘事之</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261971" custom="structure {type:Text;}">
+        <Coords points="1679,349 1754,349 1754,1484 1679,1484 1679,349" />
+        <Baseline points="1725,351 1727,1485" />
+        <TextEquiv>
+          <Unicode>宜綦重矣哉此書既行尤願盡出全注以迪</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261972" custom="structure {type:Text;}">
+        <Coords points="1592,356 1662,356 1662,505 1592,505 1592,356" />
+        <Baseline points="1631,359 1639,505" />
+        <TextEquiv>
+          <Unicode>來者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261973" custom="structure {type:Text;}">
+        <Coords points="1494,349 1581,349 1581,1478 1494,1478 1494,349" />
+        <Baseline points="1531,351 1551,1479" />
+        <TextEquiv>
+          <Unicode>乾隆歲在柔兆敦牂相月閏朔日迃囪學人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261974" custom="structure {type:Title;}">
+        <Coords points="1405,422 1479,422 1479,700 1405,700 1405,422" />
+        <Baseline points="1443,424 1458,699" />
+        <TextEquiv>
+          <Unicode>張肁芉敍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>孔子首以夏時為顏子告因天之道乘事之
+宜綦重矣哉此書既行尤願盡出全注以迪
+來者
+乾隆歲在柔兆敦牂相月閏朔日迃囪學人
+張肁芉敍
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140606" custom="structure {type:MainText_Left;}">
+      <Coords points="119,1489 119,381 945,381 945,1489 119,1489" />
+      <TextLine id="1261975" custom="structure {type:Title;}">
+        <Coords points="852,373 930,373 930,765 852,765 852,373" />
+        <Baseline points="895,374 895,766" />
+        <TextEquiv>
+          <Unicode>夏小正卷弟一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261976" custom="structure {type:Commentary;}">
+        <Coords points="894,1293 957,1293 957,1505 894,1505 894,1293" />
+        <Baseline points="927,1294 927,1506" />
+        <TextEquiv>
+          <Unicode>禮大戴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261977" custom="structure {type:Commentary;}">
+        <Coords points="837,1292 900,1292 900,1427 837,1427 837,1292" />
+        <Baseline points="879,1294 881,1428" />
+        <TextEquiv>
+          <Unicode>記一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261978" custom="structure {type:Author_name;}">
+        <Coords points="764,814 845,814 845,1391 764,1391 764,814" />
+        <Baseline points="803,816 815,1392" />
+        <TextEquiv>
+          <Unicode>震澤任兆麟文田註</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261979" custom="structure {type:Title;}">
+        <Coords points="676,371 742,371 742,473 676,473 676,371" />
+        <Baseline points="713,372 713,474" />
+        <TextEquiv>
+          <Unicode>春</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261980" custom="structure {type:Title;}">
+        <Coords points="588,383 650,383 650,535 588,535 588,383" />
+        <Baseline points="613,384 613,536" />
+        <TextEquiv>
+          <Unicode>正月</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261981" custom="structure {type:Title;}">
+        <Coords points="490,392 562,392 562,530 490,530 490,392" />
+        <Baseline points="517,396 525,530" />
+        <TextEquiv>
+          <Unicode>啟蟄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261982" custom="structure {type:Text;}">
+        <Coords points="400,440 476,440 476,785 400,785 400,440" />
+        <Baseline points="435,442 443,786" />
+        <TextEquiv>
+          <Unicode>言始發蟄也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261983" custom="structure {type:Commentary;}">
+        <Coords points="437,770 502,770 502,1245 437,1245 437,770" />
+        <Baseline points="471,772 473,1246" />
+        <TextEquiv>
+          <Unicode>蟄說文藏也莊子</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261984" custom="structure {type:Commentary;}">
+        <Coords points="380,772 447,772 447,1239 380,1239 380,772" />
+        <Baseline points="421,774 427,1240" />
+        <TextEquiv>
+          <Unicode>蟄蟲始作郭音執</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261985" custom="structure {type:Title;}">
+        <Coords points="304,381 380,381 380,584 304,584 304,381" />
+        <Baseline points="335,386 351,582" />
+        <TextEquiv>
+          <Unicode>雁北鄉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261986" custom="structure {type:Commentary;}">
+        <Coords points="340,584 401,584 401,731 340,731 340,584" />
+        <Baseline points="375,586 379,732" />
+        <TextEquiv>
+          <Unicode>鄉許</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261987" custom="structure {type:Commentary;}">
+        <Coords points="299,571 349,571 349,718 299,718 299,571" />
+        <Baseline points="327,574 335,718" />
+        <TextEquiv>
+          <Unicode>亮切</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261988" custom="structure {type:Text;}">
+        <Coords points="221,436 300,436 300,1493 221,1493 221,436" />
+        <Baseline points="263,438 273,1494" />
+        <TextEquiv>
+          <Unicode>先言雁而後言鄉者何也見雁而後數其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261989" custom="structure {type:Text;}">
+        <Coords points="128,444 206,444 206,1495 128,1495 128,444" />
+        <Baseline points="169,446 179,1496" />
+        <TextEquiv>
+          <Unicode>鄉也鄉者何也鄉其居也雁以北方為居</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正卷弟一
+禮大戴
+記一
+震澤任兆麟文田註
+春
+正月
+啟蟄
+言始發蟄也
+蟄說文藏也莊子
+蟄蟲始作郭音執
+雁北鄉
+鄉許
+亮切
+先言雁而後言鄉者何也見雁而後數其
+鄉也鄉者何也鄉其居也雁以北方為居
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140607" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="57,1495 57,381 115,381 115,1495 57,1495" />
+      <TextLine id="1261990" custom="structure {type:Title;}">
+        <Coords points="34,370 106,370 106,583 34,583 34,370" />
+        <Baseline points="81,372 87,584" />
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261991" custom="structure {type:Title;}">
+        <Coords points="40,711 123,711 123,838 40,838 40,711" />
+        <Baseline points="93,714 97,838" />
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261992" custom="structure {type:Page_Number;}">
+        <Coords points="31,1113 107,1113 107,1169 31,1169 31,1113" />
+        <Baseline points="83,1114 83,1170" />
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+卷一
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

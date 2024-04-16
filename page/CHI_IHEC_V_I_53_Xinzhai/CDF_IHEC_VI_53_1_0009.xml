@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-04-16T10:37:52+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0009.jpg" imageHeight="1684" imageWidth="2001">
+    <TextRegion id="140600" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1858,1502 1877,355 1925,355 1928,1502 1858,1502" />
+      <TextLine id="1261947" custom="structure {type:Title;}">
+        <Coords points="1874,349 1934,349 1934,574 1874,574 1874,349" />
+        <Baseline points="1901,351 1905,575" />
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1275382" custom="structure {type:Page_Number;}">
+        <Coords points="1876,1120 1928,1120 1937,1234 1876,1240 1876,1120" />
+        <Baseline points="1898,1139 1898,1226" />
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140601" custom="structure {type:MainText_Right;}">
+      <Coords points="1047,1485 1047,361 1855,361 1855,1485 1047,1485" />
+      <TextLine id="1261948" custom="structure {type:Text;}">
+        <Coords points="1763,342 1846,342 1846,1498 1763,1498 1763,342" />
+        <Baseline points="1809,343 1809,1499" />
+        <TextEquiv>
+          <Unicode>參以已意而為之注數千年之霾藴不明者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261949" custom="structure {type:Text;}">
+        <Coords points="1675,350 1749,350 1749,1493 1675,1493 1675,350" />
+        <Baseline points="1717,351 1720,1494" />
+        <TextEquiv>
+          <Unicode>一旦軒露攷古之功可謂精且博矣太史公</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261950" custom="structure {type:Text;}">
+        <Coords points="1583,350 1659,350 1659,1489 1583,1489 1583,350" />
+        <Baseline points="1625,352 1628,1490" />
+        <TextEquiv>
+          <Unicode>曰孔子正夏時學者多傅夏小正云益敬授</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261951" custom="structure {type:Text;}">
+        <Coords points="1493,350 1567,350 1567,1497 1493,1497 1493,350" />
+        <Baseline points="1531,352 1538,1498" />
+        <TextEquiv>
+          <Unicode>民時聖人之所重也烏可不討論哉治小戴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261952" custom="structure {type:Text;}">
+        <Coords points="1402,353 1479,353 1479,1499 1402,1499 1402,353" />
+        <Baseline points="1443,354 1448,1500" />
+        <TextEquiv>
+          <Unicode>之學者漢有盧植孫炎而大戴無傳今䙷任</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261953" custom="structure {type:Text;}">
+        <Coords points="1312,363 1388,363 1388,1474 1312,1474 1312,363" />
+        <Baseline points="1347,365 1353,1475" />
+        <TextEquiv>
+          <Unicode>君大載有傳矣則任君之功不在盧植孫炎</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261954" custom="structure {type:Text;}">
+        <Coords points="1217,356 1296,356 1296,1486 1217,1486 1217,356" />
+        <Baseline points="1251,358 1255,1487" />
+        <TextEquiv>
+          <Unicode>下歲在柔兆敦牂之壯月那上江藩鄭堂氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>參以已意而為之注數千年之霾藴不明者
+一旦軒露攷古之功可謂精且博矣太史公
+曰孔子正夏時學者多傅夏小正云益敬授
+民時聖人之所重也烏可不討論哉治小戴
+之學者漢有盧植孫炎而大戴無傳今䙷任
+君大載有傳矣則任君之功不在盧植孫炎
+下歲在柔兆敦牂之壯月那上江藩鄭堂氏
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140602" custom="structure {type:MainText_Left;}">
+      <Coords points="138,1494 115,375 933,372 953,1487 138,1494" />
+      <TextLine id="1261955" custom="structure {type:Text;}">
+        <Coords points="847,366 936,366 936,1493 847,1493 847,366" />
+        <Baseline points="885,368 903,1494" />
+        <TextEquiv>
+          <Unicode>孔子曰吾說夏禮得夏時焉鄭氏注書之存</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261956" custom="structure {type:Text;}">
+        <Coords points="748,365 845,365 845,1500 748,1500 748,365" />
+        <Baseline points="785,368 821,1500" />
+        <TextEquiv>
+          <Unicode>者有小正今見大戴記宋山陰傳氏以此書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261957" custom="structure {type:Text;}">
+        <Coords points="671,364 756,364 756,1491 671,1491 671,364" />
+        <Baseline points="705,366 727,1492" />
+        <TextEquiv>
+          <Unicode>戴氏為之傳乃出正文列亏前而以傅附亏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261958" custom="structure {type:Text;}">
+        <Coords points="579,362 662,362 662,1497 579,1497 579,362" />
+        <Baseline points="619,364 637,1498" />
+        <TextEquiv>
+          <Unicode>後朱子从之以次禮經心齋任君當世通經</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261959" custom="structure {type:Text;}">
+        <Coords points="489,372 569,372 569,1497 489,1497 489,372" />
+        <Baseline points="525,374 539,1498" />
+        <TextEquiv>
+          <Unicode>碩儒也嘗依朱子與東萊呂氏論定三禮篇</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261960" custom="structure {type:Text;}">
+        <Coords points="396,366 481,366 481,1501 396,1501 396,366" />
+        <Baseline points="437,368 451,1502" />
+        <TextEquiv>
+          <Unicode>次注二戴氏記都存六十有七篇教授門徒</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261961" custom="structure {type:Text;}">
+        <Coords points="303,377 390,377 390,1499 303,1499 303,377" />
+        <Baseline points="337,378 359,1500" />
+        <TextEquiv>
+          <Unicode>又以此篇行本率多舛誤將先公諸世畀以</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261962" custom="structure {type:Text;}">
+        <Coords points="218,377 299,377 299,1499 218,1499 218,377" />
+        <Baseline points="255,378 265,1500" />
+        <TextEquiv>
+          <Unicode>質余余嘗謂經致用之本也學不本經猶樹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261963" custom="structure {type:Text;}">
+        <Coords points="120,372 214,372 214,1501 120,1501 120,372" />
+        <Baseline points="165,374 185,1502" />
+        <TextEquiv>
+          <Unicode>也弗培其根而欲求枝之敷也烏可得平昔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>孔子曰吾說夏禮得夏時焉鄭氏注書之存
+者有小正今見大戴記宋山陰傳氏以此書
+戴氏為之傳乃出正文列亏前而以傅附亏
+後朱子从之以次禮經心齋任君當世通經
+碩儒也嘗依朱子與東萊呂氏論定三禮篇
+次注二戴氏記都存六十有七篇教授門徒
+又以此篇行本率多舛誤將先公諸世畀以
+質余余嘗謂經致用之本也學不本經猶樹
+也弗培其根而欲求枝之敷也烏可得平昔
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140603" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="61,1501 61,373 129,373 129,1501 61,1501" />
+      <TextLine id="1261964" custom="structure {type:Title;}">
+        <Coords points="33,377 102,377 102,593 33,593 33,377" />
+        <Baseline points="85,594 87,378" />
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261965" custom="structure {type:Title;}">
+        <Coords points="36,711 116,711 116,785 36,785 36,711" />
+        <Baseline points="95,786 97,714" />
+        <TextEquiv>
+          <Unicode>敘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261966" custom="structure {type:Page_Number;}">
+        <Coords points="39,1100 115,1100 115,1152 39,1152 39,1100" />
+        <Baseline points="97,1102 99,1152" />
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261967" custom="structure {type:Title;}">
+        <Coords points="71,1208 131,1208 131,1509 71,1509 71,1208" />
+        <Baseline points="99,1210 105,1510" />
+        <TextEquiv>
+          <Unicode>忠敏家塾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+敘
+一
+忠敏家塾
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

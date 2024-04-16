@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-04-16T10:37:55+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0087.jpg" imageHeight="1704" imageWidth="2022">
+    <TextRegion id="140680" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1867,1491 1867,365 1923,365 1923,1491 1867,1491" />
+      <TextLine id="1262483" custom="structure {type:Title;}">
+        <Coords points="1866,358 1968,358 1968,650 1866,650 1866,358" />
+        <Baseline points="1897,361 1901,651" />
+        <TextEquiv>
+          <Unicode>四民月令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262484" custom="structure {type:Page_Number;}">
+        <Coords points="1859,1153 1960,1153 1960,1252 1859,1252 1859,1153" />
+        <Baseline points="1893,1161 1901,1251" />
+        <TextEquiv>
+          <Unicode>二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>四民月令
+二
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140681" custom="structure {type:MainText_Right;}">
+      <Coords points="1043,1493 1043,347 1859,347 1859,1493 1043,1493" />
+      <TextLine id="1262485" custom="structure {type:Text;}">
+        <Coords points="1776,347 1849,347 1849,1050 1776,1050 1776,347" />
+        <Baseline points="1809,349 1819,1051" />
+        <TextEquiv>
+          <Unicode>正月可種韭七月別種䪥</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262486" custom="structure {type:Text;}">
+        <Coords points="1683,350 1758,350 1758,1510 1683,1510 1683,350" />
+        <Baseline points="1721,352 1727,1511" />
+        <TextEquiv>
+          <Unicode>正月上辛日掃除韭葉中枯葉七月藏韭菁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262487" custom="structure {type:Commentary;}">
+        <Coords points="1629,346 1679,346 1679,502 1629,502 1629,346" />
+        <Baseline points="1661,347 1661,503" />
+        <TextEquiv>
+          <Unicode>菁韭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262488" custom="structure {type:Commentary;}">
+        <Coords points="1572,344 1640,344 1640,490 1572,490 1572,344" />
+        <Baseline points="1627,491 1631,347" />
+        <TextEquiv>
+          <Unicode>葩也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262489" custom="structure {type:Text;}">
+        <Coords points="1505,355 1580,355 1580,1496 1505,1496 1505,355" />
+        <Baseline points="1541,357 1547,1497" />
+        <TextEquiv>
+          <Unicode>正月自朔暨晦可移諸樹竹漆桐梓松柏雜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262490" custom="structure {type:Text;}">
+        <Coords points="1418,345 1485,345 1485,1504 1418,1504 1418,345" />
+        <Baseline points="1459,347 1461,1505" />
+        <TextEquiv>
+          <Unicode>木有果實者及望而止過十日則果少實</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262491" custom="structure {type:Text;}">
+        <Coords points="1325,346 1395,346 1395,1494 1325,1494 1325,346" />
+        <Baseline points="1355,348 1365,1495" />
+        <TextEquiv>
+          <Unicode>自正月以終季夏不可伐木必生蠹蟲或曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262492" custom="structure {type:Text;}">
+        <Coords points="1233,345 1303,345 1303,1506 1233,1506 1233,345" />
+        <Baseline points="1269,347 1273,1507" />
+        <TextEquiv>
+          <Unicode>其月無壬子日以上旬伐之雖春夏不蠹猶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262493" custom="structure {type:Text;}">
+        <Coords points="1139,341 1215,341 1215,1504 1139,1504 1139,341" />
+        <Baseline points="1179,343 1191,1505" />
+        <TextEquiv>
+          <Unicode>有剖析閒解之患非急無伐十一月伐竹木</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262494" custom="structure {type:Text;}">
+        <Coords points="1046,345 1123,345 1123,1498 1046,1498 1046,345" />
+        <Baseline points="1089,347 1097,1499" />
+        <TextEquiv>
+          <Unicode>正月盡二月可剝樹枝二月盡三月可掩樹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>正月可種韭七月別種䪥
+正月上辛日掃除韭葉中枯葉七月藏韭菁
+菁韭
+葩也
+正月自朔暨晦可移諸樹竹漆桐梓松柏雜
+木有果實者及望而止過十日則果少實
+自正月以終季夏不可伐木必生蠹蟲或曰
+其月無壬子日以上旬伐之雖春夏不蠹猶
+有剖析閒解之患非急無伐十一月伐竹木
+正月盡二月可剝樹枝二月盡三月可掩樹
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140682" custom="structure {type:MainText_Left;}">
+      <Coords points="147,1485 147,351 969,351 969,1485 147,1485" />
+      <TextLine id="1262495" custom="structure {type:Text;}">
+        <Coords points="876,338 974,338 974,406 876,406 876,338" />
+        <Baseline points="913,339 913,407" />
+        <TextEquiv>
+          <Unicode>枝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262496" custom="structure {type:Commentary;}">
+        <Coords points="906,411 985,411 985,950 906,950 906,411" />
+        <Baseline points="939,413 945,951" />
+        <TextEquiv>
+          <Unicode>埋樹枝上中令生二</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262497" custom="structure {type:Commentary;}">
+        <Coords points="854,409 920,409 920,882 854,882 854,409" />
+        <Baseline points="887,411 893,883" />
+        <TextEquiv>
+          <Unicode>歲以上可移種矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262498" custom="structure {type:Text;}">
+        <Coords points="789,336 857,336 857,762 789,762 789,336" />
+        <Baseline points="821,337 821,763" />
+        <TextEquiv>
+          <Unicode>染潢及治書法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262499" custom="structure {type:Text;}">
+        <Coords points="790,817 864,817 864,1486 790,1486 790,817" />
+        <Baseline points="829,819 835,1487" />
+        <TextEquiv>
+          <Unicode>凡打紙欲生則堅厚特宜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262500" custom="structure {type:Text;}">
+        <Coords points="695,341 775,341 775,1504 695,1504 695,341" />
+        <Baseline points="725,343 739,1505" />
+        <TextEquiv>
+          <Unicode>入潢凡潢紙滅白便是不宜太㴱㴱則年久</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262501" custom="structure {type:Text;}">
+        <Coords points="606,341 679,341 679,1494 606,1494 606,341" />
+        <Baseline points="645,343 653,1495" />
+        <TextEquiv>
+          <Unicode>色闇也入浸蘖熟即棄澤直用統汁費而無</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262502" custom="structure {type:Text;}">
+        <Coords points="518,348 588,348 588,1492 518,1492 518,348" />
+        <Baseline points="559,349 559,1493" />
+        <TextEquiv>
+          <Unicode>益蘖熟後漉滓擣而煮之布囊壓訖復檮煮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262503" custom="structure {type:Text;}">
+        <Coords points="426,349 498,349 498,1491 426,1491 426,349" />
+        <Baseline points="465,351 471,1491" />
+        <TextEquiv>
+          <Unicode>之三擣二煮添和純汁者省功倍又彌明淨</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262504" custom="structure {type:Text;}">
+        <Coords points="336,333 410,333 410,1498 336,1498 336,333" />
+        <Baseline points="375,335 381,1499" />
+        <TextEquiv>
+          <Unicode>寫書經夏熟後入黃縫不綻解其新寫者須</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262505" custom="structure {type:Text;}">
+        <Coords points="246,345 323,345 323,1491 246,1491 246,345" />
+        <Baseline points="283,347 295,1491" />
+        <TextEquiv>
+          <Unicode>以熨斗縫熨而潢之不爾入則零落豆黃大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262506" custom="structure {type:Text;}">
+        <Coords points="151,355 233,355 233,1484 151,1484 151,355" />
+        <Baseline points="193,357 207,1485" />
+        <TextEquiv>
+          <Unicode>不宜裛則全不入潢矣凡開卷讀書卷頭首</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>枝
+埋樹枝上中令生二
+歲以上可移種矣
+染潢及治書法
+凡打紙欲生則堅厚特宜
+入潢凡潢紙滅白便是不宜太㴱㴱則年久
+色闇也入浸蘖熟即棄澤直用統汁費而無
+益蘖熟後漉滓擣而煮之布囊壓訖復檮煮
+之三擣二煮添和純汁者省功倍又彌明淨
+寫書經夏熟後入黃縫不綻解其新寫者須
+以熨斗縫熨而潢之不爾入則零落豆黃大
+不宜裛則全不入潢矣凡開卷讀書卷頭首
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140683" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="81,1491 81,345 149,345 149,1491 81,1491" />
+      <TextLine id="1262507" custom="structure {type:Title;}">
+        <Coords points="59,351 131,351 131,624 59,624 59,351" />
+        <Baseline points="109,625 111,353" />
+        <TextEquiv>
+          <Unicode>四民月令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262508" custom="structure {type:Page_Number;}">
+        <Coords points="59,1126 133,1126 133,1244 59,1244 59,1126" />
+        <Baseline points="113,1127 113,1245" />
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>四民月令
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-04-16T10:37:54+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0013.jpg" imageHeight="1684" imageWidth="2001">
+    <TextRegion id="140667" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1843,379 1913,383 1899,1469 1855,1481 1843,379" />
+      <TextLine id="1262408" custom="structure {type:Title;}">
+        <Coords points="1857,372 1932,372 1932,562 1857,562 1857,372" />
+        <Baseline points="1891,373 1891,563" />
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262409" custom="structure {type:Page_Number;}">
+        <Coords points="1855,1091 1916,1091 1916,1176 1855,1176 1855,1091" />
+        <Baseline points="1885,1177 1887,1093" />
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140668" custom="structure {type:MainText_Right;}">
+      <Coords points="1025,383 1845,383 1851,1489 1029,1487 1025,383" />
+      <TextLine id="1262410" custom="structure {type:text;}">
+        <Coords points="1767,441 1827,441 1827,586 1767,586 1767,441" />
+        <Baseline points="1799,443 1803,587" />
+        <TextEquiv>
+          <Unicode>田也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262411" custom="structure {type:Commentary;}">
+        <Coords points="1793,587 1845,587 1841,1484 1796,1486 1793,587" />
+        <Baseline points="1823,587 1829,1487" />
+        <TextEquiv>
+          <Unicode>均平也周官大司徒土均之灋均人</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262412" custom="structure {type:Commentary;}">
+        <Coords points="1749,583 1793,584 1797,1487 1749,1488 1749,583" />
+        <Baseline points="1777,577 1779,1495" />
+        <TextEquiv>
+          <Unicode>均地職是也又公旬鄭氏注旬均也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262413" custom="structure {type:Commentary;}">
+        <Coords points="1698,435 1752,435 1752,720 1698,720 1698,435" />
+        <Baseline points="1729,437 1737,721" />
+        <TextEquiv>
+          <Unicode>小爾雅旬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262414" custom="structure {type:Commentary;}">
+        <Coords points="1654,439 1710,439 1710,648 1654,648 1654,439" />
+        <Baseline points="1679,442 1687,649" />
+        <TextEquiv>
+          <Unicode>治之義</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262415" custom="structure {type:Title;}">
+        <Coords points="1580,380 1650,380 1650,574 1580,574 1580,380" />
+        <Baseline points="1621,381 1621,575" />
+        <TextEquiv>
+          <Unicode>獺獻魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262416" custom="structure {type:Commentary;}">
+        <Coords points="1617,574 1662,572 1659,975 1612,979 1617,574" />
+        <Baseline points="1637,977 1639,575" />
+        <TextEquiv>
+          <Unicode>戴記獻作祭傅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262417" custom="structure {type:Commentary;}">
+        <Coords points="1559,571 1618,571 1618,974 1559,974 1559,571" />
+        <Baseline points="1591,573 1593,975" />
+        <TextEquiv>
+          <Unicode>本作獺獸祭魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262418" custom="structure {type:text;}">
+        <Coords points="1485,427 1557,427 1557,1506 1485,1506 1485,427" />
+        <Baseline points="1527,429 1529,1507" />
+        <TextEquiv>
+          <Unicode>獺祭魚其必與之獻何也曰非其類也祭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262419" custom="structure {type:text;}">
+        <Coords points="1395,426 1465,426 1465,1494 1395,1494 1395,426" />
+        <Baseline points="1429,428 1435,1495" />
+        <TextEquiv>
+          <Unicode>也者得多也善其祭而後食之十月豺祭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262420" custom="structure {type:text;}">
+        <Coords points="1301,428 1378,428 1378,1486 1301,1486 1301,428" />
+        <Baseline points="1339,430 1345,1487" />
+        <TextEquiv>
+          <Unicode>獸謂之祭獺祭魚謂之獻何也豺祭其類</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262421" custom="structure {type:text;}">
+        <Coords points="1212,429 1285,429 1285,1166 1212,1166 1212,429" />
+        <Baseline points="1245,430 1257,1167" />
+        <TextEquiv>
+          <Unicode>獺祭非其類故謂之獻大之也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262422" custom="structure {type:Commentary;}">
+        <Coords points="1248,1166 1295,1163 1296,1491 1250,1489 1248,1166" />
+        <Baseline points="1277,1165 1279,1485" />
+        <TextEquiv>
+          <Unicode>獻傳本竝作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262423" custom="structure {type:Commentary;}">
+        <Coords points="1209,1166 1252,1165 1252,1491 1205,1494 1209,1166" />
+        <Baseline points="1221,1160 1231,1497" />
+        <TextEquiv>
+          <Unicode>獸○任釣臺</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262424" custom="structure {type:Commentary;}">
+        <Coords points="1156,434 1214,434 1214,1492 1156,1492 1156,434" />
+        <Baseline points="1193,435 1193,1493" />
+        <TextEquiv>
+          <Unicode>曰獺水狗時依木上祭將食魚而先殺魚</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262425" custom="structure {type:Commentary;}">
+        <Coords points="1117,433 1165,433 1162,1491 1116,1489 1117,433" />
+        <Baseline points="1141,435 1146,1496" />
+        <TextEquiv>
+          <Unicode>闤陳之㠯報始也獺祭圜象水豺祭方象</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262426" custom="structure {type:Commentary;}">
+        <Coords points="1068,428 1117,428 1117,522 1068,522 1068,428" />
+        <Baseline points="1095,429 1095,523" />
+        <TextEquiv>
+          <Unicode>金</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>田也TEXT
+均平也周官大司徒土均之灋均人
+均地職是也又公旬鄭氏注旬均也
+小爾雅旬
+治之義
+獺獻魚
+戴記獻作祭傅
+本作獺獸祭魚
+獺祭魚其必與之獻何也曰非其類也祭TEXT
+也者得多也善其祭而後食之十月豺祭TEXT
+獸謂之祭獺祭魚謂之獻何也豺祭其類TEXT
+獺祭非其類故謂之獻大之也TEXT
+獻傳本竝作
+獸○任釣臺
+曰獺水狗時依木上祭將食魚而先殺魚
+闤陳之㠯報始也獺祭圜象水豺祭方象
+金
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140669" custom="structure {type:MainText_Left;}">
+      <Coords points="129,383 949,367 959,1477 141,1489 129,383" />
+      <TextLine id="1262427" custom="structure {type:Title;}">
+        <Coords points="856,349 934,349 934,630 856,630 856,349" />
+        <Baseline points="891,351 897,631" />
+        <TextEquiv>
+          <Unicode>鷹則為鳩</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262428" custom="structure {type:text;}">
+        <Coords points="766,414 853,414 853,1486 766,1486 766,414" />
+        <Baseline points="803,417 825,1487" />
+        <TextEquiv>
+          <Unicode>鷹也者其殺之時也鳩也者非其殺之時</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262429" custom="structure {type:text;}">
+        <Coords points="681,417 763,417 763,1496 681,1496 681,417" />
+        <Baseline points="723,419 739,1497" />
+        <TextEquiv>
+          <Unicode>也善變而之仁也故其言之曰則盡其辭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262431" custom="structure {type:text;}">
+        <Coords points="590,429 671,429 671,1482 590,1482 590,429" />
+        <Baseline points="631,431 643,1483" />
+        <TextEquiv>
+          <Unicode>也鳩為鷹變而之不仁也故不盡其辭也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262433" custom="structure {type:Commentary;}">
+        <Coords points="534,431 582,433 594,1485 548,1488 534,431" />
+        <Baseline points="559,429 581,1487" />
+        <TextEquiv>
+          <Unicode>急就篇注鷹鷙鳥亦曰鶆鳩左傳爽鳩氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262434" custom="structure {type:Commentary;}">
+        <Coords points="492,429 535,429 549,1492 503,1489 492,429" />
+        <Baseline points="519,433 531,1493" />
+        <TextEquiv>
+          <Unicode>司寇是也舊說謂其喙正直不鷙擊感生</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262435" custom="structure {type:Commentary;}">
+        <Coords points="447,426 491,426 498,1298 452,1299 447,426" />
+        <Baseline points="475,429 477,1299" />
+        <TextEquiv>
+          <Unicode>气之盛也王伯厚曰鷹為鳩陰為</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262436" custom="structure {type:Commentary;}">
+        <Coords points="395,429 447,428 454,1230 409,1227 395,429" />
+        <Baseline points="423,431 433,1231" />
+        <TextEquiv>
+          <Unicode>陽所化爵為蛤陽為陰所化也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262437" custom="structure {type:Title;}">
+        <Coords points="315,373 394,373 394,960 315,960 315,373" />
+        <Baseline points="355,375 367,961" />
+        <TextEquiv>
+          <Unicode>農及雪澤初服亏公田</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262438" custom="structure {type:Commentary;}">
+        <Coords points="364,956 404,954 409,1488 368,1487 364,956" />
+        <Baseline points="383,957 393,1489" />
+        <TextEquiv>
+          <Unicode>澤釋通井田始黃帝</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262439" custom="structure {type:Commentary;}">
+        <Coords points="316,947 370,947 370,1488 316,1488 316,947" />
+        <Baseline points="349,949 355,1489" />
+        <TextEquiv>
+          <Unicode>故可井處皆有公田</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262440" custom="structure {type:text;}">
+        <Coords points="228,421 306,421 306,1494 228,1494 228,421" />
+        <Baseline points="263,423 283,1495" />
+        <TextEquiv>
+          <Unicode>言雪澤之無高下也古有公田云者古者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262441" custom="structure {type:text;}">
+        <Coords points="135,433 216,433 216,1098 135,1098 135,433" />
+        <Baseline points="179,435 183,1099" />
+        <TextEquiv>
+          <Unicode>先服公田而後服其田也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262442" custom="structure {type:Commentary;}">
+        <Coords points="184,1099 227,1097 233,1488 186,1488 184,1099" />
+        <Baseline points="205,1095 215,1489" />
+        <TextEquiv>
+          <Unicode>管子曰正月令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262443" custom="structure {type:Commentary;}">
+        <Coords points="133,1097 186,1096 189,1496 140,1494 133,1097" />
+        <Baseline points="157,1089 167,1497" />
+        <TextEquiv>
+          <Unicode>農始作服亏公</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>鷹則為鳩
+鷹也者其殺之時也鳩也者非其殺之時TEXT
+也善變而之仁也故其言之曰則盡其辭TEXT
+也鳩為鷹變而之不仁也故不盡其辭也TEXT
+急就篇注鷹鷙鳥亦曰鶆鳩左傳爽鳩氏
+司寇是也舊說謂其喙正直不鷙擊感生
+气之盛也王伯厚曰鷹為鳩陰為
+陽所化爵為蛤陽為陰所化也
+農及雪澤初服亏公田
+澤釋通井田始黃帝
+故可井處皆有公田
+言雪澤之無高下也古有公田云者古者TEXT
+先服公田而後服其田也TEXT
+管子曰正月令
+農始作服亏公
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140670" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="65,381 131,381 143,1489 75,1495 65,381" />
+      <TextLine id="1262444" custom="structure {type:Title;}">
+        <Coords points="32,375 106,375 106,586 32,586 32,375" />
+        <Baseline points="83,377 87,587" />
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262445" custom="structure {type:Title;}">
+        <Coords points="34,710 127,710 127,818 34,818 34,710" />
+        <Baseline points="99,711 99,819" />
+        <TextEquiv>
+          <Unicode>卷一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262446" custom="structure {type:Page_Number;}">
+        <Coords points="39,1098 119,1098 119,1166 39,1166 39,1098" />
+        <Baseline points="95,1099 95,1167" />
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+卷一
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

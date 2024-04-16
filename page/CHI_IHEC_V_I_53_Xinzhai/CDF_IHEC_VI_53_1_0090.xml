@@ -1,0 +1,465 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-04-16T10:37:58+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0090.jpg" imageHeight="1704" imageWidth="2022">
+    <TextRegion id="140692" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1869,1495 1869,349 1925,349 1925,1495 1869,1495" />
+      <TextLine id="1262576" custom="structure {type:Title;}">
+        <Coords points="1871,334 1974,334 1974,639 1871,639 1871,334" />
+        <Baseline points="1893,337 1899,639" />
+        <TextEquiv>
+          <Unicode>四民月令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262577" custom="structure {type:Page_Number;}">
+        <Coords points="1860,1139 1959,1139 1959,1244 1860,1244 1860,1139" />
+        <Baseline points="1893,1147 1901,1243" />
+        <TextEquiv>
+          <Unicode>五</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>四民月令
+五
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140693" custom="structure {type:MainText_Right;}">
+      <Coords points="1049,1495 1049,353 1867,353 1867,1495 1049,1495" />
+      <TextLine id="1262580" custom="structure {type:Text;}">
+        <Coords points="1789,347 1861,347 1861,1484 1789,1484 1789,347" />
+        <Baseline points="1825,349 1829,1485" />
+        <TextEquiv>
+          <Unicode>時四月時雨降可種大小豆美田欲稀薄田</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262581" custom="structure {type:Text;}">
+        <Coords points="1698,346 1769,346 1769,536 1698,536 1698,346" />
+        <Baseline points="1737,347 1737,537" />
+        <TextEquiv>
+          <Unicode>欲稠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262582" custom="structure {type:Text;}">
+        <Coords points="1610,349 1681,349 1681,1090 1610,1090 1610,349" />
+        <Baseline points="1643,351 1647,1091" />
+        <TextEquiv>
+          <Unicode>二月三月可種苴麻之有藍</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262583" custom="structure {type:Commentary;}">
+        <Coords points="1643,1077 1712,1077 1712,1422 1643,1422 1643,1077" />
+        <Baseline points="1675,1079 1683,1423" />
+        <TextEquiv>
+          <Unicode>齊民要術作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262584" custom="structure {type:Commentary;}">
+        <Coords points="1589,1074 1655,1074 1655,1418 1589,1418 1589,1074" />
+        <Baseline points="1619,1077 1631,1419" />
+        <TextEquiv>
+          <Unicode>藴誤一作實</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262585" custom="structure {type:Text;}">
+        <Coords points="1615,1412 1681,1412 1681,1495 1615,1495 1615,1412" />
+        <Baseline points="1649,1415 1653,1495" />
+        <TextEquiv>
+          <Unicode>者</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262586" custom="structure {type:Text;}">
+        <Coords points="1506,341 1586,341 1586,830 1506,830 1506,341" />
+        <Baseline points="1551,343 1567,831" />
+        <TextEquiv>
+          <Unicode>苴麻是也一名黂</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262587" custom="structure {type:Commentary;}">
+        <Coords points="1551,827 1612,827 1612,1352 1551,1352 1551,827" />
+        <Baseline points="1577,829 1585,1353" />
+        <TextEquiv>
+          <Unicode>吳普曰麻藍一名麻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262588" custom="structure {type:Commentary;}">
+        <Coords points="1509,822 1561,822 1561,1356 1509,1356 1509,822" />
+        <Baseline points="1539,823 1539,1357" />
+        <TextEquiv>
+          <Unicode>蕡李時珍曰是實也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262589" custom="structure {type:Text;}">
+        <Coords points="1427,335 1500,335 1500,1358 1427,1358 1427,335" />
+        <Baseline points="1467,337 1475,1359" />
+        <TextEquiv>
+          <Unicode>二月三月四月五月時雨降可種胡麻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262590" custom="structure {type:Commentary;}">
+        <Coords points="1467,1358 1530,1358 1530,1505 1467,1505 1467,1358" />
+        <Baseline points="1493,1361 1505,1505" />
+        <TextEquiv>
+          <Unicode>本草</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262591" custom="structure {type:Commentary;}">
+        <Coords points="1415,1348 1479,1348 1479,1505 1415,1505 1415,1348" />
+        <Baseline points="1453,1349 1457,1505" />
+        <TextEquiv>
+          <Unicode>胡麻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262592" custom="structure {type:Commentary;}">
+        <Coords points="1366,345 1421,345 1421,628 1366,628 1366,345" />
+        <Baseline points="1395,347 1401,629" />
+        <TextEquiv>
+          <Unicode>須夫婦同</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262593" custom="structure {type:Commentary;}">
+        <Coords points="1319,347 1379,347 1379,616 1319,616 1319,347" />
+        <Baseline points="1353,349 1359,617" />
+        <TextEquiv>
+          <Unicode>種則茂盛</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262594" custom="structure {type:Text;}">
+        <Coords points="1241,349 1324,349 1324,1496 1241,1496 1241,349" />
+        <Baseline points="1283,351 1295,1497" />
+        <TextEquiv>
+          <Unicode>二月別小葱六月別大葱七月可種大小葱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262595" custom="structure {type:Commentary;}">
+        <Coords points="1184,343 1241,343 1241,642 1184,642 1184,343" />
+        <Baseline points="1215,345 1219,643" />
+        <TextEquiv>
+          <Unicode>夏蔥曰小</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262596" custom="structure {type:Commentary;}">
+        <Coords points="1130,347 1192,347 1192,650 1130,650 1130,347" />
+        <Baseline points="1163,349 1167,651" />
+        <TextEquiv>
+          <Unicode>冬蔥曰大</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262597" custom="structure {type:Text;}">
+        <Coords points="1061,341 1139,341 1139,1236 1061,1236 1061,341" />
+        <Baseline points="1101,343 1111,1237" />
+        <TextEquiv>
+          <Unicode>二月榆莢成及青收乾以為旨蓄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262598" custom="structure {type:Commentary;}">
+        <Coords points="1102,1227 1163,1227 1163,1504 1102,1504 1102,1227" />
+        <Baseline points="1129,1229 1133,1505" />
+        <TextEquiv>
+          <Unicode>旨美也蓄</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262599" custom="structure {type:Commentary;}">
+        <Coords points="1054,1224 1114,1224 1114,1498 1054,1498 1054,1224" />
+        <Baseline points="1085,1225 1089,1499" />
+        <TextEquiv>
+          <Unicode>積也司部</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>時四月時雨降可種大小豆美田欲稀薄田
+欲稠
+二月三月可種苴麻之有藍
+齊民要術作
+藴誤一作實
+者
+苴麻是也一名黂
+吳普曰麻藍一名麻
+蕡李時珍曰是實也
+二月三月四月五月時雨降可種胡麻
+本草
+胡麻
+須夫婦同
+種則茂盛
+二月別小葱六月別大葱七月可種大小葱
+夏蔥曰小
+冬蔥曰大
+二月榆莢成及青收乾以為旨蓄
+旨美也蓄
+積也司部
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140694" custom="structure {type:MainText_Left;}">
+      <Coords points="153,1503 153,357 977,357 977,1503 153,1503" />
+      <TextLine id="1262600" custom="structure {type:Commentary;}">
+        <Coords points="908,346 984,346 984,1280 908,1280 908,346" />
+        <Baseline points="937,347 947,1281" />
+        <TextEquiv>
+          <Unicode>收青小蒸曝之至冬以釀酒滑香宜</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262601" custom="structure {type:Commentary;}">
+        <Coords points="858,347 926,347 926,1224 858,1224 858,347" />
+        <Baseline points="897,349 907,1225" />
+        <TextEquiv>
+          <Unicode>養老詩云我有旨蓄亦以御冬也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262602" custom="structure {type:Text;}">
+        <Coords points="890,1279 954,1279 954,1502 890,1502 890,1279" />
+        <Baseline points="925,1281 933,1503" />
+        <TextEquiv>
+          <Unicode>色變白</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262603" custom="structure {type:Text;}">
+        <Coords points="788,343 858,343 858,690 788,690 788,343" />
+        <Baseline points="827,345 835,691" />
+        <TextEquiv>
+          <Unicode>將落可倫𨡭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262604" custom="structure {type:Commentary;}">
+        <Coords points="821,684 875,684 875,750 821,750 821,684" />
+        <Baseline points="853,685 853,751" />
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262605" custom="structure {type:Commentary;}">
+        <Coords points="770,680 828,680 828,748 770,748 770,680" />
+        <Baseline points="809,681 809,749" />
+        <TextEquiv>
+          <Unicode>牟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262606" custom="structure {type:Text;}">
+        <Coords points="790,746 860,746 860,830 790,830 790,746" />
+        <Baseline points="827,749 833,829" />
+        <TextEquiv>
+          <Unicode>䤅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262607" custom="structure {type:Commentary;}">
+        <Coords points="827,820 872,820 872,892 827,892 827,820" />
+        <Baseline points="849,823 855,893" />
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262608" custom="structure {type:Commentary;}">
+        <Coords points="771,822 835,822 835,886 771,886 771,822" />
+        <Baseline points="805,823 805,887" />
+        <TextEquiv>
+          <Unicode>頭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262609" custom="structure {type:Text;}">
+        <Coords points="797,886 864,886 864,1406 797,1406 797,886" />
+        <Baseline points="835,887 835,1407" />
+        <TextEquiv>
+          <Unicode>隨節蚤晏勿失其適</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262610" custom="structure {type:Commentary;}">
+        <Coords points="829,1418 874,1418 874,1508 829,1508 829,1418" />
+        <Baseline points="855,1419 855,1509" />
+        <TextEquiv>
+          <Unicode>𨡭</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262611" custom="structure {type:Commentary;}">
+        <Coords points="774,1430 839,1430 839,1498 774,1498 774,1430" />
+        <Baseline points="819,1431 819,1499" />
+        <TextEquiv>
+          <Unicode>䤅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262612" custom="structure {type:Commentary;}">
+        <Coords points="730,348 789,348 789,428 730,428 730,348" />
+        <Baseline points="759,351 763,429" />
+        <TextEquiv>
+          <Unicode>榆</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262613" custom="structure {type:Commentary;}">
+        <Coords points="679,347 736,347 736,440 679,440 679,347" />
+        <Baseline points="711,441 713,349" />
+        <TextEquiv>
+          <Unicode>醬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262614" custom="structure {type:Text;}">
+        <Coords points="610,356 675,356 675,418 610,418 610,356" />
+        <Baseline points="653,357 653,419" />
+        <TextEquiv>
+          <Unicode>漱</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262615" custom="structure {type:Commentary;}">
+        <Coords points="638,414 703,414 703,536 638,536 638,414" />
+        <Baseline points="671,415 671,537" />
+        <TextEquiv>
+          <Unicode>素鉤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262616" custom="structure {type:Commentary;}">
+        <Coords points="589,408 648,408 648,490 589,490 589,408" />
+        <Baseline points="621,491 625,411" />
+        <TextEquiv>
+          <Unicode>翻</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262617" custom="structure {type:Text;}">
+        <Coords points="611,543 678,543 678,826 611,826 611,543" />
+        <Baseline points="645,545 647,827" />
+        <TextEquiv>
+          <Unicode>生衣絹法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262618" custom="structure {type:Text;}">
+        <Coords points="613,878 682,878 682,1506 613,1506 613,878" />
+        <Baseline points="647,879 647,1507" />
+        <TextEquiv>
+          <Unicode>以水浸絹令浸一日數</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262619" custom="structure {type:Text;}">
+        <Coords points="520,355 590,355 590,1498 520,1498 520,355" />
+        <Baseline points="559,357 563,1499" />
+        <TextEquiv>
+          <Unicode>度回轉之六七日水微煮然後拍出柔韌潔</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262620" custom="structure {type:Text;}">
+        <Coords points="429,349 496,349 496,704 429,704 429,349" />
+        <Baseline points="469,351 471,705" />
+        <TextEquiv>
+          <Unicode>白大勝用灰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262621" custom="structure {type:Text;}">
+        <Coords points="342,344 410,344 410,692 342,692 342,344" />
+        <Baseline points="375,345 375,693" />
+        <TextEquiv>
+          <Unicode>上犢車篷軬</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262622" custom="structure {type:Commentary;}">
+        <Coords points="369,692 441,692 441,1156 369,1156 369,692" />
+        <Baseline points="399,693 401,1157" />
+        <TextEquiv>
+          <Unicode>麟桉釋名軬籓也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262623" custom="structure {type:Commentary;}">
+        <Coords points="321,683 378,683 378,1096 321,1096 321,683" />
+        <Baseline points="359,685 361,1097" />
+        <TextEquiv>
+          <Unicode>蔽水雨也音飯</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262624" custom="structure {type:Text;}">
+        <Coords points="345,1148 418,1148 418,1496 345,1496 345,1148" />
+        <Baseline points="381,1149 381,1497" />
+        <TextEquiv>
+          <Unicode>及糊屏風書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262625" custom="structure {type:Text;}">
+        <Coords points="251,346 315,346 315,422 251,422 251,346" />
+        <Baseline points="287,347 287,423" />
+        <TextEquiv>
+          <Unicode>袞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262626" custom="structure {type:Commentary;}">
+        <Coords points="280,426 335,426 335,1150 280,1150 280,426" />
+        <Baseline points="307,427 311,1151" />
+        <TextEquiv>
+          <Unicode>麟桉袞與卷同禮王制鄭氏</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262627" custom="structure {type:Commentary;}">
+        <Coords points="226,417 293,417 293,1090 226,1090 226,417" />
+        <Baseline points="265,419 273,1091" />
+        <TextEquiv>
+          <Unicode>注卷俗讀也其通則名袞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262628" custom="structure {type:Text;}">
+        <Coords points="259,1138 323,1138 323,1506 259,1506 259,1138" />
+        <Baseline points="293,1139 293,1507" />
+        <TextEquiv>
+          <Unicode>令不出蟲法</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262629" custom="structure {type:Text;}">
+        <Coords points="158,411 236,411 236,1510 158,1510 158,411" />
+        <Baseline points="193,413 205,1511" />
+        <TextEquiv>
+          <Unicode>水浸石灰經一宿浥取汁以和豆黏紙寫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>收青小蒸曝之至冬以釀酒滑香宜
+養老詩云我有旨蓄亦以御冬也
+色變白
+將落可倫𨡭
+音
+牟
+䤅
+音
+頭
+隨節蚤晏勿失其適
+𨡭
+䤅
+榆
+醬
+漱
+素鉤
+翻
+生衣絹法
+以水浸絹令浸一日數
+度回轉之六七日水微煮然後拍出柔韌潔
+白大勝用灰
+上犢車篷軬
+麟桉釋名軬籓也
+蔽水雨也音飯
+及糊屏風書
+袞
+麟桉袞與卷同禮王制鄭氏
+注卷俗讀也其通則名袞
+令不出蟲法
+水浸石灰經一宿浥取汁以和豆黏紙寫
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140695" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="89,1499 89,357 153,357 153,1499 89,1499" />
+      <TextLine id="1262578" custom="structure {type:Title;}">
+        <Coords points="70,360 136,360 136,641 70,641 70,360" />
+        <Baseline points="105,363 119,641" />
+        <TextEquiv>
+          <Unicode>四民月令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262579" custom="structure {type:Page_Number;}">
+        <Coords points="79,1125 149,1125 149,1251 79,1251 79,1125" />
+        <Baseline points="129,1127 135,1251" />
+        <TextEquiv>
+          <Unicode>六</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>四民月令
+六
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

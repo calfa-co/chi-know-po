@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-04-16T10:37:51+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0008.jpg" imageHeight="1684" imageWidth="2001">
+    <TextRegion id="140596" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1880,1495 1871,341 1935,341 1944,1492 1880,1495" />
+      <TextLine id="1261920" custom="structure {type:Title;}">
+        <Coords points="1883,328 1959,328 1959,565 1883,565 1883,328" />
+        <Baseline points="1905,333 1917,565" />
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1275354" custom="structure {type:Page_Number;}">
+        <Coords points="1869,1014 1947,1011 1940,1172 1880,1179 1869,1014" />
+        <Baseline points="1901,1081 1903,1157" />
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+一
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140597" custom="structure {type:MainText_TableOfContents;}">
+      <Coords points="1043,1483 1043,335 1865,335 1865,1483 1043,1483" />
+      <TextLine id="1261921" custom="structure {type:Title;}">
+        <Coords points="1779,391 1853,391 1853,1492 1779,1492 1779,391" />
+        <Baseline points="1821,393 1823,1493" />
+        <TextEquiv>
+          <Unicode>史記曰孔子正夏時學者多傳夏小正云</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261922" custom="structure {type:Title;}">
+        <Coords points="1683,398 1758,398 1758,1494 1683,1494 1683,398" />
+        <Baseline points="1717,400 1729,1495" />
+        <TextEquiv>
+          <Unicode>大衍議曰夏小正雖頗疎簡乃羲和遺跡</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261923" custom="structure {type:Title;}">
+        <Coords points="1597,388 1668,388 1668,1489 1597,1489 1597,388" />
+        <Baseline points="1636,390 1644,1490" />
+        <TextEquiv>
+          <Unicode>傳子駿曰小正王政民事繫焉夏月令也</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261924" custom="structure {type:Title;}">
+        <Coords points="1509,392 1576,392 1576,1488 1509,1488 1509,392" />
+        <Baseline points="1548,394 1549,1489" />
+        <TextEquiv>
+          <Unicode>朱漢上曰小正具十二月而無中氣有候</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261925" custom="structure {type:Title;}">
+        <Coords points="1423,450 1489,450 1489,1436 1423,1436 1423,450" />
+        <Baseline points="1451,451 1451,1437" />
+        <TextEquiv>
+          <Unicode>應而無日數至時訓因小正加詳焉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261926" custom="structure {type:Title;}">
+        <Coords points="1328,388 1397,388 1397,1492 1328,1492 1328,388" />
+        <Baseline points="1369,389 1369,1493" />
+        <TextEquiv>
+          <Unicode>金仁山曰小正紀候之書謂之小固非其</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261927" custom="structure {type:Title;}">
+        <Coords points="1235,445 1305,445 1305,1494 1235,1494 1235,445" />
+        <Baseline points="1268,447 1273,1495" />
+        <TextEquiv>
+          <Unicode>大也觀單子述夏令時儆則當時必有</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261928" custom="structure {type:Title;}">
+        <Coords points="1145,444 1215,444 1215,1220 1145,1220 1145,444" />
+        <Baseline points="1173,446 1182,1221" />
+        <TextEquiv>
+          <Unicode>制度條教之詳不可得聞矣</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261929" custom="structure {type:Commentary;}">
+        <Coords points="1177,1211 1240,1211 1240,1484 1177,1484 1177,1211" />
+        <Baseline points="1207,1213 1215,1485" />
+        <TextEquiv>
+          <Unicode>熊與可曰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261930" custom="structure {type:Commentary;}">
+        <Coords points="1130,1202 1187,1202 1187,1474 1130,1474 1130,1202" />
+        <Baseline points="1157,1203 1159,1475" />
+        <TextEquiv>
+          <Unicode>朱子儀禮</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261931" custom="structure {type:Commentary;}">
+        <Coords points="1087,453 1148,453 1124,1303 1095,1308 1087,453" />
+        <Baseline points="1104,456 1111,1296" />
+        <TextEquiv>
+          <Unicode>集傳于夏小正削去戴記傳文</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261932" custom="structure {type:Commentary;}">
+        <Coords points="1048,454 1096,454 1090,1305 1041,1305 1048,454" />
+        <Baseline points="1073,1304 1075,455" />
+        <TextEquiv>
+          <Unicode>別附于後蓋以傳文不足深信</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>史記曰孔子正夏時學者多傳夏小正云TITLE
+大衍議曰夏小正雖頗疎簡乃羲和遺跡TITLE
+傳子駿曰小正王政民事繫焉夏月令也TITLE
+朱漢上曰小正具十二月而無中氣有候TITLE
+應而無日數至時訓因小正加詳焉TITLE
+金仁山曰小正紀候之書謂之小固非其TITLE
+大也觀單子述夏令時儆則當時必有TITLE
+制度條教之詳不可得聞矣TITLE
+熊與可曰
+朱子儀禮
+集傳于夏小正削去戴記傳文
+別附于後蓋以傳文不足深信
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140598" custom="structure {type:MainText_Left;}">
+      <Coords points="117,1495 117,373 949,373 949,1495 117,1495" />
+      <TextLine id="1261935" custom="structure {type:Title;}">
+        <Coords points="862,351 975,351 975,449 862,449 862,351" />
+        <Baseline points="903,357 909,449" />
+        <TextEquiv>
+          <Unicode>敘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261936" custom="structure {type:text;}">
+        <Coords points="768,351 843,351 843,1512 768,1512 768,351" />
+        <Baseline points="807,353 815,1513" />
+        <TextEquiv>
+          <Unicode>太傅禮三十九篇盧景宜為之注夏小正三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261937" custom="structure {type:text;}">
+        <Coords points="679,355 756,355 756,1510 679,1510 679,355" />
+        <Baseline points="717,357 725,1511" />
+        <TextEquiv>
+          <Unicode>十九篇之一也當時小正又別行于世故隋</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261938" custom="structure {type:text;}">
+        <Coords points="584,351 663,351 663,1506 584,1506 584,351" />
+        <Baseline points="625,353 637,1507" />
+        <TextEquiv>
+          <Unicode>書經籍志有夏小正一卷宋政和中山陰傅</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261939" custom="structure {type:text;}">
+        <Coords points="492,355 571,355 571,1498 492,1498 492,355" />
+        <Baseline points="529,357 541,1499" />
+        <TextEquiv>
+          <Unicode>崧卿从其外兄關澮得夏小正一卷不著作</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261940" custom="structure {type:text;}">
+        <Coords points="398,353 479,353 479,1506 398,1506 398,353" />
+        <Baseline points="437,355 451,1507" />
+        <TextEquiv>
+          <Unicode>傳人名氏崧卿从杜預春秋例先列正文後</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261941" custom="structure {type:text;}">
+        <Coords points="309,359 387,359 387,1512 309,1512 309,359" />
+        <Baseline points="349,361 357,1513" />
+        <TextEquiv>
+          <Unicode>附傳文月為一篇釐成四卷作傳名氏雖不</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261942" custom="structure {type:text;}">
+        <Coords points="219,355 294,355 294,1498 219,1498 219,355" />
+        <Baseline points="257,357 261,1499" />
+        <TextEquiv>
+          <Unicode>可攷肰相沿為太傅作而疑義衍闕讀者每</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261943" custom="structure {type:text;}">
+        <Coords points="122,362 207,362 207,1494 122,1494 122,362" />
+        <Baseline points="163,363 175,1495" />
+        <TextEquiv>
+          <Unicode>掩卷不能卒業太學任君心齋集先儒舊說</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>敘
+太傅禮三十九篇盧景宜為之注夏小正三TEXT
+十九篇之一也當時小正又別行于世故隋TEXT
+書經籍志有夏小正一卷宋政和中山陰傅TEXT
+崧卿从其外兄關澮得夏小正一卷不著作TEXT
+傳人名氏崧卿从杜預春秋例先列正文後TEXT
+附傳文月為一篇釐成四卷作傳名氏雖不TEXT
+可攷肰相沿為太傅作而疑義衍闕讀者每TEXT
+掩卷不能卒業太學任君心齋集先儒舊說TEXT
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140599" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="57,1497 57,369 119,369 119,1497 57,1497" />
+      <TextLine id="1261944" custom="structure {type:Title;}">
+        <Coords points="30,360 102,360 102,574 30,574 30,360" />
+        <Baseline points="75,362 83,574" />
+        <TextEquiv>
+          <Unicode>夏小正</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261945" custom="structure {type:Title;}">
+        <Coords points="32,710 116,710 116,789 32,789 32,710" />
+        <Baseline points="85,790 89,714" />
+        <TextEquiv>
+          <Unicode>鈘</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1275391" custom="structure {type:Page_Number;}">
+        <Coords points="62,1150 114,1146 111,1205 64,1207 62,1150" />
+        <Baseline points="91,1157 94,1216" />
+        <TextEquiv>
+          <Unicode>一</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1261946" custom="structure {type:Title;}">
+        <Coords points="52,1229 126,1221 123,1503 40,1503 52,1229" />
+        <Baseline points="95,1223 97,1504" />
+        <TextEquiv>
+          <Unicode>一忠敏家塾</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>夏小正
+鈘
+一
+一忠敏家塾
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

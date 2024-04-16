@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2024-04-16T10:37:56+00:00</Created>
+  </Metadata>
+  <Page imageFilename="CDF_IHEC_VI_53_1_0088.jpg" imageHeight="1704" imageWidth="2022">
+    <TextRegion id="140684" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="1847,343 1913,343 1911,1493 1867,1495 1847,343" />
+      <TextLine id="1262509" custom="structure {type:Title;}">
+        <Coords points="1859,332 1921,332 1921,624 1859,624 1859,332" />
+        <Baseline points="1887,333 1887,625" />
+        <TextEquiv>
+          <Unicode>四民月令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262510" custom="structure {type:Page_Number;}">
+        <Coords points="1866,1136 1960,1136 1960,1250 1866,1250 1866,1136" />
+        <Baseline points="1885,1137 1885,1251" />
+        <TextEquiv>
+          <Unicode>三</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>四民月令
+三
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140685" custom="structure {type:MainText_Right;}">
+      <Coords points="1031,361 1849,343 1867,1497 1049,1511 1031,361" />
+      <TextLine id="1262511" custom="structure {type:Text;}">
+        <Coords points="1756,335 1852,335 1852,1491 1756,1491 1756,335" />
+        <Baseline points="1793,337 1825,1491" />
+        <TextEquiv>
+          <Unicode>紙不宜急卷急則破折折則裂以書帶上下</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262512" custom="structure {type:Text;}">
+        <Coords points="1668,341 1758,341 1758,1491 1668,1491 1668,341" />
+        <Baseline points="1705,343 1739,1491" />
+        <TextEquiv>
+          <Unicode>絡首紙者無不裂壊卷一雨張後乃以書帶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262513" custom="structure {type:Text;}">
+        <Coords points="1580,347 1668,347 1668,1278 1580,1278 1580,347" />
+        <Baseline points="1619,349 1641,1279" />
+        <TextEquiv>
+          <Unicode>上下絡之者穩而不壊卷書勿用藠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262514" custom="structure {type:Commentary;}">
+        <Coords points="1632,1285 1685,1285 1685,1497 1632,1497 1632,1285" />
+        <Baseline points="1657,1287 1669,1497" />
+        <TextEquiv>
+          <Unicode>本草薤</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262515" custom="structure {type:Commentary;}">
+        <Coords points="1587,1297 1643,1297 1643,1492 1587,1492 1587,1297" />
+        <Baseline points="1617,1299 1621,1493" />
+        <TextEquiv>
+          <Unicode>一名藠</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262516" custom="structure {type:Commentary;}">
+        <Coords points="1520,344 1575,344 1575,414 1520,414 1520,344" />
+        <Baseline points="1547,345 1547,415" />
+        <TextEquiv>
+          <Unicode>音</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262517" custom="structure {type:Commentary;}">
+        <Coords points="1485,342 1524,342 1524,412 1485,412 1485,342" />
+        <Baseline points="1499,343 1499,413" />
+        <TextEquiv>
+          <Unicode>叫</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262518" custom="structure {type:Text;}">
+        <Coords points="1488,410 1583,410 1583,1487 1488,1487 1488,410" />
+        <Baseline points="1521,413 1563,1487" />
+        <TextEquiv>
+          <Unicode>帶而引之匪直常濕損卷又損首紙令穴</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262519" custom="structure {type:Text;}">
+        <Coords points="1397,345 1495,345 1495,1504 1397,1504 1397,345" />
+        <Baseline points="1435,347 1467,1505" />
+        <TextEquiv>
+          <Unicode>當御竹引之書帶勿太急則令書腰折騎驀</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262520" custom="structure {type:Text;}">
+        <Coords points="1312,343 1403,343 1403,1510 1312,1510 1312,343" />
+        <Baseline points="1349,345 1379,1511" />
+        <TextEquiv>
+          <Unicode>書上過者亦令書腰折書有錢裂酈方紙而</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262521" custom="structure {type:Text;}">
+        <Coords points="1216,341 1307,341 1307,1516 1216,1516 1216,341" />
+        <Baseline points="1257,343 1281,1517" />
+        <TextEquiv>
+          <Unicode>補者率皆攣瘢硬厚瘢痕十書有裂萍紙如</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262522" custom="structure {type:Text;}">
+        <Coords points="1125,345 1222,345 1222,1511 1125,1511 1125,345" />
+        <Baseline points="1163,347 1199,1511" />
+        <TextEquiv>
+          <Unicode>薤粟以補織微相入殆無際會目非向明舉</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262523" custom="structure {type:Text;}">
+        <Coords points="1040,347 1123,347 1123,1522 1040,1522 1040,347" />
+        <Baseline points="1075,349 1095,1523" />
+        <TextEquiv>
+          <Unicode>而看之略不卷補裂若出曲者還須于正紙</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>紙不宜急卷急則破折折則裂以書帶上下
+絡首紙者無不裂壊卷一雨張後乃以書帶
+上下絡之者穩而不壊卷書勿用藠
+本草薤
+一名藠
+音
+叫
+帶而引之匪直常濕損卷又損首紙令穴
+當御竹引之書帶勿太急則令書腰折騎驀
+書上過者亦令書腰折書有錢裂酈方紙而
+補者率皆攣瘢硬厚瘢痕十書有裂萍紙如
+薤粟以補織微相入殆無際會目非向明舉
+而看之略不卷補裂若出曲者還須于正紙
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140686" custom="structure {type:MainText_Left;}">
+      <Coords points="137,361 967,359 955,1509 139,1495 137,361" />
+      <TextLine id="1262524" custom="structure {type:Text;}">
+        <Coords points="868,347 947,347 947,1512 868,1512 868,347" />
+        <Baseline points="913,1513 923,349" />
+        <TextEquiv>
+          <Unicode>上逐屈曲形勢裂取而補之若不先正元理</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262525" custom="structure {type:Text;}">
+        <Coords points="779,355 857,355 857,1504 779,1504 779,355" />
+        <Baseline points="813,1505 821,357" />
+        <TextEquiv>
+          <Unicode>隨宜裂科紙者則令書卷縮凡點書記事多</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262526" custom="structure {type:Text;}">
+        <Coords points="684,350 768,350 768,1504 684,1504 684,350" />
+        <Baseline points="719,1505 735,351" />
+        <TextEquiv>
+          <Unicode>用緋縫繒體硬強費人齒力愈汚染書又多</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262527" custom="structure {type:Text;}">
+        <Coords points="594,345 673,345 673,1510 594,1510 594,345" />
+        <Baseline points="631,1511 641,347" />
+        <TextEquiv>
+          <Unicode>零落若用紅紙者匪直明淨無染又紙性相</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262528" custom="structure {type:Text;}">
+        <Coords points="514,346 582,346 582,706 514,706 514,346" />
+        <Baseline points="553,347 553,707" />
+        <TextEquiv>
+          <Unicode>親久而不落</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262529" custom="structure {type:Text;}">
+        <Coords points="422,346 491,346 491,1498 422,1498 422,346" />
+        <Baseline points="457,347 457,1499" />
+        <TextEquiv>
+          <Unicode>雌黃治書法王先于青硬石上水磨雌黃令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262530" custom="structure {type:Text;}">
+        <Coords points="327,343 407,343 407,1491 327,1491 327,343" />
+        <Baseline points="369,1491 377,345" />
+        <TextEquiv>
+          <Unicode>熟曝乾夏于磁碗中研令極熟曝乾又于磁</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262531" custom="structure {type:Text;}">
+        <Coords points="242,341 313,341 313,1492 242,1492 242,341" />
+        <Baseline points="285,1493 287,343" />
+        <TextEquiv>
+          <Unicode>碗中研令極熟曝乾極熟乃融膠清和于鐵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262532" custom="structure {type:Text;}">
+        <Coords points="147,337 222,337 222,1496 147,1496 147,337" />
+        <Baseline points="189,1497 195,339" />
+        <TextEquiv>
+          <Unicode>杵臼中熟擣丸如墨丸陰乾以水研而治書</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>上逐屈曲形勢裂取而補之若不先正元理
+隨宜裂科紙者則令書卷縮凡點書記事多
+用緋縫繒體硬強費人齒力愈汚染書又多
+零落若用紅紙者匪直明淨無染又紙性相
+親久而不落
+雌黃治書法王先于青硬石上水磨雌黃令
+熟曝乾夏于磁碗中研令極熟曝乾又于磁
+碗中研令極熟曝乾極熟乃融膠清和于鐵
+杵臼中熟擣丸如墨丸陰乾以水研而治書
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="140687" custom="structure {type:Marginalia_Metadata;}">
+      <Coords points="79,357 129,357 147,1503 87,1503 79,357" />
+      <TextLine id="1262533" custom="structure {type:Title;}">
+        <Coords points="58,346 134,346 134,652 58,652 58,346" />
+        <Baseline points="101,653 107,349" />
+        <TextEquiv>
+          <Unicode>四民月令</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1262534" custom="structure {type:Page_Number;}">
+        <Coords points="65,1138 130,1138 130,1244 65,1244 65,1138" />
+        <Baseline points="109,1139 109,1245" />
+        <TextEquiv>
+          <Unicode>四</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>四民月令
+四
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

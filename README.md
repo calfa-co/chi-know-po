@@ -3,7 +3,9 @@ HTR ground-truth of the CHI-KNOW-PO project.
 
 The CHI-KNOW-PO project aims to digitize a corpus of poetic anthologies, commentaries, dictionaries and encyclopedias from the Chinese medieval period (ca. 200-1000) and process them using HTR.
 
-[Official page of the project](https://www.collexpersee.eu/projet/chi-know-po-corpus/)
+[Official page of the htr project](https://www.collexpersee.eu/projet/chi-know-po-corpus/)
+
+[Documentation of the research project](https://chi-know-po.gitpages.huma-num.fr/)
 
 ## Dataset composition
 

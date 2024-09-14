@@ -59,4 +59,22 @@ TBD
 
 TBD
 
+## To cite this work
+
+```bibtex
+@InProceedings{10.1007/978-3-031-70642-4_3,
+author="Bizais-Lillig, Marie
+and Vidal-Gor{\`e}ne, Chahan
+and Dupin, Boris",
+editor="Mouch{\`e}re, Harold
+and Zhu, Anna",
+title="Optimizing HTR and Reading Order Strategies for Chinese Imperial Editions with Few-Shot Learning",
+booktitle="Document Analysis and Recognition -- ICDAR 2024 Workshops",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="37--56"
+}
+```
+
 ## Acknowledgments

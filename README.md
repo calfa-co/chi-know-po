@@ -7,17 +7,21 @@ The CHI-KNOW-PO project aims to digitize a corpus of poetic anthologies, comment
 
 [Documentation of the research project](https://chi-know-po.gitpages.huma-num.fr/)
 
+<figure>
+    <img src="assets/dataset.jpg"/>
+</figure>
+
 ## Dataset composition
 
-To date, dataset contains 306 images, for a total of:
+To date, dataset contains 327 images, for a total of:
 
-* 1.175 TextRegions
-* 12.198 TextLines
+* 1.248 TextRegions
+* 13.759 TextLines
 * 97.523 Glyphs
 
 ## Images
 
-TBD
+The dataset (images + XML) is available on [Zenodo](https://zenodo.org/records/14452717).
 
 ## Ground-truth specifications
 
@@ -53,11 +57,30 @@ Annotations have been made on the [Calfa Vision platform](https://vision.calfa.f
 
 ## Some results
 
-TBD
+For HTR, we have first train a generic model with all the data, using [Calfa Vision platform](https://vision.calfa.fr), then (re)fine-tuned this generic model with the targeted manuscript. On a new test set, we get the following results:
 
-## Further readings
+| **Manuscript**       | **N°** | **Accuracy**      |
+|-----------------------|--------|-------------------|
+| Li Wenxuan           | A-1    | 99.38 (± 1.2)     |
+| Liuchen Wenxuan      | A-2    | 98.84 (± 1.8)     |
+| Yutai                | A-3    | 98.52 (± 1.2)     |
+| Tangshi              | A-4    | 99.25 (± 1.8)     |
+| Beitang              | S-1    | 98.76 (± 1.8)     |
+| Bowu zhi             | S-2    | 99.18 (± 1.8)     |
+| Chuxue               | S-3    | 97.57 (± 1.7)     |
+| Erya                 | S-4    | 96.57 (± 0.4)     |
+| Maoshi shu           | S-5    | 98.42 (± 1.8)     |
+| Yiwen                | S-6    | 98.72 (± 1.7)     |
+| Zhibuzu              | S7     | 98.70 (± 1.8)     |
+| Shiwen leiju         | T-1    | 97.47 (± 4.5)     |
+| Qimin yaoshu         | T-2    | 99.35 (± 2.8)     |
+| Xinzhai              | T-3    | 97.61 (± 3.2)     |
 
-TBD
+For the reading order, we have defined a three step approach, combining a local sorting and a global sorting, achieving a 97.81% of accuracy.
+
+<figure>
+    <img src="assets/ro.jpg"/>
+</figure>
 
 ## To cite this work
 

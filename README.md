@@ -11,13 +11,13 @@ The CHI-KNOW-PO project aims to digitize a corpus of poetic anthologies, comment
     <img src="assets/dataset.jpg"/>
 </figure>
 
-## Dataset composition
+## Dataset composition (v1.1)
 
 To date, dataset contains 327 images, for a total of:
 
 * 1.248 TextRegions
 * 13.759 TextLines
-* 97.523 Glyphs
+* 104.536 Glyphs
 
 ## Images
 
@@ -57,7 +57,7 @@ Annotations have been made on the [Calfa Vision platform](https://vision.calfa.f
 
 ## Some results
 
-For HTR, we have first train a generic model with all the data, using [Calfa Vision platform](https://vision.calfa.fr), then (re)fine-tuned this generic model with the targeted manuscript. On a new test set, we get the following results:
+For HTR, we have first train a generic model with all the data, using [Calfa Vision platform](https://vision.calfa.fr), then (re)fine-tuned this generic model with the targeted manuscript. On a new in-domain test set, we get the following results:
 
 | **Manuscript**       | **N°** | **Accuracy**      |
 |-----------------------|--------|-------------------|
